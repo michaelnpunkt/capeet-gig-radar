@@ -1,1 +1,1158 @@
-{}
+{
+  "adam bomb": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "agnostic front": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "alien ant farm": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "all misery": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Death Metal"
+    ]
+  },
+  "anda morts": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "angie zach": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "assballs": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "aui zween": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "austrofred": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "aze": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "babyshambles": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "bad ida": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "baits": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "ballet": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
+  "banlieue d amour": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "baustelle": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "between bodies": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "bikini beach": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "birdfish": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "blood command": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "bonjourtropfen": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "broken by the scream": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
+  "bull nakano": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "burnswell": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "candlelight disaster": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "carpenter brut": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "chat pile": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Sludge Metal"
+    ]
+  },
+  "chorosia": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Sludge Metal"
+    ]
+  },
+  "christian fetish": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "con era": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "condemned": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "constant confusion": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "containecks": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "cutthroat": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
+  "dead end idols": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "dead meadow": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "deadends": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "deez nuts": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "deftones": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "die arzte": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "die krupps": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "discopowerboxxx": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "disharmonic orchestra": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
+  "donots": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "dowser": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "dropkick murphys": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "dynosaws": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "electric shadow": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "eric arn": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "euroteuro": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "extermination dismemberment": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "flesh remains": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "frachild": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "franz fuexe": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "gehorsturz": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "grinder": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "gush valley": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "health": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Noise Rock"
+    ]
+  },
+  "hearts hearts": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "heavy hitter": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
+  "here for a reason": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "heretical mutation": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "hidden fates": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "honestly the worst": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "horace pinker": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "horror vacui": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "hyperdog": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "ignite": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore",
+      "Hardcore Punk"
+    ]
+  },
+  "imminence": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "internal bleeding": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "isaac howlett": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "j h k": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "janis jobless": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "jose breton": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "julia effekt": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "karloff": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "kim dracula": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "kiran arora": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "krang": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Crust Punk"
+    ]
+  },
+  "kvaen": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
+  "lacrimas profundere": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
+  "lamp of murmuur": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
+  "leeta": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "less than jake": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
+  },
+  "lily the wildflowers": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "limited options": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "lisa obereder": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "lords of salem": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "los flixs": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "los tonnos": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "luca malina": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "magdalena wawra": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "maid of ace": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "malphas": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
+  "maltraxx": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "manic days": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "manul": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "marc euvrie": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "master usa cze": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "memoi": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "mephistofeles": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Stoner Metal"
+    ]
+  },
+  "ministry": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "minki mumu": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "minla": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "mira lu kovacs": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "molested divinity": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "moral bombing": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "morbyda": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
+  "morituri": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "moving as a giant": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "must be wrong": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "mutilated judge": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "mwita mataro": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "my ugly clementine": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "naga": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Sludge Metal"
+    ]
+  },
+  "nation of language": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "nonstop aggropop": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "northlane": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "outlaw bra ger": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "ovo": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Noise Rock"
+    ]
+  },
+  "pales": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "paloma 004": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "partiprivati": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "phal angst": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "pop sch": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "portia": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "psychamore": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "public serpents": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "pulley": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "punk rock factory": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "pure obsessions red nights": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "rantanplan": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
+  },
+  "rat king gone": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "reverend stomp": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "rolltreppe": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "rosa nebel": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "rosalie cunningham": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "rose tattoo": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "rotor": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "royals": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "rumkicks": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "sacs the brussel sprouts": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sakura feat manic youth": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sand fallow": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sanna lu una": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sarcoma": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "scathing": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
+  "scientifc delirium madness": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sebi": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "show me the body": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "siamese elephants": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "sierra veins": {
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "sinnthese": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "six score": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "sleeping ground": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sloow": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Doom Metal"
+    ]
+  },
+  "smorebroht": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "soapless": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "soft fokus": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sons of arrakis": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Stoner Metal"
+    ]
+  },
+  "stain the canvas": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "stick to your guns": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore"
+    ]
+  },
+  "stone leek": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "street to the ocean": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
+  "subcutaneous exsanguination": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "sugartin": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "sunde": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "swan songs": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "sweatpants party": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "taglich frisches obst": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "team scheisse": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "terror": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "the ghost inside": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "the hirsch effekt": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "the liquid stones": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "the suicide machines": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
+  },
+  "the velvet swing": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "the warped four": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "the whorehouse of nagasaki": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "tocotronic": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "total chaos": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Street Punk"
+    ]
+  },
+  "touch by touch": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "trencher": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "tv moms": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "uli sailor": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "unearth": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Death Metal"
+    ]
+  },
+  "vanthory": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "velvet rush": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "vended": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "verrat": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Crust Punk"
+    ]
+  },
+  "vio lence": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
+  "voodoo jurgens": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "war on women": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "wham bam bodyslam": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "wizo": {
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "wolfmother": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "zack zack zack": {
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
+  "zascha": {
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "zbrucz": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "zen": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  }
+}
