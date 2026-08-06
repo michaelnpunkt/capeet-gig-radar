@@ -25,6 +25,7 @@ class Settings:
     lastfm_api_key: str = ""
     lastfm_interval_seconds: float = 0.25
     lastfm_limit: int = 1200
+    location_lookup_limit: int = 50
 
     @classmethod
     def from_env(cls) -> Settings:
@@ -40,4 +41,5 @@ class Settings:
             lastfm_api_key=os.getenv("LASTFM_API_KEY", defaults.lastfm_api_key),
             lastfm_interval_seconds=float(os.getenv("LASTFM_INTERVAL_SECONDS", defaults.lastfm_interval_seconds)),
             lastfm_limit=int(os.getenv("LASTFM_LOOKUP_LIMIT", defaults.lastfm_limit)),
+            location_lookup_limit=int(os.getenv("LOCATION_LOOKUP_LIMIT", defaults.location_lookup_limit)),
         )

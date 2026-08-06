@@ -7,6 +7,7 @@ import pytest
 
 from src.guardrails import GuardrailError, validate_update
 from src.history import reconcile
+from src.models import stable_event_id
 
 
 NOW = datetime(2027, 8, 1, tzinfo=timezone.utc)
@@ -37,6 +38,19 @@ def test_missing_future_event_becomes_unlisted_not_cancelled(fixture_events):
     missing = next(event for event in events if event.id == baseline[0].id)
     assert not missing.active and missing.status != "cancelled"
     assert revisions[-1]["kind"] == "unlisted"
+
+
+def test_corrected_derived_year_preserves_existing_event_identity(fixture_events):
+    old = fixture_events[0]
+    old.event_date = old.event_date.replace(year=2026)
+    old.id = stable_event_id(old.event_date, old.artists, old.venue, old.city)
+    corrected = deepcopy(old)
+    corrected.event_date = corrected.event_date.replace(year=2027)
+    corrected.id = stable_event_id(corrected.event_date, corrected.artists, corrected.venue, corrected.city)
+    assert corrected.id != old.id
+    events, revisions = reconcile([corrected], [old], [], now=NOW)
+    assert events[0].id == old.id
+    assert revisions[0]["changes"]["event_date"] == {"from": "2026-09-01", "to": "2027-09-01"}
 
 
 def test_guardrails_minimum_drop_and_duplicates(fixture_events):

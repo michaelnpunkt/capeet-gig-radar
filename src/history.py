@@ -27,6 +27,14 @@ def match_event(event: Event, candidates: list[Event], used: set[str]) -> Event 
     direct = next((candidate for candidate in available if candidate.id == event.id), None)
     if direct:
         return direct
+    corrected_date = next((
+        candidate for candidate in available
+        if candidate.source_text == event.source_text
+        and normalize_key(candidate.venue) == normalize_key(event.venue)
+        and normalize_key(candidate.city) == normalize_key(event.city)
+    ), None)
+    if corrected_date:
+        return corrected_date
     place = next((candidate for candidate in available if candidate.event_date == event.event_date and normalize_key(candidate.venue) == normalize_key(event.venue) and normalize_key(candidate.city) == normalize_key(event.city)), None)
     if place:
         return place

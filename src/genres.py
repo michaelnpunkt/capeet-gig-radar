@@ -51,7 +51,10 @@ FAMILY_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("Electronic/Industrial", ("electronic", "electronica", "techno", "synthpop", "industrial")),
     ("Alternative/Indie", ("alternative", "indie", "emo", "grunge")),
     ("Rock", ("rock", "hard rock", "garage rock", "psychedelic rock", "stoner rock")),
+    ("Sonstiges", ("hip hop", "hip-hop", "rap", "jazz", "folk", "country", "pop", "blues", "soul", "funk", "reggae", "ska", "classical", "experimental")),
 )
+
+CLASSIFIER_VERSION = 2
 
 
 def _tag_name(value: dict[str, Any]) -> str:
@@ -177,7 +180,14 @@ def _cache_value(genre: Genre) -> dict[str, Any]:
         "family": genre.family,
         "subgenres": genre.subgenres,
         "source": genre.source,
+        "classifier_version": CLASSIFIER_VERSION,
     }
+
+
+def _usable_cache_value(value: Any) -> bool:
+    if not isinstance(value, dict) or value.get("source") not in {"lastfm", "unclassified"}:
+        return False
+    return value.get("family") != "Unklassifiziert" or value.get("classifier_version") == CLASSIFIER_VERSION
 
 
 def uncached_artist_count(events: list[Event], overrides_path: Path, cache_path: Path) -> int:
@@ -186,7 +196,7 @@ def uncached_artist_count(events: list[Event], overrides_path: Path, cache_path:
     cache = {
         normalize_key(key)
         for key, value in cache_data.items()
-        if isinstance(value, dict) and value.get("source") in {"lastfm", "unclassified"}
+        if _usable_cache_value(value)
     }
     artists = {normalize_key(artist.name) for event in events for artist in event.artists}
     return len({key for key in artists if key and key not in overrides and key not in cache})
@@ -212,7 +222,7 @@ def apply_genres(
                 continue
             if key in overrides:
                 genre = _coerce(overrides[key], "override")
-            elif key in cache and isinstance(cache[key], dict) and cache[key].get("source") in {"lastfm", "unclassified"}:
+            elif key in cache and _usable_cache_value(cache[key]):
                 genre = _coerce(cache[key], "cache")
             elif client is not None and lookups < max_lookups:
                 genre = client.lookup(artist.name)

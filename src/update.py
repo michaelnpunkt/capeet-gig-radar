@@ -10,8 +10,8 @@ from .fetch import FetchResult, fetch_text
 from .genres import LastFmClient, apply_genres, uncached_artist_count
 from .guardrails import validate_update
 from .history import reconcile
-from .locations import apply_locations
-from .models import Event
+from .locations import CITY_STATES, LocationLookupClient, apply_locations
+from .models import Event, normalize_key
 from .parser import parse_events
 from .persistence import atomic_write_json, load_json
 from .site import generate_site
@@ -32,12 +32,22 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
         if fetch_result.status_code == 304:
             if not settings.output_dir.joinpath("index.html").exists():
                 raise RuntimeError("HTTP 304 ohne vorhandene Pages-Ausgabe")
+            location_cache = load_json(settings.data_dir / "location-cache.json", {})
+            pending_locations = any(
+                event.state == "Unbekannt"
+                and (
+                    normalize_key(event.city) in CITY_STATES
+                    or normalize_key(event.city) not in location_cache
+                )
+                for event in previous
+            )
             pending_genres = uncached_artist_count(
                 previous,
                 settings.data_dir / "genre-overrides.json",
                 settings.data_dir / "genre-cache.json",
             )
-            if not use_lastfm or not settings.lastfm_api_key or pending_genres == 0:
+            genre_lookup_available = use_lastfm and settings.lastfm_api_key and pending_genres > 0
+            if not pending_locations and not genre_lookup_available:
                 print("Unverändert: HTTP 304; vorhandene docs werden veröffentlicht")
                 return 0
             current = previous
@@ -45,7 +55,14 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
             current = parse_events(fetch_result.content or "", settings.source_url)
     else:
         current = parse_events(input_path.read_text(encoding="utf-8"), settings.source_url)
-    apply_locations(current, settings.data_dir / "location-overrides.json")
+    location_cache_path = settings.data_dir / "location-cache.json"
+    location_cache = apply_locations(
+        current,
+        settings.data_dir / "location-overrides.json",
+        location_cache_path,
+        LocationLookupClient(settings.user_agent) if input_path is None else None,
+        max_lookups=settings.location_lookup_limit,
+    )
     client = None
     if use_lastfm and settings.lastfm_api_key:
         client = LastFmClient(settings.lastfm_api_key, settings.user_agent, settings.lastfm_interval_seconds)
@@ -70,6 +87,7 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
     atomic_write_json(events_path, [event.to_dict() for event in events])
     atomic_write_json(revisions_path, revisions)
     atomic_write_json(settings.data_dir / "genre-cache.json", genre_cache)
+    atomic_write_json(location_cache_path, location_cache)
     if fetch_result:
         atomic_write_json(source_state_path, source_state)
     print(f"Aktualisiert: {len(events)} Veranstaltungen, {len(revisions)} Revisionen")

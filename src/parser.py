@@ -16,7 +16,8 @@ class ParseError(ValueError):
 
 DATE_START = re.compile(r"^\s*(?P<day>\d{1,2})\.(?P<month>\d{1,2})\.\s*:\s*")
 YEAR = re.compile(r"\b(20\d{2})\b")
-COUNTRY = re.compile(r"\s*\(([A-Z]{1,3})\)\s*$", re.I)
+YEAR_LINE = re.compile(r"^\s*\[?(20\d{2})\]?\s*:?\s*$")
+COUNTRY = re.compile(r"\s*\(([A-Z]{1,3}(?:/[A-Z]{1,3})*)\)\s*$", re.I)
 ARTIST_SEPARATOR = re.compile(r"\s+(?:/|\+)\s+")
 POSTAL_CITY = re.compile(r"(?:^|[,;/]\s*)?(?P<postal>\d{4})\s+(?P<city>[^,;/]+)\s*$")
 CANCELLED = ("abgesagt", "abges.", "cancelled", "canceled", "entfällt", "entfaellt")
@@ -158,7 +159,8 @@ def _parse_location(tokens: list[Token], source_location: str | None = None) -> 
     if postal:
         venue = text[:postal.start()].strip(" ,;/|-–—")
         return venue, normalize_text(postal.group("city")).strip(" ,;/|-–—"), postal.group("postal")
-    parts = [normalize_text(part) for part in re.split(r"\s*(?:,|/|;)\s*", text) if normalize_text(part)]
+    separator = r"\s*(?:,|;)\s*" if re.search(r"[,;]", text) else r"\s*/\s*"
+    parts = [normalize_text(part) for part in re.split(separator, text) if normalize_text(part)]
     if len(parts) < 2:
         raise ParseError(f"Ort unvollständig: {text!r}")
     return " / ".join(parts[:-1]), parts[-1], None
@@ -197,9 +199,14 @@ def parse_events(html: str, base_url: str) -> list[Event]:
     prior_month: int | None = None
     for heading_year, tokens in _lines(html, base_url):
         text = normalize_text("".join(token.text for token in tokens))
+        year_marker = YEAR_LINE.match(text)
+        if year_marker:
+            current_year = int(year_marker.group(1))
+            prior_month = None
+            continue
         if not DATE_START.match(text):
             continue
-        if heading_year is not None and heading_year != current_year:
+        if heading_year is not None and (current_year is None or heading_year > current_year):
             current_year, prior_month = heading_year, None
         if current_year is None:
             errors.append("Jahresüberschrift fehlt")
