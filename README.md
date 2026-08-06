@@ -1,6 +1,8 @@
-# Capeet Gig Radar Österreich
+# Mosh Pit Crew Gig Radar
 
-Inoffizieller Filter und Neueinträge-Feed für die Capeet-Gigliste. GitHub Actions ruft die Quelle täglich ab, normalisiert die alte `<br>`-basierte HTML-Struktur, historisiert Änderungen und veröffentlicht Website sowie RSS vollständig statisch über GitHub Pages. Es gibt keinen Server, keine Datenbank, keine Secrets und keine kostenpflichtige API.
+Inoffizieller Filter und Neueinträge-Feed für die österreichische [Capeet-Gigliste](https://www.capeet.com/gigs_list.html). GitHub Actions ruft die Quelle bewusst nur einmal täglich ab, normalisiert die alte `<br>`-basierte HTML-Struktur, historisiert Änderungen und schreibt Website sowie RSS vollständig statisch nach `docs/`.
+
+Der Betrieb benötigt keinen Server, keine Datenbank, kein lokales Hosting und keine kostenpflichtige API. Ein kostenloser Last.fm-API-Key wird ausschließlich als verschlüsseltes GitHub-Actions-Secret verwendet.
 
 - Website: <https://michaelnpunkt.github.io/capeet-gig-radar/>
 - Repository: <https://github.com/michaelnpunkt/capeet-gig-radar>
@@ -9,31 +11,25 @@ Inoffizieller Filter und Neueinträge-Feed für die Capeet-Gigliste. GitHub Acti
 
 ## Architektur
 
-`src/fetch.py` führt bedingte HTTP-Abrufe aus. `src/parser.py` zerlegt tolerantes HTML an `<br>`-Tags. Orts- und Genre-Enrichment folgen in `src/locations.py` und `src/genres.py`; `src/history.py` hält stabile Identitäten und Revisionen. `src/site.py` und `src/feeds.py` erzeugen ausschließlich Dateien in `docs/`. Persistenter Zustand liegt als versioniertes JSON in `data/`.
+- `src/fetch.py` führt bedingte HTTP-Abrufe mit ETag und Last-Modified aus.
+- `src/parser.py` zerlegt das tolerante, alte Capeet-HTML an `<br>`-Tags.
+- `src/locations.py` ordnet österreichische Orte und Postleitzahlen Bundesländern zu.
+- `src/genres.py` klassifiziert jeden Künstler über Last.fm-Tags und einen permanenten Cache.
+- `src/history.py` hält stabile Eventidentitäten, Baseline, Revisionen und verschwundene Einträge nach.
+- `src/site.py` und `src/feeds.py` erzeugen ausschließlich statische Dateien unter `docs/`.
+- Persistenter Zustand liegt als versioniertes JSON unter `data/`.
+- GitHub Pages veröffentlicht direkt den Ordner `docs/` aus dem Branch `main`.
 
 ## Datenquelle und Betrieb
 
 - Quelle: <https://www.capeet.com/gigs_list.html>
 - Ausgabe: `docs/` für GitHub Pages; lokal muss nichts installiert oder gehostet werden.
-- Aktualisierung: täglich um 04:17 UTC, manuell oder bei relevanten Änderungen auf `main`.
+- Aktualisierung: genau einmal täglich um 04:17 UTC sowie optional manuell über `workflow_dispatch`.
 - HTTP: transparenter User-Agent sowie bedingte Requests mit ETag und Last-Modified aus `data/source-state.json`.
+- HTTP 304: Bei unveränderter Quelle bleibt die bestehende Website erhalten; ausstehende Last.fm-Klassifizierungen können trotzdem ergänzt werden.
 - Sicherheit: 0 Events, weniger als 20 Events oder ein Rückgang über 40 Prozent brechen den Lauf ab.
 
 Der Cron-Zeitpunkt entspricht im Winter 05:17 Uhr und im Sommer 06:17 Uhr in `Europe/Vienna`.
-
-## Lokales Setup (optional)
-
-Voraussetzung ist Python 3.12.
-
-```zsh
-python3.12 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements-dev.txt
-python -m pytest
-MINIMUM_EVENTS=20 python -m src.update --input tests/fixtures/events.html
-```
-
-Ohne `--input` wird die Live-Quelle abgerufen. `--dry-run` schreibt nichts. Für den normalen Betrieb ist ausschließlich der GitHub-Workflow nötig; er kann im Actions-Tab über **Run workflow** manuell gestartet werden.
 
 ## Genre-Klassifizierung mit Last.fm
 
@@ -44,7 +40,9 @@ Capeet liefert nur Künstlernamen. Der Workflow fragt deshalb für bisher unbeka
 3. Name `LASTFM_API_KEY` und den API-Key als Wert eintragen.
 4. Unter **Actions → Update gig radar → Run workflow** den Lauf manuell starten.
 
-Der Workflow verarbeitet pro Lauf höchstens 1.200 neue Künstler mit vier Anfragen pro Sekunde. Bei HTTP 304 läuft ausschließlich noch ausstehende Genre-Anreicherung weiter; sobald alle Künstler gecacht sind, entstehen keine unnötigen Änderungen. Jeder Act eines Line-ups wird separat und dauerhaft in `data/genre-cache.json` gespeichert. Für die Eventkarte bestimmt der zuerst gelistete Act die Genre-Familie. Spezifische Tags wie `deathcore`, `street punk` oder `post-hardcore` werden vor breiten Tags wie `metal`, `punk` oder `rock` ausgewertet.
+Der Workflow verarbeitet pro Lauf höchstens 1.200 neue Künstler mit höchstens vier Anfragen pro Sekunde. Bei HTTP 304 läuft ausschließlich noch ausstehende Genre-Anreicherung weiter; sobald alle Künstler gecacht sind, entstehen keine unnötigen Änderungen. Jeder Act eines Line-ups wird separat und dauerhaft in `data/genre-cache.json` gespeichert. Für die Eventkarte bestimmt der zuerst gelistete Act die Genre-Familie. Spezifische Tags wie `deathcore`, `street punk` oder `post-hardcore` werden vor breiten Tags wie `metal`, `punk` oder `rock` ausgewertet.
+
+Temporäre Last.fm-Fehler werden nicht dauerhaft gecacht. Bei gleichnamigen Künstlern kann `data/genre-overrides.json` eine falsche Zuordnung jederzeit korrigieren.
 
 ## JSON-Schema
 
@@ -62,11 +60,28 @@ Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schl�
 
 ## Feeds und Oberfläche
 
-`docs/feed.xml` enthält höchstens 100 neue oder geänderte Einträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Ausgangsbestand wird nicht als neu gemeldet. Die Oberfläche unterstützt Bundesland- und Genre-Mehrfachauswahl, Volltextsuche, Statusfilter, vier Sortierungen, URL-Parameter und lokale Einstellungen.
+`docs/feed.xml` enthält höchstens 100 neue oder geänderte Einträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Der Ausgangsbestand wird nicht als neu gemeldet.
+
+Die responsive Oberfläche bietet:
+
+- Bundesland- und Genre-Mehrfachauswahl
+- Volltextsuche über Künstler, Titel, Venue und Ort
+- Monatsfilter und Zeiträume für die kommenden 7, 14, 30, 60 oder 90 Tage
+- standardmäßig ausgeblendete vergangene Gigs
+- optionale Anzeige abgesagter sowie neuer oder geänderter Events
+- Sortierung nach Entdeckung, letzter Änderung und Konzertdatum
+- verständliche Hilfetexte zu Historie und Sortierungen
+- teilbare URL-Parameter und ergänzende Speicherung im Browser
+- direkte Links zur Capeet-Originalquelle sowie zum Gesamt- und zu den Bundesland-Feeds
+- responsives, kontrastreiches Metalcore-Design ohne Tracking, Werbung oder Cookies
+
+## Deployment
+
+Der Workflow in `.github/workflows/update.yml` führt Tests und Update aus und committet tatsächliche Änderungen in `data/` und `docs/`. GitHub Pages veröffentlicht anschließend direkt `main:/docs`. Dadurch bleibt die Website auch bei einem HTTP-304-Abruf deploybar, ohne einen leeren Daten-Commit zu erzeugen.
 
 ## Grenzen und Kosten
 
-Capeet stellt weder Eintragungszeitpunkte noch stabile IDs bereit. Matching und Genres sind deshalb konservativ; `Unbekannt` und `Unklassifiziert` sind absichtliche Diagnosewerte. Entfernte zukünftige Events werden als nicht mehr gelistet, nicht automatisch als abgesagt markiert. Die Originalseite bleibt maßgeblich.
+Capeet stellt weder Eintragungszeitpunkte noch stabile IDs bereit. Matching und Genres sind deshalb konservativ; `Unbekannt` und `Unklassifiziert` sind absichtliche Diagnosewerte. Entfernte zukünftige Events werden als „nicht mehr gelistet“, nicht automatisch als abgesagt markiert. Die Originalseite bleibt maßgeblich.
 
 Ein öffentliches Repository, Standard-GitHub-Actions-Minuten und GitHub Pages sind für dieses Projekt im üblichen kostenlosen GitHub-Rahmen nutzbar. Es werden keine Werbung, Analytics, Cookies oder Tracking eingesetzt.
 
