@@ -24,7 +24,7 @@ class Settings:
     feed_limit: int = 100
     lastfm_api_key: str = ""
     lastfm_interval_seconds: float = 0.25
-    lastfm_limit: int = 200
+    lastfm_limit: int = 1200
 
     @classmethod
     def from_env(cls) -> Settings:

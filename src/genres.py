@@ -198,7 +198,7 @@ def apply_genres(
     cache_path: Path,
     client: LastFmClient | None = None,
     *,
-    max_lookups: int = 200,
+    max_lookups: int = 1200,
 ) -> dict[str, Any]:
     overrides = {normalize_key(key): value for key, value in load_json(overrides_path, {}).items()}
     cache: dict[str, Any] = load_json(cache_path, {})

@@ -44,7 +44,7 @@ Capeet liefert nur Künstlernamen. Der Workflow fragt deshalb für bisher unbeka
 3. Name `LASTFM_API_KEY` und den API-Key als Wert eintragen.
 4. Unter **Actions → Update gig radar → Run workflow** den Lauf manuell starten.
 
-Der Workflow verarbeitet pro Lauf höchstens 200 neue Künstler mit vier Anfragen pro Sekunde. Bei HTTP 304 läuft ausschließlich noch ausstehende Genre-Anreicherung weiter; sobald alle Künstler gecacht sind, entstehen keine unnötigen Änderungen. Jeder Act eines Line-ups wird separat und dauerhaft in `data/genre-cache.json` gespeichert. Für die Eventkarte bestimmt der zuerst gelistete Act die Genre-Familie. Spezifische Tags wie `deathcore`, `street punk` oder `post-hardcore` werden vor breiten Tags wie `metal`, `punk` oder `rock` ausgewertet.
+Der Workflow verarbeitet pro Lauf höchstens 1.200 neue Künstler mit vier Anfragen pro Sekunde. Bei HTTP 304 läuft ausschließlich noch ausstehende Genre-Anreicherung weiter; sobald alle Künstler gecacht sind, entstehen keine unnötigen Änderungen. Jeder Act eines Line-ups wird separat und dauerhaft in `data/genre-cache.json` gespeichert. Für die Eventkarte bestimmt der zuerst gelistete Act die Genre-Familie. Spezifische Tags wie `deathcore`, `street punk` oder `post-hardcore` werden vor breiten Tags wie `metal`, `punk` oder `rock` ausgewertet.
 
 ## JSON-Schema
 
