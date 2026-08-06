@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Capeet Gig Radar – Neu in Vorarlberg</title>
+    <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
+    <description>Neue und geänderte Capeet-Konzerte in Österreich</description>
+    <language>de-AT</language>
+    <lastBuildDate>Thu, 06 Aug 2026 10:41:58 +0000</lastBuildDate>
+    <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

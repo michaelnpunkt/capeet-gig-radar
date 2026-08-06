@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Aktuelle Capeet-Konzerte in Österreich, unabhängig aufbereitet und filterbar.">
+<title>Capeet Gig Radar Österreich</title>
+<link rel="alternate" type="application/rss+xml" title="Alle Neuigkeiten" href="feed.xml">
+<link rel="stylesheet" href="assets/styles.css"><script src="assets/app.js" defer></script></head>
+<body><a class="skip" href="#results">Zu den Ergebnissen</a>
+<header><p class="eyebrow">Unabhängige Konzertübersicht</p><h1>Capeet Gig Radar Österreich</h1><p class="subtitle">Inoffizieller Filter und Neueinträge-Feed für die Capeet-Gigliste</p></header>
+<main><section class="controls" aria-labelledby="filter-heading"><h2 id="filter-heading">Termine filtern</h2>
+<label class="search">Volltextsuche <input id="search" type="search" placeholder="Künstler, Titel, Venue oder Ort" autocomplete="off"></label>
+<fieldset><legend>Bundesländer</legend><div class="quick"><button type="button" data-states="all">Alle</button><button type="button" data-states="none">Keine</button><button type="button" data-states="vienna">Nur Wien</button></div><div id="states" class="checks"></div></fieldset>
+<fieldset><legend>Genres</legend><div id="genres" class="checks"></div></fieldset>
+<div class="options"><label><input id="cancelled" type="checkbox"> Abgesagte anzeigen</label><label><input id="changes" type="checkbox"> Nur neu/geändert</label>
+<label>Sortierung <select id="sort"><option value="discovered-desc">Zuletzt bei Capeet entdeckt</option><option value="changed-desc">Zuletzt geändert</option><option value="date-asc">Konzertdatum aufsteigend</option><option value="date-desc">Konzertdatum absteigend</option></select></label><button id="reset" type="button">Zurücksetzen</button></div></section>
+<p id="count" class="count" role="status" aria-live="polite">Termine werden geladen …</p><section id="results" class="cards" aria-label="Konzerte"></section>
+<noscript>Die filterbare Liste benötigt JavaScript. Änderungen stehen auch im <a href="feed.xml">RSS-Feed</a>.</noscript></main>
+<footer><p id="metadata">Datenstand wird geladen …</p><p class="feeds"><a href="feed.xml">RSS: alle Neuigkeiten</a></p><p id="selected-feeds" class="feeds" aria-label="RSS-Feeds der ausgewählten Bundesländer"></p>
+<p>Quelle: <a href="https://www.capeet.com/gigs_list.html" rel="noopener noreferrer">Original-Gigliste von Capeet</a>. Unabhängiges Projekt, keine offizielle Capeet-Seite. Angaben ohne Gewähr.</p></footer></body></html>

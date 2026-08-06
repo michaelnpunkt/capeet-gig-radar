@@ -1,0 +1,14 @@
+[project]
+name = "capeet-gig-radar"
+version = "1.0.0"
+description = "GitHub Pages concert radar generated from Capeet's gig list"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4==4.13.4",
+  "html5lib==1.1",
+  "requests==2.32.4",
+]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

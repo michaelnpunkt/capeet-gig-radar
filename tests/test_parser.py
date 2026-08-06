@@ -1,0 +1,40 @@
+from __future__ import annotations
+
+import pytest
+
+from src.parser import ParseError, parse_events
+
+
+def test_br_parser_extracts_vienna_lineup_links_label_and_entities(fixture_path):
+    events = parse_events(fixture_path.read_text(encoding="utf-8"), "https://www.capeet.com/gigs_list.html")
+    assert len(events) == 20
+    first = events[0]
+    assert first.event_date.isoformat() == "2027-09-01"
+    assert [artist.name for artist in first.artists] == ["Ätherklang", "Echo"]
+    assert first.artists[0].country == "AT"
+    assert first.artists[0].link == "https://artists.example/a"
+    assert first.venue == "Flex"
+    assert first.city == "Wien" and first.postal_code == "1010"
+    assert events[1].title == "Donauinselfest"
+    assert events[1].venue == "Arena Wien"
+    assert events[-1].venue == "Porgy & Bess"
+
+
+def test_cancellation_red_text_and_year_rollover(fixture_path):
+    events = parse_events(fixture_path.read_text(encoding="utf-8"), "https://www.capeet.com/gigs_list.html")
+    cancelled = next(event for event in events if event.headliner == "Delta")
+    assert cancelled.status == "cancelled"
+    assert events[-2].event_date.isoformat() == "2027-12-19"
+    assert events[-1].event_date.isoformat() == "2028-01-02"
+
+
+@pytest.mark.parametrize("html", ["", "<h2>Gigs 2027</h2>01.09.: ohne Struktur<br>"])
+def test_empty_or_invalid_source_fails(html):
+    with pytest.raises(ParseError, match="Keine gültigen"):
+        parse_events(html, "https://www.capeet.com/gigs_list.html")
+
+
+def test_unsafe_link_is_discarded_not_rendered():
+    html = '<h2>Gigs 2027</h2>01.09.: <a href="javascript:alert(1)"><b>Band</b></a> @ <i>Club</i>, 1010 Wien<br>'
+    event = parse_events(html, "https://www.capeet.com/gigs_list.html")[0]
+    assert event.artists[0].link is None
