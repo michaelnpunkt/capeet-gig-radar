@@ -30,11 +30,19 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     generate_site(baseline, [], output, "https://site.example", now)
     html = (output / "index.html").read_text()
     script = (output / "assets/app.js").read_text()
+    styles = (output / "assets/styles.css").read_text()
     data = json.loads((output / "data/gigs.json").read_text())
-    assert "Capeet Gig Radar Österreich" in html and "Inoffizieller Filter" in html
-    assert "data-states=\"all\"" in html and "Nur Wien" in html
+    assert "Moship Crew" in html and "Big shout-out to" in html
+    assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html
+    assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
+    assert "Abruf: 1× täglich" in html and "Capeet Original" in html
+    assert "data-states=\"all\"" in html and "Nur Wien" not in html
+    assert 'id="month"' in html and 'id="days"' in html
+    assert "Capeet entdeckt" in html and "jüngste erkannte Revision" in html
     assert "changed-desc" in html and "date-asc" in html and "date-desc" in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
+    assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
+    assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
     for feed in output.glob("**/*.xml"):
         ET.parse(feed)
