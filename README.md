@@ -35,6 +35,17 @@ MINIMUM_EVENTS=20 python -m src.update --input tests/fixtures/events.html
 
 Ohne `--input` wird die Live-Quelle abgerufen. `--dry-run` schreibt nichts. Für den normalen Betrieb ist ausschließlich der GitHub-Workflow nötig; er kann im Actions-Tab über **Run workflow** manuell gestartet werden.
 
+## Genre-Klassifizierung mit Last.fm
+
+Capeet liefert nur Künstlernamen. Der Workflow fragt deshalb für bisher unbekannte Künstler die Community-Tags von Last.fm ab. Last.fm benötigt einen kostenlosen API-Key, aber weder OAuth noch einen Login im Workflow. Der Key wird ausschließlich als Repository-Secret `LASTFM_API_KEY` gespeichert und erscheint weder im Code noch in den generierten Dateien.
+
+1. Auf <https://www.last.fm/api/account/create> einen kostenlosen API-Key erstellen.
+2. Im Repository **Settings → Secrets and variables → Actions → New repository secret** öffnen.
+3. Name `LASTFM_API_KEY` und den API-Key als Wert eintragen.
+4. Unter **Actions → Update gig radar → Run workflow** den Lauf manuell starten.
+
+Der Workflow verarbeitet pro Lauf höchstens 200 neue Künstler mit vier Anfragen pro Sekunde. Bei HTTP 304 läuft ausschließlich noch ausstehende Genre-Anreicherung weiter; sobald alle Künstler gecacht sind, entstehen keine unnötigen Änderungen. Jeder Act eines Line-ups wird separat und dauerhaft in `data/genre-cache.json` gespeichert. Für die Eventkarte bestimmt der zuerst gelistete Act die Genre-Familie. Spezifische Tags wie `deathcore`, `street punk` oder `post-hardcore` werden vor breiten Tags wie `metal`, `punk` oder `rock` ausgewertet.
+
 ## JSON-Schema
 
 Jeder Eintrag in `data/events.json` enthält `id`, `event_date`, `artists`, `title`, `venue`, `city`, `state`, `postal_code`, `status`, `links`, `source_text`, `first_seen_at`, `last_seen_at`, `changed_at`, `revision`, `baseline`, `active` und `genre`. Künstler bestehen aus `name`, optionalem `country` und optionalem `link`. `genre` enthält `family`, höchstens drei `subgenres` und `source`.
@@ -47,9 +58,7 @@ Jeder Eintrag in `data/events.json` enthält `id`, `event_date`, `artists`, `tit
 - `data/genre-overrides.json` und `data/genre-cache.json`: manuelle und gecachte Genrezuordnung
 - `data/location-overrides.json`: manuelle Orts- und Bundeslandzuordnung
 
-Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schlüssel. Genrewerte können eine Familie als String oder `{ "family": "Metal", "subgenres": ["Doom Metal"] }` sein. Ortswerte können ein Bundesland als String oder ein Objekt mit `venue`, `city`, `postal_code` und `state` sein. Overrides haben Vorrang; unklare Orte bleiben bewusst `Unbekannt`.
-
-MusicBrainz benötigt keinen API-Key. Der Workflow fragt höchstens 25 neue Künstler pro Lauf mit mindestens einer Sekunde Abstand ab, akzeptiert nur sehr sichere Treffer und speichert Resultate dauerhaft in `data/genre-cache.json`.
+Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schlüssel. Genrewerte können eine Familie als String oder `{ "family": "Metal", "subgenres": ["Doom Metal"] }` sein. Ortswerte können ein Bundesland als String oder ein Objekt mit `venue`, `city`, `postal_code` und `state` sein. Genre-Overrides haben immer Vorrang vor Last.fm und dem Cache; unklare Orte bleiben bewusst `Unbekannt`. Temporäre Last.fm-Fehler werden nicht gecacht und beim nächsten Lauf erneut versucht.
 
 ## Feeds und Oberfläche
 

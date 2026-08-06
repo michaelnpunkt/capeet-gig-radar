@@ -16,7 +16,8 @@ class ParseError(ValueError):
 
 DATE_START = re.compile(r"^\s*(?P<day>\d{1,2})\.(?P<month>\d{1,2})\.\s*:\s*")
 YEAR = re.compile(r"\b(20\d{2})\b")
-COUNTRY = re.compile(r"\s*\(([A-Z]{2,3})\)\s*$")
+COUNTRY = re.compile(r"\s*\(([A-Z]{1,3})\)\s*$", re.I)
+ARTIST_SEPARATOR = re.compile(r"\s+(?:/|\+)\s+")
 POSTAL_CITY = re.compile(r"(?:^|[,;/]\s*)?(?P<postal>\d{4})\s+(?P<city>[^,;/]+)\s*$")
 CANCELLED = ("abgesagt", "abges.", "cancelled", "canceled", "entfällt", "entfaellt")
 POSTPONED = ("verschoben", "verlegt", "postponed")
@@ -128,11 +129,22 @@ def _artists(tokens: list[Token]) -> list[Artist]:
     if current:
         groups.append(current)
     for group in groups:
-        raw = normalize_text("".join(token.text for token in group)).strip(" ,+&/")
-        country_match = COUNTRY.search(raw)
-        name = COUNTRY.sub("", raw).strip(" ,+&/")
-        if name:
-            artists.append(Artist(name, country_match.group(1) if country_match else None, next((token.href for token in group if token.href), None)))
+        segments: list[list[Token]] = [[]]
+        for token in group:
+            parts = ARTIST_SEPARATOR.split(token.text)
+            separators = list(ARTIST_SEPARATOR.finditer(token.text))
+            for index, part in enumerate(parts):
+                if part:
+                    segments[-1].append(Token(part, token.bold, token.italic, token.href, token.red))
+                if index < len(separators):
+                    segments.append([])
+        for segment in segments:
+            raw = normalize_text("".join(token.text for token in segment)).strip(" ,+&/")
+            country_match = COUNTRY.search(raw)
+            name = COUNTRY.sub("", raw).strip(" ,+&/")
+            if name:
+                country = country_match.group(1).upper() if country_match else None
+                artists.append(Artist(name, country, next((token.href for token in segment if token.href), None)))
     return artists
 
 

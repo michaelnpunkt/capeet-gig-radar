@@ -38,3 +38,15 @@ def test_unsafe_link_is_discarded_not_rendered():
     html = '<h2>Gigs 2027</h2>01.09.: <a href="javascript:alert(1)"><b>Band</b></a> @ <i>Club</i>, 1010 Wien<br>'
     event = parse_events(html, "https://www.capeet.com/gigs_list.html")[0]
     assert event.artists[0].link is None
+
+
+def test_single_bold_lineup_splits_artists_and_lowercase_countries():
+    html = '<h2>Gigs 2027</h2>01.09.: <b><a href="/a">Alpha (at)</a> / <a href="/b">Beta (d)</a> + Gamma</b> @ <i>Club</i>, 1010 Wien<br>'
+    event = parse_events(html, "https://www.capeet.com/gigs_list.html")[0]
+    assert [(artist.name, artist.country) for artist in event.artists] == [
+        ("Alpha", "AT"),
+        ("Beta", "D"),
+        ("Gamma", None),
+    ]
+    assert event.artists[0].link == "https://www.capeet.com/a"
+    assert event.artists[1].link == "https://www.capeet.com/b"

@@ -22,8 +22,9 @@ class Settings:
     past_event_retention_days: int = 120
     feed_days: int = 90
     feed_limit: int = 100
-    musicbrainz_interval_seconds: float = 1.0
-    musicbrainz_limit: int = 25
+    lastfm_api_key: str = ""
+    lastfm_interval_seconds: float = 0.25
+    lastfm_limit: int = 200
 
     @classmethod
     def from_env(cls) -> Settings:
@@ -36,4 +37,7 @@ class Settings:
             output_dir=Path(os.getenv("OUTPUT_DIR", defaults.output_dir)),
             minimum_events=int(os.getenv("MINIMUM_EVENTS", defaults.minimum_events)),
             maximum_drop_ratio=float(os.getenv("MAXIMUM_DROP_RATIO", defaults.maximum_drop_ratio)),
+            lastfm_api_key=os.getenv("LASTFM_API_KEY", defaults.lastfm_api_key),
+            lastfm_interval_seconds=float(os.getenv("LASTFM_INTERVAL_SECONDS", defaults.lastfm_interval_seconds)),
+            lastfm_limit=int(os.getenv("LASTFM_LOOKUP_LIMIT", defaults.lastfm_limit)),
         )
