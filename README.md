@@ -5,6 +5,7 @@ Inoffizieller Filter und Neueinträge-Feed für die österreichische [Capeet-Gig
 Der Betrieb benötigt keinen Server, keine Datenbank, kein lokales Hosting und keine kostenpflichtige API. Ein kostenloser Last.fm-API-Key wird ausschließlich als verschlüsseltes GitHub-Actions-Secret verwendet.
 
 - Website: <https://michaelnpunkt.github.io/capeet-gig-radar/>
+- Changelog: <https://michaelnpunkt.github.io/capeet-gig-radar/changes.html>
 - Repository: <https://github.com/michaelnpunkt/capeet-gig-radar>
 - Gesamtfeed: <https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml>
 - Wien-Feed: <https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml>
@@ -51,16 +52,18 @@ Jeder Eintrag in `data/events.json` enthält `id`, `event_date`, `artists`, `tit
 ## Persistente Dateien
 
 - `data/events.json`: aktueller und 120 Tage zurückreichender Eventbestand
-- `data/revisions.json`: Änderungen für die Neuigkeiten-Feeds
+- `data/revisions.json`: bis zu 730 Tage aufbewahrte Änderungen für Changelog und Neuigkeiten-Feeds
 - `data/source-state.json`: ETag und Last-Modified, erst nach erfolgreicher Veröffentlichung geschrieben
 - `data/genre-overrides.json` und `data/genre-cache.json`: manuelle und gecachte Genrezuordnung
-- `data/location-overrides.json`: manuelle Orts- und Bundeslandzuordnung
+- `data/location-overrides.json` und `data/location-cache.json`: manuelle und über OpenStreetMap gecachte Ortszuordnung
 
 Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schlüssel. Genrewerte können eine Familie als String oder `{ "family": "Metal", "subgenres": ["Doom Metal"] }` sein. Ortswerte können ein Bundesland als String oder ein Objekt mit `venue`, `city`, `postal_code` und `state` sein. Genre-Overrides haben immer Vorrang vor Last.fm und dem Cache; unklare Orte bleiben bewusst `Unbekannt`. Temporäre Last.fm-Fehler werden nicht gecacht und beim nächsten Lauf erneut versucht.
 
 ## Feeds und Oberfläche
 
-`docs/feed.xml` enthält höchstens 100 neue oder geänderte Einträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Der Ausgangsbestand wird nicht als neu gemeldet.
+`docs/changes.html` zeigt die Änderungschronik mit Filtern für 7, 30 oder 90 Tage beziehungsweise die gesamte verfügbare Historie, Bundesland und Änderungstyp. Erfasst werden neue und geänderte Termine, Absagen, Verschiebungen, Wiederlistungen sowie zukünftige Events, die bei Capeet nicht mehr gelistet sind. Änderungen zeigen verständliche Vorher-/Nachher-Werte. Der beim ersten Import übernommene Ausgangsbestand wird nicht künstlich als neu gemeldet; spätere Änderungen an diesen Events erscheinen jedoch normal im Changelog.
+
+`docs/feed.xml` enthält höchstens 100 Chronikeinträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Jede Revision hat eine eigene stabile GUID und verlinkt direkt auf ihren Eintrag im Changelog. Dadurch zeigen Feedreader spätere Änderungen als neue Meldung und ersetzen nicht still den ursprünglichen Eintrag.
 
 Die responsive Oberfläche bietet:
 
@@ -73,6 +76,7 @@ Die responsive Oberfläche bietet:
 - verständliche Hilfetexte zu Historie und Sortierungen
 - teilbare URL-Parameter und ergänzende Speicherung im Browser
 - direkte Links zur Capeet-Originalquelle sowie zum Gesamt- und zu den Bundesland-Feeds
+- eigene responsive Changelog-Seite für Besucher, die nicht täglich nachsehen
 - responsives, kontrastreiches Metalcore-Design ohne Tracking, Werbung oder Cookies
 
 ## Deployment

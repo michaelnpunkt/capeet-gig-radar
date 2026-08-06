@@ -32,8 +32,9 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     script = (output / "assets/app.js").read_text()
     styles = (output / "assets/styles.css").read_text()
     data = json.loads((output / "data/gigs.json").read_text())
+    changes_data = json.loads((output / "data/changes.json").read_text())
     assert "Mosh Pit Crew" in html and "Big shout-out to" in html
-    assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html
+    assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html and "changes.html" in html
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
     assert "data-states=\"all\"" in html and "Nur Wien" not in html
@@ -46,6 +47,12 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "past.checked" in script
     assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
+    assert changes_data["revisions"] == []
+    changes_html = (output / "changes.html").read_text()
+    assert "Gig<br>" in changes_html and "<span>Changelog</span>" in changes_html
+    changes_script = (output / "assets/changes.js").read_text()
+    assert "innerHTML" not in changes_script and "textContent" in changes_script
+    assert "change-days" in changes_script and "change-state" in changes_script and "change-type" in changes_script
     for feed in output.glob("**/*.xml"):
         ET.parse(feed)
     assert "<item>" not in (output / "feed.xml").read_text()
