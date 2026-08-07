@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from datetime import date, datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from typing import Any
@@ -7,7 +8,9 @@ from typing import Any
 from .models import Event, normalize_key
 
 
-TRACKED_FIELDS = ("event_date", "artists", "title", "venue", "city", "state", "postal_code", "status", "links", "source_text")
+TRACKED_FIELDS = ("event_date", "artists", "title", "venue", "city", "postal_code", "status")
+NORMALIZED_TEXT_FIELDS = {"title", "venue", "city"}
+COUNTRY_SUFFIX = re.compile(r"\s*\([a-z]{1,3}(?:/[a-z]{1,3})*\)\s*$", re.I)
 
 
 def _value(value: Any) -> Any:
@@ -16,6 +19,24 @@ def _value(value: Any) -> Any:
     if isinstance(value, list):
         return [{field: getattr(item, field) for field in item.__dataclass_fields__} for item in value]
     return value
+
+
+def _artist_name(value: str) -> str:
+    return COUNTRY_SUFFIX.sub("", value).strip()
+
+
+def _field_value(event: Event, field: str) -> Any:
+    if field == "artists":
+        return [{"name": _artist_name(artist.name)} for artist in event.artists]
+    return _value(getattr(event, field))
+
+
+def _equivalent(field: str, before: Any, after: Any) -> bool:
+    if field == "artists":
+        return [normalize_key(item["name"]) for item in before] == [normalize_key(item["name"]) for item in after]
+    if field in NORMALIZED_TEXT_FIELDS:
+        return normalize_key(str(before or "")) == normalize_key(str(after or ""))
+    return before == after
 
 
 def _lineup(event: Event) -> str:
@@ -78,8 +99,8 @@ def reconcile(current: list[Event], previous: list[Event], revisions: list[dict[
         event.baseline = old.baseline
         changes = {}
         for field in TRACKED_FIELDS:
-            before, after = _value(getattr(old, field)), _value(getattr(event, field))
-            if before != after:
+            before, after = _field_value(old, field), _field_value(event, field)
+            if not _equivalent(field, before, after):
                 changes[field] = {"from": before, "to": after}
         if not old.active:
             changes["active"] = {"from": False, "to": True}

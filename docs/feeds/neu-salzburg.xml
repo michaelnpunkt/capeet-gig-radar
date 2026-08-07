@@ -5,42 +5,7 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:30:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Neu: OBSCURA, PESTILENCE, CRYPTIC SHIFT, THUS, DVRK – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa05a988869d0bd6cf51-1</link>
-      <guid isPermaLink="false">fa05a988869d0bd6cf51:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-01-28 · Rockhouse Bar,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: The BLACK DAHLIA MURDER – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-26802f06e535a081a884-1</link>
-      <guid isPermaLink="false">26802f06e535a081a884:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-01-30 · Rockhouse,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: FISCHER-Z – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fdbb805df4151bb3ce15-1</link>
-      <guid isPermaLink="false">fdbb805df4151bb3ce15:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-02-27 · Rockhouse,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: TEAM SCHEISSE – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ce439ced00ec280a61ec-1</link>
-      <guid isPermaLink="false">ce439ced00ec280a61ec:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-04-08 · Rockhouse,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Geändert: Mira Lu Kovacs – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e66a72d68948b947ec13-1</link>
-      <guid isPermaLink="false">e66a72d68948b947ec13:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-04-10 · ARGEkultur,  Salzburg · Salzburg · Konzertdatum: 2026-04-10 → 2027-04-10</description>
-    </item>
   </channel>
 </rss>

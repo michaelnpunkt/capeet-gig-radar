@@ -5,21 +5,7 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:30:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Neu: TUXEDOO, STREET TO THE OCEAN, BETWEEN THE BEASTS, The DEVASTATION – St. Pölten</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f8685d007b69efe11cb0-1</link>
-      <guid isPermaLink="false">f8685d007b69efe11cb0:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-03-19 · Freiraum,  St. Pölten · Niederösterreich</description>
-    </item>
-    <item>
-      <title>Neu: ABBIE FALLS, HUMAN ABYSS, ELOHRIA, BEYOND THE FABLE, SLEEPING GROUND – St. Pölten</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cc50b247f26aa300db43-1</link>
-      <guid isPermaLink="false">cc50b247f26aa300db43:1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
-      <description>2027-03-20 · Freiraum,  St. Pölten · Niederösterreich</description>
-    </item>
   </channel>
 </rss>

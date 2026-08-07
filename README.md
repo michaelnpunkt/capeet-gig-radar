@@ -63,6 +63,8 @@ Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schl�
 
 `docs/changes.html` zeigt die Änderungschronik mit Filtern für 7, 30 oder 90 Tage beziehungsweise die gesamte verfügbare Historie, Bundesland und Änderungstyp. Erfasst werden neue und geänderte Termine, Absagen, Verschiebungen, Wiederlistungen sowie zukünftige Events, die bei Capeet nicht mehr gelistet sind. Änderungen zeigen verständliche Vorher-/Nachher-Werte. Der beim ersten Import übernommene Ausgangsbestand wird nicht künstlich als neu gemeldet; spätere Änderungen an diesen Events erscheinen jedoch normal im Changelog.
 
+Als signifikant gelten Änderungen an Konzertdatum, tatsächlichen Line-up-Namen, Titel, Venue, Ort, Postleitzahl, Status oder Listung. Rein kosmetische beziehungsweise technische Änderungen an Länderkennungen, Künstlerlinks, Bundesland-Enrichment oder Capeet-Rohtext erzeugen keine Revision. Groß-/Kleinschreibung, Akzente und reine Zeichensetzungsunterschiede bei Titel und Ort werden ebenfalls ignoriert.
+
 `docs/feed.xml` enthält höchstens 100 Chronikeinträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Jede Revision hat eine eigene stabile GUID und verlinkt direkt auf ihren Eintrag im Changelog. Dadurch zeigen Feedreader spätere Änderungen als neue Meldung und ersetzen nicht still den ursprünglichen Eintrag.
 
 Die responsive Oberfläche bietet:

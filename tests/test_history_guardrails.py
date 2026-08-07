@@ -53,6 +53,33 @@ def test_corrected_derived_year_preserves_existing_event_identity(fixture_events
     assert revisions[0]["changes"]["event_date"] == {"from": "2026-09-01", "to": "2027-09-01"}
 
 
+def test_country_link_source_and_enrichment_changes_are_not_revisions(fixture_events):
+    baseline, _ = reconcile(fixture_events, [], [], now=NOW, initial_baseline=True)
+    current = deepcopy(fixture_events)
+    current[0].artists[0].name = f"{current[0].artists[0].name} (aut/d)"
+    current[0].artists[0].country = None
+    current[0].artists[0].link = "https://example.test/new"
+    current[0].state = "Tirol"
+    current[0].source_text = "Kosmetisch anders"
+    events, revisions = reconcile(current, baseline, [], now=NOW)
+    assert revisions == []
+    assert events[0].revision == 0 and events[0].changed_at is None
+    assert events[0].artists[0].link == "https://example.test/new"
+
+
+def test_only_significant_event_changes_are_recorded(fixture_events):
+    baseline, _ = reconcile(fixture_events, [], [], now=NOW, initial_baseline=True)
+    current = deepcopy(fixture_events)
+    current[0].event_date = current[0].event_date.replace(day=2)
+    current[0].artists.append(deepcopy(current[1].artists[0]))
+    current[0].venue = "Neues Flex"
+    current[0].city = "Graz"
+    current[0].status = "cancelled"
+    _events, revisions = reconcile(current, baseline, [], now=NOW)
+    assert set(revisions[0]["changes"]) == {"event_date", "artists", "venue", "city", "status"}
+    assert revisions[0]["changes"]["artists"]["to"][-1] == {"name": current[1].artists[0].name}
+
+
 def test_guardrails_minimum_drop_and_duplicates(fixture_events):
     with pytest.raises(GuardrailError, match="mindestens"):
         validate_update(fixture_events[:19], [], 20, .4)
