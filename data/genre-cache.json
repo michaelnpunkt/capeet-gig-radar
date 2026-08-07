@@ -21,6 +21,7 @@
     "subgenres": []
   },
   "90": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -43,6 +44,7 @@
     ]
   },
   "a love electric lisa hofmaninger mex aut": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -107,6 +109,7 @@
     "subgenres": []
   },
   "adenocarcinoma": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -117,6 +120,7 @@
     "subgenres": []
   },
   "advocem": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -130,6 +134,7 @@
     ]
   },
   "af90": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -140,6 +145,7 @@
     "subgenres": []
   },
   "agatha is dead": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -167,11 +173,13 @@
     ]
   },
   "ak chamel": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "aka rinde": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -269,6 +277,7 @@
     "subgenres": []
   },
   "angie zach": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -291,6 +300,7 @@
     "subgenres": []
   },
   "anomalie magnetique": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -304,6 +314,7 @@
     ]
   },
   "antiteil": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -323,6 +334,7 @@
     ]
   },
   "ara duo": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -335,6 +347,7 @@
     ]
   },
   "ardenite": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -347,6 +360,7 @@
     ]
   },
   "assballs": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -359,6 +373,7 @@
     ]
   },
   "atoic season": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -371,6 +386,7 @@
     ]
   },
   "aui zween": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -440,6 +456,7 @@
     ]
   },
   "awa polis": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -462,21 +479,25 @@
     ]
   },
   "bacon piglets": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bad hammer": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bad ida": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bad weed": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -514,11 +535,13 @@
     ]
   },
   "banlieue d amour": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bass arts": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -529,6 +552,7 @@
     "subgenres": []
   },
   "baua biatch": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -560,6 +584,7 @@
     ]
   },
   "behind the rails": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -573,6 +598,7 @@
     ]
   },
   "ben morgan": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -604,6 +630,7 @@
     "subgenres": []
   },
   "beyond the beat": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -614,16 +641,19 @@
     "subgenres": []
   },
   "bioglycerin": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bipolar penguins": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "birdfish": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -636,6 +666,7 @@
     ]
   },
   "bite to break": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -654,11 +685,13 @@
     "subgenres": []
   },
   "blackgold": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "blasser kyren": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -671,13 +704,15 @@
     ]
   },
   "blau": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "blood and sun": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "blood command": {
@@ -693,6 +728,7 @@
     "subgenres": []
   },
   "bloodrite": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -715,11 +751,13 @@
     "subgenres": []
   },
   "blutwurm": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "bonjourtropfen": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -743,6 +781,7 @@
     "subgenres": []
   },
   "bowie": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -760,11 +799,13 @@
     "subgenres": []
   },
   "brezel goring": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "brnjsmin": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -778,6 +819,7 @@
     ]
   },
   "bruchbude": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -788,6 +830,7 @@
     "subgenres": []
   },
   "bull nakano": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -812,6 +855,7 @@
     ]
   },
   "candlelight disaster": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -947,11 +991,13 @@
     ]
   },
   "chris magerl": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "christian fetish": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1018,6 +1064,7 @@
     ]
   },
   "coco schaner": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1047,11 +1094,13 @@
     ]
   },
   "con era": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "concrete lipstick": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1073,11 +1122,13 @@
     ]
   },
   "connor brondes": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "connor kelly the time warp": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1088,6 +1139,7 @@
     "subgenres": []
   },
   "constant confusion": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1108,6 +1160,7 @@
     ]
   },
   "cordoba78": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1137,6 +1190,7 @@
     "subgenres": []
   },
   "cranefire": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1150,6 +1204,7 @@
     ]
   },
   "cromulents": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1218,6 +1273,7 @@
     ]
   },
   "d r d": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1233,6 +1289,7 @@
     "subgenres": []
   },
   "dajneseri": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1243,8 +1300,9 @@
     "subgenres": []
   },
   "darina": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "dark thoughts": {
@@ -1261,23 +1319,27 @@
     ]
   },
   "darvaza nor ita": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "dave lofts": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "david eugene edwards": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "david maresch": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "dazzling killmen": {
@@ -1300,6 +1362,7 @@
     "subgenres": []
   },
   "dead end idols": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1383,13 +1446,15 @@
     "subgenres": []
   },
   "delinquent habits": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "deloraine": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "demonicera": {
@@ -1405,11 +1470,13 @@
     "subgenres": []
   },
   "denuit": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "der blutharsch a t i c o t l h": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1448,6 +1515,7 @@
     "subgenres": []
   },
   "detresse aut can": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1533,6 +1601,7 @@
     ]
   },
   "discopowerboxxx": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1566,6 +1635,7 @@
     "subgenres": []
   },
   "doc flippers": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1585,6 +1655,7 @@
     ]
   },
   "don t try": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1617,6 +1688,7 @@
     "subgenres": []
   },
   "dream world": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1634,6 +1706,7 @@
     ]
   },
   "druck": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1651,6 +1724,7 @@
     ]
   },
   "dukes of tijuana": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1669,6 +1743,7 @@
     "subgenres": []
   },
   "dynosaws": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1700,16 +1775,19 @@
     "subgenres": []
   },
   "ehrenlos eierlos": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "eit": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "electric shadow": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1725,6 +1803,7 @@
     "subgenres": []
   },
   "elin hall": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1792,8 +1871,9 @@
     "subgenres": []
   },
   "eric arn": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "erra": {
@@ -1818,6 +1898,7 @@
     ]
   },
   "escalpo": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1830,11 +1911,13 @@
     ]
   },
   "eternal god": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "etjm": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1845,6 +1928,7 @@
     "subgenres": []
   },
   "euroteuro": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1860,6 +1944,7 @@
     "subgenres": []
   },
   "exit void": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1915,6 +2000,7 @@
     "subgenres": []
   },
   "fatal path": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1927,6 +2013,7 @@
     ]
   },
   "feder": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1951,6 +2038,7 @@
     ]
   },
   "flesh remains": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -1971,26 +2059,31 @@
     ]
   },
   "flieda": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "fliegende haie": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "flirren": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "flora": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "flora hibberd uk fra": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2008,11 +2101,13 @@
     ]
   },
   "for eons": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "forgotten in progress": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2023,6 +2118,7 @@
     "subgenres": []
   },
   "frachild": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2050,6 +2146,7 @@
     "subgenres": []
   },
   "fuji ta": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2069,6 +2166,7 @@
     ]
   },
   "g town justice": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2088,6 +2186,7 @@
     ]
   },
   "gaudion": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2098,16 +2197,19 @@
     "subgenres": []
   },
   "gebenedeit": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "gehorsturz": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "generation breakdown": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2142,6 +2244,7 @@
     ]
   },
   "gilgamosh": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2159,6 +2262,7 @@
     "subgenres": []
   },
   "gischt": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2179,6 +2283,7 @@
     ]
   },
   "glorious leader": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2189,6 +2294,7 @@
     "subgenres": []
   },
   "glut": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2242,6 +2348,7 @@
     ]
   },
   "grazer grant": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2276,6 +2383,7 @@
     ]
   },
   "grinder": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2303,11 +2411,13 @@
     ]
   },
   "gusch": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "gush valley": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2328,6 +2438,7 @@
     ]
   },
   "guyo": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2345,6 +2456,7 @@
     "subgenres": []
   },
   "h3nce": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2432,6 +2544,7 @@
     ]
   },
   "hecho mierda": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2463,6 +2576,7 @@
     "subgenres": []
   },
   "heretical mutation": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2504,11 +2618,13 @@
     ]
   },
   "hochwald": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "hollenfurst": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2548,6 +2664,7 @@
     ]
   },
   "hugo race fatalists aus ita": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2576,6 +2693,7 @@
     "subgenres": []
   },
   "i o n u": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2588,6 +2706,7 @@
     ]
   },
   "icon of decay": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2625,8 +2744,9 @@
     ]
   },
   "imminent death": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "imperial triumphant": {
@@ -2683,6 +2803,7 @@
     ]
   },
   "irokase": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2710,6 +2831,7 @@
     "subgenres": []
   },
   "ivur": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2730,6 +2852,7 @@
     ]
   },
   "j h k": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2749,6 +2872,7 @@
     ]
   },
   "janis jobless": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2776,8 +2900,9 @@
     "subgenres": []
   },
   "jenny don t the spurs": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "jesajah": {
@@ -2801,6 +2926,7 @@
     ]
   },
   "jo the man the music": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2816,13 +2942,15 @@
     "subgenres": []
   },
   "jose breton": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "jozef van wissem": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "judiciary": {
@@ -2868,11 +2996,13 @@
     "subgenres": []
   },
   "kayla the crow": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "kevin cool": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2905,8 +3035,9 @@
     ]
   },
   "king dude": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "king no one": {
@@ -2943,6 +3074,7 @@
     ]
   },
   "knowfx": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -2995,6 +3127,7 @@
     ]
   },
   "krashkarma usa d": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3005,6 +3138,7 @@
     "subgenres": []
   },
   "krust huny": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3074,6 +3208,7 @@
     "subgenres": []
   },
   "last encounter": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3103,6 +3238,7 @@
     "subgenres": []
   },
   "leah farmer the badasonics": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3113,21 +3249,25 @@
     "subgenres": []
   },
   "leberzerroze": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "leeta": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "leftovers": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "lehm": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3147,6 +3287,7 @@
     ]
   },
   "leya": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3162,6 +3303,7 @@
     "subgenres": []
   },
   "lifespark": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3176,11 +3318,13 @@
     ]
   },
   "lily the wildflowers": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "lime crush": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3193,8 +3337,9 @@
     ]
   },
   "linnea hjerten": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "lion s law": {
@@ -3205,6 +3350,7 @@
     ]
   },
   "lisa obereder": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3218,6 +3364,7 @@
     ]
   },
   "lobotomite": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3254,11 +3401,13 @@
     ]
   },
   "los flixs": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "los tonnos": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3274,11 +3423,13 @@
     "subgenres": []
   },
   "lovable losers": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "love embassy": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3289,26 +3440,31 @@
     "subgenres": []
   },
   "low life rich kids": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "lower instinct": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "luca malina": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "lucinda williams": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "luisa schweig": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3326,11 +3482,13 @@
     ]
   },
   "lusterboden": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "lyink": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3383,6 +3541,7 @@
     ]
   },
   "maltraxx": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3405,6 +3564,7 @@
     "subgenres": []
   },
   "manic days": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3415,6 +3575,7 @@
     "subgenres": []
   },
   "marc euvrie": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3428,8 +3589,9 @@
     ]
   },
   "marla moya": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "mars red sky": {
@@ -3438,6 +3600,7 @@
     "subgenres": []
   },
   "mass reaction": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3464,6 +3627,7 @@
     ]
   },
   "master usa cze": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3492,11 +3656,13 @@
     "subgenres": []
   },
   "meezer": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "megastaub": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3512,6 +3678,7 @@
     "subgenres": []
   },
   "memoi": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3556,11 +3723,13 @@
     ]
   },
   "minki mumu": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "minla": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3571,11 +3740,13 @@
     "subgenres": []
   },
   "mira lu kovacs clemens wenger": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "mira taylor": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3595,6 +3766,7 @@
     ]
   },
   "miss mellow": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3615,6 +3787,7 @@
     "subgenres": []
   },
   "modula nation": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3632,6 +3805,7 @@
     "subgenres": []
   },
   "monobrother": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3665,6 +3839,7 @@
     ]
   },
   "morgan pines": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3677,6 +3852,7 @@
     ]
   },
   "moritz molnar the necessary evil": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3706,8 +3882,9 @@
     "subgenres": []
   },
   "mozo mozo": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "muff potter": {
@@ -3742,6 +3919,7 @@
     ]
   },
   "mwita mataro": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3804,6 +3982,7 @@
     ]
   },
   "nature swim": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3829,6 +4008,7 @@
     ]
   },
   "necrosophy": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3843,6 +4023,7 @@
     ]
   },
   "neunundneunzig": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3873,6 +4054,7 @@
     "subgenres": []
   },
   "no braids": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3902,11 +4084,13 @@
     "subgenres": []
   },
   "noix": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "nonstop aggropop": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3931,6 +4115,7 @@
     ]
   },
   "notyourordinary": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -3943,6 +4128,7 @@
     ]
   },
   "nowitschok 5": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4001,6 +4187,7 @@
     ]
   },
   "orangeblue": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4029,6 +4216,7 @@
     ]
   },
   "our man in the field": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4041,6 +4229,7 @@
     ]
   },
   "outlaw bra ger": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4068,11 +4257,13 @@
     ]
   },
   "ozymandias": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "p y g": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4092,16 +4283,19 @@
     ]
   },
   "palik": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "paloma 004": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "paradeiser": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4112,6 +4306,7 @@
     "subgenres": []
   },
   "partiprivati": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4130,6 +4325,7 @@
     "subgenres": []
   },
   "pencil cherries": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4142,6 +4338,7 @@
     ]
   },
   "perfect sky": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4160,11 +4357,13 @@
     ]
   },
   "phenomenal world": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "pigeon boys": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4215,8 +4414,9 @@
     ]
   },
   "pop sch": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "portia": {
@@ -4225,6 +4425,7 @@
     "subgenres": []
   },
   "portobello express": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4235,6 +4436,7 @@
     "subgenres": []
   },
   "post": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4245,6 +4447,7 @@
     "subgenres": []
   },
   "pretty average": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4260,11 +4463,13 @@
     "subgenres": []
   },
   "primal void": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "primitivi": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4282,11 +4487,13 @@
     "subgenres": []
   },
   "psych": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "psychamore": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4346,11 +4553,13 @@
     ]
   },
   "r p c": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "raging void": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4368,8 +4577,9 @@
     ]
   },
   "ran": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "rancur": {
@@ -4390,16 +4600,19 @@
     "subgenres": []
   },
   "rat king gone": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "rathmann": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "raw infusion": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4417,11 +4630,13 @@
     "subgenres": []
   },
   "reconfused": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "recurrent pain": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4434,16 +4649,19 @@
     ]
   },
   "retsu": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "reverend stomp": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "revoluzza": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4498,6 +4716,7 @@
     "subgenres": []
   },
   "s o r m": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4524,6 +4743,7 @@
     ]
   },
   "sacs the brussel sprouts": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4541,6 +4761,7 @@
     "subgenres": []
   },
   "sakura feat manic youth": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4558,16 +4779,19 @@
     ]
   },
   "sand fallow": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "sanitation": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "sanna lu una": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4580,6 +4804,7 @@
     ]
   },
   "sarram": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4592,11 +4817,13 @@
     ]
   },
   "say yes dog lux d": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "scampi bump": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4624,11 +4851,13 @@
     ]
   },
   "scientifc delirium madness": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "scott hepple the sun band": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4646,6 +4875,7 @@
     "subgenres": []
   },
   "sebi": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4690,6 +4920,7 @@
     "subgenres": []
   },
   "sha ar": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4717,6 +4948,7 @@
     ]
   },
   "sheepfield": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4729,6 +4961,7 @@
     ]
   },
   "shiver down": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4798,6 +5031,7 @@
     "subgenres": []
   },
   "sinnthese": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4862,11 +5096,13 @@
     ]
   },
   "sleeping ground": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "slicky nerves": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4894,6 +5130,7 @@
     ]
   },
   "small hours": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4909,23 +5146,27 @@
     "subgenres": []
   },
   "snout fever": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "so much more": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "soapless": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "society of the silver cross": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "sodl": {
@@ -4939,6 +5180,7 @@
     "subgenres": []
   },
   "soft fokus": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -4959,6 +5201,7 @@
     ]
   },
   "solo ono nzl aut": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5008,21 +5251,25 @@
     ]
   },
   "soyuz blr pol": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "spacestation": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "spatzenhirn": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "spike the gimme gimes": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5066,6 +5313,7 @@
     ]
   },
   "spuren": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5107,6 +5355,7 @@
     ]
   },
   "stay bound": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5117,6 +5366,7 @@
     "subgenres": []
   },
   "stele pol aut": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5134,6 +5384,7 @@
     ]
   },
   "sticky moloch": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5161,6 +5412,7 @@
     ]
   },
   "strange kind of women": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5202,6 +5454,7 @@
     ]
   },
   "sunde": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5241,6 +5494,7 @@
     "subgenres": []
   },
   "sweatpants party": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5267,6 +5521,7 @@
     ]
   },
   "taglich frisches obst": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5292,6 +5547,7 @@
     "subgenres": []
   },
   "tear up": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5307,6 +5563,7 @@
     "subgenres": []
   },
   "temporare objekte": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5325,6 +5582,7 @@
     ]
   },
   "terra toma": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5353,6 +5611,7 @@
     ]
   },
   "the asteroid no 4": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5363,6 +5622,7 @@
     "subgenres": []
   },
   "the brothers gillespie": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5388,6 +5648,7 @@
     "subgenres": []
   },
   "the cover fiends": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5403,8 +5664,9 @@
     "subgenres": []
   },
   "the devil s trade": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "the devil wears prada": {
@@ -5434,6 +5696,7 @@
     ]
   },
   "the fabulous danes": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5451,6 +5714,7 @@
     ]
   },
   "the good library": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5485,6 +5749,7 @@
     "subgenres": []
   },
   "the jaybirds": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5510,6 +5775,7 @@
     "subgenres": []
   },
   "the liquid stones": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5568,6 +5834,7 @@
     ]
   },
   "the prophecy 23": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5593,6 +5860,7 @@
     ]
   },
   "the shallaras aus ita": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5610,16 +5878,19 @@
     "subgenres": []
   },
   "the snub": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "the sound aye": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "the spill in dreams": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5640,6 +5911,7 @@
     ]
   },
   "the teflon dons": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5659,6 +5931,7 @@
     ]
   },
   "the underground youth uk d": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5669,23 +5942,27 @@
     "subgenres": []
   },
   "the velvet swing": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "the vienna illharmonic": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "the warped four": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "the white buffalo": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "the whorehouse of nagasaki": {
@@ -5701,6 +5978,7 @@
     "subgenres": []
   },
   "the zsa zsa gabors": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5775,6 +6053,7 @@
     "subgenres": []
   },
   "toody cole": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5794,6 +6073,7 @@
     ]
   },
   "touch by touch": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5840,6 +6120,7 @@
     ]
   },
   "tutti dilemma": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5855,6 +6136,7 @@
     "subgenres": []
   },
   "ty freeman": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5872,6 +6154,7 @@
     ]
   },
   "uli sailor": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5911,6 +6194,7 @@
     ]
   },
   "urban misery": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5936,6 +6220,7 @@
     "subgenres": []
   },
   "vampyres": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5948,6 +6233,7 @@
     ]
   },
   "vanthory": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -5973,6 +6259,7 @@
     ]
   },
   "verkauf musique": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6054,6 +6341,7 @@
     ]
   },
   "vkgoeswild": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6094,8 +6382,9 @@
     "subgenres": []
   },
   "wallis bird": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "waltari": {
@@ -6145,11 +6434,13 @@
     "subgenres": []
   },
   "weird minds": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "weird ugly fish": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6237,16 +6528,19 @@
     "subgenres": []
   },
   "woke": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "wolf in der au": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "wolfgang lehmann": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6295,6 +6589,7 @@
     ]
   },
   "wrath symmetry": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6310,11 +6605,13 @@
     "subgenres": []
   },
   "yara": {
-    "family": "Unklassifiziert",
-    "source": "unclassified",
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "ymp": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6332,6 +6629,7 @@
     ]
   },
   "zascha": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6352,6 +6650,7 @@
     "subgenres": []
   },
   "zelda weber": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6362,6 +6661,7 @@
     "subgenres": []
   },
   "zernichter": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
@@ -6377,11 +6677,13 @@
     "subgenres": []
   },
   "zoo escape": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
   },
   "zoomies": {
+    "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
