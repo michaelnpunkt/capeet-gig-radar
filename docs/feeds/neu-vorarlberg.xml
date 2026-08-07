@@ -5,7 +5,21 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:50:13 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LAMP OF MURMUUR, OUTLAW – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-13a9f9470963375af7bc-1</link>
+      <guid isPermaLink="false">13a9f9470963375af7bc:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2026-09-03 · Kulturcafé Schlachthaus,  Dornbirn · Vorarlberg · Line-up: LAMP OF MURMUUR · OUTLAW (bra/ger) → LAMP OF MURMUUR · OUTLAW</description>
+    </item>
+    <item>
+      <title>Neu: FISCHER-Z – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-23408f31924ed7f59264-1</link>
+      <guid isPermaLink="false">23408f31924ed7f59264:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2027-02-28 · Conrad Sohm,  Dornbirn · Vorarlberg</description>
+    </item>
   </channel>
 </rss>

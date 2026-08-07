@@ -5,7 +5,49 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:50:13 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LAMP OF MURMUUR, OUTLAW – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b5908f5c0613263befae-1</link>
+      <guid isPermaLink="false">b5908f5c0613263befae:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2026-08-28 · Kapu,  Linz · Oberösterreich · Line-up: LAMP OF MURMUUR · OUTLAW (bra/ger) → LAMP OF MURMUUR · OUTLAW</description>
+    </item>
+    <item>
+      <title>Geändert: The UNDERGROUND YOUTH, ARA Duo – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4dbe87803881d223ac6c-1</link>
+      <guid isPermaLink="false">4dbe87803881d223ac6c:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2026-09-25 · Last,  Linz · Oberösterreich · Line-up: The UNDERGROUND YOUTH (uk/d) · ARA Duo → The UNDERGROUND YOUTH · ARA Duo</description>
+    </item>
+    <item>
+      <title>Geändert: HUGO RACE FATALISTS – Ebensee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-738310dc5b3a84401b9e-1</link>
+      <guid isPermaLink="false">738310dc5b3a84401b9e:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2026-11-14 · Kino,  Ebensee · Oberösterreich · Line-up: HUGO RACE FATALISTS (aus/ita) → HUGO RACE FATALISTS</description>
+    </item>
+    <item>
+      <title>Neu: KYTES – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-df3d0c70c6cc9b1e0359-1</link>
+      <guid isPermaLink="false">df3d0c70c6cc9b1e0359:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2027-02-04 · Posthof,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: WAVING THE GUNS – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-edae032237f7d740bde8-1</link>
+      <guid isPermaLink="false">edae032237f7d740bde8:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2027-03-13 · röda,  Steyr · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: MASTER – Mehrnbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42b97c84f68ac1424c5b-1</link>
+      <guid isPermaLink="false">42b97c84f68ac1424c5b:1</guid>
+      <pubDate>Fri, 07 Aug 2026 07:50:13 +0000</pubDate>
+      <description>2027-05-16 · Rohbau,  Mehrnbach · Oberösterreich · Konzertdatum: 2026-05-16 → 2027-05-16 · Line-up: MASTER (usa/cze) → MASTER</description>
+    </item>
   </channel>
 </rss>
