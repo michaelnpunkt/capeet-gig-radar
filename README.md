@@ -73,6 +73,7 @@ Die responsive Oberfläche bietet:
 - standardmäßig ausgeblendete vergangene Gigs
 - optionale Anzeige abgesagter sowie neuer oder geänderter Events
 - Sortierung nach Entdeckung, letzter Änderung und Konzertdatum
+- umschaltbare Kachel- und kompakte Listenansicht mit gespeicherter Auswahl
 - verständliche Hilfetexte zu Historie und Sortierungen
 - teilbare URL-Parameter und ergänzende Speicherung im Browser
 - direkte Links zur Capeet-Originalquelle sowie zum Gesamt- und zu den Bundesland-Feeds

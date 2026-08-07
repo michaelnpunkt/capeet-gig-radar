@@ -42,10 +42,11 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "Capeet entdeckt" in html and "jüngste erkannte Revision" in html
     assert 'id="past"' in html and "Vergangene Gigs ausblenden" in html
     assert "changed-desc" in html and "date-asc" in html and "date-desc" in html
+    assert 'data-view="grid"' in html and 'data-view="list"' in html and 'aria-pressed="true"' in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
-    assert "past.checked" in script
-    assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles
+    assert "past.checked" in script and "setView" in script and "params.set('view','list')" in script
+    assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles and ".cards.list-view" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
     assert changes_data["revisions"] == []
     changes_html = (output / "changes.html").read_text()
