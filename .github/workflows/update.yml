@@ -14,6 +14,7 @@ on:
       - "pyproject.toml"
       - "data/genre-overrides.json"
       - "data/location-overrides.json"
+      - "data/source-state.json"
 
 permissions:
   contents: write
