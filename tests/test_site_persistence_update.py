@@ -35,6 +35,8 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     changes_data = json.loads((output / "data/changes.json").read_text())
     assert "Mosh Pit Crew" in html and "Big shout-out to" in html
     assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html and "changes.html" in html
+    assert "Bundesland-RSS" in html and html.count("feeds/neu-") == 9
+    assert all(state in html for state in ("Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"))
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
     assert "data-states=\"all\"" in html and "Nur Wien" not in html
