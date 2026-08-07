@@ -86,6 +86,10 @@ Die responsive Oberfläche bietet:
 
 Der Workflow in `.github/workflows/update.yml` führt Tests und Update aus und committet tatsächliche Änderungen in `data/` und `docs/`. GitHub Pages veröffentlicht anschließend direkt `main:/docs`. Dadurch bleibt die Website auch bei einem HTTP-304-Abruf deploybar, ohne einen leeren Daten-Commit zu erzeugen.
 
+## Feedback und Fehler
+
+Technische Fehler können über das strukturierte GitHub-Formular **Fehler melden** eingereicht werden; Ideen und allgemeines Feedback über **Idee vorschlagen**. Beide Links stehen im Footer der Website und des Changelogs. Bei inhaltlich falschen Konzertdaten bleibt die originale Capeet-Gigliste maßgeblich. Bitte keine privaten Daten in öffentliche Issues schreiben.
+
 ## Grenzen und Kosten
 
 Capeet stellt weder Eintragungszeitpunkte noch stabile IDs bereit. Matching und Genres sind deshalb konservativ; `Unbekannt` und `Unklassifiziert` sind absichtliche Diagnosewerte. Entfernte zukünftige Events werden als „nicht mehr gelistet“, nicht automatisch als abgesagt markiert. Die Originalseite bleibt maßgeblich.

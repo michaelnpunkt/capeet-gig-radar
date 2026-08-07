@@ -45,6 +45,8 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert 'id="past"' in html and "Vergangene Gigs ausblenden" in html
     assert "changed-desc" in html and "date-asc" in html and "date-desc" in html
     assert 'data-view="grid"' in html and 'data-view="list"' in html and 'aria-pressed="true"' in html
+    assert 'class="back-top"' in html and 'href="#top"' in html
+    assert "Fehler melden" in html and "Idee vorschlagen" in html and "bug_report.yml" in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
     assert "past.checked" in script and "setView" in script and "params.set('view','list')" in script
@@ -53,6 +55,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert changes_data["revisions"] == []
     changes_html = (output / "changes.html").read_text()
     assert "Gig<br>" in changes_html and "<span>Changelog</span>" in changes_html
+    assert 'class="back-top"' in changes_html and "Fehler melden" in changes_html
     changes_script = (output / "assets/changes.js").read_text()
     assert "innerHTML" not in changes_script and "textContent" in changes_script
     assert "change-days" in changes_script and "change-state" in changes_script and "change-type" in changes_script

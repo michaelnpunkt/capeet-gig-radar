@@ -1,0 +1,51 @@
+name: Fehler melden
+description: Melde einen technischen Fehler oder eine falsche Darstellung im Gig Radar.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deine Meldung. Fehler in den ursprünglichen Veranstaltungsdaten bitte zusätzlich direkt anhand der Capeet-Gigliste prüfen.
+  - type: input
+    id: page
+    attributes:
+      label: Betroffene Seite oder URL
+      placeholder: https://michaelnpunkt.github.io/capeet-gig-radar/...
+    validations:
+      required: true
+  - type: input
+    id: event
+    attributes:
+      label: Betroffenes Event
+      description: Falls relevant, bitte Künstler, Datum und Ort angeben.
+      placeholder: Band · 12.09.2026 · Wien
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was ist passiert?
+      description: Beschreibe das beobachtete Verhalten möglichst konkret.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Was wäre korrekt?
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Gerät
+      options:
+        - Desktop oder Laptop
+        - Smartphone
+        - Tablet
+        - RSS-Reader
+        - Sonstiges
+  - type: textarea
+    id: details
+    attributes:
+      label: Zusätzliche Informationen
+      description: Browser, Screenshots oder weitere Hinweise; bitte keine privaten Daten posten.

@@ -73,7 +73,7 @@ CHANGELOG_HTML = """<!doctype html>
 <title>Änderungen · Mosh Pit Crew Gig Radar</title>
 <link rel="alternate" type="application/rss+xml" title="Alle Neuigkeiten" href="feed.xml">
 <link rel="stylesheet" href="assets/styles.css"><script src="assets/changes.js" defer></script></head>
-<body><a class="skip" href="#changes-results">Zu den Änderungen</a>
+<body id="top"><a class="skip" href="#changes-results">Zu den Änderungen</a>
 <header class="hero compact"><p class="eyebrow">Was hat sich getan?</p><h1>Gig<br><span>Changelog</span></h1><p class="subtitle">Neue, geänderte, abgesagte und nicht mehr gelistete Termine — chronologisch seit dem letzten erfolgreichen Tageslauf.</p>
 <nav class="status-bar" aria-label="Seitennavigation"><a href="index.html">← Alle Gigs</a><a href="feed.xml">Gesamt-RSS</a><span id="changes-metadata">Änderungen werden geladen …</span></nav></header>
 <main><section class="controls change-controls" aria-labelledby="filter-heading"><h2 id="filter-heading">Änderungen filtern</h2>
@@ -82,7 +82,7 @@ CHANGELOG_HTML = """<!doctype html>
 <label>Änderung <select id="change-type"><option value="">Alle Änderungen</option><option value="new">Neu</option><option value="changed">Geändert</option><option value="cancelled">Abgesagt</option><option value="postponed">Verschoben</option><option value="reactivated">Wieder gelistet</option><option value="unlisted">Nicht mehr gelistet</option></select></label>
 </section><p id="change-count" class="count" role="status" aria-live="polite">Änderungen werden geladen …</p><div id="changes-results" class="change-days" aria-label="Änderungschronik"></div>
 <noscript>Die filterbare Chronik benötigt JavaScript. Alle Neuigkeiten stehen auch im <a href="feed.xml">RSS-Feed</a>.</noscript></main>
-<footer><p>Revisionen bleiben bis zu 730 Tage erhalten. Der RSS-Feed enthält höchstens 100 Einträge der letzten 90 Tage.</p><p>Quelle: <a href="https://www.capeet.com/gigs_list.html" rel="noopener noreferrer">Original-Gigliste von Capeet</a>. Unabhängiges Projekt, Angaben ohne Gewähr.</p></footer></body></html>
+<a class="back-top" href="#top" aria-label="Zurück zum Seitenanfang">↑ Nach oben</a><footer><p>Revisionen bleiben bis zu 730 Tage erhalten. Der RSS-Feed enthält höchstens 100 Einträge der letzten 90 Tage.</p><p class="contact-links"><strong>Feedback &amp; Kontakt:</strong> <a href="https://github.com/michaelnpunkt/capeet-gig-radar/issues/new?template=bug_report.yml">Fehler melden</a> · <a href="https://github.com/michaelnpunkt/capeet-gig-radar/issues/new?template=feature_request.yml">Idee vorschlagen</a> · <a href="https://github.com/michaelnpunkt/capeet-gig-radar/issues">Offene Meldungen</a> · <a href="https://github.com/michaelnpunkt/capeet-gig-radar">Quellcode</a></p><p>Quelle: <a href="https://www.capeet.com/gigs_list.html" rel="noopener noreferrer">Original-Gigliste von Capeet</a>. Unabhängiges Projekt, Angaben ohne Gewähr.</p></footer></body></html>
 """
 
 
