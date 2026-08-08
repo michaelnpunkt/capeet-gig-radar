@@ -1,4 +1,122 @@
 {
-  "generated_at": "2026-08-07T10:30:08.597781+00:00",
-  "revisions": []
+  "generated_at": "2026-08-08T05:08:50.597833+00:00",
+  "revisions": [
+    {
+      "anchor": "change-4e485815e92bd5c999d4-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "DEAD MEADOW"
+            },
+            {
+              "name": "MEPHISTOFELES"
+            },
+            {
+              "name": "BAITS"
+            },
+            {
+              "name": "VERRAT"
+            },
+            {
+              "name": "PORTIA"
+            }
+          ],
+          "to": [
+            {
+              "name": "MEPHISTOFELES"
+            },
+            {
+              "name": "BAITS"
+            },
+            {
+              "name": "VERRAT"
+            },
+            {
+              "name": "PORTIA"
+            }
+          ]
+        },
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-08-08T05:08:50.597833+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ARG",
+            "link": "https://mephistofeles.bandcamp.com/",
+            "name": "MEPHISTOFELES"
+          },
+          {
+            "country": null,
+            "link": "https://www.baitsmusic.com/",
+            "name": "BAITS"
+          },
+          {
+            "country": null,
+            "link": "https://verrat.bandcamp.com/",
+            "name": "VERRAT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/portia.trips/",
+            "name": "PORTIA"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-08T05:08:50.597833+00:00",
+        "city": "Döbriach",
+        "event_date": "2026-08-08",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal",
+            "Stoner Metal"
+          ]
+        },
+        "id": "4e485815e92bd5c999d4",
+        "last_seen_at": "2026-08-08T05:08:50.597833+00:00",
+        "links": [
+          {
+            "label": "MEPHISTOFELES",
+            "url": "https://mephistofeles.bandcamp.com/"
+          },
+          {
+            "label": "BAITS",
+            "url": "https://www.baitsmusic.com/"
+          },
+          {
+            "label": "VERRAT",
+            "url": "https://verrat.bandcamp.com/"
+          },
+          {
+            "label": "PORTIA",
+            "url": "https://www.instagram.com/portia.trips/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.sauzipfrocks.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.08.: MEPHISTOFELES (arg) / BAITS / VERRAT / PORTIA u.a. @ Sauzipf Rocks, Döbriach [DEAD MEADOW cancelled.] [web]",
+        "state": "Kärnten",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Sauzipf Rocks"
+      },
+      "event_id": "4e485815e92bd5c999d4",
+      "guid": "4e485815e92bd5c999d4:1",
+      "kind": "changed",
+      "revision": 1
+    }
+  ]
 }
