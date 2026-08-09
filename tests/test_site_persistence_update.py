@@ -36,25 +36,27 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     status_data = json.loads((output / "data/status.json").read_text())
     changes_data = json.loads((output / "data/changes.json").read_text())
     assert "Mosh Pit Crew" in html and "Big shout-out to" in html
-    assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html and "changes.html" in html
+    assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" not in html and "changes.html" in html
     assert "Bundesland-RSS" in html and html.count("feeds/neu-") == 9
+    assert "selected-feeds" not in html and "Offene Meldungen" not in html
     assert all(state in html for state in ("Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"))
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
-    assert "data-states=\"all\"" in html and "Nur Wien" not in html
+    assert "data-states=\"all\"" in html and "data-genres=\"all\"" in html and "data-genres=\"none\"" in html and "Nur Wien" not in html
     assert 'id="month"' in html and 'id="days"' in html
     assert "Capeet entdeckt" in html and "jüngste erkannte Revision" in html
-    assert 'id="past"' in html and "Vergangene Gigs ausblenden" in html
+    assert 'id="past" type="checkbox" checked' in html and "Vergangene Gigs ausblenden" in html
+    assert 'id="cancelled" type="checkbox" checked' in html and "Abgesagte Gigs ausblenden" in html
     assert "changed-desc" in html and "date-asc" in html and "date-desc" in html
     assert 'data-view="grid"' in html and 'data-view="list"' in html and 'aria-pressed="true"' in html
     assert 'class="back-top"' in html and 'href="#top"' in html
-    assert "Fehler melden" in html and "Idee vorschlagen" in html and "bug_report.yml" in html
+    assert "Fehler melden" in html and "Idee vorschlagen" in html and "Sonstiges Feedback" in html and "bug_report.yml" in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
     assert "data/status.json" in script and "Zuletzt geprüft" in script and "Daten geändert" in script
     assert "latest_revision" in data["events"][0] and "revisionDetails" in script and "changeRow" in script
     assert "node('del'" in script and "node('ins'" in script and "Event abgesagt" in script
-    assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
-    assert "past.checked" in script and "setView" in script and "params.set('view','list')" in script
+    assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" not in script and "updateFeeds" not in script
+    assert "past.checked" in script and "hideCancelled" in script and "data-genres" in script and "setView" in script and "params.set('view','list')" in script
     assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles and ".cards.list-view" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
     assert changes_data["revisions"] == []

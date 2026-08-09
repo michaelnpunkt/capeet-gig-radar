@@ -72,10 +72,11 @@ Eine Absage gilt nur dann als Eventabsage, wenn Capeet die gesamte Terminzeile e
 Die responsive Oberfläche bietet:
 
 - Bundesland- und Genre-Mehrfachauswahl
+- schnelle Auswahl „Alle“ oder „Keine“ für Bundesländer und Genres
 - Volltextsuche über Künstler, Titel, Venue und Ort
 - Monatsfilter und Zeiträume für die kommenden 7, 14, 30, 60 oder 90 Tage
-- standardmäßig ausgeblendete vergangene Gigs
-- optionale Anzeige abgesagter sowie neuer oder geänderter Events
+- standardmäßig ausgeblendete vergangene und vollständig abgesagte Gigs
+- optionale Anzeige neuer oder geänderter Events
 - Sortierung nach Entdeckung, letzter Änderung und Konzertdatum
 - umschaltbare Kachel- und kompakte Listenansicht mit gespeicherter Auswahl
 - verständliche Hilfetexte zu Historie und Sortierungen
