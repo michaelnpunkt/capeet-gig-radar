@@ -21,6 +21,21 @@ def _events(path: Path) -> list[Event]:
     return [Event.from_dict(value) for value in load_json(path, [])]
 
 
+def _write_check_status(settings: Settings, source_state_path: Path, now: datetime, *, changed: bool) -> dict:
+    source_state = load_json(source_state_path, {})
+    source_state["checked_at"] = now.isoformat()
+    if changed or not source_state.get("changed_at"):
+        source_state["changed_at"] = now.isoformat()
+    atomic_write_json(source_state_path, source_state)
+    atomic_write_json(settings.output_dir / "data/status.json", {
+        "checked_at": source_state["checked_at"],
+        "changed_at": source_state["changed_at"],
+        "source_url": settings.source_url,
+        "source_changed": changed,
+    })
+    return source_state
+
+
 def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = False, dry_run: bool = False) -> int:
     events_path = settings.data_dir / "events.json"
     revisions_path = settings.data_dir / "revisions.json"
@@ -48,7 +63,9 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
             )
             genre_lookup_available = use_lastfm and settings.lastfm_api_key and pending_genres > 0
             if not pending_locations and not genre_lookup_available:
-                print("Unverändert: HTTP 304; vorhandene docs werden veröffentlicht")
+                if not dry_run:
+                    _write_check_status(settings, source_state_path, datetime.now(timezone.utc), changed=False)
+                print("Geprüft: HTTP 304; Quelle unverändert")
                 return 0
             current = previous
         else:
@@ -82,8 +99,21 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
     source_state = load_json(source_state_path, {})
     source_state.update(fetch_result.validators if fetch_result and fetch_result.validators else {})
     source_state["checked_at"] = now.isoformat()
-    source_state["changed_at"] = now.isoformat()
-    generate_site(events, revisions, settings.output_dir, settings.site_url, now, feed_limit=settings.feed_limit, feed_days=settings.feed_days)
+    source_changed = fetch_result is None or fetch_result.status_code == 200
+    if source_changed or not source_state.get("changed_at"):
+        source_state["changed_at"] = now.isoformat()
+    generate_site(
+        events,
+        revisions,
+        settings.output_dir,
+        settings.site_url,
+        now,
+        source_checked_at=now,
+        source_changed_at=datetime.fromisoformat(source_state["changed_at"]),
+        source_changed=source_changed,
+        feed_limit=settings.feed_limit,
+        feed_days=settings.feed_days,
+    )
     atomic_write_json(events_path, [event.to_dict() for event in events])
     atomic_write_json(revisions_path, revisions)
     atomic_write_json(settings.data_dir / "genre-cache.json", genre_cache)

@@ -25,12 +25,12 @@ Der Betrieb benötigt keinen Server, keine Datenbank, kein lokales Hosting und k
 
 - Quelle: <https://www.capeet.com/gigs_list.html>
 - Ausgabe: `docs/` für GitHub Pages; lokal muss nichts installiert oder gehostet werden.
-- Aktualisierung: genau einmal täglich um 04:17 UTC sowie optional manuell über `workflow_dispatch`.
+- Aktualisierung: genau einmal täglich um 02:17 UTC sowie optional manuell über `workflow_dispatch`.
 - HTTP: transparenter User-Agent sowie bedingte Requests mit ETag und Last-Modified aus `data/source-state.json`.
-- HTTP 304: Bei unveränderter Quelle bleibt die bestehende Website erhalten; ausstehende Last.fm-Klassifizierungen können trotzdem ergänzt werden.
+- HTTP 304: Bei unveränderter Quelle bleibt der Datenbestand erhalten; der erfolgreiche Prüfzeitpunkt wird trotzdem veröffentlicht. Ausstehende Last.fm-Klassifizierungen können ebenfalls ergänzt werden.
 - Sicherheit: 0 Events, weniger als 20 Events oder ein Rückgang über 40 Prozent brechen den Lauf ab.
 
-Der Cron-Zeitpunkt entspricht im Winter 05:17 Uhr und im Sommer 06:17 Uhr in `Europe/Vienna`.
+Der Cron-Zeitpunkt entspricht im Sommer 04:17 Uhr und im Winter 03:17 Uhr in `Europe/Vienna`. GitHub Actions führt geplante Workflows nach dem Best-Effort-Prinzip aus; bei hoher Auslastung kann der tatsächliche Start später erfolgen.
 
 ## Genre-Klassifizierung mit Last.fm
 

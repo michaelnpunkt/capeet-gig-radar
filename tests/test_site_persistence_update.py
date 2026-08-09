@@ -7,6 +7,7 @@ from xml.etree import ElementTree as ET
 import pytest
 
 from src.config import Settings
+from src.fetch import FetchResult
 from src.history import reconcile
 from src.locations import apply_locations
 from src.persistence import atomic_write_json
@@ -32,6 +33,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     script = (output / "assets/app.js").read_text()
     styles = (output / "assets/styles.css").read_text()
     data = json.loads((output / "data/gigs.json").read_text())
+    status_data = json.loads((output / "data/status.json").read_text())
     changes_data = json.loads((output / "data/changes.json").read_text())
     assert "Mosh Pit Crew" in html and "Big shout-out to" in html
     assert "header-metadata" in html and "Gesamt-RSS" in html and "header-feeds" in html and "changes.html" in html
@@ -48,6 +50,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert 'class="back-top"' in html and 'href="#top"' in html
     assert "Fehler melden" in html and "Idee vorschlagen" in html and "bug_report.yml" in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
+    assert "data/status.json" in script and "Zuletzt geprüft" in script and "Daten geändert" in script
     assert "latest_revision" in data["events"][0] and "revisionDetails" in script and "changeRow" in script
     assert "node('del'" in script and "node('ins'" in script and "Event abgesagt" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
@@ -55,11 +58,18 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles and ".cards.list-view" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
     assert changes_data["revisions"] == []
+    assert status_data == {
+        "checked_at": now.isoformat(),
+        "changed_at": now.isoformat(),
+        "source_url": "https://www.capeet.com/gigs_list.html",
+        "source_changed": True,
+    }
     changes_html = (output / "changes.html").read_text()
     assert "Gig<br>" in changes_html and "<span>Changelog</span>" in changes_html
     assert 'class="back-top"' in changes_html and "Fehler melden" in changes_html
     changes_script = (output / "assets/changes.js").read_text()
     assert "innerHTML" not in changes_script and "textContent" in changes_script
+    assert "data/status.json" in changes_script and "Zuletzt geprüft" in changes_script and "Daten geändert" in changes_script
     assert "appendChange" in changes_script and "node('del'" in changes_script and "node('ins'" in changes_script
     assert "change-days" in changes_script and "change-state" in changes_script and "change-type" in changes_script
     for feed in output.glob("**/*.xml"):
@@ -83,6 +93,27 @@ def test_offline_update_and_idempotent_second_run(tmp_path, fixture_path):
     assert run(settings, fixture_path) == 0
     second = json.loads((settings.data_dir / "events.json").read_text())
     assert [event["revision"] for event in second] == [event["revision"] for event in first]
+
+
+def test_304_updates_public_check_time_without_changing_data_time(tmp_path, fixture_path, monkeypatch):
+    settings = Settings(data_dir=tmp_path / "data", output_dir=tmp_path / "docs", minimum_events=20)
+    assert run(settings, fixture_path) == 0
+    source_state_path = settings.data_dir / "source-state.json"
+    original_change = "2026-08-08T05:00:00+00:00"
+    source_state_path.write_text(json.dumps({
+        "changed_at": original_change,
+        "checked_at": original_change,
+        "etag": '"abc"',
+    }), encoding="utf-8")
+    monkeypatch.setattr("src.update.fetch_text", lambda *args, **kwargs: FetchResult(None, 304, None))
+    assert run(settings) == 0
+    source_state = json.loads(source_state_path.read_text())
+    public_status = json.loads((settings.output_dir / "data/status.json").read_text())
+    assert source_state["checked_at"] != original_change
+    assert source_state["changed_at"] == original_change
+    assert public_status["checked_at"] == source_state["checked_at"]
+    assert public_status["changed_at"] == original_change
+    assert public_status["source_changed"] is False
 
 
 def test_site_rolls_back_on_feed_failure(tmp_path, fixture_events, monkeypatch):
