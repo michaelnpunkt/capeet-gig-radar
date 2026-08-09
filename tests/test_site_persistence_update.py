@@ -42,6 +42,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert all(state in html for state in ("Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"))
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
+    assert 'class="nav-break"' in html and ".nav-break{flex-basis:100%" in styles
     assert "data-states=\"all\"" in html and "data-genres=\"all\"" in html and "data-genres=\"none\"" in html and "Nur Wien" not in html
     assert 'id="month"' in html and 'id="days"' in html
     assert "Capeet entdeckt" in html and "jüngste erkannte Revision" in html
