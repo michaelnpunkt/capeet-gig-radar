@@ -22,6 +22,7 @@ ARTIST_SEPARATOR = re.compile(r"\s+(?:/|\+)\s+")
 POSTAL_CITY = re.compile(r"(?:^|[,;/]\s*)?(?P<postal>\d{4})\s+(?P<city>[^,;/]+)\s*$")
 CANCELLED = ("abgesagt", "abges.", "cancelled", "canceled", "entfällt", "entfaellt")
 POSTPONED = ("verschoben", "verlegt", "postponed")
+PARTIAL_CANCELLATION = re.compile(r"\[(?P<artist>[^\]]+?)\s+(?:cancelled|canceled|abgesagt)\.?\]", re.I)
 
 
 @dataclass(slots=True)
@@ -182,7 +183,11 @@ def _parse_line(tokens: list[Token], year: int, prior_month: int | None) -> tupl
     festival = normalize_text(" ".join(token.text for token in before if token.italic)).strip(" ,;-–—") or None
     venue, city, postal_code = _parse_location(after, source_text.split("@", 1)[1])
     folded = source_text.casefold()
-    status = "cancelled" if any(token.red for token in remaining) or any(word in folded for word in CANCELLED) else "postponed" if any(word in folded for word in POSTPONED) else "scheduled"
+    partial_cancellation = PARTIAL_CANCELLATION.search(source_text)
+    whole_event_cancelled = any(token.red for token in before) or (
+        any(word in folded for word in CANCELLED) and partial_cancellation is None
+    )
+    status = "cancelled" if whole_event_cancelled else "postponed" if any(word in folded for word in POSTPONED) else "scheduled"
     links: list[Link] = []
     seen: set[str] = set()
     for token in remaining:

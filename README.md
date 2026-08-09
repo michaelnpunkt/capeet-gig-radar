@@ -65,6 +65,8 @@ Overrides verwenden normalisierte Künstler- beziehungsweise Ortsnamen als Schl�
 
 Als signifikant gelten Änderungen an Konzertdatum, tatsächlichen Line-up-Namen, Titel, Venue, Ort, Postleitzahl, Status oder Listung. Rein kosmetische beziehungsweise technische Änderungen an Länderkennungen, Künstlerlinks, Bundesland-Enrichment oder Capeet-Rohtext erzeugen keine Revision. Groß-/Kleinschreibung, Akzente und reine Zeichensetzungsunterschiede bei Titel und Ort werden ebenfalls ignoriert.
 
+Eine Absage gilt nur dann als Eventabsage, wenn Capeet die gesamte Terminzeile entsprechend markiert. Entfällt lediglich ein Act innerhalb eines weiterhin stattfindenden Line-ups, bleibt das Event aktiv und erscheint als normale Line-up-Änderung. Die Hauptseite und das Changelog zeigen entfernte Werte durchgestrichen und neue Werte direkt daneben; das gilt auch für signifikante Änderungen an Datum, Venue und Ort.
+
 `docs/feed.xml` enthält höchstens 100 Chronikeinträge der letzten 90 Tage. Zusätzlich entstehen neun Bundesland-Feeds unter `docs/feeds/neu-{bundesland}.xml`. Jede Revision hat eine eigene stabile GUID und verlinkt direkt auf ihren Eintrag im Changelog. Dadurch zeigen Feedreader spätere Änderungen als neue Meldung und ersetzen nicht still den ursprünglichen Eintrag.
 
 Die responsive Oberfläche bietet:

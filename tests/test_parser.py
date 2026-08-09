@@ -28,6 +28,18 @@ def test_cancellation_red_text_and_year_rollover(fixture_path):
     assert events[-1].event_date.isoformat() == "2028-01-02"
 
 
+def test_artist_cancellation_note_does_not_cancel_whole_event():
+    html = '<h2>Gigs 2027</h2>08.08.: <b>Remaining Band</b> @ <i>Festival, Wien</i> <font color="red">[Former Band cancelled.]</font><br>'
+    event = parse_events(html, "https://www.capeet.com/gigs_list.html")[0]
+    assert event.status == "scheduled"
+    assert event.artists[0].name == "Remaining Band"
+
+
+def test_red_whole_line_still_cancels_event():
+    html = '<h2>Gigs 2027</h2><font color="red">08.08.: <b>Band</b> @ <i>Club, Wien</i> [cancelled.]</font><br>'
+    assert parse_events(html, "https://www.capeet.com/gigs_list.html")[0].status == "cancelled"
+
+
 def test_plain_year_marker_keeps_all_following_events_in_new_year():
     html = """<html><head><title>Gigs August 2026 - Oktober 2027</title></head><body>
     30.12.: <b>December Act</b> @ <i>Club</i>, 1010 Wien<br>

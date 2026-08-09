@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:08:50.597833+00:00",
+  "generated_at": "2026-08-09T14:10:05.034748+00:00",
   "revisions": [
     {
       "anchor": "change-4e485815e92bd5c999d4-1",
@@ -36,14 +36,10 @@
               "name": "PORTIA"
             }
           ]
-        },
-        "status": {
-          "from": "scheduled",
-          "to": "cancelled"
         }
       },
       "detected_at": "2026-08-08T05:08:50.597833+00:00",
-      "display_type": "cancelled",
+      "display_type": "changed",
       "event": {
         "active": true,
         "artists": [
@@ -109,7 +105,7 @@
         "revision": 1,
         "source_text": "08.08.: MEPHISTOFELES (arg) / BAITS / VERRAT / PORTIA u.a. @ Sauzipf Rocks, Döbriach [DEAD MEADOW cancelled.] [web]",
         "state": "Kärnten",
-        "status": "cancelled",
+        "status": "scheduled",
         "title": null,
         "venue": "Sauzipf Rocks"
       },

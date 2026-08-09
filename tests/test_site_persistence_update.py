@@ -48,6 +48,8 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert 'class="back-top"' in html and 'href="#top"' in html
     assert "Fehler melden" in html and "Idee vorschlagen" in html and "bug_report.yml" in html
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
+    assert "latest_revision" in data["events"][0] and "revisionDetails" in script and "changeRow" in script
+    assert "node('del'" in script and "node('ins'" in script and "Event abgesagt" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" in script
     assert "past.checked" in script and "setView" in script and "params.set('view','list')" in script
     assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles and ".cards.list-view" in styles
@@ -58,6 +60,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert 'class="back-top"' in changes_html and "Fehler melden" in changes_html
     changes_script = (output / "assets/changes.js").read_text()
     assert "innerHTML" not in changes_script and "textContent" in changes_script
+    assert "appendChange" in changes_script and "node('del'" in changes_script and "node('ins'" in changes_script
     assert "change-days" in changes_script and "change-state" in changes_script and "change-type" in changes_script
     for feed in output.glob("**/*.xml"):
         ET.parse(feed)
