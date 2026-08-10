@@ -5,7 +5,14 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:07:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: VENDED, TRENCHER, DISCOPOWERBOXXX – Feldkirch</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-74496facc7ed0c3ca29b-1</link>
+      <guid isPermaLink="false">74496facc7ed0c3ca29b:1</guid>
+      <pubDate>Mon, 10 Aug 2026 04:07:55 +0000</pubDate>
+      <description>2026-08-13 · Altes Hallenbad,  Feldkirch · Vorarlberg · Status: abgesagt → angekündigt</description>
+    </item>
   </channel>
 </rss>
