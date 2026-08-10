@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:00:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: BEER, BÜROKLAMMER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e549aa0606c1d17b14c5-1</link>
+      <guid isPermaLink="false">e549aa0606c1d17b14c5:1</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:44 +0000</pubDate>
+      <description>2026-08-25 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: TV MOMS, TIMESHIFT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cce9129a9924141a13d2-1</link>
+      <guid isPermaLink="false">cce9129a9924141a13d2:1</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:44 +0000</pubDate>
+      <description>2026-08-25 · Café Carina,  Wien · Wien · Line-up: TV MOMS → TV MOMS · TIMESHIFT</description>
+    </item>
+    <item>
+      <title>Neu: MORSCHT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a6475eeebf0690456bc3-1</link>
+      <guid isPermaLink="false">a6475eeebf0690456bc3:1</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:44 +0000</pubDate>
+      <description>2026-08-29 · Sissysound,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: MEPHISTOFELES, BAITS, VERRAT, PORTIA – Döbriach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4e485815e92bd5c999d4-1</link>

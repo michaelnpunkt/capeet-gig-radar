@@ -645,6 +645,12 @@
       "Death Metal"
     ]
   },
+  "beer": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "behind the mask": {
     "family": "Metal",
     "source": "lastfm",
@@ -937,6 +943,12 @@
   "burnswell": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "buroklammer": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "bury tomorrow": {
@@ -4265,6 +4277,12 @@
       "Death Metal"
     ]
   },
+  "morscht": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "mother s cake": {
     "family": "Rock",
     "source": "lastfm",
@@ -6621,6 +6639,14 @@
     "family": "Punk",
     "source": "lastfm",
     "subgenres": []
+  },
+  "timeshift": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
   },
   "titan killer": {
     "family": "Metal",

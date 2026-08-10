@@ -109,5 +109,172 @@
     "guid": "4e485815e92bd5c999d4:1",
     "kind": "changed",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-10T10:00:44.654818+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://beer.bandcamp.com/",
+          "name": "BEER"
+        },
+        {
+          "country": null,
+          "link": "https://bueroklammer.bandcamp.com/",
+          "name": "BÜROKLAMMER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-10T10:00:44.654818+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-25",
+      "first_seen_at": "2026-08-10T10:00:44.654818+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e549aa0606c1d17b14c5",
+      "last_seen_at": "2026-08-10T10:00:44.654818+00:00",
+      "links": [
+        {
+          "label": "BEER",
+          "url": "https://beer.bandcamp.com/"
+        },
+        {
+          "label": "BÜROKLAMMER",
+          "url": "https://bueroklammer.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.08.: BEER (usa) / BÜROKLAMMER @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "e549aa0606c1d17b14c5",
+    "guid": "e549aa0606c1d17b14c5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "TV MOMS"
+          }
+        ],
+        "to": [
+          {
+            "name": "TV MOMS"
+          },
+          {
+            "name": "TIMESHIFT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-10T10:00:44.654818+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://tvmoms.bandcamp.com/",
+          "name": "TV MOMS"
+        },
+        {
+          "country": null,
+          "link": "https://www.discogs.com/artist/1224916-Timeshift-2",
+          "name": "TIMESHIFT"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-10T10:00:44.654818+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "cce9129a9924141a13d2",
+      "last_seen_at": "2026-08-10T10:00:44.654818+00:00",
+      "links": [
+        {
+          "label": "TV MOMS",
+          "url": "https://tvmoms.bandcamp.com/"
+        },
+        {
+          "label": "TIMESHIFT",
+          "url": "https://www.discogs.com/artist/1224916-Timeshift-2"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1323249076155445/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.08.: TV MOMS (usa) / TIMESHIFT @ Café Carina, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "cce9129a9924141a13d2",
+    "guid": "cce9129a9924141a13d2:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-10T10:00:44.654818+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://morscht.bandcamp.com/",
+          "name": "MORSCHT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-10T10:00:44.654818+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-29",
+      "first_seen_at": "2026-08-10T10:00:44.654818+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "a6475eeebf0690456bc3",
+      "last_seen_at": "2026-08-10T10:00:44.654818+00:00",
+      "links": [
+        {
+          "label": "MORSCHT",
+          "url": "https://morscht.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.08.: MORSCHT @ Sissysound, Wien [17:00!]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Sissysound"
+    },
+    "event_id": "a6475eeebf0690456bc3",
+    "guid": "a6475eeebf0690456bc3:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
