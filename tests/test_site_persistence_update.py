@@ -55,6 +55,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "innerHTML" not in script and "textContent" in script and "safeLink" in script
     assert "data/status.json" in script and "Zuletzt geprüft" in script and "Daten geändert" in script
     assert "latest_revision" in data["events"][0] and "revisionDetails" in script and "changeRow" in script
+    assert "event.latest_revision?.kind==='new'?'Neu':'Geändert'" in script and "event.revision===1?'Neu'" not in script
     assert "node('del'" in script and "node('ins'" in script and "Event abgesagt" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" not in script and "updateFeeds" not in script
     assert "past.checked" in script and "hideCancelled" in script and "data-genres" in script and "setView" in script and "params.set('view','list')" in script

@@ -2591,7 +2591,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Feldkirch",
       "event_date": "2026-08-13",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -2604,16 +2604,7 @@
       },
       "id": "74496facc7ed0c3ca29b",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "VENDED",
@@ -2633,7 +2624,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "13.08.: VENDED (usa) / TRENCHER / DISCOPOWERBOXXX @ Altes Hallenbad, Feldkirch [OF MICE & MEN cancelled.] [web]",
       "state": "Vorarlberg",
       "status": "scheduled",
@@ -3754,7 +3745,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2026-08-16",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -3765,16 +3756,7 @@
       },
       "id": "ab3e55f1559cd9c36d49",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "DEFTONES",
@@ -3790,7 +3772,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "16.08.: DEFTONES (usa) / SHOW ME THE BODY (usa) @ METAStadt (Open Air), Wien [sold out!] [fb]",
       "state": "Wien",
       "status": "scheduled",
@@ -18137,7 +18119,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2026-10-20",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -18148,16 +18130,7 @@
       },
       "id": "be09bff38f90c6cdf1bc",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "SIMPLE PLAN",
@@ -18177,7 +18150,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "20.10.: SIMPLE PLAN (can) / NECK DEEP (uk) / Charlotte Sands (usa) @ Gasometer, Wien [sold out!] [fb]",
       "state": "Wien",
       "status": "scheduled",
@@ -19166,7 +19139,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2026-10-23",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -19179,16 +19152,7 @@
       },
       "id": "fcdb4a592a198f536295",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "CLAWFINGER",
@@ -19200,7 +19164,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "23.10.: CLAWFINGER (swe) @ Arena (gr. Halle), Wien [sold out!] [fb]",
       "state": "Wien",
       "status": "scheduled",
@@ -19222,7 +19186,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Salzburg",
       "event_date": "2026-10-23",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -19233,16 +19197,7 @@
       },
       "id": "d34231952f363973ea00",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "DANKO JONES",
@@ -19258,7 +19213,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "23.10.: DANKO JONES (can) / SPLIT DOGS (uk) @ Rockhouse, Salzburg [sold out!] [web]",
       "state": "Salzburg",
       "status": "scheduled",
@@ -23453,7 +23408,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2026-11-06",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -23466,16 +23421,7 @@
       },
       "id": "78a79195749520eecccb",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "AUX ANIMAUX",
@@ -23495,7 +23441,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "06.11.: AUX ANIMAUX (swe) / Christian Fetish / VKGOESWILD @ Replugged, Wien [Die SELEKTION cancelled.] [fb]",
       "state": "Wien",
       "status": "scheduled",
@@ -32626,7 +32572,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2026-12-30",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -32639,16 +32585,7 @@
       },
       "id": "cd207bc8639906a840e9",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "Schirenc plays PUNGENT STENCH",
@@ -32664,7 +32601,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "30.12.: Schirenc plays PUNGENT STENCH / DISHARMONIC ORCHESTRA / NEKRODEUS @ Viper Room, Wien [sold out!]",
       "state": "Wien",
       "status": "scheduled",
@@ -35495,7 +35432,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2027-05-12",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -35506,16 +35443,7 @@
       },
       "id": "d7a9686ad9f2d7a36db5",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "Die ÄRZTE",
@@ -35527,7 +35455,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "12.05.: Die ÄRZTE (d) @ Stadthalle, Wien [sold out!] [fb]",
       "state": "Wien",
       "status": "scheduled",
@@ -35544,7 +35472,7 @@
         }
       ],
       "baseline": true,
-      "changed_at": "2026-08-10T04:07:55.664039+00:00",
+      "changed_at": null,
       "city": "Wien",
       "event_date": "2027-05-13",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -35555,16 +35483,7 @@
       },
       "id": "207568e5f5c20eb30b78",
       "last_seen_at": "2026-08-10T04:07:55.664039+00:00",
-      "latest_revision": {
-        "changes": {
-          "status": {
-            "from": "cancelled",
-            "to": "scheduled"
-          }
-        },
-        "detected_at": "2026-08-10T04:07:55.664039+00:00",
-        "kind": "changed"
-      },
+      "latest_revision": null,
       "links": [
         {
           "label": "Die ÄRZTE",
@@ -35576,7 +35495,7 @@
         }
       ],
       "postal_code": null,
-      "revision": 1,
+      "revision": 0,
       "source_text": "13.05.: Die ÄRZTE (d) @ Stadthalle, Wien [sold out!] [fb]",
       "state": "Wien",
       "status": "scheduled",
