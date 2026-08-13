@@ -276,5 +276,85 @@
     "guid": "a6475eeebf0690456bc3:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "EXTERMINATION DISMEMBERMENT"
+          },
+          {
+            "name": "INTERNAL BLEEDING"
+          },
+          {
+            "name": "STREET TO THE OCEAN"
+          }
+        ],
+        "to": [
+          {
+            "name": "INTERNAL BLEEDING"
+          },
+          {
+            "name": "STREET TO THE OCEAN"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-13T04:21:24.874455+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/InternalBleeding/",
+          "name": "INTERNAL BLEEDING"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/streettotheocean/",
+          "name": "STREET TO THE OCEAN"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-13T04:21:24.874455+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-13",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "143fce6718d34bcd2126",
+      "last_seen_at": "2026-08-13T04:21:24.874455+00:00",
+      "links": [
+        {
+          "label": "INTERNAL BLEEDING",
+          "url": "https://www.facebook.com/InternalBleeding/"
+        },
+        {
+          "label": "STREET TO THE OCEAN",
+          "url": "https://www.facebook.com/streettotheocean/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/953171477735617"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.08.: INTERNAL BLEEDING (usa) / STREET TO THE OCEAN u.a. @ Weberknecht, Wien [EXT. DISMEMBERMENT cancelled.] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "143fce6718d34bcd2126",
+    "guid": "143fce6718d34bcd2126:1",
+    "kind": "changed",
+    "revision": 1
   }
 ]
