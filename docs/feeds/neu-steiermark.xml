@@ -5,7 +5,14 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:05:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: EUROTEURO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd1fefd2214ecb696fd1-1</link>
+      <guid isPermaLink="false">cd1fefd2214ecb696fd1:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-11-12 · Music-House,  Graz · Steiermark</description>
+    </item>
   </channel>
 </rss>

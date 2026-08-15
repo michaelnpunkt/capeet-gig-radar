@@ -248,6 +248,12 @@
       "Death Metal"
     ]
   },
+  "alles exhausted": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "allie x": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -473,6 +479,12 @@
   },
   "austrofred": {
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "autocamper": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -1128,6 +1140,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "christiane rosinger": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "christophe clebard": {
     "family": "Punk",
     "source": "lastfm",
@@ -1749,6 +1767,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "die revue": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "die verlierer": {
     "family": "Goth/Post-Punk",
@@ -4192,6 +4216,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "modecenter": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "modula nation": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4904,6 +4934,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "power plush": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
     "subgenres": []
   },
   "pressure drop": {
@@ -6042,6 +6078,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "swelle": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "sydney valette": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -6513,6 +6555,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "the telly": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the toasters": {
     "family": "Punk",
     "source": "lastfm",
@@ -6696,6 +6744,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "tramhaus": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "tranen": {
     "classifier_version": 2,

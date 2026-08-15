@@ -1,6 +1,403 @@
 {
-  "generated_at": "2026-08-13T04:21:24.874455+00:00",
+  "generated_at": "2026-08-15T03:05:24.986489+00:00",
   "revisions": [
+    {
+      "anchor": "change-72358fa1834a29591ae9-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://culk1000.bandcamp.com/",
+            "name": "CULK"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/swelleswelleswelle/",
+            "name": "SWELLE"
+          },
+          {
+            "country": "D",
+            "link": "https://www.powerplush.rocks/",
+            "name": "POWER PLUSH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-01",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "72358fa1834a29591ae9",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "CULK",
+            "url": "https://culk1000.bandcamp.com/"
+          },
+          {
+            "label": "SWELLE",
+            "url": "https://www.instagram.com/swelleswelleswelle/"
+          },
+          {
+            "label": "POWER PLUSH",
+            "url": "https://www.powerplush.rocks/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kupfticket.com/events/culk-album-release-show-smogstar"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "01.10.: CULK / SWELLE / POWER PLUSH (d) @ Flex (Halle), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex (Halle)"
+      },
+      "event_id": "72358fa1834a29591ae9",
+      "guid": "72358fa1834a29591ae9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-58fad849f893bc71def6-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://euroteuro.bandcamp.com/",
+            "name": "EUROTEURO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "58fad849f893bc71def6",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "EUROTEURO",
+            "url": "https://euroteuro.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kupfticket.com/events/euroteuro-album-release-show-magic"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: EUROTEURO @ B72, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "B72"
+      },
+      "event_id": "58fad849f893bc71def6",
+      "guid": "58fad849f893bc71def6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-90513478f79135e8300c-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://autocamper.bandcamp.com/",
+            "name": "AUTOCAMPER"
+          },
+          {
+            "country": null,
+            "link": "https://allesexhausted.bandcamp.com/",
+            "name": "ALLES EXHAUSTED"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/the_tellyyy/",
+            "name": "The TELLY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-29",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "90513478f79135e8300c",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "AUTOCAMPER",
+            "url": "https://autocamper.bandcamp.com/"
+          },
+          {
+            "label": "ALLES EXHAUSTED",
+            "url": "https://allesexhausted.bandcamp.com/"
+          },
+          {
+            "label": "The TELLY",
+            "url": "https://www.instagram.com/the_tellyyy/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.10.: Siluh Soirée #13 feat. AUTOCAMPER (uk) / ALLES EXHAUSTED / The TELLY @ Lucia, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Siluh Soirée #13",
+        "venue": "Lucia"
+      },
+      "event_id": "90513478f79135e8300c",
+      "guid": "90513478f79135e8300c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-cd1fefd2214ecb696fd1-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://euroteuro.bandcamp.com/",
+            "name": "EUROTEURO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "cd1fefd2214ecb696fd1",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "EUROTEURO",
+            "url": "https://euroteuro.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.11.: EUROTEURO @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "cd1fefd2214ecb696fd1",
+      "guid": "cd1fefd2214ecb696fd1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-10879709415c6d8c8712-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NED",
+            "link": "https://tramhaus.bandcamp.com/",
+            "name": "TRAMHAUS"
+          },
+          {
+            "country": null,
+            "link": "https://modecenter.bandcamp.com/",
+            "name": "MODECENTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-19",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "10879709415c6d8c8712",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "TRAMHAUS",
+            "url": "https://tramhaus.bandcamp.com/"
+          },
+          {
+            "label": "MODECENTER",
+            "url": "https://modecenter.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.11.: Siluh Soirée #14 feat. TRAMHAUS (ned) / MODECENTER @ Kaorle OWA, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Siluh Soirée #14",
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "10879709415c6d8c8712",
+      "guid": "10879709415c6d8c8712:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5416e287c5d30582b663-1",
+      "changes": {},
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/christianeroesinger/",
+            "name": "Christiane Rösinger"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "Die REVUE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "5416e287c5d30582b663",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "Christiane Rösinger",
+            "url": "https://www.instagram.com/christianeroesinger/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: Siluh Soirée #15 feat. Christiane Rösinger (d) / Die REVUE @ Kaorle OWA, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Siluh Soirée #15",
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "5416e287c5d30582b663",
+      "guid": "5416e287c5d30582b663:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-12691cc6a9d87a0ff694-1",
+      "changes": {
+        "title": {
+          "from": null,
+          "to": "Siluh Soirée #16"
+        }
+      },
+      "detected_at": "2026-08-15T03:05:24.986489+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://thetubs.bandcamp.com/",
+            "name": "The TUBS"
+          },
+          {
+            "country": null,
+            "link": "https://laundromatchicks.bandcamp.com/",
+            "name": "LAUNDROMAT CHICKS"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-15T03:05:24.986489+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-15",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "12691cc6a9d87a0ff694",
+        "last_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "links": [
+          {
+            "label": "The TUBS",
+            "url": "https://thetubs.bandcamp.com/"
+          },
+          {
+            "label": "LAUNDROMAT CHICKS",
+            "url": "https://laundromatchicks.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1683817046383621"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.12.: Siluh Soirée #16 feat. The TUBS (uk) / LAUNDROMAT CHICKS @ B72, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Siluh Soirée #16",
+        "venue": "B72"
+      },
+      "event_id": "12691cc6a9d87a0ff694",
+      "guid": "12691cc6a9d87a0ff694:1",
+      "kind": "changed",
+      "revision": 1
+    },
     {
       "anchor": "change-143fce6718d34bcd2126-1",
       "changes": {

@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:05:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: CULK, SWELLE, POWER PLUSH – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-72358fa1834a29591ae9-1</link>
+      <guid isPermaLink="false">72358fa1834a29591ae9:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-10-01 · Flex (Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: EUROTEURO – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-58fad849f893bc71def6-1</link>
+      <guid isPermaLink="false">58fad849f893bc71def6:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-10-23 · B72,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: AUTOCAMPER, ALLES EXHAUSTED, The TELLY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-90513478f79135e8300c-1</link>
+      <guid isPermaLink="false">90513478f79135e8300c:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-10-29 · Lucia,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: EUROTEURO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd1fefd2214ecb696fd1-1</link>
+      <guid isPermaLink="false">cd1fefd2214ecb696fd1:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-11-12 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: TRAMHAUS, MODECENTER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-10879709415c6d8c8712-1</link>
+      <guid isPermaLink="false">10879709415c6d8c8712:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-11-19 · Kaorle OWA,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Christiane Rösinger, Die REVUE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5416e287c5d30582b663-1</link>
+      <guid isPermaLink="false">5416e287c5d30582b663:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-11-27 · Kaorle OWA,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: The TUBS, LAUNDROMAT CHICKS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12691cc6a9d87a0ff694-1</link>
+      <guid isPermaLink="false">12691cc6a9d87a0ff694:1</guid>
+      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
+      <description>2026-12-15 · B72,  Wien · Wien · Titel: – → Siluh Soirée #16</description>
+    </item>
     <item>
       <title>Geändert: INTERNAL BLEEDING, STREET TO THE OCEAN – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-143fce6718d34bcd2126-1</link>
