@@ -5,7 +5,35 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 17 Aug 2026 03:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:09:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LOTHARIO, The BROOM, CUT MANNERS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ccf74c2a9bfcb55f6e9-1</link>
+      <guid isPermaLink="false">4ccf74c2a9bfcb55f6e9:1</guid>
+      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
+      <description>2026-09-23 · Kapu,  Linz · Oberösterreich · Line-up: LOTHARIO · CUT MANNERS → LOTHARIO · The BROOM · CUT MANNERS</description>
+    </item>
+    <item>
+      <title>Neu: DEVIATED INSTINCT, PRECIPICE, SCAB, DISCLONE – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b1464336e76de0d92a8b-1</link>
+      <guid isPermaLink="false">b1464336e76de0d92a8b:1</guid>
+      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
+      <description>2026-10-16 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: PLASMA, SUBVERSIVE POWER, DISARM, HASE – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b0680767ca0a01101d69-1</link>
+      <guid isPermaLink="false">b0680767ca0a01101d69:1</guid>
+      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
+      <description>2026-10-17 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: PORTRAYAL OF GUILT, SPIKE HELLIS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b610b4a507adada1da1-1</link>
+      <guid isPermaLink="false">0b610b4a507adada1da1:1</guid>
+      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
+      <description>2026-11-27 · Kapu,  Linz · Oberösterreich</description>
+    </item>
   </channel>
 </rss>
