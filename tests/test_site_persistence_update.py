@@ -58,6 +58,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "setupCollapsibleBanners" in script and "banner.open=!mobile.matches" in script
     assert 'href="assets/mobile-banners.css"' in html
     assert ".banner-chevron" in banner_styles and "collapsible-banner[open]" in banner_styles
+    assert ".capeet-shout .banner-chevron{flex:0 0 .7rem" in banner_styles
     assert "data-states=\"all\"" in html and "data-genres=\"all\"" in html and "data-genres=\"none\"" in html and "Nur Wien" not in html
     assert 'id="month"' in html and 'id="days"' in html
     assert "Hinzufügungsdatum (neueste zuerst)" in html and "Hinzufügungsdatum (älteste zuerst)" in html and "jüngste erkannte Revision" in html
