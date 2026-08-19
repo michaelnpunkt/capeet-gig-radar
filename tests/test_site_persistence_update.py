@@ -12,7 +12,7 @@ from src.fetch import FetchResult
 from src.history import reconcile
 from src.locations import apply_locations
 from src.persistence import atomic_write_json
-from src.site import APP_JS, INDEX_HTML, generate_site
+from src.site import APP_JS, INDEX_HTML, MOBILE_BANNERS_CSS, generate_site
 from src.update import run
 
 
@@ -28,6 +28,7 @@ def test_committed_site_shell_matches_generator():
     docs = Path(__file__).resolve().parents[1] / "docs"
     assert (docs / "index.html").read_text() == INDEX_HTML
     assert (docs / "assets/app.js").read_text() == APP_JS
+    assert (docs / "assets/mobile-banners.css").read_text() == MOBILE_BANNERS_CSS
 
 
 def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_events):
@@ -39,6 +40,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     html = (output / "index.html").read_text()
     script = (output / "assets/app.js").read_text()
     styles = (output / "assets/styles.css").read_text()
+    banner_styles = (output / "assets/mobile-banners.css").read_text()
     data = json.loads((output / "data/gigs.json").read_text())
     status_data = json.loads((output / "data/status.json").read_text())
     changes_data = json.loads((output / "data/changes.json").read_text())
@@ -49,7 +51,13 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert all(state in html for state in ("Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"))
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
-    assert 'class="nav-break"' in html and ".nav-break{flex-basis:100%" in styles
+    assert html.count("collapsible-banner") == 3 and html.count("banner-chevron") == 3
+    assert '<summary><strong>Big shout-out to <a href="https://www.capeet.com/gigs_list.html"' in html
+    assert 'collapsible-banner" open' not in html
+    assert "Öffnen" not in html and "Schließen" not in html
+    assert "setupCollapsibleBanners" in script and "banner.open=!mobile.matches" in script
+    assert 'href="assets/mobile-banners.css"' in html
+    assert ".banner-chevron" in banner_styles and "collapsible-banner[open]" in banner_styles
     assert "data-states=\"all\"" in html and "data-genres=\"all\"" in html and "data-genres=\"none\"" in html and "Nur Wien" not in html
     assert 'id="month"' in html and 'id="days"' in html
     assert "Hinzufügungsdatum (neueste zuerst)" in html and "Hinzufügungsdatum (älteste zuerst)" in html and "jüngste erkannte Revision" in html
