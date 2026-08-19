@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from datetime import datetime, timezone
+from pathlib import Path
 from xml.etree import ElementTree as ET
 
 import pytest
@@ -11,7 +12,7 @@ from src.fetch import FetchResult
 from src.history import reconcile
 from src.locations import apply_locations
 from src.persistence import atomic_write_json
-from src.site import generate_site
+from src.site import APP_JS, INDEX_HTML, generate_site
 from src.update import run
 
 
@@ -21,6 +22,12 @@ def test_atomic_json(tmp_path):
     atomic_write_json(path, {"new": "ä"})
     assert json.loads(path.read_text()) == {"new": "ä"}
     assert list(path.parent.glob(f".{path.name}.*")) == []
+
+
+def test_committed_site_shell_matches_generator():
+    docs = Path(__file__).resolve().parents[1] / "docs"
+    assert (docs / "index.html").read_text() == INDEX_HTML
+    assert (docs / "assets/app.js").read_text() == APP_JS
 
 
 def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_events):
