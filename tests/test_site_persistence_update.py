@@ -49,12 +49,7 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert all(state in html for state in ("Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"))
     assert "nur einmal täglich abgerufen" in html and "Original-Gigliste bei Capeet öffnen" in html
     assert "Abruf: 1× täglich" in html and "Capeet Original" in html
-    assert html.count('class="disclosure-action"') == 3 and html.count("mobile-disclosure") == 3
-    assert '<summary><strong>Big shout-out to <a href="https://www.capeet.com/gigs_list.html"' in html
-    assert '<summary><span id="header-metadata">' in html and '<summary><h2 id="filter-heading">' in html
-    assert "setupMobileDisclosures" in script and "(max-width:760px)" in script
-    assert "!viewport.matches&&!event.target.closest('a')" in script
-    assert ".disclosure-action" in styles and ".mobile-disclosure" in styles
+    assert 'class="nav-break"' in html and ".nav-break{flex-basis:100%" in styles
     assert "data-states=\"all\"" in html and "data-genres=\"all\"" in html and "data-genres=\"none\"" in html and "Nur Wien" not in html
     assert 'id="month"' in html and 'id="days"' in html
     assert "Hinzufügungsdatum (neueste zuerst)" in html and "Hinzufügungsdatum (älteste zuerst)" in html and "jüngste erkannte Revision" in html
@@ -88,7 +83,6 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     changes_html = (output / "changes.html").read_text()
     assert "Gig<br>" in changes_html and "<span>Changelog</span>" in changes_html
     assert 'class="back-top"' in changes_html and "Fehler melden" in changes_html
-    assert changes_html.count("mobile-disclosure") == 2 and '<summary><span id="changes-metadata">' in changes_html
     changes_script = (output / "assets/changes.js").read_text()
     assert "innerHTML" not in changes_script and "textContent" in changes_script
     assert "data/status.json" in changes_script and "Zuletzt geprüft" in changes_script and "Daten geändert" in changes_script

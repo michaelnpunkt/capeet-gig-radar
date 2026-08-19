@@ -82,7 +82,6 @@ Die responsive Oberfläche bietet:
 - verständliche Hilfetexte zu Historie und Sortierungen
 - teilbare URL-Parameter und ergänzende Speicherung im Browser
 - direkte Links zur Capeet-Originalquelle sowie zum Gesamt- und zu den Bundesland-Feeds
-- auf kleinen Displays standardmäßig eingeklappte, klar aufklappbare Capeet-, Status- und Filterbereiche
 - eigene responsive Changelog-Seite für Besucher, die nicht täglich nachsehen
 - responsives, kontrastreiches Metalcore-Design ohne Tracking, Werbung oder Cookies
 
