@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 19 Aug 2026 03:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:16:49 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: DESCARTES A KANT, MODULA NATION – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-98ece867e05d0610840f-1</link>
+      <guid isPermaLink="false">98ece867e05d0610840f:1</guid>
+      <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
+      <description>2026-09-19 · Lucia,  Wien · Wien · Line-up: DESCARTES A KANT → DESCARTES A KANT · MODULA NATION</description>
+    </item>
+    <item>
+      <title>Neu: SPITE HOUSE, PRIZE HORSE, WRONG MAN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3f73fb59e3ed50a1c568-1</link>
+      <guid isPermaLink="false">3f73fb59e3ed50a1c568:1</guid>
+      <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
+      <description>2026-12-10 · Lucia,  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: NONSENSE, GRUBI – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9c3ffc1439965e2ea6c3-1</link>
