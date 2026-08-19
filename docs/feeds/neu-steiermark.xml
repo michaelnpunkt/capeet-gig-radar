@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:11:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SCAMPI BUMP, The ÆMBER, HONEYFACE – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-862f86cad662738f7bc1-1</link>
+      <guid isPermaLink="false">862f86cad662738f7bc1:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-08-21 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: COMANIAC, RAVENOUS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f763de585cbb3628936-1</link>
+      <guid isPermaLink="false">5f763de585cbb3628936:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-09-03 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: ANYX – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-1</link>
+      <guid isPermaLink="false">46db00b4c87948f692f9:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-10-22 · Caf&amp;233 / Wolf,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: BONEGRINDER – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e46225e82267e1e2f393-1</link>

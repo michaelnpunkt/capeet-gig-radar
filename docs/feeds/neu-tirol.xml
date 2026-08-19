@@ -5,7 +5,42 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:11:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: TAUCHEN, STEREOTYPEN – Lienz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e28c3db64c40635ec4bd-1</link>
+      <guid isPermaLink="false">e28c3db64c40635ec4bd:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-09-25 · mukl,  Lienz · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: BERTHAJU – Lienz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4800591bcd9aaf80b806-1</link>
+      <guid isPermaLink="false">4800591bcd9aaf80b806:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-10-17 · mukl,  Lienz · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: CORDOBA78 – Lienz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-67dabe1cab68875980ae-1</link>
+      <guid isPermaLink="false">67dabe1cab68875980ae:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-10-30 · mukl,  Lienz · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: MADSEN – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6d55c041e14dd8ca6a72-1</link>
+      <guid isPermaLink="false">6d55c041e14dd8ca6a72:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-11-20 · Music Hall,  Innsbruck · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: TA GA DA – Lienz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8e052b87e55af8dde203-1</link>
+      <guid isPermaLink="false">8e052b87e55af8dde203:1</guid>
+      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
+      <description>2026-12-26 · mukl,  Lienz · Tirol</description>
+    </item>
   </channel>
 </rss>
