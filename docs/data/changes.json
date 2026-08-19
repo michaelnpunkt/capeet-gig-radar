@@ -1,6 +1,225 @@
 {
-  "generated_at": "2026-08-19T03:11:47.510618+00:00",
+  "generated_at": "2026-08-19T17:16:49.068342+00:00",
   "revisions": [
+    {
+      "anchor": "change-a340555deb9aef174a1a-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "WAR ON WOMEN"
+            }
+          ],
+          "to": [
+            {
+              "name": "WAR ON WOMEN"
+            },
+            {
+              "name": "BOING FLIP"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-19T17:16:49.068342+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://waronwomen.bandcamp.com/music",
+            "name": "WAR ON WOMEN"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/boingflipband/",
+            "name": "BOING FLIP"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-19T17:16:49.068342+00:00",
+        "city": "Graz",
+        "event_date": "2026-08-19",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "a340555deb9aef174a1a",
+        "last_seen_at": "2026-08-19T17:16:49.068342+00:00",
+        "links": [
+          {
+            "label": "WAR ON WOMEN",
+            "url": "https://waronwomen.bandcamp.com/music"
+          },
+          {
+            "label": "BOING FLIP",
+            "url": "https://www.instagram.com/boingflipband/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/950292061126437/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.08.: WAR ON WOMEN (usa) / BOING FLIP @ Music-House, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "a340555deb9aef174a1a",
+      "guid": "a340555deb9aef174a1a:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-98ece867e05d0610840f-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "DESCARTES A KANT"
+            }
+          ],
+          "to": [
+            {
+              "name": "DESCARTES A KANT"
+            },
+            {
+              "name": "MODULA NATION"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-19T17:16:49.068342+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "MEX",
+            "link": "https://descartesakant.bandcamp.com/",
+            "name": "DESCARTES A KANT"
+          },
+          {
+            "country": null,
+            "link": "https://modulanation.bandcamp.com/",
+            "name": "MODULA NATION"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-19T17:16:49.068342+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-19",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "98ece867e05d0610840f",
+        "last_seen_at": "2026-08-19T17:16:49.068342+00:00",
+        "links": [
+          {
+            "label": "DESCARTES A KANT",
+            "url": "https://descartesakant.bandcamp.com/"
+          },
+          {
+            "label": "MODULA NATION",
+            "url": "https://modulanation.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1031904703071580/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.09.: DESCARTES A KANT (mex) / MODULA NATION @ Lucia, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "98ece867e05d0610840f",
+      "guid": "98ece867e05d0610840f:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3f73fb59e3ed50a1c568-1",
+      "changes": {},
+      "detected_at": "2026-08-19T17:16:49.068342+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://spitehousemtl.bandcamp.com/",
+            "name": "SPITE HOUSE"
+          },
+          {
+            "country": "USA",
+            "link": "https://prizehorse.bandcamp.com/",
+            "name": "PRIZE HORSE"
+          },
+          {
+            "country": "BEL",
+            "link": "https://wrongman.bandcamp.com/music",
+            "name": "WRONG MAN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-19T17:16:49.068342+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-10",
+        "first_seen_at": "2026-08-19T17:16:49.068342+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "3f73fb59e3ed50a1c568",
+        "last_seen_at": "2026-08-19T17:16:49.068342+00:00",
+        "links": [
+          {
+            "label": "SPITE HOUSE",
+            "url": "https://spitehousemtl.bandcamp.com/"
+          },
+          {
+            "label": "PRIZE HORSE",
+            "url": "https://prizehorse.bandcamp.com/"
+          },
+          {
+            "label": "WRONG MAN",
+            "url": "https://wrongman.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4306395796339012/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.12.: SPITE HOUSE (can) / PRIZE HORSE (usa) / WRONG MAN (bel) @ Lucia, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "3f73fb59e3ed50a1c568",
+      "guid": "3f73fb59e3ed50a1c568:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-9c3ffc1439965e2ea6c3-1",
       "changes": {},

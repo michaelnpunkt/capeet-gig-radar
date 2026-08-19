@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 19 Aug 2026 03:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:16:49 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: WAR ON WOMEN, BOING FLIP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a340555deb9aef174a1a-1</link>
+      <guid isPermaLink="false">a340555deb9aef174a1a:1</guid>
+      <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
+      <description>2026-08-19 · Music-House,  Graz · Steiermark · Line-up: WAR ON WOMEN → WAR ON WOMEN · BOING FLIP</description>
+    </item>
     <item>
       <title>Neu: SCAMPI BUMP, The ÆMBER, HONEYFACE – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-862f86cad662738f7bc1-1</link>

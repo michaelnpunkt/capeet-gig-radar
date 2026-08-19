@@ -907,6 +907,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "boing flip": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "bonegrinder": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -5271,6 +5277,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "prize horse": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "prunknelke": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -6218,6 +6232,14 @@
     "subgenres": [
       "Deathcore",
       "Black Metal"
+    ]
+  },
+  "spite house": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
     ]
   },
   "splendidula": {
@@ -7794,6 +7816,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "wrong man": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
     "subgenres": []
   },
   "xandria": {
