@@ -58,8 +58,10 @@ def test_site_multifilter_safe_dom_sorts_and_valid_feeds(tmp_path, fixture_event
     assert "event.latest_revision?.kind==='new'?'Neu':'Geändert'" in script and "event.revision===1?'Neu'" not in script
     assert "node('del'" in script and "node('ins'" in script and "Event abgesagt" in script
     assert "month.value" in script and "days.value" in script and "updateHeaderFeeds" not in script and "updateFeeds" not in script
+    assert "listSummary" in script and "list-line" in script and "markers.push('abgesagt')" in script
     assert "past.checked" in script and "hideCancelled" in script and "data-genres" in script and "setView" in script and "params.set('view','list')" in script
     assert "@media(max-width:760px)" in styles and "--acid:#d6ff00" in styles and ".cards.list-view" in styles
+    assert ".list-view .card>*{display:none}" in styles and "white-space:nowrap" in styles and "text-overflow:ellipsis" in styles
     assert {event["state"] for event in data["events"]} >= {"Wien", "Salzburg", "Steiermark", "Tirol"}
     assert changes_data["revisions"] == []
     assert status_data == {
