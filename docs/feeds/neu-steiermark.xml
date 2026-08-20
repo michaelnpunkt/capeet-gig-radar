@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:10:51 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: ANYX – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-2</link>
+      <guid isPermaLink="false">46db00b4c87948f692f9:2</guid>
+      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
+      <description>2026-10-22 · Café Wolf,  Graz · Steiermark · Venue: Caf&amp;233 / Wolf → Café Wolf</description>
+    </item>
+    <item>
+      <title>Neu: STATES OF CLAY – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7aec560ca184eea9d3b-1</link>
+      <guid isPermaLink="false">e7aec560ca184eea9d3b:1</guid>
+      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
+      <description>2026-11-12 · Café Wolf,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: WAR ON WOMEN, BOING FLIP – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a340555deb9aef174a1a-1</link>

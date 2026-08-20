@@ -3506,5 +3506,922 @@
     "guid": "3f73fb59e3ed50a1c568:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/mythguard.band/",
+          "name": "MYTHGUARD"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/daretodisturb/",
+          "name": "DARE TO DISTURB"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/beyondthefableband/",
+          "name": "BEYOND THE FABLE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-27",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "882d48d631624bb640d6",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "MYTHGUARD",
+          "url": "https://www.instagram.com/mythguard.band/"
+        },
+        {
+          "label": "DARE TO DISTURB",
+          "url": "https://www.instagram.com/daretodisturb/"
+        },
+        {
+          "label": "BEYOND THE FABLE",
+          "url": "https://www.instagram.com/beyondthefableband/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/782923454909322/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.08.: MYTHGUARD / DARE TO DISTURB / BEYOND THE FABLE @ G5, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "G5"
+    },
+    "event_id": "882d48d631624bb640d6",
+    "guid": "882d48d631624bb640d6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://bikinibeach.bandcamp.com/",
+          "name": "BIKINI BEACH"
+        },
+        {
+          "country": "D",
+          "link": "https://lyca.bandcamp.com/",
+          "name": "LYCA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-08-28",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c4bab8cfbcf2491410b9",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "BIKINI BEACH",
+          "url": "https://bikinibeach.bandcamp.com/"
+        },
+        {
+          "label": "LYCA",
+          "url": "https://lyca.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/surfinn-summer-jam/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.08.: BIKINI BEACH (d) / LYCA (d) @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "c4bab8cfbcf2491410b9",
+    "guid": "c4bab8cfbcf2491410b9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ITA",
+          "link": "https://konquest.bandcamp.com/",
+          "name": "KONQUEST"
+        },
+        {
+          "country": null,
+          "link": "https://www.wildhunt.at/",
+          "name": "WILDHUNT"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/atomicseasonthrash",
+          "name": "ATÖMIC SEASÖN"
+        },
+        {
+          "country": null,
+          "link": "https://ludgar.bandcamp.com/",
+          "name": "LUDGAR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Eferding",
+      "event_date": "2026-08-28",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a901dd64e7a0d889a5ff",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "KONQUEST",
+          "url": "https://konquest.bandcamp.com/"
+        },
+        {
+          "label": "WILDHUNT",
+          "url": "https://www.wildhunt.at/"
+        },
+        {
+          "label": "ATÖMIC SEASÖN",
+          "url": "https://www.facebook.com/atomicseasonthrash"
+        },
+        {
+          "label": "LUDGAR",
+          "url": "https://ludgar.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.08.: KONQUEST (ita) / WILDHUNT / ATÖMIC SEASÖN / LUDGAR @ Au bei Brandstatt 14, Eferding",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Au bei Brandstatt 14"
+    },
+    "event_id": "a901dd64e7a0d889a5ff",
+    "guid": "a901dd64e7a0d889a5ff:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://normsbp.bandcamp.com/",
+          "name": "NORMS"
+        },
+        {
+          "country": null,
+          "link": "https://hasepunx.bandcamp.com/",
+          "name": "HASE"
+        },
+        {
+          "country": null,
+          "link": "https://tonalshift.bandcamp.com/",
+          "name": "TONAL SHIFT"
+        },
+        {
+          "country": null,
+          "link": "https://harshresponse.bandcamp.com/",
+          "name": "HARSH RESPONSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-03",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "abe027026e586a3ccde3",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "NORMS",
+          "url": "https://normsbp.bandcamp.com/"
+        },
+        {
+          "label": "HASE",
+          "url": "https://hasepunx.bandcamp.com/"
+        },
+        {
+          "label": "TONAL SHIFT",
+          "url": "https://tonalshift.bandcamp.com/"
+        },
+        {
+          "label": "HARSH RESPONSE",
+          "url": "https://harshresponse.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.09.: NORMS (hun) / HASE / TONAL SHIFT / HARSH RESPONSE @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "abe027026e586a3ccde3",
+    "guid": "abe027026e586a3ccde3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://tsbbty.bandcamp.com/album/imposter",
+          "name": "BABY TYLER BAND"
+        },
+        {
+          "country": "USA",
+          "link": "https://heatherthejerk.bandcamp.com/",
+          "name": "Heather the Jerk"
+        },
+        {
+          "country": null,
+          "link": "https://naga-band.bandcamp.com/",
+          "name": "NAGA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "cc509ac3528ea2abd37d",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "BABY TYLER BAND",
+          "url": "https://tsbbty.bandcamp.com/album/imposter"
+        },
+        {
+          "label": "Heather the Jerk",
+          "url": "https://heatherthejerk.bandcamp.com/"
+        },
+        {
+          "label": "NAGA",
+          "url": "https://naga-band.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/baby-tyler-band-us-heather-the-jerk-us-naga-ibk/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: BABY TYLER BAND (usa) / Heather the Jerk (usa) / NAGA @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "cc509ac3528ea2abd37d",
+    "guid": "cc509ac3528ea2abd37d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://thevelvetswing.bandcamp.com/",
+          "name": "The VELVET SWING"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-09-22",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "c0dd8be9f19e7f7d9acd",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "The VELVET SWING",
+          "url": "https://thevelvetswing.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.09.: The VELVET SWING @ St. Virgil, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "St. Virgil"
+    },
+    "event_id": "c0dd8be9f19e7f7d9acd",
+    "guid": "c0dd8be9f19e7f7d9acd:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "AK'CHAMEL"
+          }
+        ],
+        "to": [
+          {
+            "name": "AK'CHAMEL"
+          },
+          {
+            "name": "URGEIST & STAAD"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://akchamel.bandcamp.com/",
+          "name": "AK'CHAMEL"
+        },
+        {
+          "country": "CH/D",
+          "link": "https://urgeist93.bandcamp.com/",
+          "name": "URGEIST & STAAD"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-09-24",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "32fa4837d1cead08b52c",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "AK'CHAMEL",
+          "url": "https://akchamel.bandcamp.com/"
+        },
+        {
+          "label": "URGEIST",
+          "url": "https://urgeist93.bandcamp.com/"
+        },
+        {
+          "label": "STAAD",
+          "url": "https://staad.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/akchamel-urgeist-staad/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.09.: AK'CHAMEL (usa) / URGEIST & STAAD (ch/d) @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "32fa4837d1cead08b52c",
+    "guid": "32fa4837d1cead08b52c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": "https://voodoov.bandcamp.com/",
+          "name": "VOODOOV"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-06",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "508d315ffa699da81ff7",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "VOODOOV",
+          "url": "https://voodoov.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1580184167039165/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.10.: VOODOOV (fin) @ The Loft, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "The Loft"
+    },
+    "event_id": "508d315ffa699da81ff7",
+    "guid": "508d315ffa699da81ff7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://lyca.bandcamp.com/",
+          "name": "LYCA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-10-07",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "cb70d5b884d30b8f8385",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "LYCA",
+          "url": "https://lyca.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.10.: LYCA (d) @ Montagu, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Montagu"
+    },
+    "event_id": "cb70d5b884d30b8f8385",
+    "guid": "cb70d5b884d30b8f8385:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/fogsound",
+          "name": "FOG"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "8a7a02a07f0b0f7befd7",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "FOG",
+          "url": "https://www.facebook.com/fogsound"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1511390540156358/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: FOG @ rhiz, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "8a7a02a07f0b0f7befd7",
+    "guid": "8a7a02a07f0b0f7befd7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Caf&233 / Wolf",
+        "to": "Café Wolf"
+      }
+    },
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://anyx.bandcamp.com/",
+          "name": "ANYX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-22",
+      "first_seen_at": "2026-08-19T03:11:47.510618+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "46db00b4c87948f692f9",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "ANYX",
+          "url": "https://anyx.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1584122819787965"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "22.10.: ANYX (d) @ Café Wolf, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Wolf"
+    },
+    "event_id": "46db00b4c87948f692f9",
+    "guid": "46db00b4c87948f692f9:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/portia.trips/",
+          "name": "PORTIA"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/caveclubofficial/",
+          "name": "CAVE CLUB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Stetteldorf am Wagram",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4ab5a988b596024eceda",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "PORTIA",
+          "url": "https://www.instagram.com/portia.trips/"
+        },
+        {
+          "label": "CAVE CLUB",
+          "url": "https://www.instagram.com/caveclubofficial/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: PORTIA / CAVE CLUB @ Saal am Kirchenplatz 4, Stetteldorf am Wagram",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Saal am Kirchenplatz 4"
+    },
+    "event_id": "4ab5a988b596024eceda",
+    "guid": "4ab5a988b596024eceda:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://wearewrex.bandcamp.com/",
+          "name": "WREX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-28",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9131b0c4acd1464bb939",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "WREX",
+          "url": "https://wearewrex.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.10.: WREX (uk) @ G5, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "G5"
+    },
+    "event_id": "9131b0c4acd1464bb939",
+    "guid": "9131b0c4acd1464bb939:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "http://www.our-ceasing-voice.com/",
+          "name": "OUR CEASING VOICE"
+        },
+        {
+          "country": null,
+          "link": "https://www.lemol.at/",
+          "name": "LE_MOL"
+        },
+        {
+          "country": null,
+          "link": "https://nutcrackerband.bandcamp.com/music",
+          "name": "NUTCRACKER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7d063e076fd4b565ee6e",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "OUR CEASING VOICE",
+          "url": "http://www.our-ceasing-voice.com/"
+        },
+        {
+          "label": "LE_MOL",
+          "url": "https://www.lemol.at/"
+        },
+        {
+          "label": "NUTCRACKER",
+          "url": "https://nutcrackerband.bandcamp.com/music"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/our-ceasing-voice---record-release-with-nutcracker-l/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: OUR CEASING VOICE / LE_MOL / NUTCRACKER @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "7d063e076fd4b565ee6e",
+    "guid": "7d063e076fd4b565ee6e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://epilepticmedia.bandcamp.com/album/care-time-dime",
+          "name": "STATES OF CLAY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-12",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e7aec560ca184eea9d3b",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "STATES OF CLAY",
+          "url": "https://epilepticmedia.bandcamp.com/album/care-time-dime"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2167354343825307/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.11.: STATES OF CLAY @ Café Wolf, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Wolf"
+    },
+    "event_id": "e7aec560ca184eea9d3b",
+    "guid": "e7aec560ca184eea9d3b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-20T03:10:51.343272+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://soulprisonhc.bandcamp.com/",
+          "name": "SOULPRISON"
+        },
+        {
+          "country": "D",
+          "link": "https://deadweightmosh.bandcamp.com/",
+          "name": "DEADWEIGHT"
+        },
+        {
+          "country": "D",
+          "link": "https://worldatwar.bandcamp.com/",
+          "name": "WORLD AT WAR"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/cheapshot.hc/",
+          "name": "CHEAP$HOT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-20T03:10:51.343272+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c0ced4f676fa55553115",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "SOULPRISON",
+          "url": "https://soulprisonhc.bandcamp.com/"
+        },
+        {
+          "label": "DEADWEIGHT",
+          "url": "https://deadweightmosh.bandcamp.com/"
+        },
+        {
+          "label": "WORLD AT WAR",
+          "url": "https://worldatwar.bandcamp.com/"
+        },
+        {
+          "label": "CHEAP$HOT",
+          "url": "https://www.instagram.com/cheapshot.hc/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/alpine-rage-vol-2/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: SOULPRISON (d) / DEADWEIGHT (d) / WORLD AT WAR (d) / CHEAP$HOT @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "c0ced4f676fa55553115",
+    "guid": "c0ced4f676fa55553115:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

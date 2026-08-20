@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:10:51 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The VELVET SWING – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c0dd8be9f19e7f7d9acd-1</link>
+      <guid isPermaLink="false">c0dd8be9f19e7f7d9acd:1</guid>
+      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
+      <description>2026-09-22 · St. Virgil,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: INTERNAL BLEEDING, BEHIND THE MASK – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-43503b9acdc0d12a88fc-1</link>
