@@ -4423,5 +4423,1445 @@
     "guid": "c0ced4f676fa55553115:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "TV MOMS"
+          },
+          {
+            "name": "TIMESHIFT"
+          }
+        ],
+        "to": [
+          {
+            "name": "TV MOMS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://tvmoms.bandcamp.com/",
+          "name": "TV MOMS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "cce9129a9924141a13d2",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "TV MOMS",
+          "url": "https://tvmoms.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1323249076155445/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "25.08.: TV MOMS (usa) @ Café Carina, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "cce9129a9924141a13d2",
+    "guid": "cce9129a9924141a13d2:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://nothingworksbln.bandcamp.com/",
+          "name": "NOTHING WORKS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/itookhiseyes/",
+          "name": "ITOOKHISEYES"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/paloma_004_",
+          "name": "PALOMA 004"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-26",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "1a01e564bd2e83d245b4",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "NOTHING WORKS",
+          "url": "https://nothingworksbln.bandcamp.com/"
+        },
+        {
+          "label": "ITOOKHISEYES",
+          "url": "https://www.instagram.com/itookhiseyes/"
+        },
+        {
+          "label": "PALOMA 004",
+          "url": "https://www.instagram.com/paloma_004_"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.08.: NOTHING WORKS (d) / ITOOKHISEYES / PALOMA 004 @ Lucia, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "1a01e564bd2e83d245b4",
+    "guid": "1a01e564bd2e83d245b4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/unmuted_band/",
+          "name": "UNMUTED"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/brokenbsides.band/",
+          "name": "BROKEN B-SIDES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Bad Hofgastein",
+      "event_date": "2026-08-27",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "210ae2674b36c6089f4c",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "UNMUTED",
+          "url": "https://www.instagram.com/unmuted_band/"
+        },
+        {
+          "label": "BROKEN B-SIDES",
+          "url": "https://www.instagram.com/brokenbsides.band/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.gstonerock.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.08.: UNMUTED / BROKEN B-SIDES @ Badesee, Bad Hofgastein [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Badesee"
+    },
+    "event_id": "210ae2674b36c6089f4c",
+    "guid": "210ae2674b36c6089f4c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.hightransition.com/",
+          "name": "HIGH TRANSITION"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/out_of_the_blue_band_/",
+          "name": "OUT OF THE BLUE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/systemsprenger17.official/",
+          "name": "SYSTEMSPRENGER 17"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Bad Hofgastein",
+      "event_date": "2026-08-28",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Stoner Metal"
+        ]
+      },
+      "id": "e8c7b8897425a1bff276",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "HIGH TRANSITION",
+          "url": "https://www.hightransition.com/"
+        },
+        {
+          "label": "OUT OF THE BLUE",
+          "url": "https://www.instagram.com/out_of_the_blue_band_/"
+        },
+        {
+          "label": "SYSTEMSPRENGER 17",
+          "url": "https://www.instagram.com/systemsprenger17.official/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.gstonerock.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.08.: HIGH TRANSITION / OUT OF THE BLUE / SYSTEMSPRENGER 17 @ Badesee, Bad Hofgastein [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Badesee"
+    },
+    "event_id": "e8c7b8897425a1bff276",
+    "guid": "e8c7b8897425a1bff276:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.greyczar.com/",
+          "name": "GREY CZAR"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "INNOCENCE"
+        },
+        {
+          "country": null,
+          "link": "https://www.ratsinlalaland.com/",
+          "name": "RATS IN LALA LAND"
+        },
+        {
+          "country": null,
+          "link": "https://www.vrv-band.com/",
+          "name": "V R V"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Bad Hofgastein",
+      "event_date": "2026-08-29",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a938bc791b0696d8cfcc",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "GREY CZAR",
+          "url": "https://www.greyczar.com/"
+        },
+        {
+          "label": "RATS IN LALA LAND",
+          "url": "https://www.ratsinlalaland.com/"
+        },
+        {
+          "label": "V R V",
+          "url": "https://www.vrv-band.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.gstonerock.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.08.: GREY CZAR / INNOCENCE / RATS IN LALA LAND / V R V @ Badesee, Bad Hofgastein [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Badesee"
+    },
+    "event_id": "a938bc791b0696d8cfcc",
+    "guid": "a938bc791b0696d8cfcc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BLÜTWÜRM"
+          },
+          {
+            "name": "STICKY MOLOCH"
+          },
+          {
+            "name": "MISOPHONIAC"
+          }
+        ],
+        "to": [
+          {
+            "name": "BLÜTWÜRM"
+          },
+          {
+            "name": "STICKY MOLOCH"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://bltwrm.bandcamp.com/",
+          "name": "BLÜTWÜRM"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/stickymoloch/",
+          "name": "STICKY MOLOCH"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Linz",
+      "event_date": "2026-09-05",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "53755b2c6e428f9121f3",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "BLÜTWÜRM",
+          "url": "https://bltwrm.bandcamp.com/"
+        },
+        {
+          "label": "STICKY MOLOCH",
+          "url": "https://www.instagram.com/stickymoloch/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.09.: BLÜTWÜRM / STICKY MOLOCH @ Secret Location, Linz [MISOPHONIAC cancelled.]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "53755b2c6e428f9121f3",
+    "guid": "53755b2c6e428f9121f3:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SLO",
+          "link": "https://blacktarpneumoniaprod.bandcamp.com/album/gastritis-salamoreznica",
+          "name": "GASTRITIS"
+        },
+        {
+          "country": "USA",
+          "link": "https://metrorrhagia.bandcamp.com/",
+          "name": "METRORRHAGIA"
+        },
+        {
+          "country": "SWE",
+          "link": "https://sarcophagia.bandcamp.com/",
+          "name": "SARCOPHAGIA"
+        },
+        {
+          "country": "USA",
+          "link": "https://forcedentrype.bandcamp.com/",
+          "name": "FORCED ENTRY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-14",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "54ccea34fe3494398b84",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "GASTRITIS",
+          "url": "https://blacktarpneumoniaprod.bandcamp.com/album/gastritis-salamoreznica"
+        },
+        {
+          "label": "METRORRHAGIA",
+          "url": "https://metrorrhagia.bandcamp.com/"
+        },
+        {
+          "label": "SARCOPHAGIA",
+          "url": "https://sarcophagia.bandcamp.com/"
+        },
+        {
+          "label": "FORCED ENTRY",
+          "url": "https://forcedentrype.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.09.: GASTRITIS (slo) / METRORRHAGIA (usa) / SARCOPHAGIA (swe) / FORCED ENTRY (usa) @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "54ccea34fe3494398b84",
+    "guid": "54ccea34fe3494398b84:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/inoffiziell.official",
+          "name": "INOFFIZIELL"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/rustyrailgun",
+          "name": "RUSTY RAILGUN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-15",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "671870baddf7afd16d06",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "INOFFIZIELL",
+          "url": "https://www.instagram.com/inoffiziell.official"
+        },
+        {
+          "label": "RUSTY RAILGUN",
+          "url": "https://www.instagram.com/rustyrailgun"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/inoffiziell-rusty-railgun/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.09.: INOFFIZIELL / RUSTY RAILGUN @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "671870baddf7afd16d06",
+    "guid": "671870baddf7afd16d06:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/caveclubofficial/",
+          "name": "CAVE CLUB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-22",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d48951d5a702c2af8820",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "CAVE CLUB",
+          "url": "https://www.instagram.com/caveclubofficial/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/cave-club/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.09.: CAVE CLUB @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "d48951d5a702c2af8820",
+    "guid": "d48951d5a702c2af8820:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://blackseadahu.bandcamp.com/",
+          "name": "BLACK SEA DAHU"
+        },
+        {
+          "country": "CH",
+          "link": "https://lostinlona.com/",
+          "name": "LOST IN LONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4087a67f9952345f47fc",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "BLACK SEA DAHU",
+          "url": "https://blackseadahu.bandcamp.com/"
+        },
+        {
+          "label": "LOST IN LONA",
+          "url": "https://lostinlona.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2009324736284999/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: BLACK SEA DAHU (ch) / LOST IN LONA (ch) @ Rockhouse, Salzburg [fb]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rockhouse"
+    },
+    "event_id": "4087a67f9952345f47fc",
+    "guid": "4087a67f9952345f47fc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "AUS/D",
+          "link": "https://karlmerr.bandcamp.com/",
+          "name": "KARLMER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-27",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "c80311d8022de236a03c",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "KARLMER",
+          "url": "https://karlmerr.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/karlmer/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.09.: KARLMER (aus/d) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "c80311d8022de236a03c",
+    "guid": "c80311d8022de236a03c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://grazergrant.bandcamp.com/",
+          "name": "GRAZER GRANT"
+        },
+        {
+          "country": null,
+          "link": "https://radiopassiv.bandcamp.com/",
+          "name": "RADIO PASSIV"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/theawezombies/",
+          "name": "The AWEZOMBIES"
+        },
+        {
+          "country": null,
+          "link": "https://hoergeraet.bandcamp.com/",
+          "name": "HØRGERÆT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e15cc019ba974a72435a",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "GRAZER GRANT",
+          "url": "https://grazergrant.bandcamp.com/"
+        },
+        {
+          "label": "RADIO PASSIV",
+          "url": "https://radiopassiv.bandcamp.com/"
+        },
+        {
+          "label": "The AWEZOMBIES",
+          "url": "https://www.facebook.com/theawezombies/"
+        },
+        {
+          "label": "HØRGERÆT",
+          "url": "https://hoergeraet.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1575077990928821/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: GRAZER GRANT / RADIO PASSIV / The AWEZOMBIES / HØRGERÆT @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "e15cc019ba974a72435a",
+    "guid": "e15cc019ba974a72435a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/littleelement/",
+          "name": "LITTLE ELEMENT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-06",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "06be2c25d9cc33c382b9",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "LITTLE ELEMENT",
+          "url": "https://www.instagram.com/littleelement/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/little-element/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.10.: LITTLE ELEMENT @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "06be2c25d9cc33c382b9",
+    "guid": "06be2c25d9cc33c382b9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MY SON THE DOCTOR"
+          }
+        ],
+        "to": [
+          {
+            "name": "MY SON THE DOCTOR"
+          },
+          {
+            "name": "FLIRTMACHINE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://mysonthedoctorband.com/",
+          "name": "MY SON THE DOCTOR"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/flirtmachineband",
+          "name": "FLIRTMACHINE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "079190bf67cd017e7b7f",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "MY SON THE DOCTOR",
+          "url": "https://mysonthedoctorband.com/"
+        },
+        {
+          "label": "FLIRTMACHINE",
+          "url": "https://www.facebook.com/flirtmachineband"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2076990559918571/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: MY SON THE DOCTOR (usa) / FLIRTMACHINE @ Rockhouse Bar, Salzburg [fb]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rockhouse Bar"
+    },
+    "event_id": "079190bf67cd017e7b7f",
+    "guid": "079190bf67cd017e7b7f:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/anda_morts/",
+          "name": "Anda Morts"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-13",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1ceaab71bc8094b95851",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "Anda Morts",
+          "url": "https://www.instagram.com/anda_morts/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kapu.at/index%2ephp/event/2026/10/13/release-show-anda-morts"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.10.: Anda Morts @ Kapu, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "1ceaab71bc8094b95851",
+    "guid": "1ceaab71bc8094b95851:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/anda_morts/",
+          "name": "Anda Morts"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-14",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "56fbe98f2d58261bc178",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "Anda Morts",
+          "url": "https://www.instagram.com/anda_morts/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kapu.at/index%2ephp/event/2026/10/14/release-show-anda-morts"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.10.: Anda Morts @ Kapu, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "56fbe98f2d58261bc178",
+    "guid": "56fbe98f2d58261bc178:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": "https://www.facebook.com/asthesunfalls",
+          "name": "AS THE SUN FALLS"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/AoA666",
+          "name": "AEON OF AWARENESS"
+        },
+        {
+          "country": "FIN",
+          "link": "https://www.facebook.com/postpulse",
+          "name": "POST PULSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "079f17810dacfa34813e",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "AS THE SUN FALLS",
+          "url": "https://www.facebook.com/asthesunfalls"
+        },
+        {
+          "label": "AEON OF AWARENESS",
+          "url": "https://www.facebook.com/AoA666"
+        },
+        {
+          "label": "POST PULSE",
+          "url": "https://www.facebook.com/postpulse"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27552053677797951/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.10.: AS THE SUN FALLS (fin) / AEON OF AWARENESS (d) / POST PULSE (fin) @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "079f17810dacfa34813e",
+    "guid": "079f17810dacfa34813e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://thespauldings.bandcamp.com/",
+          "name": "The SPAULDINGS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/_lovable_losers_/",
+          "name": "LOVABLE LOSERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "574a86320152d1933747",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "The SPAULDINGS",
+          "url": "https://thespauldings.bandcamp.com/"
+        },
+        {
+          "label": "LOVABLE LOSERS",
+          "url": "https://www.instagram.com/_lovable_losers_/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: The SPAULDINGS / LOVABLE LOSERS @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "574a86320152d1933747",
+    "guid": "574a86320152d1933747:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "CODEFENDANTS"
+          }
+        ],
+        "to": [
+          {
+            "name": "CODEFENDANTS"
+          },
+          {
+            "name": "JAKOBS CASTLE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.codefendantslegalfund.com/",
+          "name": "CODEFENDANTS"
+        },
+        {
+          "country": "USA",
+          "link": "https://jakobscastle.com/",
+          "name": "JAKOBS CASTLE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f1b74912e633458b21d6",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "CODEFENDANTS",
+          "url": "https://www.codefendantslegalfund.com/"
+        },
+        {
+          "label": "JAKOBS CASTLE",
+          "url": "https://jakobscastle.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1220859903226136/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.11.: CODEFENDANTS (usa) / JAKOBS CASTLE (usa) @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "f1b74912e633458b21d6",
+    "guid": "f1b74912e633458b21d6:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NOR",
+          "link": "https://taelpv.bandcamp.com/",
+          "name": "TÆL"
+        },
+        {
+          "country": "LIT",
+          "link": "https://manacles.bandcamp.com/",
+          "name": "MANACLES"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/hailhiena/",
+          "name": "HIËNA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-05",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Sludge Metal"
+        ]
+      },
+      "id": "45aff2f4fa4140870c03",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "TÆL",
+          "url": "https://taelpv.bandcamp.com/"
+        },
+        {
+          "label": "MANACLES",
+          "url": "https://manacles.bandcamp.com/"
+        },
+        {
+          "label": "HIËNA",
+          "url": "https://www.facebook.com/hailhiena/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.12.: TÆL (nor) / MANACLES (lit) / HIËNA @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "45aff2f4fa4140870c03",
+    "guid": "45aff2f4fa4140870c03:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D/USA",
+          "link": "https://hackedepicciotto.bandcamp.com/",
+          "name": "HACKEDEPICCIOTTO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-05",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3b94110a5245295ac6c0",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "HACKEDEPICCIOTTO",
+          "url": "https://hackedepicciotto.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48628"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.02.: HACKEDEPICCIOTTO (d/usa) @ Arena (DreiRaum), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "3b94110a5245295ac6c0",
+    "guid": "3b94110a5245295ac6c0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://brchenunddiemilchbubis.bandcamp.com/music",
+          "name": "BÄRCHEN UND DIE MILCHBUBIS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-23",
+      "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "6ffc6b94f4bb792a388e",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "BÄRCHEN UND DIE MILCHBUBIS",
+          "url": "https://brchenunddiemilchbubis.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1413478940673428/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.02.: BÄRCHEN UND DIE MILCHBUBIS (d) @ Venster, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "6ffc6b94f4bb792a388e",
+    "guid": "6ffc6b94f4bb792a388e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MASTER"
+          }
+        ],
+        "to": [
+          {
+            "name": "MASTER"
+          },
+          {
+            "name": "TULSADOOM"
+          },
+          {
+            "name": "AMONG RATS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA/CZE",
+          "link": "https://www.speckmetal.net/",
+          "name": "MASTER"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Tulsadoom",
+          "name": "TULSADOOM"
+        },
+        {
+          "country": null,
+          "link": "https://amongrats.bandcamp.com/",
+          "name": "AMONG RATS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Mehrnbach",
+      "event_date": "2027-05-16",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "42b97c84f68ac1424c5b",
+      "last_seen_at": "2026-08-22T03:08:00.198425+00:00",
+      "links": [
+        {
+          "label": "MASTER",
+          "url": "https://www.speckmetal.net/"
+        },
+        {
+          "label": "TULSADOOM",
+          "url": "https://www.facebook.com/Tulsadoom"
+        },
+        {
+          "label": "AMONG RATS",
+          "url": "https://amongrats.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1069230876026320/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.05.: MASTER (usa/cze) / TULSADOOM / AMONG RATS u.a. @ Rohbau, Mehrnbach [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rohbau"
+    },
+    "event_id": "42b97c84f68ac1424c5b",
+    "guid": "42b97c84f68ac1424c5b:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "active": {
+        "from": true,
+        "to": false
+      }
+    },
+    "detected_at": "2026-08-22T03:08:00.198425+00:00",
+    "event": {
+      "active": false,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://brchenunddiemilchbubis.bandcamp.com/music",
+          "name": "BÄRCHEN UND DIE MILCHBUBIS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-22T03:08:00.198425+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-22",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4a9bcb3f56548b388696",
+      "last_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "links": [
+        {
+          "label": "BÄRCHEN UND DIE MILCHBUBIS",
+          "url": "https://brchenunddiemilchbubis.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.02.: BÄRCHEN UND DIE MILCHBUBIS (d) @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "4a9bcb3f56548b388696",
+    "guid": "4a9bcb3f56548b388696:1",
+    "kind": "unlisted",
+    "revision": 1
   }
 ]

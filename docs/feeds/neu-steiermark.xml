@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:08:00 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: GRAZER GRANT, RADIO PASSIV, The AWEZOMBIES, HØRGERÆT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e15cc019ba974a72435a-1</link>
+      <guid isPermaLink="false">e15cc019ba974a72435a:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-10-02 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: AS THE SUN FALLS, AEON OF AWARENESS, POST PULSE – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-079f17810dacfa34813e-1</link>
+      <guid isPermaLink="false">079f17810dacfa34813e:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-10-23 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: ANYX – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-2</link>

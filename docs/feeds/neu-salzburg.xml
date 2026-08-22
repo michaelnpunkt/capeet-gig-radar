@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:08:00 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: UNMUTED, BROKEN B-SIDES – Bad Hofgastein</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-210ae2674b36c6089f4c-1</link>
+      <guid isPermaLink="false">210ae2674b36c6089f4c:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-08-27 · Badesee,  Bad Hofgastein · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: HIGH TRANSITION, OUT OF THE BLUE, SYSTEMSPRENGER 17 – Bad Hofgastein</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8c7b8897425a1bff276-1</link>
+      <guid isPermaLink="false">e8c7b8897425a1bff276:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-08-28 · Badesee,  Bad Hofgastein · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: GREY CZAR, INNOCENCE, RATS IN LALA LAND, V R V – Bad Hofgastein</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a938bc791b0696d8cfcc-1</link>
+      <guid isPermaLink="false">a938bc791b0696d8cfcc:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-08-29 · Badesee,  Bad Hofgastein · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: BLACK SEA DAHU, LOST IN LONA – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4087a67f9952345f47fc-1</link>
+      <guid isPermaLink="false">4087a67f9952345f47fc:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-09-25 · Rockhouse,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Geändert: MY SON THE DOCTOR, FLIRTMACHINE – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-079190bf67cd017e7b7f-1</link>
+      <guid isPermaLink="false">079190bf67cd017e7b7f:1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
+      <description>2026-10-08 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: MY SON THE DOCTOR → MY SON THE DOCTOR · FLIRTMACHINE</description>
+    </item>
     <item>
       <title>Neu: The VELVET SWING – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c0dd8be9f19e7f7d9acd-1</link>
