@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-08-22T03:08:00.198425+00:00",
+  "generated_at": "2026-08-25T03:13:24.747698+00:00",
   "revisions": [
+    {
+      "anchor": "change-537bba63a0c6d0da00b2-1",
+      "changes": {},
+      "detected_at": "2026-08-25T03:13:24.747698+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://vacunt.bandcamp.com/",
+            "name": "VACUNT"
+          },
+          {
+            "country": null,
+            "link": "https://brutesiren.bandcamp.com/",
+            "name": "BRUTE SIREN"
+          },
+          {
+            "country": null,
+            "link": "https://fatalpath.bandcamp.com/",
+            "name": "FATAL PATH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-25T03:13:24.747698+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-01",
+        "first_seen_at": "2026-08-25T03:13:24.747698+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "537bba63a0c6d0da00b2",
+        "last_seen_at": "2026-08-25T03:13:24.747698+00:00",
+        "links": [
+          {
+            "label": "VACUNT",
+            "url": "https://vacunt.bandcamp.com/"
+          },
+          {
+            "label": "BRUTE SIREN",
+            "url": "https://brutesiren.bandcamp.com/"
+          },
+          {
+            "label": "FATAL PATH",
+            "url": "https://fatalpath.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://arena.wien/Home/Programm-Detail/concert-id/48630"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "01.10.: VACUNT / BRUTE SIREN / FATAL PATH @ Arena (DreiRaum), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "537bba63a0c6d0da00b2",
+      "guid": "537bba63a0c6d0da00b2:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-cce9129a9924141a13d2-2",
       "changes": {

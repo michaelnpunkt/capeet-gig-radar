@@ -1042,6 +1042,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "brute siren": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "bull nakano": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
