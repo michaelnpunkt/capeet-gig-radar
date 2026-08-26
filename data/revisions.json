@@ -5928,5 +5928,1622 @@
     "guid": "537bba63a0c6d0da00b2:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://isawdaylight.bandcamp.com/music",
+          "name": "I SAW DAYLIGHT"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/betweenthebeastshc",
+          "name": "BETWEEN THE BEASTS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Feldbach",
+      "event_date": "2026-08-28",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Melodic Hardcore",
+          "Hardcore Punk"
+        ]
+      },
+      "id": "4dd338c09706f94c8f7c",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "I SAW DAYLIGHT",
+          "url": "https://isawdaylight.bandcamp.com/music"
+        },
+        {
+          "label": "BETWEEN THE BEASTS",
+          "url": "https://www.facebook.com/betweenthebeastshc"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.08.: I SAW DAYLIGHT (d) / BETWEEN THE BEASTS @ Glam, Feldbach",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Glam"
+    },
+    "event_id": "4dd338c09706f94c8f7c",
+    "guid": "4dd338c09706f94c8f7c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://pure-chlorine.com/",
+          "name": "PURE CHLORINE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/lionseasonband/",
+          "name": "LION SEASON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-29",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "68b484081fb1e8790d75",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "PURE CHLORINE",
+          "url": "https://pure-chlorine.com/"
+        },
+        {
+          "label": "LION SEASON",
+          "url": "https://www.facebook.com/lionseasonband/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.guertelnightwalk.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.08.: PURE CHLORINE / LION SEASON @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "68b484081fb1e8790d75",
+    "guid": "68b484081fb1e8790d75:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/thedevastationofficial",
+          "name": "The DEVASTATION"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/iamlexcandy/",
+          "name": "Lex Candy"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/shan.music__/",
+          "name": "SHA-N"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-08-29",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "5ba1bddc51295751ef8f",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "The DEVASTATION",
+          "url": "https://www.facebook.com/thedevastationofficial"
+        },
+        {
+          "label": "Lex Candy",
+          "url": "https://www.instagram.com/iamlexcandy/"
+        },
+        {
+          "label": "SHA-N",
+          "url": "https://www.instagram.com/shan.music__/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.guertelnightwalk.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.08.: The DEVASTATION / Lex Candy / SHA-N @ rhiz, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "5ba1bddc51295751ef8f",
+    "guid": "5ba1bddc51295751ef8f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://portraitoftao.bandcamp.com/",
+          "name": "PORTRAIT OF TAO"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/romeo_kaltenbrunner/",
+          "name": "Romeo Kaltenbrunner"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wr. Neustadt",
+      "event_date": "2026-09-03",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "4fab97d8c38f1ac4144f",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "PORTRAIT OF TAO",
+          "url": "https://portraitoftao.bandcamp.com/"
+        },
+        {
+          "label": "Romeo Kaltenbrunner",
+          "url": "https://www.instagram.com/romeo_kaltenbrunner/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://triebwerk.co.at/events/30-jahre-triebwerk-day-1-2/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.09.: 30 Jahre Triebwerk feat. PORTRAIT OF TAO / Romeo Kaltenbrunner @ Triebwerk, Wr. Neustadt [web]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": "30 Jahre Triebwerk",
+      "venue": "Triebwerk"
+    },
+    "event_id": "4fab97d8c38f1ac4144f",
+    "guid": "4fab97d8c38f1ac4144f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/sodlmusic/",
+          "name": "Sodl"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/black_sunzet/",
+          "name": "BLACK SUNZET"
+        },
+        {
+          "country": null,
+          "link": "https://frachild.bandcamp.com/",
+          "name": "FRACHILD"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/band.jaesmine/",
+          "name": "JÆSMINE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/luisa_schweigofficial/",
+          "name": "Luisa Schweig"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wr. Neustadt",
+      "event_date": "2026-09-04",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f4d401ab480accf3d264",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "Sodl",
+          "url": "https://www.instagram.com/sodlmusic/"
+        },
+        {
+          "label": "BLACK SUNZET",
+          "url": "https://www.instagram.com/black_sunzet/"
+        },
+        {
+          "label": "FRACHILD",
+          "url": "https://frachild.bandcamp.com/"
+        },
+        {
+          "label": "JÆSMINE",
+          "url": "https://www.instagram.com/band.jaesmine/"
+        },
+        {
+          "label": "Luisa Schweig",
+          "url": "https://www.instagram.com/luisa_schweigofficial/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://triebwerk.co.at/events/30-jahre-triebwerk-day-1/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.09.: 30 Jahre Triebwerk feat. Sodl / BLACK SUNZET / FRACHILD / JÆSMINE / Luisa Schweig u.a. @ Triebwerk, Wr. Neustadt [web]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": "30 Jahre Triebwerk",
+      "venue": "Triebwerk"
+    },
+    "event_id": "f4d401ab480accf3d264",
+    "guid": "f4d401ab480accf3d264:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://www.facebook.com/lyuhaszlyacintbt",
+          "name": "LYUHÁSZ LYÁCINT BT."
+        },
+        {
+          "country": null,
+          "link": "https://forcefedfarmanimals.bandcamp.com/",
+          "name": "FORCE FED FARM ANIMALS"
+        },
+        {
+          "country": null,
+          "link": "https://halalhardcore.bandcamp.com/",
+          "name": "HALAL HARDCORE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-05",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "2fa238b7abf7a8181c3d",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "LYUHÁSZ LYÁCINT BT.",
+          "url": "https://www.facebook.com/lyuhaszlyacintbt"
+        },
+        {
+          "label": "FORCE FED FARM ANIMALS",
+          "url": "https://forcefedfarmanimals.bandcamp.com/"
+        },
+        {
+          "label": "HALAL HARDCORE",
+          "url": "https://halalhardcore.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/915755057696832/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.09.: LYUHÁSZ LYÁCINT BT. (hun) / FORCE FED FARM ANIMALS / HALAL HARDCORE u.a. @ Secret Location, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "2fa238b7abf7a8181c3d",
+    "guid": "2fa238b7abf7a8181c3d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK/AUT",
+          "link": "https://petrolgirls.bandcamp.com/",
+          "name": "PETROL GIRLS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/thebandjeanny",
+          "name": "JEANNY"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/cupiditasofficial/",
+          "name": "CUPIDITAS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/basta.band/",
+          "name": "BASTA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wr. Neustadt",
+      "event_date": "2026-09-05",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "4346a99a5630227cb2e8",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "PETROL GIRLS",
+          "url": "https://petrolgirls.bandcamp.com/"
+        },
+        {
+          "label": "JEANNY",
+          "url": "https://www.facebook.com/thebandjeanny"
+        },
+        {
+          "label": "CUPIDITAS",
+          "url": "https://www.instagram.com/cupiditasofficial/"
+        },
+        {
+          "label": "BASTA",
+          "url": "https://www.instagram.com/basta.band/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://triebwerk.co.at/events/30-jahre-triebwerk-day-3/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.09.: 30 Jahre Triebwerk feat. PETROL GIRLS (uk/aut) / JEANNY / CUPIDITAS / BASTA u.a. @ Triebwerk, Wr. Neustadt [web]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": "30 Jahre Triebwerk",
+      "venue": "Triebwerk"
+    },
+    "event_id": "4346a99a5630227cb2e8",
+    "guid": "4346a99a5630227cb2e8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SEBI!"
+          }
+        ],
+        "to": [
+          {
+            "name": "SEBI!"
+          },
+          {
+            "name": "NEVVER"
+          },
+          {
+            "name": "Lex Candy"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/sebimusic_official/",
+          "name": "SEBI!"
+        },
+        {
+          "country": "D",
+          "link": "https://nevver.de/",
+          "name": "NEVVER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/iamlexcandy/",
+          "name": "Lex Candy"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-10",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "3912fe33a60945aa197d",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "SEBI!",
+          "url": "https://www.instagram.com/sebimusic_official/"
+        },
+        {
+          "label": "NEVVER",
+          "url": "https://nevver.de/"
+        },
+        {
+          "label": "Lex Candy",
+          "url": "https://www.instagram.com/iamlexcandy/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.b72.at/program/10320/SEBi__BLUNDER_YEARS_amp_B"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.09.: SEBI! / NEVVER (d) / Lex Candy @ B72, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "3912fe33a60945aa197d",
+    "guid": "3912fe33a60945aa197d:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/vezz3_music/",
+          "name": "VEZZ III"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/zappzarapp_gmbh/",
+          "name": "ZAPPZARAPP"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-11",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0767df284932f7e60103",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "VEZZ III",
+          "url": "https://www.instagram.com/vezz3_music/"
+        },
+        {
+          "label": "ZAPPZARAPP",
+          "url": "https://www.instagram.com/zappzarapp_gmbh/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.09.: VEZZ III / ZAPPZARAPP @ Kramladen, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "0767df284932f7e60103",
+    "guid": "0767df284932f7e60103:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://federpunx.bandcamp.com/",
+          "name": "FEDER"
+        },
+        {
+          "country": null,
+          "link": "https://prunknelke.bandcamp.com/",
+          "name": "PRUNKNELKE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "17f26dae38c77dd4e020",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "FEDER",
+          "url": "https://federpunx.bandcamp.com/"
+        },
+        {
+          "label": "PRUNKNELKE",
+          "url": "https://prunknelke.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: FEDER / PRUNKNELKE @ Café Carina, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "17f26dae38c77dd4e020",
+    "guid": "17f26dae38c77dd4e020:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CZE",
+          "link": "https://scoophardcore.bandcamp.com/",
+          "name": "SCOOP"
+        },
+        {
+          "country": null,
+          "link": "https://limitedoptions.bandcamp.com/",
+          "name": "LIMITED OPTIONS"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "DEATHROW TULL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Linz",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "84dd75c6ce7e5ae6c2e8",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "SCOOP",
+          "url": "https://scoophardcore.bandcamp.com/"
+        },
+        {
+          "label": "LIMITED OPTIONS",
+          "url": "https://limitedoptions.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: SCOOP (cze) / LIMITED OPTIONS / DEATHROW TULL @ Secret Location, Linz",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "84dd75c6ce7e5ae6c2e8",
+    "guid": "84dd75c6ce7e5ae6c2e8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/punkberater",
+          "name": "PUNKBERATER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/axelmoleyjr/",
+          "name": "AXEL MOLEY JR."
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-26",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "a7b40ea8beb00bd33bbc",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "PUNKBERATER",
+          "url": "https://www.facebook.com/punkberater"
+        },
+        {
+          "label": "AXEL MOLEY JR.",
+          "url": "https://www.instagram.com/axelmoleyjr/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1524628618928942/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.09.: PUNKBERATER / AXEL MOLEY JR. @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "a7b40ea8beb00bd33bbc",
+    "guid": "a7b40ea8beb00bd33bbc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/faceoff_band/",
+          "name": "FACE-OFF"
+        },
+        {
+          "country": "SLO",
+          "link": "https://poguba.bandcamp.com/",
+          "name": "POGUBA"
+        },
+        {
+          "country": null,
+          "link": "https://tonalshift.bandcamp.com/",
+          "name": "TONAL SHIFT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-30",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d83e8d986ed9aff81646",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "FACE-OFF",
+          "url": "https://www.instagram.com/faceoff_band/"
+        },
+        {
+          "label": "POGUBA",
+          "url": "https://poguba.bandcamp.com/"
+        },
+        {
+          "label": "TONAL SHIFT",
+          "url": "https://tonalshift.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.09.: FACE-OFF (uk) / POGUBA (slo) / TONAL SHIFT @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "d83e8d986ed9aff81646",
+    "guid": "d83e8d986ed9aff81646:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GINGER WIZARD"
+          },
+          {
+            "name": "SELF-IMMOLATION MUSIC"
+          }
+        ],
+        "to": [
+          {
+            "name": "GINGER WIZARD"
+          },
+          {
+            "name": "SELF-IMMOLATION MUSIC"
+          },
+          {
+            "name": "DRUCK"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CZE",
+          "link": "https://gingerwizard.bandcamp.com/",
+          "name": "GINGER WIZARD"
+        },
+        {
+          "country": "UK",
+          "link": "https://selfimmolationmusic.bandcamp.com/",
+          "name": "SELF-IMMOLATION MUSIC"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/druck.band/",
+          "name": "DRUCK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-01",
+      "first_seen_at": "2026-08-19T03:11:47.510618+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e174c75fcd51c132404e",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "GINGER WIZARD",
+          "url": "https://gingerwizard.bandcamp.com/"
+        },
+        {
+          "label": "SELF-IMMOLATION MUSIC",
+          "url": "https://selfimmolationmusic.bandcamp.com/"
+        },
+        {
+          "label": "DRUCK",
+          "url": "https://www.instagram.com/druck.band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1383478173202924"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "01.10.: GINGER WIZARD (cze) / SELF-IMMOLATION MUSIC (uk) / DRUCK @ Das Lot, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Das Lot"
+    },
+    "event_id": "e174c75fcd51c132404e",
+    "guid": "e174c75fcd51c132404e:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://salabakter.bandcamp.com/",
+          "name": "SALABAKTER"
+        },
+        {
+          "country": "HUN",
+          "link": "https://lazlazlaz.bandcamp.com/",
+          "name": "LÁZ"
+        },
+        {
+          "country": null,
+          "link": "https://harshresponse.bandcamp.com/",
+          "name": "HARSH RESPONSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "fae2dd341b4048795e27",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "SALABAKTER",
+          "url": "https://salabakter.bandcamp.com/"
+        },
+        {
+          "label": "LÁZ",
+          "url": "https://lazlazlaz.bandcamp.com/"
+        },
+        {
+          "label": "HARSH RESPONSE",
+          "url": "https://harshresponse.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: SALABAKTER (hun) / LÁZ (hun) / HARSH RESPONSE @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "fae2dd341b4048795e27",
+    "guid": "fae2dd341b4048795e27:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://littleholefilled.bandcamp.com",
+          "name": "LITTLE HOLE FILLED"
+        },
+        {
+          "country": null,
+          "link": "https://kerbmaldarr.bandcamp.com/",
+          "name": "KERBMALDARR"
+        },
+        {
+          "country": null,
+          "link": "https://goddesslimaxblack.bandcamp.com/",
+          "name": "GODDESS LIMAX BLACK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Freistadt",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal",
+          "Sludge Metal",
+          "Stoner Metal"
+        ]
+      },
+      "id": "177faaefbb51bf78606c",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "LITTLE HOLE FILLED",
+          "url": "https://littleholefilled.bandcamp.com"
+        },
+        {
+          "label": "KERBMALDARR",
+          "url": "https://kerbmaldarr.bandcamp.com/"
+        },
+        {
+          "label": "GODDESS LIMAX BLACK",
+          "url": "https://goddesslimaxblack.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1738134294064209/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: LITTLE HOLE FILLED / KERBMALDARR / GODDESS LIMAX BLACK @ Salzhof, Freistadt [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Salzhof"
+    },
+    "event_id": "177faaefbb51bf78606c",
+    "guid": "177faaefbb51bf78606c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "FOG"
+          }
+        ],
+        "to": [
+          {
+            "name": "FOG"
+          },
+          {
+            "name": "Hannes Feichtenschlager"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/fogsound",
+          "name": "FOG"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Hannes Feichtenschlager"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "8a7a02a07f0b0f7befd7",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "FOG",
+          "url": "https://www.facebook.com/fogsound"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1511390540156358/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "08.10.: FOG / Hannes Feichtenschlager @ rhiz, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "8a7a02a07f0b0f7befd7",
+    "guid": "8a7a02a07f0b0f7befd7:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ITA",
+          "link": "https://bolthornmusic.bandcamp.com/",
+          "name": "BÖLTHORN"
+        },
+        {
+          "country": "ITA",
+          "link": "https://dosgamos.bandcamp.com/music",
+          "name": "DOSGAMOS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/asacordis",
+          "name": "ASACORDIS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-11",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "3ceb53bebe389788b57f",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "BÖLTHORN",
+          "url": "https://bolthornmusic.bandcamp.com/"
+        },
+        {
+          "label": "DOSGAMOS",
+          "url": "https://dosgamos.bandcamp.com/music"
+        },
+        {
+          "label": "ASACORDIS",
+          "url": "https://www.facebook.com/asacordis"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2307783966697397/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.10.: BÖLTHORN (ita) / DOSGAMOS (ita) / ASACORDIS @ Replugged, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "3ceb53bebe389788b57f",
+    "guid": "3ceb53bebe389788b57f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FRA",
+          "link": "https://iffernet.bandcamp.com/",
+          "name": "IFFERNET"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "FEARINGANOTHERGOODBYE"
+        },
+        {
+          "country": null,
+          "link": "https://badtoken.bandcamp.com/",
+          "name": "BAD TOKEN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-14",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "af6839ac8ae15019c907",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "IFFERNET",
+          "url": "https://iffernet.bandcamp.com/"
+        },
+        {
+          "label": "BAD TOKEN",
+          "url": "https://badtoken.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.10.: IFFERNET (fra) / FEARINGANOTHERGOODBYE / BAD TOKEN @ SUb, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SUb"
+    },
+    "event_id": "af6839ac8ae15019c907",
+    "guid": "af6839ac8ae15019c907:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://kennykennyohoh.bandcamp.com/music",
+          "name": "KENNY KENNY OH OH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1fb612394672f15037b3",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "KENNY KENNY OH OH",
+          "url": "https://kennykennyohoh.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: KENNY KENNY OH OH (d) @ Galerie 5020, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Galerie 5020"
+    },
+    "event_id": "1fb612394672f15037b3",
+    "guid": "1fb612394672f15037b3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "MEX",
+          "link": "https://jzunz.bandcamp.com/",
+          "name": "J. Zunz"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-05",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "abdd5e60dd87ce6fa332",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "J. Zunz",
+          "url": "https://jzunz.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1382961594053176/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.11.: J. Zunz (mex) @ Café Wolf, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Wolf"
+    },
+    "event_id": "abdd5e60dd87ce6fa332",
+    "guid": "abdd5e60dd87ce6fa332:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://hailinfernaldarkness.bandcamp.com/music",
+          "name": "DRAWN AND QUARTERED"
+        },
+        {
+          "country": "USA",
+          "link": "https://noroth.bandcamp.com/",
+          "name": "NOROTH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-09",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "02c169e1f875fd3e8a3d",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "DRAWN AND QUARTERED",
+          "url": "https://hailinfernaldarkness.bandcamp.com/music"
+        },
+        {
+          "label": "NOROTH",
+          "url": "https://noroth.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1049330478080463/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.11.: DRAWN AND QUARTERED (usa) / NOROTH (usa) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "02c169e1f875fd3e8a3d",
+    "guid": "02c169e1f875fd3e8a3d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ITA",
+          "link": "https://miasmicserum.bandcamp.com/",
+          "name": "MIASMIC SERUM"
+        },
+        {
+          "country": "ITA",
+          "link": "https://miscreance.bandcamp.com/",
+          "name": "MISCREANCE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-07",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "f29070c8e092d1d7dc73",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "MIASMIC SERUM",
+          "url": "https://miasmicserum.bandcamp.com/"
+        },
+        {
+          "label": "MISCREANCE",
+          "url": "https://miscreance.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.12.: MIASMIC SERUM (ita) / MISCREANCE (ita) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "f29070c8e092d1d7dc73",
+    "guid": "f29070c8e092d1d7dc73:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://heckspoiler.org/",
+          "name": "HECKSPOILER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Linz",
+      "event_date": "2026-12-10",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Noise Rock"
+        ]
+      },
+      "id": "7bba91b0a224fe0db791",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "HECKSPOILER",
+          "url": "https://heckspoiler.org/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/944936341958996/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.12.: HECKSPOILER @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "7bba91b0a224fe0db791",
+    "guid": "7bba91b0a224fe0db791:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.disharmonic.com/",
+          "name": "DISHARMONIC ORCHESTRA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/altarofi",
+          "name": "ALTAR OF I"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/CastielofficialBand",
+          "name": "CASTIEL"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/corruptum.band",
+          "name": "CORRUPTUM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "KLagenfurt",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "6150c5bcbfc79387cdaa",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "DISHARMONIC ORCHESTRA",
+          "url": "https://www.disharmonic.com/"
+        },
+        {
+          "label": "ALTAR OF I",
+          "url": "https://www.facebook.com/altarofi"
+        },
+        {
+          "label": "CASTIEL",
+          "url": "https://www.facebook.com/CastielofficialBand"
+        },
+        {
+          "label": "CORRUPTUM",
+          "url": "https://www.instagram.com/corruptum.band"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1036781485947171/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: DISHARMONIC ORCHESTRA / ALTAR OF I / CASTIEL / CORRUPTUM @ Fritz Club, KLagenfurt [fb]",
+      "state": "Kärnten",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Fritz Club"
+    },
+    "event_id": "6150c5bcbfc79387cdaa",
+    "guid": "6150c5bcbfc79387cdaa:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-26T03:19:08.354737+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "GRE",
+          "link": "https://thevulcanitch.bandcamp.com/",
+          "name": "The VULCAN ITCH"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/OoNtheband",
+          "name": "OUT OF NOTHING"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-16",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "217c1b4c4211c0464357",
+      "last_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "links": [
+        {
+          "label": "The VULCAN ITCH",
+          "url": "https://thevulcanitch.bandcamp.com/"
+        },
+        {
+          "label": "OUT OF NOTHING",
+          "url": "https://www.facebook.com/OoNtheband"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1796304214722088/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.04.: The VULCAN ITCH (gre) / OUT OF NOTHING @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "217c1b4c4211c0464357",
+    "guid": "217c1b4c4211c0464357:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

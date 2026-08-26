@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: DISHARMONIC ORCHESTRA, ALTAR OF I, CASTIEL, CORRUPTUM – KLagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6150c5bcbfc79387cdaa-1</link>
+      <guid isPermaLink="false">6150c5bcbfc79387cdaa:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-12-18 · Fritz Club,  KLagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Geändert: MEPHISTOFELES, BAITS, VERRAT, PORTIA – Döbriach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4e485815e92bd5c999d4-1</link>

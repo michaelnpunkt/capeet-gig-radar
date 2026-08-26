@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SCOOP, LIMITED OPTIONS, DEATHROW TULL – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-84dd75c6ce7e5ae6c2e8-1</link>
+      <guid isPermaLink="false">84dd75c6ce7e5ae6c2e8:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-09-19 · Secret Location,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: LITTLE HOLE FILLED, KERBMALDARR, GODDESS LIMAX BLACK – Freistadt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-177faaefbb51bf78606c-1</link>
+      <guid isPermaLink="false">177faaefbb51bf78606c:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-10-03 · Salzhof,  Freistadt · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: HECKSPOILER – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7bba91b0a224fe0db791-1</link>
+      <guid isPermaLink="false">7bba91b0a224fe0db791:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-12-10 · Kapu,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: BLÜTWÜRM, STICKY MOLOCH – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-53755b2c6e428f9121f3-1</link>

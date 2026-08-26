@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: KENNY KENNY OH OH – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1fb612394672f15037b3-1</link>
+      <guid isPermaLink="false">1fb612394672f15037b3:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-10-24 · Galerie 5020,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Neu: UNMUTED, BROKEN B-SIDES – Bad Hofgastein</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-210ae2674b36c6089f4c-1</link>

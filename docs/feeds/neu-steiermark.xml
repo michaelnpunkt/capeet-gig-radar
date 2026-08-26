@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: I SAW DAYLIGHT, BETWEEN THE BEASTS – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4dd338c09706f94c8f7c-1</link>
+      <guid isPermaLink="false">4dd338c09706f94c8f7c:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-08-28 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: IFFERNET, FEARINGANOTHERGOODBYE, BAD TOKEN – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-af6839ac8ae15019c907-1</link>
+      <guid isPermaLink="false">af6839ac8ae15019c907:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-10-14 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: J. Zunz – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-abdd5e60dd87ce6fa332-1</link>
+      <guid isPermaLink="false">abdd5e60dd87ce6fa332:1</guid>
+      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
+      <description>2026-11-05 · Café Wolf,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: GRAZER GRANT, RADIO PASSIV, The AWEZOMBIES, HØRGERÆT – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e15cc019ba974a72435a-1</link>
