@@ -2190,6 +2190,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dryba": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "ductape": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -3063,6 +3069,12 @@
     ]
   },
   "grinder": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "griper": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4298,6 +4310,12 @@
       "Shoegaze"
     ]
   },
+  "lilac vegetal": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "lily the wildflowers": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4484,6 +4502,12 @@
   "luna kills": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "lurch": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "lussuria": {
@@ -6000,6 +6024,12 @@
     "subgenres": []
   },
   "recurrent pain": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "rest in punk": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -8204,6 +8234,12 @@
     "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "vtoroi ka": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "vulkan": {

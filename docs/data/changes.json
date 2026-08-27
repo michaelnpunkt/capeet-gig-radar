@@ -1,6 +1,644 @@
 {
-  "generated_at": "2026-08-26T03:19:08.354737+00:00",
+  "generated_at": "2026-08-27T12:48:12.218972+00:00",
   "revisions": [
+    {
+      "anchor": "change-53755b2c6e428f9121f3-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "BLÜTWÜRM"
+            },
+            {
+              "name": "STICKY MOLOCH"
+            }
+          ],
+          "to": [
+            {
+              "name": "BLÜTWÜRM"
+            },
+            {
+              "name": "STICKY MOLOCH"
+            },
+            {
+              "name": "REST IN PUNK"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://bltwrm.bandcamp.com/",
+            "name": "BLÜTWÜRM"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/stickymoloch/",
+            "name": "STICKY MOLOCH"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/r.est_i.n_p.unk/",
+            "name": "REST IN PUNK"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Linz",
+        "event_date": "2026-09-05",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "53755b2c6e428f9121f3",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "BLÜTWÜRM",
+            "url": "https://bltwrm.bandcamp.com/"
+          },
+          {
+            "label": "STICKY MOLOCH",
+            "url": "https://www.instagram.com/stickymoloch/"
+          },
+          {
+            "label": "REST IN PUNK",
+            "url": "https://www.instagram.com/r.est_i.n_p.unk/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "05.09.: BLÜTWÜRM / STICKY MOLOCH / REST IN PUNK @ Secret Location, Linz [MISOPHONIAC cancelled.]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "53755b2c6e428f9121f3",
+      "guid": "53755b2c6e428f9121f3:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-bd471f2d01328077c6f3-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://annietaylor.bandcamp.com/",
+            "name": "ANNIE TAYLOR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-03",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bd471f2d01328077c6f3",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "ANNIE TAYLOR",
+            "url": "https://annietaylor.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.09.: ANNIE TAYLOR (ch) @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "bd471f2d01328077c6f3",
+      "guid": "bd471f2d01328077c6f3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-de5116fa5173d873d291-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://federpunx.bandcamp.com/",
+            "name": "FEDER"
+          },
+          {
+            "country": null,
+            "link": "https://dryba.bandcamp.com/",
+            "name": "DRYBA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-11",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "de5116fa5173d873d291",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "FEDER",
+            "url": "https://federpunx.bandcamp.com/"
+          },
+          {
+            "label": "DRYBA",
+            "url": "https://dryba.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.09.: FEDER / DRYBA @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "de5116fa5173d873d291",
+      "guid": "de5116fa5173d873d291:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1393f3cc5013ef082620-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://lurchband.bandcamp.com/",
+            "name": "LURCH"
+          },
+          {
+            "country": null,
+            "link": "https://lilacvegetal.bandcamp.com/",
+            "name": "LILAC VEGETAL"
+          },
+          {
+            "country": null,
+            "link": "https://griper.bandcamp.com/",
+            "name": "GRIPER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Linz",
+        "event_date": "2026-09-12",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1393f3cc5013ef082620",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "LURCH",
+            "url": "https://lurchband.bandcamp.com/"
+          },
+          {
+            "label": "LILAC VEGETAL",
+            "url": "https://lilacvegetal.bandcamp.com/"
+          },
+          {
+            "label": "GRIPER",
+            "url": "https://griper.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kapu.at/index.php/event/2026/09/12/cookie-session-vol1-lurch-leilac-vegetal-griper"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.09.: LURCH / LILAC VEGETAL / GRIPER @ Kapu, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "1393f3cc5013ef082620",
+      "guid": "1393f3cc5013ef082620:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba6429845e31f95e1152-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "HARLOTT"
+            },
+            {
+              "name": "ATÖIC SEASÖN"
+            },
+            {
+              "name": "RAGING VOID"
+            }
+          ],
+          "to": [
+            {
+              "name": "HARLOTT"
+            },
+            {
+              "name": "ATÖMIC SEASÖN"
+            },
+            {
+              "name": "RAGING VOID"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://harlottmetal.bandcamp.com/",
+            "name": "HARLOTT"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/atomicseasonthrashmetal",
+            "name": "ATÖMIC SEASÖN"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ragingvoid",
+            "name": "RAGING VOID"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-16",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Thrash Metal"
+          ]
+        },
+        "id": "ba6429845e31f95e1152",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "HARLOTT",
+            "url": "https://harlottmetal.bandcamp.com/"
+          },
+          {
+            "label": "ATÖMIC SEASÖN",
+            "url": "https://www.facebook.com/atomicseasonthrashmetal"
+          },
+          {
+            "label": "RAGING VOID",
+            "url": "https://www.facebook.com/ragingvoid"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1063077776198906/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.09.: HARLOTT (aus) / ATÖMIC SEASÖN / RAGING VOID @ Escape, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "ba6429845e31f95e1152",
+      "guid": "ba6429845e31f95e1152:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4afb66ee4b280ff91676-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "LUX/D",
+            "link": null,
+            "name": "SAY YES DOG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-25",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "4afb66ee4b280ff91676",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.09.: SAY YES DOG (lux/d) @ Flex, Wien [cancelled.] [neu: 09.04.2027]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "4afb66ee4b280ff91676",
+      "guid": "4afb66ee4b280ff91676:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a85acbeb83f66439fd36-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "KGZ",
+            "link": "https://vtoroika.bandcamp.com/",
+            "name": "VTOROI KA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-26",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "heuristic",
+          "subgenres": [
+            "Street Punk"
+          ]
+        },
+        "id": "a85acbeb83f66439fd36",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "VTOROI KA",
+            "url": "https://vtoroika.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.09.: VTOROI KA (kgz) @ U4, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "U4"
+      },
+      "event_id": "a85acbeb83f66439fd36",
+      "guid": "a85acbeb83f66439fd36:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ed88cf07dc723fa8e831-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.lemol.at/",
+            "name": "LE_MOL"
+          },
+          {
+            "country": null,
+            "link": "http://www.our-ceasing-voice.com/",
+            "name": "OUR CEASING VOICE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ed88cf07dc723fa8e831",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "LE_MOL",
+            "url": "https://www.lemol.at/"
+          },
+          {
+            "label": "OUR CEASING VOICE",
+            "url": "http://www.our-ceasing-voice.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: LE_MOL / OUR CEASING VOICE @ B72, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "B72"
+      },
+      "event_id": "ed88cf07dc723fa8e831",
+      "guid": "ed88cf07dc723fa8e831:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e697fb0c59fd5d21d34a-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.cordoba78.com/",
+            "name": "CORDOBA78"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e697fb0c59fd5d21d34a",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "CORDOBA78",
+            "url": "https://www.cordoba78.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2115598222338306/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: CORDOBA78 @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "e697fb0c59fd5d21d34a",
+      "guid": "e697fb0c59fd5d21d34a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-786f418a7227e4d92097-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://www.amistatmusic.com/",
+            "name": "AMISTAT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "786f418a7227e4d92097",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "AMISTAT",
+            "url": "https://www.amistatmusic.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2056965001899732/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: AMISTAT (aus) @ Posthof, Linz [sold out!] [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "786f418a7227e4d92097",
+      "guid": "786f418a7227e4d92097:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8295044b9eb47324174d-1",
+      "changes": {},
+      "detected_at": "2026-08-27T12:48:12.218972+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "LUX/D",
+            "link": "https://sayyesdog.net/",
+            "name": "SAY YES DOG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-27T12:48:12.218972+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-09",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "8295044b9eb47324174d",
+        "last_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "links": [
+          {
+            "label": "SAY YES DOG",
+            "url": "https://sayyesdog.net/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/774662862113493/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.04.: SAY YES DOG (lux/d) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "8295044b9eb47324174d",
+      "guid": "8295044b9eb47324174d:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-e174c75fcd51c132404e-2",
       "changes": {

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:48:12 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ANNIE TAYLOR – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bd471f2d01328077c6f3-1</link>
+      <guid isPermaLink="false">bd471f2d01328077c6f3:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-09-03 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: FEDER, DRYBA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-de5116fa5173d873d291-1</link>
+      <guid isPermaLink="false">de5116fa5173d873d291:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-09-11 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: I SAW DAYLIGHT, BETWEEN THE BEASTS – Feldbach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4dd338c09706f94c8f7c-1</link>

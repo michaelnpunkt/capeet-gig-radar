@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:48:12 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: HARLOTT, ATÖMIC SEASÖN, RAGING VOID – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ba6429845e31f95e1152-1</link>
+      <guid isPermaLink="false">ba6429845e31f95e1152:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-09-16 · Escape,  Wien · Wien · Line-up: HARLOTT · ATÖIC SEASÖN · RAGING VOID → HARLOTT · ATÖMIC SEASÖN · RAGING VOID</description>
+    </item>
+    <item>
+      <title>Abgesagt: SAY YES DOG – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4afb66ee4b280ff91676-1</link>
+      <guid isPermaLink="false">4afb66ee4b280ff91676:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-09-25 · Flex,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: VTOROI KA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a85acbeb83f66439fd36-1</link>
+      <guid isPermaLink="false">a85acbeb83f66439fd36:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-09-26 · U4,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LE_MOL, OUR CEASING VOICE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ed88cf07dc723fa8e831-1</link>
+      <guid isPermaLink="false">ed88cf07dc723fa8e831:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2026-11-06 · B72,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SAY YES DOG – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8295044b9eb47324174d-1</link>
+      <guid isPermaLink="false">8295044b9eb47324174d:1</guid>
+      <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
+      <description>2027-04-09 · Flex,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: GINGER WIZARD, SELF-IMMOLATION MUSIC, DRUCK – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e174c75fcd51c132404e-2</link>
