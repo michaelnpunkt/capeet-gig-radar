@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:21:48 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: HOLLYWOOD VAMPIRES, Cassyette – St. Pölten</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-29783117421fa115c1c1-1</link>
+      <guid isPermaLink="false">29783117421fa115c1c1:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-09-05 · VAZ,  St. Pölten · Niederösterreich · Line-up: HOLLYWOOD VAMPIRES → HOLLYWOOD VAMPIRES · Cassyette</description>
+    </item>
+    <item>
+      <title>Neu: KASKADEUR, LILAC VEGETAL, Rojin Sharafi – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4616078fbf4ba55f71ed-1</link>
+      <guid isPermaLink="false">4616078fbf4ba55f71ed:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-10-02 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
+    <item>
+      <title>Neu: ROLLTREPPE, LEBANON, HIDDEN BY THE GRAPES – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c849a03c94f7dbf21697-1</link>
+      <guid isPermaLink="false">c849a03c94f7dbf21697:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-10-03 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: PORTRAIT OF TAO, Romeo Kaltenbrunner – Wr. Neustadt</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4fab97d8c38f1ac4144f-1</link>

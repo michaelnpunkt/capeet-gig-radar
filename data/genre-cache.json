@@ -135,6 +135,14 @@
       "Hardcore Punk"
     ]
   },
+  "ad infinitum": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "adam bomb": {
     "family": "Rock",
     "source": "lastfm",
@@ -470,6 +478,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "arion": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "as everything unfolds": {
@@ -1188,6 +1202,12 @@
     "subgenres": []
   },
   "cassia": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "cassyette": {
+    "classifier_version": 2,
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
@@ -2167,6 +2187,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "dreamwake": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "dropkick murphys": {
     "family": "Punk",
     "source": "lastfm",
@@ -2954,6 +2982,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "gloryhammer": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "glue crew": {
     "family": "Punk",
     "source": "lastfm",
@@ -3330,6 +3364,12 @@
       "Black Metal"
     ]
   },
+  "hidden by the grapes": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "hidden fates": {
     "family": "Metal",
     "source": "lastfm",
@@ -3567,6 +3607,14 @@
     "source": "lastfm",
     "subgenres": [
       "Grindcore"
+    ]
+  },
+  "in flames": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
     ]
   },
   "in other climes": {
@@ -3883,6 +3931,12 @@
   },
   "karmanjakah": {
     "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "kaskadeur": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -4212,6 +4266,12 @@
   },
   "leatherwitch": {
     "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "lebanon": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -4566,6 +4626,12 @@
   },
   "maira": {
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "majestica": {
+    "classifier_version": 2,
+    "family": "Metal",
     "source": "lastfm",
     "subgenres": []
   },
@@ -5535,6 +5601,14 @@
       "Industrial"
     ]
   },
+  "paleface swiss": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore"
+    ]
+  },
   "pales": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -5780,6 +5854,15 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "president": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Thrash Metal"
     ]
   },
   "pressure drop": {
@@ -6069,6 +6152,12 @@
       "Stoner Metal"
     ]
   },
+  "rojin sharafi": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "rolltreppe": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -6142,6 +6231,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "sabaton": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "sable hills": {
@@ -7162,6 +7257,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "takida": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "talco": {
     "classifier_version": 2,
     "family": "Punk",
@@ -7890,6 +7991,15 @@
       "Thrash Metal"
     ]
   },
+  "trivium": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Thrash Metal"
+    ]
+  },
   "true reason": {
     "family": "Metal",
     "source": "lastfm",
@@ -8145,6 +8255,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "vianova": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "vigljos": {
     "family": "Metal",
     "source": "lastfm",
@@ -8212,6 +8330,12 @@
       "Death Metal",
       "Thrash Metal"
     ]
+  },
+  "vola": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
   },
   "vomitory": {
     "family": "Metal",

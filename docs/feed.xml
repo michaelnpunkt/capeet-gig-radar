@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:21:48 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: HOLLYWOOD VAMPIRES, Cassyette – St. Pölten</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-29783117421fa115c1c1-1</link>
+      <guid isPermaLink="false">29783117421fa115c1c1:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-09-05 · VAZ,  St. Pölten · Niederösterreich · Line-up: HOLLYWOOD VAMPIRES → HOLLYWOOD VAMPIRES · Cassyette</description>
+    </item>
+    <item>
+      <title>Geändert: 1914, GRIMMING – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ff887722e505c4d2dcec-1</link>
+      <guid isPermaLink="false">ff887722e505c4d2dcec:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-09-24 · p.p.c.,  Graz · Steiermark · Line-up: 1914 → 1914 · GRIMMING</description>
+    </item>
+    <item>
+      <title>Neu: KASKADEUR, LILAC VEGETAL, Rojin Sharafi – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4616078fbf4ba55f71ed-1</link>
+      <guid isPermaLink="false">4616078fbf4ba55f71ed:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-10-02 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
+    <item>
+      <title>Neu: ROLLTREPPE, LEBANON, HIDDEN BY THE GRAPES – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c849a03c94f7dbf21697-1</link>
+      <guid isPermaLink="false">c849a03c94f7dbf21697:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-10-03 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
+    <item>
+      <title>Neu: GLORYHAMMER, MAJESTICA, ARION – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c712bf014642b5823b1d-1</link>
+      <guid isPermaLink="false">c712bf014642b5823b1d:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-11-10 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PRESIDENT, VIANOVA, DREAMWAKE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e43fcc97356ef1d1e67e-1</link>
+      <guid isPermaLink="false">e43fcc97356ef1d1e67e:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-11-10 · Gasometer,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: TAKIDA, AD INFINITUM – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-631b413c24552fc24365-1</link>
+      <guid isPermaLink="false">631b413c24552fc24365:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2027-01-26 · Flex,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: TRIVIUM, IN FLAMES, PALEFACE SWISS, VOLA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8c80291d2f729ff8c96a-1</link>
+      <guid isPermaLink="false">8c80291d2f729ff8c96a:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2027-04-21 · Stadthalle,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SABATON – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37a9deb3eae9b159003e-1</link>
+      <guid isPermaLink="false">37a9deb3eae9b159003e:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2027-04-30 · Stadthalle,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: BLÜTWÜRM, STICKY MOLOCH, REST IN PUNK – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-53755b2c6e428f9121f3-2</link>
@@ -643,69 +706,6 @@
       <guid isPermaLink="false">548c1f57bf64255941d0:1</guid>
       <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
       <description>2026-10-03 · LaVida,  Feldkirchen (Ktn.) · Unbekannt</description>
-    </item>
-    <item>
-      <title>Neu: SALAMIRECORDER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0362ead210433f956aa9-1</link>
-      <guid isPermaLink="false">0362ead210433f956aa9:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-03 · Roxy,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: Wild Evel &amp; The TRASHBONES, The RIOTERS, The TROUSERS – St. Pölten</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ddb8b98305e5699ee207-1</link>
-      <guid isPermaLink="false">ddb8b98305e5699ee207:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-03 · Freiraum,  St. Pölten · Niederösterreich · Line-up: Wild Evel &amp; The TRASHBONES · The RIOTERS → Wild Evel &amp; The TRASHBONES · The RIOTERS · The TROUSERS</description>
-    </item>
-    <item>
-      <title>Neu: GOD MOTHER, OBSTRUKTION – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e25c4cc3fb87c5c0732d-1</link>
-      <guid isPermaLink="false">e25c4cc3fb87c5c0732d:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-14 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: EPICARDIECTOMY, EMBRYECTOMY, HERETICAL MUTATION, VAULT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ab55930445c0d4ab0b78-1</link>
-      <guid isPermaLink="false">ab55930445c0d4ab0b78:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-15 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BERTHAJU – Lienz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4800591bcd9aaf80b806-1</link>
-      <guid isPermaLink="false">4800591bcd9aaf80b806:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-17 · mukl,  Lienz · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: ANYX – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-1</link>
-      <guid isPermaLink="false">46db00b4c87948f692f9:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-22 · Caf&amp;233 / Wolf,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: IN OTHER CLIMES, INFECTED RATS, BITE TO BREAK, NONSENSE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37574264ae6d37aae9f3-1</link>
-      <guid isPermaLink="false">37574264ae6d37aae9f3:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-25 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: VAMPYRES, Moritz Molnar &amp; The NECESSARY EVIL – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-535e490ad17c58e629b7-1</link>
-      <guid isPermaLink="false">535e490ad17c58e629b7:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-29 · Stadtwerkstatt,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: CORDOBA78 – Lienz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-67dabe1cab68875980ae-1</link>
-      <guid isPermaLink="false">67dabe1cab68875980ae:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-30 · mukl,  Lienz · Tirol</description>
     </item>
   </channel>
 </rss>

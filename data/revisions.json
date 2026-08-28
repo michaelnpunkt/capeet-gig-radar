@@ -8161,5 +8161,586 @@
     "guid": "8295044b9eb47324174d:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "HOLLYWOOD VAMPIRES"
+          }
+        ],
+        "to": [
+          {
+            "name": "HOLLYWOOD VAMPIRES"
+          },
+          {
+            "name": "Cassyette"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.hollywoodvampires.com/",
+          "name": "HOLLYWOOD VAMPIRES"
+        },
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/cassyette",
+          "name": "Cassyette"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "St. Pölten",
+      "event_date": "2026-09-05",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "29783117421fa115c1c1",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "HOLLYWOOD VAMPIRES",
+          "url": "https://www.hollywoodvampires.com/"
+        },
+        {
+          "label": "Cassyette",
+          "url": "https://www.instagram.com/cassyette"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.vaz.at/events/event.php?id=5626&event=Hollywood%20Vampires"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.09.: HOLLYWOOD VAMPIRES (usa) / Cassyette (uk) @ VAZ, St. Pölten [web]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "VAZ"
+    },
+    "event_id": "29783117421fa115c1c1",
+    "guid": "29783117421fa115c1c1:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "1914"
+          }
+        ],
+        "to": [
+          {
+            "name": "1914"
+          },
+          {
+            "name": "GRIMMING"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UKR",
+          "link": "https://x1914x.bandcamp.com/",
+          "name": "1914"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/grimmingband",
+          "name": "GRIMMING"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-24",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Black Metal",
+          "Doom Metal"
+        ]
+      },
+      "id": "ff887722e505c4d2dcec",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "1914",
+          "url": "https://x1914x.bandcamp.com/"
+        },
+        {
+          "label": "GRIMMING",
+          "url": "https://www.facebook.com/grimmingband"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.09.: 1914 (ukr) / GRIMMING @ p.p.c., Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.p.c."
+    },
+    "event_id": "ff887722e505c4d2dcec",
+    "guid": "ff887722e505c4d2dcec:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://kaskadeur.bandcamp.com/music",
+          "name": "KASKADEUR"
+        },
+        {
+          "country": null,
+          "link": "https://lilacvegetal.bandcamp.com/",
+          "name": "LILAC VEGETAL"
+        },
+        {
+          "country": null,
+          "link": "https://rojinsharafi.com/",
+          "name": "Rojin Sharafi"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Scheibbs",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4616078fbf4ba55f71ed",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "KASKADEUR",
+          "url": "https://kaskadeur.bandcamp.com/music"
+        },
+        {
+          "label": "LILAC VEGETAL",
+          "url": "https://lilacvegetal.bandcamp.com/"
+        },
+        {
+          "label": "Rojin Sharafi",
+          "url": "https://rojinsharafi.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: KASKADEUR (d) / LILAC VEGETAL / Rojin Sharafi @ Proberaum, Scheibbs",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Proberaum"
+    },
+    "event_id": "4616078fbf4ba55f71ed",
+    "guid": "4616078fbf4ba55f71ed:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://rlltrpp.bandcamp.com/",
+          "name": "ROLLTREPPE"
+        },
+        {
+          "country": "CZE",
+          "link": "https://lebanon.bandcamp.com/music",
+          "name": "LEBANON"
+        },
+        {
+          "country": null,
+          "link": "https://www.hiddenbythegrapes.com/",
+          "name": "HIDDEN BY THE GRAPES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Scheibbs",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "c849a03c94f7dbf21697",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "ROLLTREPPE",
+          "url": "https://rlltrpp.bandcamp.com/"
+        },
+        {
+          "label": "LEBANON",
+          "url": "https://lebanon.bandcamp.com/music"
+        },
+        {
+          "label": "HIDDEN BY THE GRAPES",
+          "url": "https://www.hiddenbythegrapes.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: ROLLTREPPE / LEBANON (cze) / HIDDEN BY THE GRAPES @ Proberaum, Scheibbs",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Proberaum"
+    },
+    "event_id": "c849a03c94f7dbf21697",
+    "guid": "c849a03c94f7dbf21697:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://gloryhammer.bandcamp.com/music",
+          "name": "GLORYHAMMER"
+        },
+        {
+          "country": "SWE",
+          "link": "https://www.facebook.com/Majesticametal/",
+          "name": "MAJESTICA"
+        },
+        {
+          "country": "FIN",
+          "link": "https://arion.fi/",
+          "name": "ARION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-10",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c712bf014642b5823b1d",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "GLORYHAMMER",
+          "url": "https://gloryhammer.bandcamp.com/music"
+        },
+        {
+          "label": "MAJESTICA",
+          "url": "https://www.facebook.com/Majesticametal/"
+        },
+        {
+          "label": "ARION",
+          "url": "https://arion.fi/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1780939289232221/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.11.: GLORYHAMMER (uk) / MAJESTICA (swe) / ARION (fin) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "c712bf014642b5823b1d",
+    "guid": "c712bf014642b5823b1d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.presidentband.com/",
+          "name": "PRESIDENT"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/vianova.band/",
+          "name": "VIANOVA"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/dreamwake.ct/",
+          "name": "DREAMWAKE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-10",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore",
+          "Thrash Metal"
+        ]
+      },
+      "id": "e43fcc97356ef1d1e67e",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "PRESIDENT",
+          "url": "https://www.presidentband.com/"
+        },
+        {
+          "label": "VIANOVA",
+          "url": "https://www.instagram.com/vianova.band/"
+        },
+        {
+          "label": "DREAMWAKE",
+          "url": "https://www.instagram.com/dreamwake.ct/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1375501414460769/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.11.: PRESIDENT (uk) / VIANOVA (d) / DREAMWAKE (usa) @ Gasometer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Gasometer"
+    },
+    "event_id": "e43fcc97356ef1d1e67e",
+    "guid": "e43fcc97356ef1d1e67e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://www.takidamusic.com/",
+          "name": "TAKIDA"
+        },
+        {
+          "country": "D/CH",
+          "link": "https://www.adinfinitumofficial.com/",
+          "name": "AD INFINITUM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-26",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "631b413c24552fc24365",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "TAKIDA",
+          "url": "https://www.takidamusic.com/"
+        },
+        {
+          "label": "AD INFINITUM",
+          "url": "https://www.adinfinitumofficial.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1998133597749363/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.01.: TAKIDA (swe) / AD INFINITUM (d/ch) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "631b413c24552fc24365",
+    "guid": "631b413c24552fc24365:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.trivium.org/",
+          "name": "TRIVIUM"
+        },
+        {
+          "country": "SWE",
+          "link": "https://www.inflames.com/",
+          "name": "IN FLAMES"
+        },
+        {
+          "country": "CH",
+          "link": "https://www.facebook.com/palefaceswiss",
+          "name": "PALEFACE SWISS"
+        },
+        {
+          "country": "DEN",
+          "link": "https://volaband.bandcamp.com/music",
+          "name": "VOLA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-21",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore",
+          "Thrash Metal"
+        ]
+      },
+      "id": "8c80291d2f729ff8c96a",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "TRIVIUM",
+          "url": "https://www.trivium.org/"
+        },
+        {
+          "label": "IN FLAMES",
+          "url": "https://www.inflames.com/"
+        },
+        {
+          "label": "PALEFACE SWISS",
+          "url": "https://www.facebook.com/palefaceswiss"
+        },
+        {
+          "label": "VOLA",
+          "url": "https://volaband.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1069473986040462/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.04.: TRIVIUM (usa) / IN FLAMES (swe) / PALEFACE SWISS (ch) / VOLA (den) @ Stadthalle, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadthalle"
+    },
+    "event_id": "8c80291d2f729ff8c96a",
+    "guid": "8c80291d2f729ff8c96a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-08-28T14:21:48.772813+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://www.facebook.com/sabaton",
+          "name": "SABATON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-08-28T14:21:48.772813+00:00",
+      "city": "Graz",
+      "event_date": "2027-04-30",
+      "first_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "37a9deb3eae9b159003e",
+      "last_seen_at": "2026-08-28T14:21:48.772813+00:00",
+      "links": [
+        {
+          "label": "SABATON",
+          "url": "https://www.facebook.com/sabaton"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/26506946935650252"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.04.: SABATON (swe) @ Stadthalle, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadthalle"
+    },
+    "event_id": "37a9deb3eae9b159003e",
+    "guid": "37a9deb3eae9b159003e:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 27 Aug 2026 12:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:21:48 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: 1914, GRIMMING – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ff887722e505c4d2dcec-1</link>
+      <guid isPermaLink="false">ff887722e505c4d2dcec:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2026-09-24 · p.p.c.,  Graz · Steiermark · Line-up: 1914 → 1914 · GRIMMING</description>
+    </item>
+    <item>
+      <title>Neu: SABATON – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37a9deb3eae9b159003e-1</link>
+      <guid isPermaLink="false">37a9deb3eae9b159003e:1</guid>
+      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
+      <description>2027-04-30 · Stadthalle,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: ANNIE TAYLOR – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bd471f2d01328077c6f3-1</link>
