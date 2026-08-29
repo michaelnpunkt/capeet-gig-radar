@@ -213,6 +213,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "agnes verano": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "agnis": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -1427,6 +1433,15 @@
     "family": "Hardcore",
     "source": "lastfm",
     "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "comeback kid": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore",
       "Hardcore Punk"
     ]
   },
@@ -3280,6 +3295,12 @@
       "Post-Punk"
     ]
   },
+  "haywire": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "health": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -3533,6 +3554,12 @@
       "Melodic Hardcore",
       "Hardcore Punk"
     ]
+  },
+  "iamx": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
   },
   "ice nine kills": {
     "classifier_version": 2,
@@ -3912,6 +3939,12 @@
       "Deathcore",
       "Metalcore"
     ]
+  },
+  "justin sullivan dean white": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "kadavar": {
     "family": "Rock",
@@ -4435,6 +4468,12 @@
       "Sludge Metal",
       "Stoner Metal"
     ]
+  },
+  "live life": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
   },
   "lmda": {
     "family": "Metal",
@@ -5765,6 +5804,14 @@
       "Grindcore"
     ]
   },
+  "plastikstrom": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "plattenbau": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -6905,6 +6952,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "speedway": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "spike hellis": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
@@ -7947,6 +8002,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "traitrs": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "tramhaus": {
     "classifier_version": 2,
     "family": "Goth/Post-Punk",
@@ -8134,6 +8197,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "urban instinkt": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "urban misery": {
     "classifier_version": 2,
@@ -8486,6 +8555,22 @@
     "source": "lastfm",
     "subgenres": [
       "Metalcore"
+    ]
+  },
+  "whispers": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "whispers in the shadow": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
     ]
   },
   "whitechapel": {

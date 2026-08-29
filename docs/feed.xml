@@ -5,8 +5,85 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:04:20 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The DRESDEN DOLLS, Agnes Verano – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cde61a7ad02b877d7328-1</link>
+      <guid isPermaLink="false">cde61a7ad02b877d7328:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-08-30 · Karlsplatz,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: The DRESDEN DOLLS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-eaf8d6727377160c6f47-1</link>
+      <guid isPermaLink="false">eaf8d6727377160c6f47:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-08-31 · Szene,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: LMDA, GYFTH, IMPULSEALER, PRIMAL VOID – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-168a739d9c691e885f46-1</link>
+      <guid isPermaLink="false">168a739d9c691e885f46:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-09-05 · Venster,  Wien · Wien · Line-up: LMDA · GYFTH · IMPULSEALER · GRANTIG · PRIMAL VOID → LMDA · GYFTH · IMPULSEALER · PRIMAL VOID</description>
+    </item>
+    <item>
+      <title>Neu: IAMX – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa6506a01418c3aa2752-1</link>
+      <guid isPermaLink="false">fa6506a01418c3aa2752:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-09-14 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: URBAN INSTINKT, LIVE LIFE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3d681e5b647cb335a81d-1</link>
+      <guid isPermaLink="false">3d681e5b647cb335a81d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-09-26 · Coco Bar,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Justin Sullivan &amp; Dean White – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ebfd778b8b57a6c7b72-1</link>
+      <guid isPermaLink="false">4ebfd778b8b57a6c7b72:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-10-24 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Geändert: AUX ANIMAUX, PLASTIKSTROM, Christian Fetish, VKGOESWILD – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-78a79195749520eecccb-1</link>
+      <guid isPermaLink="false">78a79195749520eecccb:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-11-06 · Replugged,  Wien · Wien · Line-up: AUX ANIMAUX · Christian Fetish · VKGOESWILD → AUX ANIMAUX · PLASTIKSTROM · Christian Fetish · VKGOESWILD</description>
+    </item>
+    <item>
+      <title>Neu: COMEBACK KID, HAYWIRE, WHISPERS, SPEEDWAY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-89b126663eff36a82266-1</link>
+      <guid isPermaLink="false">89b126663eff36a82266:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-01-30 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: TRAITRS, WHISPERS IN THE SHADOW – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f51b9df40bcb01bff48d-1</link>
+      <guid isPermaLink="false">f51b9df40bcb01bff48d:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-02-25 · Szene,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: TRAITRS, WHISPERS IN THE SHADOW – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-edcd4833e0c11101ca26-1</link>
+      <guid isPermaLink="false">edcd4833e0c11101ca26:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-02-26 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: WAVING THE GUNS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12140cc2ebf265e5e1b6-1</link>
+      <guid isPermaLink="false">12140cc2ebf265e5e1b6:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-03-12 · p.p.c.,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: HOLLYWOOD VAMPIRES, Cassyette – St. Pölten</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-29783117421fa115c1c1-1</link>
@@ -629,83 +706,6 @@
       <guid isPermaLink="false">98ece867e05d0610840f:1</guid>
       <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
       <description>2026-09-19 · Lucia,  Wien · Wien · Line-up: DESCARTES A KANT → DESCARTES A KANT · MODULA NATION</description>
-    </item>
-    <item>
-      <title>Neu: SPITE HOUSE, PRIZE HORSE, WRONG MAN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3f73fb59e3ed50a1c568-1</link>
-      <guid isPermaLink="false">3f73fb59e3ed50a1c568:1</guid>
-      <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
-      <description>2026-12-10 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: NONSENSE, GRUBI – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9c3ffc1439965e2ea6c3-1</link>
-      <guid isPermaLink="false">9c3ffc1439965e2ea6c3:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-21 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SCAMPI BUMP, The ÆMBER, HONEYFACE – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-862f86cad662738f7bc1-1</link>
-      <guid isPermaLink="false">862f86cad662738f7bc1:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-21 · Music-House,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Geändert: INTERNAL BLEEDING, BEHIND THE MASK – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-43503b9acdc0d12a88fc-1</link>
-      <guid isPermaLink="false">43503b9acdc0d12a88fc:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-27 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: INTERNAL BLEEDING → INTERNAL BLEEDING · BEHIND THE MASK</description>
-    </item>
-    <item>
-      <title>Geändert: SATORI DEVILS, BANLIEUE D'AMOUR, PSYCHAMORE, The LIQUID STONES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8e5099fc71726ac269c8-1</link>
-      <guid isPermaLink="false">8e5099fc71726ac269c8:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-29 · Café Carina,  Wien · Wien · Line-up: BANLIEUE D'AMOUR · PSYCHAMORE · The LIQUID STONES → SATORI DEVILS · BANLIEUE D'AMOUR · PSYCHAMORE · The LIQUID STONES</description>
-    </item>
-    <item>
-      <title>Neu: COMANIAC, RAVENOUS – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f763de585cbb3628936-1</link>
-      <guid isPermaLink="false">5f763de585cbb3628936:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-09-03 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: SEXMAG, RAPID – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f74d14125de691371122-1</link>
-      <guid isPermaLink="false">f74d14125de691371122:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-09-15 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: TAUCHEN, STEREOTYPEN – Lienz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e28c3db64c40635ec4bd-1</link>
-      <guid isPermaLink="false">e28c3db64c40635ec4bd:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-09-25 · mukl,  Lienz · Tirol</description>
-    </item>
-    <item>
-      <title>Geändert: SPLIT SYSTEM, BROWER, METALLEG – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-25c23fa0371b1f338423-1</link>
-      <guid isPermaLink="false">25c23fa0371b1f338423:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-09-30 · Arena,  Wien · Wien · Line-up: SPLIT SYSTEM → SPLIT SYSTEM · BROWER · METALLEG</description>
-    </item>
-    <item>
-      <title>Neu: GINGER WIZARD, SELF-IMMOLATION MUSIC – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e174c75fcd51c132404e-1</link>
-      <guid isPermaLink="false">e174c75fcd51c132404e:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-01 · Das Lot,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: RADIO PASSIV, HØRGERÆT, MERCY ME – Feldkirchen (Ktn.)</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-548c1f57bf64255941d0-1</link>
-      <guid isPermaLink="false">548c1f57bf64255941d0:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-03 · LaVida,  Feldkirchen (Ktn.) · Unbekannt</description>
     </item>
   </channel>
 </rss>

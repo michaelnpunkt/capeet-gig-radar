@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 28 Aug 2026 14:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:04:20 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: IAMX – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa6506a01418c3aa2752-1</link>
+      <guid isPermaLink="false">fa6506a01418c3aa2752:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-09-14 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: Justin Sullivan &amp; Dean White – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ebfd778b8b57a6c7b72-1</link>
+      <guid isPermaLink="false">4ebfd778b8b57a6c7b72:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2026-10-24 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: TRAITRS, WHISPERS IN THE SHADOW – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-edcd4833e0c11101ca26-1</link>
+      <guid isPermaLink="false">edcd4833e0c11101ca26:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-02-26 · p.p.c.,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: WAVING THE GUNS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12140cc2ebf265e5e1b6-1</link>
+      <guid isPermaLink="false">12140cc2ebf265e5e1b6:1</guid>
+      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
+      <description>2027-03-12 · p.p.c.,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: 1914, GRIMMING – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ff887722e505c4d2dcec-1</link>

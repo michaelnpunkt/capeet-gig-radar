@@ -1,6 +1,732 @@
 {
-  "generated_at": "2026-08-28T14:21:48.772813+00:00",
+  "generated_at": "2026-08-29T09:04:20.295710+00:00",
   "revisions": [
+    {
+      "anchor": "change-cde61a7ad02b877d7328-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://dresdendolls.com/",
+            "name": "The DRESDEN DOLLS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/agnes_verano/",
+            "name": "Agnes Verano"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2026-08-30",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "cde61a7ad02b877d7328",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "The DRESDEN DOLLS",
+            "url": "https://dresdendolls.com/"
+          },
+          {
+            "label": "Agnes Verano",
+            "url": "https://www.instagram.com/agnes_verano/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/28321163644167605/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.08.: The DRESDEN DOLLS (usa) / Agnes Verano @ Karlsplatz, Wien [11:00!] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Karlsplatz"
+      },
+      "event_id": "cde61a7ad02b877d7328",
+      "guid": "cde61a7ad02b877d7328:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-eaf8d6727377160c6f47-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://dresdendolls.com/",
+            "name": "The DRESDEN DOLLS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2026-08-31",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "eaf8d6727377160c6f47",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "The DRESDEN DOLLS",
+            "url": "https://dresdendolls.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1945056439496831/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.08.: The DRESDEN DOLLS (usa) @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "eaf8d6727377160c6f47",
+      "guid": "eaf8d6727377160c6f47:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-168a739d9c691e885f46-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LMDA"
+            },
+            {
+              "name": "GYFTH"
+            },
+            {
+              "name": "IMPULSEALER"
+            },
+            {
+              "name": "GRANTIG"
+            },
+            {
+              "name": "PRIMAL VOID"
+            }
+          ],
+          "to": [
+            {
+              "name": "LMDA"
+            },
+            {
+              "name": "GYFTH"
+            },
+            {
+              "name": "IMPULSEALER"
+            },
+            {
+              "name": "PRIMAL VOID"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://lmdapowerviolence.bandcamp.com/music",
+            "name": "LMDA"
+          },
+          {
+            "country": null,
+            "link": "https://gyfth.bandcamp.com/",
+            "name": "GYFTH"
+          },
+          {
+            "country": "CZE",
+            "link": "https://impulsealer.bandcamp.com/",
+            "name": "IMPULSEALER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/primal_void_hc/",
+            "name": "PRIMAL VOID"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-05",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Thrash Metal"
+          ]
+        },
+        "id": "168a739d9c691e885f46",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "LMDA",
+            "url": "https://lmdapowerviolence.bandcamp.com/music"
+          },
+          {
+            "label": "GYFTH",
+            "url": "https://gyfth.bandcamp.com/"
+          },
+          {
+            "label": "IMPULSEALER",
+            "url": "https://impulsealer.bandcamp.com/"
+          },
+          {
+            "label": "PRIMAL VOID",
+            "url": "https://www.instagram.com/primal_void_hc/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.09.: LMDA (fra) / GYFTH / IMPULSEALER (cze) / PRIMAL VOID @ Venster, Wien [14:00!] [GRANTIG cancelled.]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "168a739d9c691e885f46",
+      "guid": "168a739d9c691e885f46:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fa6506a01418c3aa2752-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/IAMXOFFICIAL/",
+            "name": "IAMX"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-14",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "fa6506a01418c3aa2752",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "IAMX",
+            "url": "https://www.facebook.com/IAMXOFFICIAL/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1958951322160748/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.09.: IAMX (uk) @ p.p.c., Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.p.c."
+      },
+      "event_id": "fa6506a01418c3aa2752",
+      "guid": "fa6506a01418c3aa2752:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3d681e5b647cb335a81d-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BIH",
+            "link": "https://www.facebook.com/urbaninstinktTZXHC",
+            "name": "URBAN INSTINKT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/livelifehc/",
+            "name": "LIVE LIFE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-26",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3d681e5b647cb335a81d",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "URBAN INSTINKT",
+            "url": "https://www.facebook.com/urbaninstinktTZXHC"
+          },
+          {
+            "label": "LIVE LIFE",
+            "url": "https://www.instagram.com/livelifehc/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1092999176717525"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.09.: URBAN INSTINKT (bih) / LIVE LIFE @ Coco Bar, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Coco Bar"
+      },
+      "event_id": "3d681e5b647cb335a81d",
+      "guid": "3d681e5b647cb335a81d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4ebfd778b8b57a6c7b72-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.newmodelarmy.org/",
+            "name": "Justin Sullivan & Dean White"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "4ebfd778b8b57a6c7b72",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "Justin Sullivan & Dean White",
+            "url": "https://www.newmodelarmy.org/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1377162231174253/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.10.: Justin Sullivan & Dean White (uk) @ p.p.c., Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.p.c."
+      },
+      "event_id": "4ebfd778b8b57a6c7b72",
+      "guid": "4ebfd778b8b57a6c7b72:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-78a79195749520eecccb-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "AUX ANIMAUX"
+            },
+            {
+              "name": "Christian Fetish"
+            },
+            {
+              "name": "VKGOESWILD"
+            }
+          ],
+          "to": [
+            {
+              "name": "AUX ANIMAUX"
+            },
+            {
+              "name": "PLASTIKSTROM"
+            },
+            {
+              "name": "Christian Fetish"
+            },
+            {
+              "name": "VKGOESWILD"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://auxanimaux.bandcamp.com/",
+            "name": "AUX ANIMAUX"
+          },
+          {
+            "country": "D",
+            "link": "https://www.plastikstrom.de/",
+            "name": "PLASTIKSTROM"
+          },
+          {
+            "country": null,
+            "link": "https://christianfetish.at/",
+            "name": "Christian Fetish"
+          },
+          {
+            "country": null,
+            "link": "https://vkgoeswild.bandcamp.com/",
+            "name": "VKGOESWILD"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "78a79195749520eecccb",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "AUX ANIMAUX",
+            "url": "https://auxanimaux.bandcamp.com/"
+          },
+          {
+            "label": "PLASTIKSTROM",
+            "url": "https://www.plastikstrom.de/"
+          },
+          {
+            "label": "Christian Fetish",
+            "url": "https://christianfetish.at/"
+          },
+          {
+            "label": "VKGOESWILD",
+            "url": "https://vkgoeswild.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1670114670808256/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: AUX ANIMAUX (swe) / PLASTIKSTROM (d) / Christian Fetish / VKGOESWILD @ Replugged, Wien [Die SELEKTION cancelled.] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Replugged"
+      },
+      "event_id": "78a79195749520eecccb",
+      "guid": "78a79195749520eecccb:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-89b126663eff36a82266-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://www.comeback-kid.com/",
+            "name": "COMEBACK KID"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/haywire617/",
+            "name": "HAYWIRE"
+          },
+          {
+            "country": "THA",
+            "link": "https://www.instagram.com/whispershc/",
+            "name": "WHISPERS"
+          },
+          {
+            "country": "SWE",
+            "link": "https://speedwaymusic.bandcamp.com/",
+            "name": "SPEEDWAY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-30",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Melodic Hardcore",
+            "Hardcore Punk"
+          ]
+        },
+        "id": "89b126663eff36a82266",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "COMEBACK KID",
+            "url": "https://www.comeback-kid.com/"
+          },
+          {
+            "label": "HAYWIRE",
+            "url": "https://www.instagram.com/haywire617/"
+          },
+          {
+            "label": "WHISPERS",
+            "url": "https://www.instagram.com/whispershc/"
+          },
+          {
+            "label": "SPEEDWAY",
+            "url": "https://speedwaymusic.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1742184873733576/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.01.: COMEBACK KID (can) / HAYWIRE (usa) / WHISPERS (tha) / SPEEDWAY (swe) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "89b126663eff36a82266",
+      "guid": "89b126663eff36a82266:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f51b9df40bcb01bff48d-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://traitrs.bandcamp.com/",
+            "name": "TRAITRS"
+          },
+          {
+            "country": null,
+            "link": "https://whispersintheshadow.bandcamp.com/music",
+            "name": "WHISPERS IN THE SHADOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-25",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "f51b9df40bcb01bff48d",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "TRAITRS",
+            "url": "https://traitrs.bandcamp.com/"
+          },
+          {
+            "label": "WHISPERS IN THE SHADOW",
+            "url": "https://whispersintheshadow.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/961192307006764"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.02.: TRAITRS (can) / WHISPERS IN THE SHADOW @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "f51b9df40bcb01bff48d",
+      "guid": "f51b9df40bcb01bff48d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-edcd4833e0c11101ca26-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://traitrs.bandcamp.com/",
+            "name": "TRAITRS"
+          },
+          {
+            "country": null,
+            "link": "https://whispersintheshadow.bandcamp.com/music",
+            "name": "WHISPERS IN THE SHADOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Graz",
+        "event_date": "2027-02-26",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "edcd4833e0c11101ca26",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "TRAITRS",
+            "url": "https://traitrs.bandcamp.com/"
+          },
+          {
+            "label": "WHISPERS IN THE SHADOW",
+            "url": "https://whispersintheshadow.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2124456998133399/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.02.: TRAITRS (can) / WHISPERS IN THE SHADOW @ p.p.c., Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.p.c."
+      },
+      "event_id": "edcd4833e0c11101ca26",
+      "guid": "edcd4833e0c11101ca26:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-12140cc2ebf265e5e1b6-1",
+      "changes": {},
+      "detected_at": "2026-08-29T09:04:20.295710+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/wavingtheguns/",
+            "name": "WAVING THE GUNS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-08-29T09:04:20.295710+00:00",
+        "city": "Graz",
+        "event_date": "2027-03-12",
+        "first_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "12140cc2ebf265e5e1b6",
+        "last_seen_at": "2026-08-29T09:04:20.295710+00:00",
+        "links": [
+          {
+            "label": "WAVING THE GUNS",
+            "url": "https://www.instagram.com/wavingtheguns/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/967262496386591/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.03.: WAVING THE GUNS (d) @ p.p.c., Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.p.c."
+      },
+      "event_id": "12140cc2ebf265e5e1b6",
+      "guid": "12140cc2ebf265e5e1b6:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-29783117421fa115c1c1-1",
       "changes": {
