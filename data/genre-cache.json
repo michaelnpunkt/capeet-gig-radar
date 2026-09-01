@@ -433,6 +433,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "anti kontra": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "antillectual": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -1229,6 +1235,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "catastrophy": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "cave club": {
     "classifier_version": 2,
@@ -2110,6 +2124,14 @@
       "Death Metal"
     ]
   },
+  "distraction4ever": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "dj warzone": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -2448,6 +2470,12 @@
   "endlich schlechte musik": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "enns": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "enterprise earth": {
@@ -2924,6 +2952,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "getchoo": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "ghidrah": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -3047,6 +3083,14 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "good cop": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
   },
   "gore": {
     "family": "Metal",
@@ -3360,6 +3404,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "henge": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "here for a reason": {
     "family": "Punk",
@@ -5467,6 +5517,12 @@
       "Death Metal"
     ]
   },
+  "obsolete order": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "obstruktion": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -5516,6 +5572,12 @@
     "subgenres": [
       "Noise Rock"
     ]
+  },
+  "orange peel her": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "orangeblue": {
     "classifier_version": 2,
@@ -5666,6 +5728,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "papangu": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Sludge Metal"
+    ]
   },
   "paradeiser": {
     "classifier_version": 2,
@@ -7432,6 +7502,12 @@
       "Metalcore",
       "Death Metal"
     ]
+  },
+  "the black wizards": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "the bones": {
     "family": "Punk",

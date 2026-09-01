@@ -9446,5 +9446,788 @@
     "guid": "12140cc2ebf265e5e1b6:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BRA",
+          "link": "https://papangu.bandcamp.com/",
+          "name": "PAPANGU"
+        },
+        {
+          "country": null,
+          "link": "https://bipolarpenguins.bandcamp.com/",
+          "name": "BIPOLAR PENGUINS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-02",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Sludge Metal"
+        ]
+      },
+      "id": "2ec15e23ff5bbbf0a3e6",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "PAPANGU",
+          "url": "https://papangu.bandcamp.com/"
+        },
+        {
+          "label": "BIPOLAR PENGUINS",
+          "url": "https://bipolarpenguins.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.09.: PAPANGU (bra) / BIPOLAR PENGUINS @ TüWi, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "TüWi"
+    },
+    "event_id": "2ec15e23ff5bbbf0a3e6",
+    "guid": "2ec15e23ff5bbbf0a3e6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://distraction4ever.bandcamp.com/",
+          "name": "DISTRACTION4EVER"
+        },
+        {
+          "country": null,
+          "link": "https://ennsennsenns.bandcamp.com/",
+          "name": "ENNS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-09",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "2957eb04fefa71c3b69d",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "DISTRACTION4EVER",
+          "url": "https://distraction4ever.bandcamp.com/"
+        },
+        {
+          "label": "ENNS",
+          "url": "https://ennsennsenns.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/28892966666960616/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.09.: DISTRACTION4EVER / ENNS @ Das Lot, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Das Lot"
+    },
+    "event_id": "2957eb04fefa71c3b69d",
+    "guid": "2957eb04fefa71c3b69d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GOB"
+          }
+        ],
+        "to": [
+          {
+            "name": "GOB"
+          },
+          {
+            "name": "ANTI-KONTRA"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://gobband.com/",
+          "name": "GOB"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Anti.Kontra",
+          "name": "ANTI-KONTRA"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-09",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4f68d195e1f6b672fc24",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "GOB",
+          "url": "https://gobband.com/"
+        },
+        {
+          "label": "ANTI-KONTRA",
+          "url": "https://www.facebook.com/Anti.Kontra"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1371648291529018/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.09.: GOB (can) / ANTI-KONTRA @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "4f68d195e1f6b672fc24",
+    "guid": "4f68d195e1f6b672fc24:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "VEZZ III"
+          },
+          {
+            "name": "ZAPPZARAPP"
+          }
+        ],
+        "to": [
+          {
+            "name": "ZAPPZARAPP"
+          },
+          {
+            "name": "VEZZ III"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/zappzarapp_gmbh/",
+          "name": "ZAPPZARAPP"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/vezz3_music/",
+          "name": "VEZZ III"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-11",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0767df284932f7e60103",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "ZAPPZARAPP",
+          "url": "https://www.instagram.com/zappzarapp_gmbh/"
+        },
+        {
+          "label": "VEZZ III",
+          "url": "https://www.instagram.com/vezz3_music/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1055715390772573/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "11.09.: ZAPPZARAPP / VEZZ III @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "0767df284932f7e60103",
+    "guid": "0767df284932f7e60103:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NZL/AUT",
+          "link": "https://soloono.bandcamp.com/",
+          "name": "SOLO ONO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "03564a8bd6bf24e10cc3",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "SOLO ONO",
+          "url": "https://soloono.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://rhiz.wien/?copilot-slug=19-09-2026_solo-ono-album-release-show"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: SOLO ONO (nzl/aut) @ rhiz, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "03564a8bd6bf24e10cc3",
+    "guid": "03564a8bd6bf24e10cc3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://catastrophypunx.bandcamp.com/",
+          "name": "CATASTROPHY"
+        },
+        {
+          "country": null,
+          "link": "https://losflixs.bandcamp.com/",
+          "name": "LOS FLIXS"
+        },
+        {
+          "country": null,
+          "link": "https://obsoleteorder666.bandcamp.com/",
+          "name": "OBSOLETE ORDER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "ebc3eb39103b3a8fa37c",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "CATASTROPHY",
+          "url": "https://catastrophypunx.bandcamp.com/"
+        },
+        {
+          "label": "LOS FLIXS",
+          "url": "https://losflixs.bandcamp.com/"
+        },
+        {
+          "label": "OBSOLETE ORDER",
+          "url": "https://obsoleteorder666.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/38671970392394097/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: CATASTROPHY / LOS FLIXS / OBSOLETE ORDER @ Spitzer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spitzer"
+    },
+    "event_id": "ebc3eb39103b3a8fa37c",
+    "guid": "ebc3eb39103b3a8fa37c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ROM",
+          "link": "https://getchoo.bandcamp.com/",
+          "name": "GETCHOO"
+        },
+        {
+          "country": "ROM",
+          "link": "https://orangepeelher.bandcamp.com/",
+          "name": "ORANGE PEEL HER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/good_cop_1312/",
+          "name": "GOOD COP"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-29",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "d9d216560886ded40936",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "GETCHOO",
+          "url": "https://getchoo.bandcamp.com/"
+        },
+        {
+          "label": "ORANGE PEEL HER",
+          "url": "https://orangepeelher.bandcamp.com/"
+        },
+        {
+          "label": "GOOD COP",
+          "url": "https://www.instagram.com/good_cop_1312/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.09.: GETCHOO (rom) / ORANGE PEEL HER (rom) / GOOD COP @ Café Carina, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "d9d216560886ded40936",
+    "guid": "d9d216560886ded40936:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "AUS",
+          "link": null,
+          "name": "ALPHA WOLF"
+        },
+        {
+          "country": "USA",
+          "link": null,
+          "name": "PSYCHO-FRAME"
+        },
+        {
+          "country": "USA",
+          "link": null,
+          "name": "FOX LAKE"
+        },
+        {
+          "country": "AUS",
+          "link": null,
+          "name": "DIAMOND CONSTRUCT"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-28",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      "id": "c574e8150ec79dbb8a5c",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.10.: ALPHA WOLF (aus) / PSYCHO-FRAME (usa) / FOX LAKE (usa) / DIAMOND CONSTRUCT (aus) @ Flex, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "c574e8150ec79dbb8a5c",
+    "guid": "c574e8150ec79dbb8a5c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": null,
+          "name": "ANY GIVEN DAY"
+        },
+        {
+          "country": "CAN",
+          "link": null,
+          "name": "GET THE SHOT"
+        },
+        {
+          "country": "JPN",
+          "link": null,
+          "name": "SABLE HILLS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-11-17",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "87381b6e539af3470b8c",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.11.: ANY GIVEN DAY (d) / GET THE SHOT (can) / SABLE HILLS (jpn) @ Rockhouse, Salzburg [cancelled.]",
+      "state": "Salzburg",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Rockhouse"
+    },
+    "event_id": "87381b6e539af3470b8c",
+    "guid": "87381b6e539af3470b8c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": null,
+          "name": "ANY GIVEN DAY"
+        },
+        {
+          "country": "CAN",
+          "link": null,
+          "name": "GET THE SHOT"
+        },
+        {
+          "country": "JPN",
+          "link": null,
+          "name": "SABLE HILLS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-18",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "59c7c09aaf74ad8042d5",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.11.: ANY GIVEN DAY (d) / GET THE SHOT (can) / SABLE HILLS (jpn) @ Flex, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "59c7c09aaf74ad8042d5",
+    "guid": "59c7c09aaf74ad8042d5:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://hengemusic.bandcamp.com/music",
+          "name": "HENGE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-22",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3b3be4f3f74fe404af60",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "HENGE",
+          "url": "https://hengemusic.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.01.: Dragged Into Bliss feat. HENGE (uk) u.a. @ Viper Room, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "Dragged Into Bliss",
+      "venue": "Viper Room"
+    },
+    "event_id": "3b3be4f3f74fe404af60",
+    "guid": "3b3be4f3f74fe404af60:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://hengemusic.bandcamp.com/music",
+          "name": "HENGE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-01-23",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "20c61a3412e3e286854a",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "HENGE",
+          "url": "https://hengemusic.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.01.: HENGE (uk) @ Kino, Ebensee",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "20c61a3412e3e286854a",
+    "guid": "20c61a3412e3e286854a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "POR",
+          "link": "https://theblackwizards.bandcamp.com/",
+          "name": "The BLACK WIZARDS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-23",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c37f31e929ce3901eeb2",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "The BLACK WIZARDS",
+          "url": "https://theblackwizards.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.01.: Dragged Into Bliss feat. The BLACK WIZARDS (por) u.a. @ Viper Room, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "Dragged Into Bliss",
+      "venue": "Viper Room"
+    },
+    "event_id": "c37f31e929ce3901eeb2",
+    "guid": "c37f31e929ce3901eeb2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-01T07:49:53.893741+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.kreisky.net/",
+          "name": "KREISKY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-01T07:49:53.893741+00:00",
+      "city": "Vöcklabruck",
+      "event_date": "2027-04-30",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e3e0df8d9b750b39d93f",
+      "last_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "links": [
+        {
+          "label": "KREISKY",
+          "url": "https://www.kreisky.net/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1992562428289245"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.04.: KREISKY @ OKH, Vöcklabruck [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "OKH"
+    },
+    "event_id": "e3e0df8d9b750b39d93f",
+    "guid": "e3e0df8d9b750b39d93f:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

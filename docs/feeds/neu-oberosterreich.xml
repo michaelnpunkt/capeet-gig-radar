@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:49:53 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: HENGE – Ebensee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-20c61a3412e3e286854a-1</link>
+      <guid isPermaLink="false">20c61a3412e3e286854a:1</guid>
+      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
+      <description>2027-01-23 · Kino,  Ebensee · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: KREISKY – Vöcklabruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e3e0df8d9b750b39d93f-1</link>
+      <guid isPermaLink="false">e3e0df8d9b750b39d93f:1</guid>
+      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
+      <description>2027-04-30 · OKH,  Vöcklabruck · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: BLÜTWÜRM, STICKY MOLOCH, REST IN PUNK – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-53755b2c6e428f9121f3-2</link>
