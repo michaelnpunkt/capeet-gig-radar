@@ -1,6 +1,1003 @@
 {
-  "generated_at": "2026-09-01T07:49:53.893741+00:00",
+  "generated_at": "2026-09-02T07:06:47.631919+00:00",
   "revisions": [
+    {
+      "anchor": "change-e46225e82267e1e2f393-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "BONEGRINDER"
+            }
+          ],
+          "to": [
+            {
+              "name": "METALLUS"
+            },
+            {
+              "name": "BONEGRINDER"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "POL",
+            "link": "https://metallusdoom.bandcamp.com/",
+            "name": "METALLUS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/bonegrinder_official/",
+            "name": "BONEGRINDER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-08-18T03:09:18.056724+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal"
+          ]
+        },
+        "id": "e46225e82267e1e2f393",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "METALLUS",
+            "url": "https://metallusdoom.bandcamp.com/"
+          },
+          {
+            "label": "BONEGRINDER",
+            "url": "https://www.instagram.com/bonegrinder_official/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/27509186795350130/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "24.10.: METALLUS (pol) / BONEGRINDER u.a. @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "e46225e82267e1e2f393",
+      "guid": "e46225e82267e1e2f393:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-352486e6ff7cd727a0a3-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "HUN",
+            "link": "https://normsbp.bandcamp.com/",
+            "name": "NORMS"
+          },
+          {
+            "country": null,
+            "link": "https://hasepunx.bandcamp.com/",
+            "name": "HASE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-04",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "352486e6ff7cd727a0a3",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "NORMS",
+            "url": "https://normsbp.bandcamp.com/"
+          },
+          {
+            "label": "HASE",
+            "url": "https://hasepunx.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.09.: NORMS (hun) / HASE @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "352486e6ff7cd727a0a3",
+      "guid": "352486e6ff7cd727a0a3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6f850ec49f9783f7f9c7-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MASS//REACTION"
+            }
+          ],
+          "to": [
+            {
+              "name": "MASS//REACTION"
+            },
+            {
+              "name": "Small Souki & The BIG TROUBLE BAND"
+            },
+            {
+              "name": "SUNDL"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "HUN",
+            "link": "https://massreaction.bandcamp.com/",
+            "name": "MASS//REACTION"
+          },
+          {
+            "country": null,
+            "link": "https://smallsouki-tbtb.bandcamp.com/",
+            "name": "Small Souki & The BIG TROUBLE BAND"
+          },
+          {
+            "country": null,
+            "link": "https://sundl.bandcamp.com/",
+            "name": "SUNDL"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-05",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "6f850ec49f9783f7f9c7",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "MASS//REACTION",
+            "url": "https://massreaction.bandcamp.com/"
+          },
+          {
+            "label": "Small Souki & The BIG TROUBLE BAND",
+            "url": "https://smallsouki-tbtb.bandcamp.com/"
+          },
+          {
+            "label": "SUNDL",
+            "url": "https://sundl.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.09.: MASS//REACTION (hun) / Small Souki & The BIG TROUBLE BAND / SUNDL @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "6f850ec49f9783f7f9c7",
+      "guid": "6f850ec49f9783f7f9c7:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-55c70067f614ec65c757-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://mothermorgana.bandcamp.com/",
+            "name": "MOTHER MORGANA"
+          },
+          {
+            "country": "CZE",
+            "link": "https://sloth420.bandcamp.com/",
+            "name": "SLOTH"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/glut_band/",
+            "name": "GLUT"
+          },
+          {
+            "country": null,
+            "link": "https://thosar.bandcamp.com/",
+            "name": "THOSAR"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/portia.trips/",
+            "name": "PORTIA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Puch b. Weiz",
+        "event_date": "2026-09-12",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "55c70067f614ec65c757",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "MOTHER MORGANA",
+            "url": "https://mothermorgana.bandcamp.com/"
+          },
+          {
+            "label": "SLOTH",
+            "url": "https://sloth420.bandcamp.com/"
+          },
+          {
+            "label": "GLUT",
+            "url": "https://www.instagram.com/glut_band/"
+          },
+          {
+            "label": "THOSAR",
+            "url": "https://thosar.bandcamp.com/"
+          },
+          {
+            "label": "PORTIA",
+            "url": "https://www.instagram.com/portia.trips/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1275090177276614"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.09.: MOTHER MORGANA / SLOTH (cze) / GLUT / THOSAR / PORTIA u.a. @ Kulmarena, Puch b. Weiz [fb]",
+        "state": "Unbekannt",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulmarena"
+      },
+      "event_id": "55c70067f614ec65c757",
+      "guid": "55c70067f614ec65c757:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-34b5dba90d7bca7c387a-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CZE",
+            "link": "https://grumperrr.bandcamp.com/",
+            "name": "GRUMPER"
+          },
+          {
+            "country": null,
+            "link": "https://interstellar-bungalow.bandcamp.com/",
+            "name": "INTERSTELLAR BUNGALOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-14",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "34b5dba90d7bca7c387a",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "GRUMPER",
+            "url": "https://grumperrr.bandcamp.com/"
+          },
+          {
+            "label": "INTERSTELLAR BUNGALOW",
+            "url": "https://interstellar-bungalow.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.09.: GRUMPER (cze) / INTERSTELLAR BUNGALOW @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "34b5dba90d7bca7c387a",
+      "guid": "34b5dba90d7bca7c387a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-80bd893b22c7ec1e9cb5-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "JPN",
+            "link": "https://mayaongakuggb.bandcamp.com/",
+            "name": "MAYA ONGAKU"
+          },
+          {
+            "country": null,
+            "link": "https://topsyturvyvienna.bandcamp.com/",
+            "name": "TOPSY TURVY"
+          },
+          {
+            "country": null,
+            "link": "https://laundromatchicks.bandcamp.com/",
+            "name": "LAUNDROMAT CHICKS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-09-18",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "80bd893b22c7ec1e9cb5",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "MAYA ONGAKU",
+            "url": "https://mayaongakuggb.bandcamp.com/"
+          },
+          {
+            "label": "TOPSY TURVY",
+            "url": "https://topsyturvyvienna.bandcamp.com/"
+          },
+          {
+            "label": "LAUNDROMAT CHICKS",
+            "url": "https://laundromatchicks.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.ojad.at/event/maya-ongaku-jap-topsy-turvy-wien-laundromat-chicks-wien/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.09.: MAYA ONGAKU (jpn) / TOPSY TURVY / LAUNDROMAT CHICKS @ Kulturcafé Schlachthaus, Dornbirn [web]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "80bd893b22c7ec1e9cb5",
+      "guid": "80bd893b22c7ec1e9cb5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b34dd3d78133a30ca053-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR",
+            "link": "https://www.instagram.com/suicidalninjamonkeys/",
+            "name": "SUICIDAL NINJA MONKEYS"
+          },
+          {
+            "country": null,
+            "link": "https://forcefedfarmanimals.bandcamp.com/",
+            "name": "FORCE FED FARM ANIMALS"
+          },
+          {
+            "country": null,
+            "link": "https://soundcloud.com/venusasaboi",
+            "name": "VENUSASABOI"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-18",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "heuristic",
+          "subgenres": [
+            "Street Punk"
+          ]
+        },
+        "id": "b34dd3d78133a30ca053",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "SUICIDAL NINJA MONKEYS",
+            "url": "https://www.instagram.com/suicidalninjamonkeys/"
+          },
+          {
+            "label": "FORCE FED FARM ANIMALS",
+            "url": "https://forcefedfarmanimals.bandcamp.com/"
+          },
+          {
+            "label": "VENUSASABOI",
+            "url": "https://soundcloud.com/venusasaboi"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.09.: SUICIDAL NINJA MONKEYS (nor) / FORCE FED FARM ANIMALS / VENUSASABOI @ Café Carina, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "b34dd3d78133a30ca053",
+      "guid": "b34dd3d78133a30ca053:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-71d0a907dde1b9314f2c-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR",
+            "link": "https://www.instagram.com/suicidalninjamonkeys/",
+            "name": "SUICIDAL NINJA MONKEYS"
+          },
+          {
+            "country": null,
+            "link": "https://leberzerroze.bandcamp.com/",
+            "name": "LEBERZERROZE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/bonjourtropfen",
+            "name": "BONJOURTROPFEN"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/wortvehla.band/",
+            "name": "WORTVEHLA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-19",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "71d0a907dde1b9314f2c",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "SUICIDAL NINJA MONKEYS",
+            "url": "https://www.instagram.com/suicidalninjamonkeys/"
+          },
+          {
+            "label": "LEBERZERROZE",
+            "url": "https://leberzerroze.bandcamp.com/"
+          },
+          {
+            "label": "BONJOURTROPFEN",
+            "url": "https://www.facebook.com/bonjourtropfen"
+          },
+          {
+            "label": "WORTVEHLA",
+            "url": "https://www.instagram.com/wortvehla.band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1775893473726268/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.09.: SUICIDAL NINJA MONKEYS (nor) / LEBERZERROZE / BONJOURTROPFEN / WORTVEHLA @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "71d0a907dde1b9314f2c",
+      "guid": "71d0a907dde1b9314f2c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-729df99e635aa43ffc8e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "1914"
+            }
+          ],
+          "to": [
+            {
+              "name": "1914"
+            },
+            {
+              "name": "SWEEPING DEATH"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UKR",
+            "link": "https://x1914x.bandcamp.com/",
+            "name": "1914"
+          },
+          {
+            "country": "D",
+            "link": "https://sweepingdeath.bandcamp.com/music",
+            "name": "SWEEPING DEATH"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-09-25",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal",
+            "Doom Metal"
+          ]
+        },
+        "id": "729df99e635aa43ffc8e",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "1914",
+            "url": "https://x1914x.bandcamp.com/"
+          },
+          {
+            "label": "SWEEPING DEATH",
+            "url": "https://sweepingdeath.bandcamp.com/music"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.09.: 1914 (ukr) / SWEEPING DEATH (d) @ Kulturcafé Schlachthaus, Dornbirn",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "729df99e635aa43ffc8e",
+      "guid": "729df99e635aa43ffc8e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-022fd4dd10abee239958-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://uh-batman.bandcamp.com/",
+            "name": "UH! BATMAN"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.discogs.com/de/artist/1983237-Rock-N-Roll-Adventure-Kids",
+            "name": "The ROCK'N'ROLL ADVENTURE KIDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Feldkirch",
+        "event_date": "2026-10-02",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "022fd4dd10abee239958",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "UH! BATMAN",
+            "url": "https://uh-batman.bandcamp.com/"
+          },
+          {
+            "label": "The ROCK'N'ROLL ADVENTURE KIDS",
+            "url": "https://www.discogs.com/de/artist/1983237-Rock-N-Roll-Adventure-Kids"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "02.10.: UH! BATMAN / The ROCK'N'ROLL ADVENTURE KIDS (usa) @ Tür Eins, Feldkirch",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Tür Eins"
+      },
+      "event_id": "022fd4dd10abee239958",
+      "guid": "022fd4dd10abee239958:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a83104b71f398742439e-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://deligirls.bandcamp.com/",
+            "name": "DELI GIRLS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-06",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "a83104b71f398742439e",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "DELI GIRLS",
+            "url": "https://deligirls.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://flucc.at/events/Hnbuas-live-deli-girls/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.10.: DELI GIRLS (usa) @ Flucc, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc"
+      },
+      "event_id": "a83104b71f398742439e",
+      "guid": "a83104b71f398742439e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ca24e243703a20d80527-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://nadsat1.bandcamp.com/",
+            "name": "NADSAT"
+          },
+          {
+            "country": "D",
+            "link": "https://amoebekoerkl.bandcamp.com/",
+            "name": "AMÖBE KÖRKL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ca24e243703a20d80527",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "NADSAT",
+            "url": "https://nadsat1.bandcamp.com/"
+          },
+          {
+            "label": "AMÖBE KÖRKL",
+            "url": "https://amoebekoerkl.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1390888349636975/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.10.: NADSAT (ita) / AMÖBE KÖRKL (d) @ Kapu, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "ca24e243703a20d80527",
+      "guid": "ca24e243703a20d80527:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba76ccb83024ec50d4ab-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SLO",
+            "link": "https://www.facebook.com/SrdBozji",
+            "name": "SRD"
+          },
+          {
+            "country": "SLO",
+            "link": "https://www.sovrag.com/",
+            "name": "SOVRAG"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "SHROUDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-10",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "ba76ccb83024ec50d4ab",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "SRD",
+            "url": "https://www.facebook.com/SrdBozji"
+          },
+          {
+            "label": "SOVRAG",
+            "url": "https://www.sovrag.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1925701508061763/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.10.: SRD (slo) / SOVRAG (slo) / SHROUDS @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "ba76ccb83024ec50d4ab",
+      "guid": "ba76ccb83024ec50d4ab:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-05622397312c73db3a5f-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "KRALLICE"
+            }
+          ],
+          "to": [
+            {
+              "name": "KRALLICE"
+            },
+            {
+              "name": "ANACHRONISM"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://krallice.bandcamp.com/",
+            "name": "KRALLICE"
+          },
+          {
+            "country": "CH",
+            "link": "https://anachronismdeath.bandcamp.com/music",
+            "name": "ANACHRONISM"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "05622397312c73db3a5f",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "KRALLICE",
+            "url": "https://krallice.bandcamp.com/"
+          },
+          {
+            "label": "ANACHRONISM",
+            "url": "https://anachronismdeath.bandcamp.com/music"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.ojad.at/event/krallice-us-tba/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: KRALLICE (usa) / ANACHRONISM (ch) @ Kulturcafé Schlachthaus, Dornbirn [web]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "05622397312c73db3a5f",
+      "guid": "05622397312c73db3a5f:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a29f418028af6326c418-1",
+      "changes": {},
+      "detected_at": "2026-09-02T07:06:47.631919+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://www.e-l-r.band/",
+            "name": "E-L-R"
+          },
+          {
+            "country": "NED",
+            "link": "https://iskandr.bandcamp.com/music",
+            "name": "ISKANDR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-02T07:06:47.631919+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-12-05",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal"
+          ]
+        },
+        "id": "a29f418028af6326c418",
+        "last_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "links": [
+          {
+            "label": "E-L-R",
+            "url": "https://www.e-l-r.band/"
+          },
+          {
+            "label": "ISKANDR",
+            "url": "https://iskandr.bandcamp.com/music"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.ojad.at/event/e-l-r-ch-support-iskandr-nl/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.12.: E-L-R (ch) / ISKANDR (ned) @ Kulturcafé Schlachthaus, Dornbirn [web]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "a29f418028af6326c418",
+      "guid": "a29f418028af6326c418:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-0767df284932f7e60103-2",
       "changes": {

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:06:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SUICIDAL NINJA MONKEYS, FORCE FED FARM ANIMALS, VENUSASABOI – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b34dd3d78133a30ca053-1</link>
+      <guid isPermaLink="false">b34dd3d78133a30ca053:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-09-18 · Café Carina,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: DELI GIRLS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a83104b71f398742439e-1</link>
+      <guid isPermaLink="false">a83104b71f398742439e:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-10-06 · Flucc,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: ZAPPZARAPP, VEZZ III – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0767df284932f7e60103-2</link>

@@ -352,6 +352,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "amobe korkl": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "amon amarth": {
     "family": "Metal",
     "source": "lastfm",
@@ -375,6 +381,14 @@
     "subgenres": [
       "Death Metal",
       "Doom Metal"
+    ]
+  },
+  "anachronism": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
     ]
   },
   "and so i watch you from afar": {
@@ -1881,6 +1895,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "deli girls": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
   "delinquent habits": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -2314,6 +2336,14 @@
     "source": "lastfm",
     "subgenres": [
       "Thrash Metal"
+    ]
+  },
+  "e l r": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
     ]
   },
   "early moods": {
@@ -3187,6 +3217,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "grumper": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "guadalajara": {
     "family": "Punk",
     "source": "lastfm",
@@ -3774,6 +3810,12 @@
       "Death Metal"
     ]
   },
+  "interstellar bungalow": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "irokase": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3789,6 +3831,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "iskandr": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "iskariot": {
     "family": "Metal",
@@ -4894,6 +4944,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "maya ongaku": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "meat cheese": {
     "family": "Rock",
     "source": "lastfm",
@@ -4969,6 +5025,14 @@
     "family": "Punk",
     "source": "lastfm",
     "subgenres": []
+  },
+  "metallus": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
   },
   "metrorrhagia": {
     "classifier_version": 2,
@@ -5175,6 +5239,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "mother morgana": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "mother s cake": {
     "family": "Rock",
     "source": "lastfm",
@@ -5250,6 +5320,12 @@
   "mythguard": {
     "classifier_version": 2,
     "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "nadsat": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -6695,6 +6771,12 @@
       "Hardcore Punk"
     ]
   },
+  "shrouds": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "siamese elephants": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -6850,6 +6932,15 @@
       "Hardcore Punk"
     ]
   },
+  "sloth": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Sludge Metal"
+    ]
+  },
   "slow slow loris": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -6858,6 +6949,12 @@
     ]
   },
   "small hours": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "small souki the big trouble band": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6996,6 +7093,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "sovrag": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Thrash Metal"
+    ]
+  },
   "soyuz": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -7110,6 +7216,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "srd": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
     ]
   },
   "staatseinde": {
@@ -7266,6 +7380,12 @@
       "Post-Punk"
     ]
   },
+  "suicidal ninja monkeys": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "sunde": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7311,6 +7431,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "sweeping death": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
   },
   "swelle": {
     "classifier_version": 2,
@@ -7776,6 +7904,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the rock n roll adventure kids": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the ruins of beverast": {
     "family": "Metal",
     "source": "lastfm",
@@ -8058,6 +8192,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "topsy turvy": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
   "toranaga": {
     "family": "Metal",
     "source": "lastfm",
@@ -8214,6 +8356,12 @@
       "Industrial"
     ]
   },
+  "uh batman": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "uli sailor": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8365,6 +8513,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "venusasaboi": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "verkauf musique": {
     "classifier_version": 2,
@@ -8793,6 +8947,12 @@
       "Black Metal",
       "Doom Metal"
     ]
+  },
+  "wortvehla": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "woventongve": {
     "classifier_version": 2,

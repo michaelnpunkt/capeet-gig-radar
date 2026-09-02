@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:06:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: METALLUS, BONEGRINDER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e46225e82267e1e2f393-2</link>
+      <guid isPermaLink="false">e46225e82267e1e2f393:2</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-10-24 · Club Wakuum,  Graz · Steiermark · Line-up: BONEGRINDER → METALLUS · BONEGRINDER</description>
+    </item>
+    <item>
+      <title>Neu: NORMS, HASE – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-352486e6ff7cd727a0a3-1</link>
+      <guid isPermaLink="false">352486e6ff7cd727a0a3:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-09-04 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Geändert: MASS//REACTION, Small Souki &amp; The BIG TROUBLE BAND, SUNDL – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f850ec49f9783f7f9c7-1</link>
+      <guid isPermaLink="false">6f850ec49f9783f7f9c7:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-09-05 · SUb,  Graz · Steiermark · Line-up: MASS//REACTION → MASS//REACTION · Small Souki &amp; The BIG TROUBLE BAND · SUNDL</description>
+    </item>
+    <item>
+      <title>Neu: GRUMPER, INTERSTELLAR BUNGALOW – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-34b5dba90d7bca7c387a-1</link>
+      <guid isPermaLink="false">34b5dba90d7bca7c387a:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-09-14 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SUICIDAL NINJA MONKEYS, LEBERZERROZE, BONJOURTROPFEN, WORTVEHLA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-71d0a907dde1b9314f2c-1</link>
+      <guid isPermaLink="false">71d0a907dde1b9314f2c:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-09-19 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SRD, SOVRAG, SHROUDS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ba76ccb83024ec50d4ab-1</link>
+      <guid isPermaLink="false">ba76ccb83024ec50d4ab:1</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
+      <description>2026-10-10 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: IAMX – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa6506a01418c3aa2752-1</link>
