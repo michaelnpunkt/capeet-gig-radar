@@ -11196,5 +11196,1259 @@
     "guid": "a29f418028af6326c418:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "ANNIE TAYLOR"
+          }
+        ],
+        "to": [
+          {
+            "name": "ANNIE TAYLOR"
+          },
+          {
+            "name": "HONESTLY, THE WORST"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://annietaylor.bandcamp.com/",
+          "name": "ANNIE TAYLOR"
+        },
+        {
+          "country": null,
+          "link": "https://honestlytheworst.bandcamp.com/",
+          "name": "HONESTLY, THE WORST"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-04",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "fcf43daa4ca1f059c6a4",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "ANNIE TAYLOR",
+          "url": "https://annietaylor.bandcamp.com/"
+        },
+        {
+          "label": "HONESTLY, THE WORST",
+          "url": "https://honestlytheworst.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1250505743293563/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.09.: ANNIE TAYLOR (ch) / HONESTLY, THE WORST @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "fcf43daa4ca1f059c6a4",
+    "guid": "fcf43daa4ca1f059c6a4:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/perfumedgardenvienna/",
+          "name": "PERFUMED GARDEN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/ludex_official",
+          "name": "LUDEX"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Takashi Doi"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-10",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "heuristic",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "3273d3b7a7883e419627",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "PERFUMED GARDEN",
+          "url": "https://www.facebook.com/perfumedgardenvienna/"
+        },
+        {
+          "label": "LUDEX",
+          "url": "https://www.instagram.com/ludex_official"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/perfumed-garden/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.09.: PERFUMED GARDEN / LUDEX / Takashi Doi @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "3273d3b7a7883e419627",
+    "guid": "3273d3b7a7883e419627:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://poormansrevenge.bandcamp.com/music",
+          "name": "POOR MAN'S REVENGE"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "NORTH OF LJUBLJANA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-11",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d91810473e1ae67719cf",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "POOR MAN'S REVENGE",
+          "url": "https://poormansrevenge.bandcamp.com/music"
+        },
+        {
+          "label": "[web]",
+          "url": "https://spielstaetten.buehnen-graz.com/event/182533952/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.09.: POOR MAN'S REVENGE / NORTH OF LJUBLJANA @ Orpheum Extra, Graz [web]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Orpheum Extra"
+    },
+    "event_id": "d91810473e1ae67719cf",
+    "guid": "d91810473e1ae67719cf:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA/FRA/AUT/SWE",
+          "link": "https://lukaskoenig.com/mopcut/",
+          "name": "MOPCUT feat. MC Dälek & Mats Gustasson"
+        },
+        {
+          "country": null,
+          "link": "https://rojinsharafi.com/",
+          "name": "Rojin Sharafi"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-16",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e9700d3f9176bc4b5738",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "MOPCUT",
+          "url": "https://lukaskoenig.com/mopcut/"
+        },
+        {
+          "label": "MC Dälek",
+          "url": "https://www.instagram.com/daleknwk/"
+        },
+        {
+          "label": "Mats Gustasson",
+          "url": "https://matsgustafsson.bandcamp.com/"
+        },
+        {
+          "label": "Rojin Sharafi",
+          "url": "https://rojinsharafi.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://porgy.at/events/13120/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.09.: MOPCUT feat. MC Dälek & Mats Gustasson (usa/fra/aut/swe) / Rojin Sharafi @ Porgy & Bess, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Porgy & Bess"
+    },
+    "event_id": "e9700d3f9176bc4b5738",
+    "guid": "e9700d3f9176bc4b5738:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/slothmachinevienna",
+          "name": "SLOTHMACHINE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/sevenoakstreet",
+          "name": "DEAD FUSE CLUB"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/stayboundofficial/",
+          "name": "STAY BOUND"
+        },
+        {
+          "country": null,
+          "link": "https://akidaband.bandcamp.com/",
+          "name": "AKIDA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-18",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "a0513475cf949d3e1a29",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "SLOTHMACHINE",
+          "url": "https://www.facebook.com/slothmachinevienna"
+        },
+        {
+          "label": "DEAD FUSE CLUB",
+          "url": "https://www.facebook.com/sevenoakstreet"
+        },
+        {
+          "label": "STAY BOUND",
+          "url": "https://www.instagram.com/stayboundofficial/"
+        },
+        {
+          "label": "AKIDA",
+          "url": "https://akidaband.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1779258396594482"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: SLOTHMACHINE / DEAD FUSE CLUB / STAY BOUND / AKIDA @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "a0513475cf949d3e1a29",
+    "guid": "a0513475cf949d3e1a29:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://poormansrevenge.bandcamp.com/music",
+          "name": "POOR MAN'S REVENGE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/davidkurtmusic/",
+          "name": "David Kurt & The STONELAKE SUBSTANCE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "03d0a5d02545a36c9063",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "POOR MAN'S REVENGE",
+          "url": "https://poormansrevenge.bandcamp.com/music"
+        },
+        {
+          "label": "David Kurt & The STONELAKE SUBSTANCE",
+          "url": "https://www.instagram.com/davidkurtmusic/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.cafe-carina.at/2020/events/poor-mans-revenge-david-kurt-the-stonelake-substance/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: POOR MAN'S REVENGE / David Kurt & The STONELAKE SUBSTANCE @ Café Carina, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "03d0a5d02545a36c9063",
+    "guid": "03d0a5d02545a36c9063:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://myfriendpeter.bandcamp.com/",
+          "name": "MY FRIEND PETER"
+        },
+        {
+          "country": null,
+          "link": "https://suntanclub.bandcamp.com/",
+          "name": "SUNTAN CLUB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-24",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "abdb190d789f4a95c40f",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "MY FRIEND PETER",
+          "url": "https://myfriendpeter.bandcamp.com/"
+        },
+        {
+          "label": "SUNTAN CLUB",
+          "url": "https://suntanclub.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/my-friends-peter-suntan-club/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.09.: MY FRIEND PETER / SUNTAN CLUB @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "abdb190d789f4a95c40f",
+    "guid": "abdb190d789f4a95c40f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GRENZKONTROLLE"
+          }
+        ],
+        "to": [
+          {
+            "name": "GRENZKONTROLLE"
+          },
+          {
+            "name": "LEETA"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://grenzkontrolle.org/",
+          "name": "GRENZKONTROLLE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/leetamusic/",
+          "name": "LEETA"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-30",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "1ed4bb8b9ce6dda0f2ec",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "GRENZKONTROLLE",
+          "url": "https://grenzkontrolle.org/"
+        },
+        {
+          "label": "LEETA",
+          "url": "https://www.instagram.com/leetamusic/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/993692756488077/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.09.: GRENZKONTROLLE (d) / LEETA @ B72, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "1ed4bb8b9ce6dda0f2ec",
+    "guid": "1ed4bb8b9ce6dda0f2ec:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://katherinepriddy.bandcamp.com/",
+          "name": "Katherine Priddy"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-10",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "32f83b23f9d429dfe141",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "Katherine Priddy",
+          "url": "https://katherinepriddy.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1202705515375659/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.10.: Katherine Priddy (uk) @ Lucia, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "32f83b23f9d429dfe141",
+    "guid": "32f83b23f9d429dfe141:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Flex (Halle)",
+        "to": "Flucc Wanne"
+      }
+    },
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://dieverlierer.bandcamp.com/",
+          "name": "Die VERLIERER"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-15",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "2aa9d36836133e479d44",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "Die VERLIERER",
+          "url": "https://dieverlierer.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.10.: Die VERLIERER (d) @ Flucc Wanne, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flucc Wanne"
+    },
+    "event_id": "2aa9d36836133e479d44",
+    "guid": "2aa9d36836133e479d44:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.bobdylan.com/",
+          "name": "Bob Dylan"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-11",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "719faa082ebc2c2672a6",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "Bob Dylan",
+          "url": "https://www.bobdylan.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1324985476500405/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.11.: Bob Dylan (usa) @ Stadthalle, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadthalle"
+    },
+    "event_id": "719faa082ebc2c2672a6",
+    "guid": "719faa082ebc2c2672a6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.bobdylan.com/",
+          "name": "Bob Dylan"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-12",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b00608caf06444b4db44",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "Bob Dylan",
+          "url": "https://www.bobdylan.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1700039447870203/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.11.: Bob Dylan (usa) @ Stadthalle, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadthalle"
+    },
+    "event_id": "b00608caf06444b4db44",
+    "guid": "b00608caf06444b4db44:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/leap_the_band/",
+          "name": "LEAP"
+        },
+        {
+          "country": null,
+          "link": "https://glazedcurtains.com/",
+          "name": "GLAZED CURTAINS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "656a1e7ad338c0f50f50",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "LEAP",
+          "url": "https://www.instagram.com/leap_the_band/"
+        },
+        {
+          "label": "GLAZED CURTAINS",
+          "url": "https://glazedcurtains.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1064500349661881/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: LEAP (uk) / GLAZED CURTAINS @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "656a1e7ad338c0f50f50",
+    "guid": "656a1e7ad338c0f50f50:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.bobdylan.com/",
+          "name": "Bob Dylan"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c39f9e9279ce94917d48",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "Bob Dylan",
+          "url": "https://www.bobdylan.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2038937917016198/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: Bob Dylan (usa) @ Salzburgarena, Salzburg [fb]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Salzburgarena"
+    },
+    "event_id": "c39f9e9279ce94917d48",
+    "guid": "c39f9e9279ce94917d48:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "OUR PROMISE"
+          }
+        ],
+        "to": [
+          {
+            "name": "OUR PROMISE"
+          },
+          {
+            "name": "VICIOUS RAIN"
+          },
+          {
+            "name": "VANDANS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/ourpromise.band/",
+          "name": "OUR PROMISE"
+        },
+        {
+          "country": "CH",
+          "link": "https://www.instagram.com/viciousrainband/",
+          "name": "VICIOUS RAIN"
+        },
+        {
+          "country": null,
+          "link": "https://www.vandans.band/",
+          "name": "VANDANS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "86b4e16556eba3aca7c9",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "OUR PROMISE",
+          "url": "https://www.facebook.com/ourpromise.band/"
+        },
+        {
+          "label": "VICIOUS RAIN",
+          "url": "https://www.instagram.com/viciousrainband/"
+        },
+        {
+          "label": "VANDANS",
+          "url": "https://www.vandans.band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2049220389163540/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: OUR PROMISE (d) / VICIOUS RAIN (ch) / VANDANS @ p.m.k., Innsbruck [sold out!] [fb]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "86b4e16556eba3aca7c9",
+    "guid": "86b4e16556eba3aca7c9:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "OUR PROMISE"
+          }
+        ],
+        "to": [
+          {
+            "name": "OUR PROMISE"
+          },
+          {
+            "name": "VICIOUS RAIN"
+          },
+          {
+            "name": "VANDANS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/ourpromise.band/",
+          "name": "OUR PROMISE"
+        },
+        {
+          "country": "CH",
+          "link": "https://www.instagram.com/viciousrainband/",
+          "name": "VICIOUS RAIN"
+        },
+        {
+          "country": null,
+          "link": "https://www.vandans.band/",
+          "name": "VANDANS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "b4ec8f3d3a43a99f1adf",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "OUR PROMISE",
+          "url": "https://www.facebook.com/ourpromise.band/"
+        },
+        {
+          "label": "VICIOUS RAIN",
+          "url": "https://www.instagram.com/viciousrainband/"
+        },
+        {
+          "label": "VANDANS",
+          "url": "https://www.vandans.band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1516465869562185/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: OUR PROMISE (d) / VICIOUS RAIN (ch) / VANDANS @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "b4ec8f3d3a43a99f1adf",
+    "guid": "b4ec8f3d3a43a99f1adf:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/fakenamesofficial/",
+          "name": "FAKE NAMES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-03",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "91af588f0328b673453c",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "FAKE NAMES",
+          "url": "https://www.instagram.com/fakenamesofficial/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1058224823522981/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.02.: FAKE NAMES (usa) @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "91af588f0328b673453c",
+    "guid": "91af588f0328b673453c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "AUS",
+          "link": "https://melroseavenueband.com/",
+          "name": "MELROSE AVENUE"
+        },
+        {
+          "country": "USA",
+          "link": "https://arankai.bandcamp.com/",
+          "name": "ARANKAI"
+        },
+        {
+          "country": "UK",
+          "link": "https://www.facebook.com/CALLMEAMOURband/",
+          "name": "CALL ME AMOUR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "051748bd5765b419c035",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "MELROSE AVENUE",
+          "url": "https://melroseavenueband.com/"
+        },
+        {
+          "label": "ARANKAI",
+          "url": "https://arankai.bandcamp.com/"
+        },
+        {
+          "label": "CALL ME AMOUR",
+          "url": "https://www.facebook.com/CALLMEAMOURband/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1000826505770877"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: MELROSE AVENUE (aus) / ARANKAI (usa) / CALL ME AMOUR (uk) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "051748bd5765b419c035",
+    "guid": "051748bd5765b419c035:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://uncleacidandthedeadbeats.bandcamp.com/",
+          "name": "UNCLE ACID AND THE DEADBEATS"
+        },
+        {
+          "country": "UK",
+          "link": "https://conan-conan.bandcamp.com/music",
+          "name": "CONAN"
+        },
+        {
+          "country": "NZL",
+          "link": "https://earthtongue.bandcamp.com/music",
+          "name": "EARTH TONGUE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-26",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal"
+        ]
+      },
+      "id": "ffc831b3a0ecdb5b8a4f",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "UNCLE ACID AND THE DEADBEATS",
+          "url": "https://uncleacidandthedeadbeats.bandcamp.com/"
+        },
+        {
+          "label": "CONAN",
+          "url": "https://conan-conan.bandcamp.com/music"
+        },
+        {
+          "label": "EARTH TONGUE",
+          "url": "https://earthtongue.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1590886262545391/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.02.: UNCLE ACID AND THE DEADBEATS (uk) / CONAN (uk) / EARTH TONGUE (nzl) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "ffc831b3a0ecdb5b8a4f",
+    "guid": "ffc831b3a0ecdb5b8a4f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.h-blockx.com/",
+          "name": "H-BLOCKX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Linz",
+      "event_date": "2027-02-28",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4705b041f20dc474e183",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "H-BLOCKX",
+          "url": "https://www.h-blockx.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2218980415545040/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.02.: H-BLOCKX (d) @ Posthof, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Posthof"
+    },
+    "event_id": "4705b041f20dc474e183",
+    "guid": "4705b041f20dc474e183:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-03T07:11:19.949339+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://themissionukband.com/",
+          "name": "The MISSION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-03T07:11:19.949339+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-05",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "a27ed427c733483e6291",
+      "last_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "links": [
+        {
+          "label": "The MISSION",
+          "url": "https://themissionukband.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1641995887355277/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.05.: The MISSION (uk) @ WUK, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "a27ed427c733483e6291",
+    "guid": "a27ed427c733483e6291:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

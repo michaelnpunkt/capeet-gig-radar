@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:11:19 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: H-BLOCKX – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4705b041f20dc474e183-1</link>
+      <guid isPermaLink="false">4705b041f20dc474e183:1</guid>
+      <pubDate>Thu, 03 Sep 2026 07:11:19 +0000</pubDate>
+      <description>2027-02-28 · Posthof,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: NADSAT, AMÖBE KÖRKL – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ca24e243703a20d80527-1</link>

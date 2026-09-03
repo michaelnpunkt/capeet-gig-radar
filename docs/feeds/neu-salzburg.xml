@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:11:19 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Bob Dylan – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c39f9e9279ce94917d48-1</link>
+      <guid isPermaLink="false">c39f9e9279ce94917d48:1</guid>
+      <pubDate>Thu, 03 Sep 2026 07:11:19 +0000</pubDate>
+      <description>2026-11-14 · Salzburgarena,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Abgesagt: ANY GIVEN DAY, GET THE SHOT, SABLE HILLS – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-87381b6e539af3470b8c-1</link>

@@ -262,6 +262,12 @@
       "Stoner Metal"
     ]
   },
+  "akida": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "alela diane": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -492,6 +498,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "arankai": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "architects": {
     "family": "Metal",
@@ -1017,6 +1031,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "bob dylan": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "boing flip": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1176,6 +1196,12 @@
       "Death Metal",
       "Thrash Metal"
     ]
+  },
+  "call me amour": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
   },
   "candlelight disaster": {
     "classifier_version": 2,
@@ -1486,6 +1512,16 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "conan": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Sludge Metal",
+      "Stoner Metal"
+    ]
+  },
   "concrete lipstick": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1770,6 +1806,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "david kurt the stonelake substance": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "david maresch": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -1796,6 +1838,12 @@
     "subgenres": []
   },
   "dead end idols": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "dead fuse club": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -2353,6 +2401,12 @@
       "Doom Metal"
     ]
   },
+  "earth tongue": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "editors": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -2645,6 +2699,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "fake names": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "fangus": {
     "family": "Metal",
@@ -3057,6 +3117,14 @@
       "Doom Metal"
     ]
   },
+  "glazed curtains": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "glorious leader": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3276,6 +3344,12 @@
     "subgenres": [
       "Crust Punk"
     ]
+  },
+  "h blockx": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "h p zinker": {
     "family": "Rock",
@@ -4073,6 +4147,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "katherine priddy": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "kayla the crow": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4397,6 +4477,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "leap": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "leatherwitch": {
     "family": "Metal",
     "source": "lastfm",
@@ -4681,6 +4767,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "ludex": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "ludgar": {
@@ -4988,6 +5080,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "melrose avenue": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "memoi": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5186,6 +5286,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "mopcut feat mc dalek mats gustasson": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "moral bombing": {
     "family": "Metal",
     "source": "lastfm",
@@ -5293,6 +5399,12 @@
     ]
   },
   "mwita mataro": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "my friend peter": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -5521,6 +5633,12 @@
       "Death Metal",
       "Doom Metal"
     ]
+  },
+  "north of ljubljana": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "northlane": {
     "family": "Metal",
@@ -5876,6 +5994,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "perfumed garden": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "pestilence": {
     "classifier_version": 2,
     "family": "Metal",
@@ -5984,6 +6108,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "poor man s revenge": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "pop sch": {
     "classifier_version": 2,
@@ -6941,6 +7071,12 @@
       "Sludge Metal"
     ]
   },
+  "slothmachine": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "slow slow loris": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -7510,6 +7646,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "takashi doi": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "takida": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -7832,6 +7974,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "the mission": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "the monsters": {
     "family": "Punk",
@@ -8387,6 +8537,14 @@
       "Death Metal"
     ]
   },
+  "uncle acid and the deadbeats": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "under destruction": {
     "family": "Metal",
     "source": "lastfm",
@@ -8479,6 +8637,15 @@
       "Black Metal"
     ]
   },
+  "vandans": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore",
+      "Hardcore Punk"
+    ]
+  },
   "vanthory": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8555,6 +8722,14 @@
     "subgenres": []
   },
   "vianova": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "vicious rain": {
     "classifier_version": 2,
     "family": "Metal",
     "source": "lastfm",
