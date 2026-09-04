@@ -12450,5 +12450,932 @@
     "guid": "a27ed427c733483e6291:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ITA",
+          "link": "https://www.facebook.com/mrbisonband/",
+          "name": "MR. BISON"
+        },
+        {
+          "country": "ITA",
+          "link": "https://supernaughty.bandcamp.com/",
+          "name": "SUPERNAUGHTY"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/palik_band/",
+          "name": "PALIK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-04",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "390ad891826532647402",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "MR. BISON",
+          "url": "https://www.facebook.com/mrbisonband/"
+        },
+        {
+          "label": "SUPERNAUGHTY",
+          "url": "https://supernaughty.bandcamp.com/"
+        },
+        {
+          "label": "PALIK",
+          "url": "https://www.instagram.com/palik_band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2539671363211323"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.09.: MR. BISON (ita) / SUPERNAUGHTY (ita) / PALIK @ Music-House, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "390ad891826532647402",
+    "guid": "390ad891826532647402:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BENIGHTED"
+          },
+          {
+            "name": "NUCLEAR MONSTROSITY"
+          },
+          {
+            "name": "CHILD CEMETERY"
+          }
+        ],
+        "to": [
+          {
+            "name": "SEII TAISHOGUN"
+          },
+          {
+            "name": "NUCLEAR MONSTROSITY"
+          },
+          {
+            "name": "CHILD CEMETERY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/seiitaishogungrind/",
+          "name": "SEII TAISHOGUN"
+        },
+        {
+          "country": null,
+          "link": "https://nuclearmonstrosity.bandcamp.com/",
+          "name": "NUCLEAR MONSTROSITY"
+        },
+        {
+          "country": null,
+          "link": "https://childcemetery.bandcamp.com/music",
+          "name": "CHILD CEMETERY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-05",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "aa8e527fe5977926fe53",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "SEII TAISHOGUN",
+          "url": "https://www.facebook.com/seiitaishogungrind/"
+        },
+        {
+          "label": "NUCLEAR MONSTROSITY",
+          "url": "https://nuclearmonstrosity.bandcamp.com/"
+        },
+        {
+          "label": "CHILD CEMETERY",
+          "url": "https://childcemetery.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27092951633663981/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.09.: SEII TAISHOGUN / NUCLEAR MONSTROSITY / CHILD CEMETERY @ Escape, Wien [BENIGHTED cancelled.] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "aa8e527fe5977926fe53",
+    "guid": "aa8e527fe5977926fe53:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/ashesofeternity_official/",
+          "name": "ASHES OF ETERNITY"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/rock_with_painted_desert/",
+          "name": "PAINTED DESERT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "68825a8ba9cf1a4dd960",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "ASHES OF ETERNITY",
+          "url": "https://www.instagram.com/ashesofeternity_official/"
+        },
+        {
+          "label": "PAINTED DESERT",
+          "url": "https://www.instagram.com/rock_with_painted_desert/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: ASHES OF ETERNITY / PAINTED DESERT @ Bricks, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bricks"
+    },
+    "event_id": "68825a8ba9cf1a4dd960",
+    "guid": "68825a8ba9cf1a4dd960:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/sayitaintmeezer",
+          "name": "MEEZER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/weareweirdminds/",
+          "name": "WEIRD MINDS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "2b6b1f5f2c1ddbe570f2",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "MEEZER",
+          "url": "https://www.instagram.com/sayitaintmeezer"
+        },
+        {
+          "label": "WEIRD MINDS",
+          "url": "https://www.instagram.com/weareweirdminds/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: MEEZER / WEIRD MINDS @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "2b6b1f5f2c1ddbe570f2",
+    "guid": "2b6b1f5f2c1ddbe570f2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/theburningflagsrock",
+          "name": "The BURNING FLAGS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/fast_love_band/",
+          "name": "FAST LOVE"
+        },
+        {
+          "country": null,
+          "link": "https://akidaband.bandcamp.com/",
+          "name": "AKIDA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "84137bf681590b5a20a7",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "The BURNING FLAGS",
+          "url": "https://www.facebook.com/theburningflagsrock"
+        },
+        {
+          "label": "FAST LOVE",
+          "url": "https://www.instagram.com/fast_love_band/"
+        },
+        {
+          "label": "AKIDA",
+          "url": "https://akidaband.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1093029820047418"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: The BURNING FLAGS / FAST LOVE / AKIDA @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "84137bf681590b5a20a7",
+    "guid": "84137bf681590b5a20a7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "ESCALATE"
+          }
+        ],
+        "to": [
+          {
+            "name": "ESCALATE"
+          },
+          {
+            "name": "G-TOWN JUSTICE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://escalatexvx.bandcamp.com/",
+          "name": "ESCALATE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gtownjustice/",
+          "name": "G-TOWN JUSTICE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-18",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "adc64f91f77b2a042b86",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "ESCALATE",
+          "url": "https://escalatexvx.bandcamp.com/"
+        },
+        {
+          "label": "G-TOWN JUSTICE",
+          "url": "https://www.instagram.com/gtownjustice/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: ESCALATE (hun) / G-TOWN JUSTICE @ SUb, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SUb"
+    },
+    "event_id": "adc64f91f77b2a042b86",
+    "guid": "adc64f91f77b2a042b86:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/ashesofeternity_official/",
+          "name": "ASHES OF ETERNITY"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/rock_with_painted_desert/",
+          "name": "PAINTED DESERT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/ophites_band/",
+          "name": "OPHITES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal"
+        ]
+      },
+      "id": "0426e0c3ef5342f21246",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "ASHES OF ETERNITY",
+          "url": "https://www.instagram.com/ashesofeternity_official/"
+        },
+        {
+          "label": "PAINTED DESERT",
+          "url": "https://www.instagram.com/rock_with_painted_desert/"
+        },
+        {
+          "label": "OPHITES",
+          "url": "https://www.instagram.com/ophites_band/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: ASHES OF ETERNITY / PAINTED DESERT / OPHITES @ Down Under, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Down Under"
+    },
+    "event_id": "0426e0c3ef5342f21246",
+    "guid": "0426e0c3ef5342f21246:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CZE",
+          "link": "https://buchtynouze.bandcamp.com/",
+          "name": "BUCHTY/NOUZE"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "HOLDING PATTERN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f97582214f8465ae7b67",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "BUCHTY/NOUZE",
+          "url": "https://buchtynouze.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: BUCHTY/NOUZE (cze) / HOLDING PATTERN @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "f97582214f8465ae7b67",
+    "guid": "f97582214f8465ae7b67:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://toonervous.bandcamp.com/",
+          "name": "The NERVOUS"
+        },
+        {
+          "country": null,
+          "link": "https://bipolarpenguins.bandcamp.com/",
+          "name": "BIPOLAR PENGUINS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-23",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3984e45dba7d1fa21f3d",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "The NERVOUS",
+          "url": "https://toonervous.bandcamp.com/"
+        },
+        {
+          "label": "BIPOLAR PENGUINS",
+          "url": "https://bipolarpenguins.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.09.: The NERVOUS (usa) / BIPOLAR PENGUINS @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "3984e45dba7d1fa21f3d",
+    "guid": "3984e45dba7d1fa21f3d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/nothinginreturn.the.band/",
+          "name": "NOTHING IN RETURN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/feuerfux.band/",
+          "name": "FEUERFUX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "76959f47af19a0da6cda",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "NOTHING IN RETURN",
+          "url": "https://www.instagram.com/nothinginreturn.the.band/"
+        },
+        {
+          "label": "FEUERFUX",
+          "url": "https://www.instagram.com/feuerfux.band/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: NOTHING IN RETURN / FEUERFUX @ Bricks, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bricks"
+    },
+    "event_id": "76959f47af19a0da6cda",
+    "guid": "76959f47af19a0da6cda:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://myfriendpeter.bandcamp.com/",
+          "name": "MY FRIEND PETER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-26",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "5ed8cde624cabe917e76",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "MY FRIEND PETER",
+          "url": "https://myfriendpeter.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.09.: MY FRIEND PETER @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "5ed8cde624cabe917e76",
+    "guid": "5ed8cde624cabe917e76:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "POL",
+          "link": "https://weedpecker.bandcamp.com/",
+          "name": "WEEDPECKER"
+        },
+        {
+          "country": null,
+          "link": "https://lazerband.bandcamp.com/music",
+          "name": "LAZER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "bb9405c091cebb30d01c",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "WEEDPECKER",
+          "url": "https://weedpecker.bandcamp.com/"
+        },
+        {
+          "label": "LAZER",
+          "url": "https://lazerband.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: WEEDPECKER (pol) / LAZER @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "bb9405c091cebb30d01c",
+    "guid": "bb9405c091cebb30d01c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://thewormreducer.bandcamp.com/",
+          "name": "The WORM REDUCER"
+        },
+        {
+          "country": null,
+          "link": "https://90music.bandcamp.com/",
+          "name": "90"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2c208413062cadd78e8e",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "The WORM REDUCER",
+          "url": "https://thewormreducer.bandcamp.com/"
+        },
+        {
+          "label": "90",
+          "url": "https://90music.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: The WORM REDUCER (d) / 90 @ Bricks, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bricks"
+    },
+    "event_id": "2c208413062cadd78e8e",
+    "guid": "2c208413062cadd78e8e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/anna.absolut.punk/",
+          "name": "ANNA ABSOLUT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/black_sunzet/",
+          "name": "BLACK SUNZET"
+        },
+        {
+          "country": "D",
+          "link": "https://www.schoefischundruess.de/",
+          "name": "Schöfisch & Rueß"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9e492af0724564a794a2",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "ANNA ABSOLUT",
+          "url": "https://www.facebook.com/anna.absolut.punk/"
+        },
+        {
+          "label": "BLACK SUNZET",
+          "url": "https://www.instagram.com/black_sunzet/"
+        },
+        {
+          "label": "Schöfisch & Rueß",
+          "url": "https://www.schoefischundruess.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1001169935869382/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: ANNA ABSOLUT / BLACK SUNZET / Schöfisch & Rueß (d) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "9e492af0724564a794a2",
+    "guid": "9e492af0724564a794a2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://mephobia.bandcamp.com/",
+          "name": "MEPHOBIA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "ee806b06e5166f21924b",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "MEPHOBIA",
+          "url": "https://mephobia.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: MEPHOBIA @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "ee806b06e5166f21924b",
+    "guid": "ee806b06e5166f21924b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-04T07:14:46.282627+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://www.theheadlinesband.com/",
+          "name": "The HEADLINES"
+        },
+        {
+          "country": "GRE",
+          "link": "https://theoverjoyed.bandcamp.com/",
+          "name": "The OVERJOYED"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-04T07:14:46.282627+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "cb141fba690087165db2",
+      "last_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "links": [
+        {
+          "label": "The HEADLINES",
+          "url": "https://www.theheadlinesband.com/"
+        },
+        {
+          "label": "The OVERJOYED",
+          "url": "https://theoverjoyed.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1790806449032616/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: The HEADLINES (swe) / The OVERJOYED (gre) @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "cb141fba690087165db2",
+    "guid": "cb141fba690087165db2:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

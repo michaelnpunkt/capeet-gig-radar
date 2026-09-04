@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:14:46 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: SEII TAISHOGUN, NUCLEAR MONSTROSITY, CHILD CEMETERY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aa8e527fe5977926fe53-1</link>
+      <guid isPermaLink="false">aa8e527fe5977926fe53:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-09-05 · Escape,  Wien · Wien · Line-up: BENIGHTED · NUCLEAR MONSTROSITY · CHILD CEMETERY → SEII TAISHOGUN · NUCLEAR MONSTROSITY · CHILD CEMETERY</description>
+    </item>
+    <item>
+      <title>Neu: ASHES OF ETERNITY, PAINTED DESERT, OPHITES – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0426e0c3ef5342f21246-1</link>
+      <guid isPermaLink="false">0426e0c3ef5342f21246:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-09-19 · Down Under,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: BUCHTY/NOUZE, HOLDING PATTERN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f97582214f8465ae7b67-1</link>
+      <guid isPermaLink="false">f97582214f8465ae7b67:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-09-19 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: The NERVOUS, BIPOLAR PENGUINS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3984e45dba7d1fa21f3d-1</link>
+      <guid isPermaLink="false">3984e45dba7d1fa21f3d:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-09-23 · Secret Location,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ANNA ABSOLUT, BLACK SUNZET, Schöfisch &amp; Rueß – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9e492af0724564a794a2-1</link>
+      <guid isPermaLink="false">9e492af0724564a794a2:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-12-04 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MEPHOBIA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee806b06e5166f21924b-1</link>
+      <guid isPermaLink="false">ee806b06e5166f21924b:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2026-12-04 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: The HEADLINES, The OVERJOYED – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb141fba690087165db2-1</link>
+      <guid isPermaLink="false">cb141fba690087165db2:1</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:46 +0000</pubDate>
+      <description>2027-02-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: ANNIE TAYLOR, HONESTLY, THE WORST – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fcf43daa4ca1f059c6a4-1</link>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">8fdda959c65ffb2982a1:1</guid>
       <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
       <description>2026-11-21 · Gasometer,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FIRTAN, WESEN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-586d026c65da8e73ac85-1</link>
-      <guid isPermaLink="false">586d026c65da8e73ac85:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-12-04 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: OXO86, UNDERDOGZ, The HIDDEN KNIVES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-39e8e3cd77883d54c234-1</link>
-      <guid isPermaLink="false">39e8e3cd77883d54c234:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2027-02-13 · Szene,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: WILMNA, BONOBO CHESS CLUB, FLYING TURTLES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0135fb02093a90a49b84-1</link>
-      <guid isPermaLink="false">0135fb02093a90a49b84:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-08-22 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SOAPLESS, MARIGOLD, WIRKUNGSGRAD – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ce2b5e52b528ed32ffc2-1</link>
-      <guid isPermaLink="false">ce2b5e52b528ed32ffc2:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-09-02 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: VÛLOM, SWORN TO DEATH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e5b9804b421fea1dc934-1</link>
-      <guid isPermaLink="false">e5b9804b421fea1dc934:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-09-19 · Pankahyttn,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: BRUTAL VERSCHIMMELT, Die ÜBLICHEN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-967ac0f892bae9d78738-1</link>
-      <guid isPermaLink="false">967ac0f892bae9d78738:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-10-03 · Pankahyttn,  Wien · Wien · Line-up: BRUTAL VERSCHIMMELT → BRUTAL VERSCHIMMELT · Die ÜBLICHEN</description>
-    </item>
-    <item>
-      <title>Neu: DRAMAS, Junes Ivy – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c748da5c8e18e7e96e09-1</link>
-      <guid isPermaLink="false">c748da5c8e18e7e96e09:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-10-16 · Chelsea,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
