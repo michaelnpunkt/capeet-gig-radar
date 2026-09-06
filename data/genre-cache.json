@@ -532,6 +532,16 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "arsen": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Doom Metal",
+      "Sludge Metal"
+    ]
+  },
   "as everything unfolds": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -586,6 +596,12 @@
     "subgenres": [
       "Thrash Metal"
     ]
+  },
+  "attwenger": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "august burns red": {
     "classifier_version": 2,
@@ -996,6 +1012,15 @@
       "Deathcore",
       "Metalcore",
       "Death Metal"
+    ]
+  },
+  "blightbringer": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Doom Metal"
     ]
   },
   "blood and sun": {
@@ -1431,6 +1456,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "cinder well": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "city of the sun": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -1803,6 +1834,12 @@
     ]
   },
   "darvaza nor ita": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "das schottische prinzip": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -2532,6 +2569,12 @@
   },
   "emma harner": {
     "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "emma ruth rundle": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
   },
@@ -3632,6 +3675,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "hog meets frog": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "holding pattern": {
     "classifier_version": 2,
     "family": "Rock",
@@ -3937,6 +3986,12 @@
   "isaac howlett": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "isabella forciniti": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "iskander moon": {
@@ -6118,6 +6173,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "piotr kurek": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "pixel grip": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -7770,6 +7831,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "tay oskee": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "team scheisse": {
     "family": "Punk",
     "source": "lastfm",
@@ -8106,6 +8173,12 @@
       "Metalcore"
     ]
   },
+  "the necks": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the nervous": {
     "classifier_version": 2,
     "family": "Punk",
@@ -8355,6 +8428,12 @@
   "this is the kit": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "this new light": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "thistle": {
@@ -9304,6 +9383,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "zak": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "zappzarapp": {
     "classifier_version": 2,

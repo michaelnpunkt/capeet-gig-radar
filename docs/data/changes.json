@@ -1,6 +1,714 @@
 {
-  "generated_at": "2026-09-04T07:14:46.282627+00:00",
+  "generated_at": "2026-09-06T07:08:16.634297+00:00",
   "revisions": [
+    {
+      "anchor": "change-6f850ec49f9783f7f9c7-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MASS//REACTION"
+            },
+            {
+              "name": "Small Souki & The BIG TROUBLE BAND"
+            },
+            {
+              "name": "SUNDL"
+            }
+          ],
+          "to": [
+            {
+              "name": "Small Souki & The BIG TROUBLE BAND"
+            },
+            {
+              "name": "SUNDL"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://smallsouki-tbtb.bandcamp.com/",
+            "name": "Small Souki & The BIG TROUBLE BAND"
+          },
+          {
+            "country": null,
+            "link": "https://sundl.bandcamp.com/",
+            "name": "SUNDL"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-05",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "6f850ec49f9783f7f9c7",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "Small Souki & The BIG TROUBLE BAND",
+            "url": "https://smallsouki-tbtb.bandcamp.com/"
+          },
+          {
+            "label": "SUNDL",
+            "url": "https://sundl.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "05.09.: Small Souki & The BIG TROUBLE BAND / SUNDL @ SUb, Graz [MASS//REACTION cancelled.]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "6f850ec49f9783f7f9c7",
+      "guid": "6f850ec49f9783f7f9c7:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-05b1538a61ae894626b9-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.kreisky.net/",
+            "name": "KREISKY"
+          },
+          {
+            "country": null,
+            "link": "https://www.attwenger.at/home",
+            "name": "ATTWENGER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/black_sunzet/",
+            "name": "BLACK SUNZET"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/luisa_schweigofficial/",
+            "name": "Luisa Schweig"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-05",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "05b1538a61ae894626b9",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "KREISKY",
+            "url": "https://www.kreisky.net/"
+          },
+          {
+            "label": "ATTWENGER",
+            "url": "https://www.attwenger.at/home"
+          },
+          {
+            "label": "BLACK SUNZET",
+            "url": "https://www.instagram.com/black_sunzet/"
+          },
+          {
+            "label": "Luisa Schweig",
+            "url": "https://www.instagram.com/luisa_schweigofficial/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.volksstimmefest.at/vsf_2026/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.09.: Volksstimmefest feat. KREISKY / ATTWENGER / BLACK SUNZET / Luisa Schweig u.a. @ Jesuitenwiese, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Volksstimmefest",
+        "venue": "Jesuitenwiese"
+      },
+      "event_id": "05b1538a61ae894626b9",
+      "guid": "05b1538a61ae894626b9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-605a967a68a748d0acfb-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://culk1000.bandcamp.com/",
+            "name": "CULK"
+          },
+          {
+            "country": null,
+            "link": "https://topsyturvyvienna.bandcamp.com/",
+            "name": "TOPSY TURVY"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/zak_rament/",
+            "name": "ZAK!"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/dasschottischeprinzip",
+            "name": "DAS SCHOTTISCHE PRINZIP"
+          },
+          {
+            "country": null,
+            "link": "https://tuttidilemma.bandcamp.com/",
+            "name": "TUTTI DILEMMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-06",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "605a967a68a748d0acfb",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "CULK",
+            "url": "https://culk1000.bandcamp.com/"
+          },
+          {
+            "label": "TOPSY TURVY",
+            "url": "https://topsyturvyvienna.bandcamp.com/"
+          },
+          {
+            "label": "ZAK!",
+            "url": "https://www.instagram.com/zak_rament/"
+          },
+          {
+            "label": "DAS SCHOTTISCHE PRINZIP",
+            "url": "https://www.facebook.com/dasschottischeprinzip"
+          },
+          {
+            "label": "TUTTI DILEMMA",
+            "url": "https://tuttidilemma.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.volksstimmefest.at/vsf_2026/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.09.: Volksstimmefest feat. CULK / TOPSY TURVY / ZAK! / DAS SCHOTTISCHE PRINZIP / TUTTI DILEMMA u.a. @ Jesuitenwiese, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Volksstimmefest",
+        "venue": "Jesuitenwiese"
+      },
+      "event_id": "605a967a68a748d0acfb",
+      "guid": "605a967a68a748d0acfb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4ed5889ddda66c3a4ed0-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://thenecksau.bandcamp.com/",
+            "name": "The NECKS"
+          },
+          {
+            "country": "POL",
+            "link": "https://piotrkurek.bandcamp.com/",
+            "name": "Piotr Kurek"
+          },
+          {
+            "country": "ITA/AUT",
+            "link": "https://isabella.klingt.org/",
+            "name": "Isabella Forciniti"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-09",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "4ed5889ddda66c3a4ed0",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "The NECKS",
+            "url": "https://thenecksau.bandcamp.com/"
+          },
+          {
+            "label": "Piotr Kurek",
+            "url": "https://piotrkurek.bandcamp.com/"
+          },
+          {
+            "label": "Isabella Forciniti",
+            "url": "https://isabella.klingt.org/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://porgy.at/events/13157/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.09.: Unsafe + Sounds feat. The NECKS (aus) / Piotr Kurek (pol) / Isabella Forciniti (ita/aut) @ Porgy & Bess, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Unsafe + Sounds",
+        "venue": "Porgy & Bess"
+      },
+      "event_id": "4ed5889ddda66c3a4ed0",
+      "guid": "4ed5889ddda66c3a4ed0:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e9b81813edf583624943-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/paloma_004_/",
+            "name": "PALOMA 004"
+          },
+          {
+            "country": "NZL/AUT",
+            "link": "https://soloono.bandcamp.com/",
+            "name": "SOLO ONO"
+          },
+          {
+            "country": null,
+            "link": "http://trashbones.com/",
+            "name": "Wild Evel & The TRASHBONES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Graz",
+        "event_date": "2026-09-12",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e9b81813edf583624943",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "PALOMA 004",
+            "url": "https://www.instagram.com/paloma_004_/"
+          },
+          {
+            "label": "SOLO ONO",
+            "url": "https://soloono.bandcamp.com/"
+          },
+          {
+            "label": "Wild Evel & The TRASHBONES",
+            "url": "http://trashbones.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.09.: PALOMA 004 / SOLO ONO (nzl/aut) / Wild Evel & The TRASHBONES u.a. @ Volkshaus, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Volkshaus"
+      },
+      "event_id": "e9b81813edf583624943",
+      "guid": "e9b81813edf583624943:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-cb6ec266603408b3401d-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/arsenband/",
+            "name": "ARSEN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-25",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal",
+            "Doom Metal",
+            "Sludge Metal"
+          ]
+        },
+        "id": "cb6ec266603408b3401d",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "ARSEN",
+            "url": "https://www.instagram.com/arsenband/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1571160401126674/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.09.: ARSEN (d) @ Kramladen, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kramladen"
+      },
+      "event_id": "cb6ec266603408b3401d",
+      "guid": "cb6ec266603408b3401d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-69d7f7b115fe0eedf392-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/arsenband/",
+            "name": "ARSEN"
+          },
+          {
+            "country": null,
+            "link": "https://hogmeetsfrog.com/",
+            "name": "HOG MEETS FROG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Leitersdorf",
+        "event_date": "2026-09-26",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal",
+            "Doom Metal",
+            "Sludge Metal"
+          ]
+        },
+        "id": "69d7f7b115fe0eedf392",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "ARSEN",
+            "url": "https://www.instagram.com/arsenband/"
+          },
+          {
+            "label": "HOG MEETS FROG",
+            "url": "https://hogmeetsfrog.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2496935924121395"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.09.: ARSEN (d) / HOG MEETS FROG @ Roter Gugl, Leitersdorf [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Roter Gugl"
+      },
+      "event_id": "69d7f7b115fe0eedf392",
+      "guid": "69d7f7b115fe0eedf392:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5e22d86db0670f4e0fc4-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/guyodofficial/",
+            "name": "GUYOÐ"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/blightbringerofficial",
+            "name": "BLIGHTBRINGER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "St. Veit an der Glan",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "5e22d86db0670f4e0fc4",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "GUYOÐ",
+            "url": "https://www.facebook.com/guyodofficial/"
+          },
+          {
+            "label": "BLIGHTBRINGER",
+            "url": "https://www.facebook.com/blightbringerofficial"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: GUYOÐ / BLIGHTBRINGER @ Mühle, St. Veit an der Glan",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Mühle"
+      },
+      "event_id": "5e22d86db0670f4e0fc4",
+      "guid": "5e22d86db0670f4e0fc4:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d77856d3666a89bf0abe-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://www.instagram.com/tay_oskee_music",
+            "name": "Tay Oskee"
+          },
+          {
+            "country": "AUS",
+            "link": "https://thisnewlight.bandcamp.com/",
+            "name": "THIS NEW LIGHT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d77856d3666a89bf0abe",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "Tay Oskee",
+            "url": "https://www.instagram.com/tay_oskee_music"
+          },
+          {
+            "label": "THIS NEW LIGHT",
+            "url": "https://thisnewlight.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: Tay Oskee (aus) / THIS NEW LIGHT (aus) @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "d77856d3666a89bf0abe",
+      "guid": "d77856d3666a89bf0abe:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d2d3bebae93dcc076c15-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ozymandiasrocks/",
+            "name": "OZYMANDIAS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61574987199272",
+            "name": "The SPILL IN DREAMS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-28",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d2d3bebae93dcc076c15",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "OZYMANDIAS",
+            "url": "https://www.facebook.com/ozymandiasrocks/"
+          },
+          {
+            "label": "The SPILL IN DREAMS",
+            "url": "https://www.facebook.com/profile.php?id=61574987199272"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4090703137729700/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.01.: OZYMANDIAS / The SPILL IN DREAMS @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "d2d3bebae93dcc076c15",
+      "guid": "d2d3bebae93dcc076c15:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ae8191a2f10bf99575a8-1",
+      "changes": {},
+      "detected_at": "2026-09-06T07:08:16.634297+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.emmaruthrundle.com/",
+            "name": "Emma Ruth Rundle"
+          },
+          {
+            "country": "USA",
+            "link": "https://cinderwell.bandcamp.com/",
+            "name": "CINDER WELL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-06T07:08:16.634297+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-28",
+        "first_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ae8191a2f10bf99575a8",
+        "last_seen_at": "2026-09-06T07:08:16.634297+00:00",
+        "links": [
+          {
+            "label": "Emma Ruth Rundle",
+            "url": "https://www.emmaruthrundle.com/"
+          },
+          {
+            "label": "CINDER WELL",
+            "url": "https://cinderwell.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1595822218716460/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.03.: Emma Ruth Rundle (usa) / CINDER WELL (usa) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "ae8191a2f10bf99575a8",
+      "guid": "ae8191a2f10bf99575a8:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-390ad891826532647402-1",
       "changes": {},

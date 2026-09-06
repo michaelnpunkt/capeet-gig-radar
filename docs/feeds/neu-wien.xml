@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:08:16 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: KREISKY, ATTWENGER, BLACK SUNZET, Luisa Schweig – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-05b1538a61ae894626b9-1</link>
+      <guid isPermaLink="false">05b1538a61ae894626b9:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2026-09-05 · Jesuitenwiese,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: CULK, TOPSY TURVY, ZAK!, DAS SCHOTTISCHE PRINZIP, TUTTI DILEMMA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-605a967a68a748d0acfb-1</link>
+      <guid isPermaLink="false">605a967a68a748d0acfb:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2026-09-06 · Jesuitenwiese,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: The NECKS, Piotr Kurek, Isabella Forciniti – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ed5889ddda66c3a4ed0-1</link>
+      <guid isPermaLink="false">4ed5889ddda66c3a4ed0:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2026-09-09 · Porgy &amp; Bess,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ARSEN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb6ec266603408b3401d-1</link>
+      <guid isPermaLink="false">cb6ec266603408b3401d:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2026-09-25 · Kramladen,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Tay Oskee, THIS NEW LIGHT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d77856d3666a89bf0abe-1</link>
+      <guid isPermaLink="false">d77856d3666a89bf0abe:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2026-10-28 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: OZYMANDIAS, The SPILL IN DREAMS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d2d3bebae93dcc076c15-1</link>
+      <guid isPermaLink="false">d2d3bebae93dcc076c15:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2027-01-28 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Emma Ruth Rundle, CINDER WELL – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae8191a2f10bf99575a8-1</link>
+      <guid isPermaLink="false">ae8191a2f10bf99575a8:1</guid>
+      <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
+      <description>2027-03-28 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: SEII TAISHOGUN, NUCLEAR MONSTROSITY, CHILD CEMETERY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aa8e527fe5977926fe53-1</link>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">25c23fa0371b1f338423:1</guid>
       <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
       <description>2026-09-30 · Arena,  Wien · Wien · Line-up: SPLIT SYSTEM → SPLIT SYSTEM · BROWER · METALLEG</description>
-    </item>
-    <item>
-      <title>Neu: GINGER WIZARD, SELF-IMMOLATION MUSIC – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e174c75fcd51c132404e-1</link>
-      <guid isPermaLink="false">e174c75fcd51c132404e:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-01 · Das Lot,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SALAMIRECORDER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0362ead210433f956aa9-1</link>
-      <guid isPermaLink="false">0362ead210433f956aa9:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-03 · Roxy,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: GOD MOTHER, OBSTRUKTION – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e25c4cc3fb87c5c0732d-1</link>
-      <guid isPermaLink="false">e25c4cc3fb87c5c0732d:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-14 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: EPICARDIECTOMY, EMBRYECTOMY, HERETICAL MUTATION, VAULT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ab55930445c0d4ab0b78-1</link>
-      <guid isPermaLink="false">ab55930445c0d4ab0b78:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-15 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: IN OTHER CLIMES, INFECTED RATS, BITE TO BREAK, NONSENSE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37574264ae6d37aae9f3-1</link>
-      <guid isPermaLink="false">37574264ae6d37aae9f3:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-25 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: AGAINST THE CURRENT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f192c6815db69dca908f-1</link>
-      <guid isPermaLink="false">f192c6815db69dca908f:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-11-16 · Simm City Gasometer,  Wien · Wien · Venue: Simm City → Simm City Gasometer</description>
-    </item>
-    <item>
-      <title>Neu: MADSEN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8fdda959c65ffb2982a1-1</link>
-      <guid isPermaLink="false">8fdda959c65ffb2982a1:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-11-21 · Gasometer,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
