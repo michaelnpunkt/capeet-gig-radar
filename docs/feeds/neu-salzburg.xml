@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LOVEHEAD, GROẞKIND – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bcfc4ebe6a0960670aab-1</link>
+      <guid isPermaLink="false">bcfc4ebe6a0960670aab:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-09-15 · Rockhouse,  Salzburg · Salzburg · Line-up: LOVEHEAD → LOVEHEAD · GROẞKIND</description>
+    </item>
+    <item>
+      <title>Neu: CONTAINER OF FOOLS, KVELDULF, GREY SKIES AHEAD – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a699b5768b2ffbcae94b-1</link>
+      <guid isPermaLink="false">a699b5768b2ffbcae94b:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-09-26 · Rockhouse Bar,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: WEEDPECKER, LAZER, TIDERISER – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ba5072afa2db5b2a1473-1</link>
+      <guid isPermaLink="false">ba5072afa2db5b2a1473:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-09-30 · Rockhouse Bar,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: WANDAR, ULTIMA NECAT – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-593d1bc81a3d286f9ec1-1</link>
+      <guid isPermaLink="false">593d1bc81a3d286f9ec1:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-10-17 · Rockhouse Bar,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: BLOOD &amp; CHAMPAGNE, IRON SNAG JOE, VIOLENT HIPPIES – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-16797973e8c67e465c37-1</link>
+      <guid isPermaLink="false">16797973e8c67e465c37:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-11-06 · JuZ Yoco,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: MY UGLY CLEMENTINE – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-745e58a9d207d80c2d04-1</link>
+      <guid isPermaLink="false">745e58a9d207d80c2d04:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2027-03-04 · Rockhouse,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: ALCEST, AGRICULTURE – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d5344d4a6666e01a0c43-1</link>
+      <guid isPermaLink="false">d5344d4a6666e01a0c43:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2027-03-27 · Rockhouse,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Neu: ASHES OF ETERNITY, PAINTED DESERT – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-68825a8ba9cf1a4dd960-1</link>

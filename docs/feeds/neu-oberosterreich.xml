@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: AK'CHAMEL, KRINGA, ACERO LETAL, UNIVERSUM, HEKTIKS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3b2f35d37e6fce0fc227-1</link>
+      <guid isPermaLink="false">3b2f35d37e6fce0fc227:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-09-18 · Kapu,  Linz · Oberösterreich · Line-up: AK'CHAMEL → AK'CHAMEL · KRINGA · ACERO LETAL · UNIVERSUM · HEKTIKS</description>
+    </item>
+    <item>
+      <title>Neu: PRAYING MANTIS, DISHARMONIC ORCHESTRA, BOTTOMLESS, MANNVEIRA, MORSCHT – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12360fca5318bb0eee75-1</link>
+      <guid isPermaLink="false">12360fca5318bb0eee75:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-09-19 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: G-TOWN JUSTICE, KOHMA, REALITY SHIFT – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48b297d8ee48e89514ec-1</link>
+      <guid isPermaLink="false">48b297d8ee48e89514ec:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-10-09 · Secret Location,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: H-BLOCKX – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4705b041f20dc474e183-1</link>

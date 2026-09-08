@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: BETWEEN THE BEASTS, BOY IN A PLASTIC BAG, I CAN'T – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dbf9cab6dbdbc2c4c7de-1</link>
+      <guid isPermaLink="false">dbf9cab6dbdbc2c4c7de:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-10-03 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: HIRAES, DRAGONY, COVENDEATH, NOPREACHERS – Deutschlandsberg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f817f967080604b9da3-1</link>
+      <guid isPermaLink="false">5f817f967080604b9da3:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-10-24 · Lassnitzhaus,  Deutschlandsberg · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: The DARTS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb66634223e93d6f28b0-1</link>
+      <guid isPermaLink="false">cb66634223e93d6f28b0:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-11-11 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: IRON SNAG JOE, FRIFFER GALORE, SMÖREBRÖHT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f8f18443f10a4742aa6-1</link>
+      <guid isPermaLink="false">5f8f18443f10a4742aa6:1</guid>
+      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
+      <description>2026-12-19 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: Small Souki &amp; The BIG TROUBLE BAND, SUNDL – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f850ec49f9783f7f9c7-2</link>
