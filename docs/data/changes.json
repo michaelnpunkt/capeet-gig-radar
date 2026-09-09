@@ -1,6 +1,1571 @@
 {
-  "generated_at": "2026-09-08T07:15:33.919002+00:00",
+  "generated_at": "2026-09-09T07:23:54.060566+00:00",
   "revisions": [
+    {
+      "anchor": "change-508c4d8b8c1f47d17440-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://gischt.xyz/",
+            "name": "GISCHT"
+          },
+          {
+            "country": null,
+            "link": "https://subletvis.bandcamp.com/",
+            "name": "SUBLETVIS"
+          },
+          {
+            "country": null,
+            "link": "https://notrash.bandcamp.com/",
+            "name": "T.R.A.S.H."
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "St. Veit an der Glan",
+        "event_date": "2026-09-12",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "508c4d8b8c1f47d17440",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "GISCHT",
+            "url": "https://gischt.xyz/"
+          },
+          {
+            "label": "SUBLETVIS",
+            "url": "https://subletvis.bandcamp.com/"
+          },
+          {
+            "label": "T.R.A.S.H.",
+            "url": "https://notrash.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/3388184298018228"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.09.: GISCHT / SUBLETVIS / T.R.A.S.H. @ Mühle, St. Veit an der Glan [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Mühle"
+      },
+      "event_id": "508c4d8b8c1f47d17440",
+      "guid": "508c4d8b8c1f47d17440:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-62010ebc93de0830ddef-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "BIPOLAR PENGUINS"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-27",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "62010ebc93de0830ddef",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.09.: Sonntag'sdisco feat. BIPOLAR PENGUINS @ Flucc, Wien [cancelled.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": "Sonntag'sdisco",
+        "venue": "Flucc"
+      },
+      "event_id": "62010ebc93de0830ddef",
+      "guid": "62010ebc93de0830ddef:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-38e4bf2f14d54672ad81-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/n_ron_hubbard/",
+            "name": "Nick Neuburg"
+          },
+          {
+            "country": null,
+            "link": "https://knurrhahn.klingt.org/",
+            "name": "KNURRHAHN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-27",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "38e4bf2f14d54672ad81",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "Nick Neuburg",
+            "url": "https://www.instagram.com/n_ron_hubbard/"
+          },
+          {
+            "label": "KNURRHAHN",
+            "url": "https://knurrhahn.klingt.org/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/29196615479927520"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.09.: Nick Neuburg (usa) / KNURRHAHN @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "38e4bf2f14d54672ad81",
+      "guid": "38e4bf2f14d54672ad81:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4348680bb4bdf740e37e-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://ponypracht.com/",
+            "name": "PONY PRACHT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-09-28",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "4348680bb4bdf740e37e",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "PONY PRACHT",
+            "url": "https://ponypracht.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/5378891819002466/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.09.: PONY PRACHT (d) @ Raumschiff, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Raumschiff"
+      },
+      "event_id": "4348680bb4bdf740e37e",
+      "guid": "4348680bb4bdf740e37e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ae763ad1dd7001f0ee96-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "ETJM"
+            }
+          ],
+          "to": [
+            {
+              "name": "ETJM"
+            },
+            {
+              "name": "BÄD HAMMER"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SPA",
+            "link": "https://etjm.es/",
+            "name": "ETJM"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/badhammertime",
+            "name": "BÄD HAMMER"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-10-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ae763ad1dd7001f0ee96",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "ETJM",
+            "url": "https://etjm.es/"
+          },
+          {
+            "label": "BÄD HAMMER",
+            "url": "https://www.facebook.com/badhammertime"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1478449350249010/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.10.: ETJM (spa) / BÄD HAMMER @ Glam, Feldbach [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "ae763ad1dd7001f0ee96",
+      "guid": "ae763ad1dd7001f0ee96:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9576543c95217aa4e088-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LEYA"
+            },
+            {
+              "name": "GbClifford"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEYA"
+            },
+            {
+              "name": "GbClifford"
+            },
+            {
+              "name": "WITCHDROWNER, INC."
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://leya.bandcamp.com/",
+            "name": "LEYA"
+          },
+          {
+            "country": "CZE",
+            "link": "https://gbclifford.bandcamp.com/music",
+            "name": "GbClifford"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "WITCHDROWNER, INC."
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-07",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9576543c95217aa4e088",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "LEYA",
+            "url": "https://leya.bandcamp.com/"
+          },
+          {
+            "label": "GbClifford",
+            "url": "https://gbclifford.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1066820759028493/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.10.: LEYA (usa) / GbClifford (cze) / WITCHDROWNER, INC. @ Last, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "9576543c95217aa4e088",
+      "guid": "9576543c95217aa4e088:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-541cff84ac96bb2be644-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://sebbrun.bandcamp.com/album/ar-ker",
+            "name": "AR KER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-08",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "541cff84ac96bb2be644",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "AR KER",
+            "url": "https://sebbrun.bandcamp.com/album/ar-ker"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1361294809428407/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.10.: AR KER (fra) @ Raumschiff, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Raumschiff"
+      },
+      "event_id": "541cff84ac96bb2be644",
+      "guid": "541cff84ac96bb2be644:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1f3045491f0e8c041216-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/TodessternTheBand/",
+            "name": "TODESSTERN"
+          },
+          {
+            "country": null,
+            "link": "https://pulverin.bandcamp.com/",
+            "name": "PULVERIN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Weyer",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1f3045491f0e8c041216",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "TODESSTERN",
+            "url": "https://www.facebook.com/TodessternTheBand/"
+          },
+          {
+            "label": "PULVERIN",
+            "url": "https://pulverin.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.10.: TODESSTERN / PULVERIN @ Bertholdsaal, Weyer",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Bertholdsaal"
+      },
+      "event_id": "1f3045491f0e8c041216",
+      "guid": "1f3045491f0e8c041216:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7f1a8d4f74e549982f0d-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://forestray.bandcamp.com/",
+            "name": "FOREST RAY"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.cordellwinter.com/",
+            "name": "Cordell Winter"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-10-12",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "7f1a8d4f74e549982f0d",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "FOREST RAY",
+            "url": "https://forestray.bandcamp.com/"
+          },
+          {
+            "label": "Cordell Winter",
+            "url": "https://www.cordellwinter.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.10.: FOREST RAY (usa) / Cordell Winter (usa) @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "7f1a8d4f74e549982f0d",
+      "guid": "7f1a8d4f74e549982f0d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1e382bd3d80adc8e9ecd-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Irokaese/",
+            "name": "IROKÄSE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/skalapenos/",
+            "name": "SKALAPEÑOS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-10-16",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1e382bd3d80adc8e9ecd",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "IROKÄSE",
+            "url": "https://www.facebook.com/Irokaese/"
+          },
+          {
+            "label": "SKALAPEÑOS",
+            "url": "https://www.instagram.com/skalapenos/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.10.: IROKÄSE / SKALAPEÑOS @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "1e382bd3d80adc8e9ecd",
+      "guid": "1e382bd3d80adc8e9ecd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9aa7b0e35e767b5017dd-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ARG",
+            "link": "https://fernandoperales.bandcamp.com/",
+            "name": "MI COSA DE RESISTANCE"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "ASTRO BLACK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9aa7b0e35e767b5017dd",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "MI COSA DE RESISTANCE",
+            "url": "https://fernandoperales.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/28297287173288943/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: MI COSA DE RESISTANCE (arg) / ASTRO BLACK @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "9aa7b0e35e767b5017dd",
+      "guid": "9aa7b0e35e767b5017dd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3d0de97f861669580878-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": "https://www.facebook.com/westoodlikekings",
+            "name": "WE STOOD LIKE KINGS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Freistadt",
+        "event_date": "2026-10-20",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "3d0de97f861669580878",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "WE STOOD LIKE KINGS",
+            "url": "https://www.facebook.com/westoodlikekings"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1821216575538934/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.10.: WE STOOD LIKE KINGS (bel) @ Salzhof, Freistadt [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Salzhof"
+      },
+      "event_id": "3d0de97f861669580878",
+      "guid": "3d0de97f861669580878:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bfe0278f1383dbf022ac-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": "https://www.facebook.com/westoodlikekings",
+            "name": "WE STOOD LIKE KINGS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Villach",
+        "event_date": "2026-10-22",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bfe0278f1383dbf022ac",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "WE STOOD LIKE KINGS",
+            "url": "https://www.facebook.com/westoodlikekings"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2568789956900534/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.10.: WE STOOD LIKE KINGS (bel) @ Kulturhof, Villach [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturhof"
+      },
+      "event_id": "bfe0278f1383dbf022ac",
+      "guid": "bfe0278f1383dbf022ac:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a1fe6240648280ad34fd-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://lasereyesmusic.bandcamp.com/",
+            "name": "LASER EYES"
+          },
+          {
+            "country": null,
+            "link": "https://www.lemol.at/",
+            "name": "LE_MOL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Villach",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "a1fe6240648280ad34fd",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "LASER EYES",
+            "url": "https://lasereyesmusic.bandcamp.com/"
+          },
+          {
+            "label": "LE_MOL",
+            "url": "https://www.lemol.at/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1983637185612808/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.10.: LASER EYES / LE_MOL @ Kulturhof, Villach [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturhof"
+      },
+      "event_id": "a1fe6240648280ad34fd",
+      "guid": "a1fe6240648280ad34fd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a079563da4756e7da82a-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LIGHTLESS"
+            },
+            {
+              "name": "NÀIRE"
+            },
+            {
+              "name": "GLARE OF THE SUN"
+            }
+          ],
+          "to": [
+            {
+              "name": "NÀIRE"
+            },
+            {
+              "name": "VAST PYRE"
+            },
+            {
+              "name": "GLARE OF THE SUN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://naire.bandcamp.com/",
+            "name": "NÀIRE"
+          },
+          {
+            "country": "D",
+            "link": "https://vastpyre.bandcamp.com/",
+            "name": "VAST PYRE"
+          },
+          {
+            "country": null,
+            "link": "https://glareofthesun.com/",
+            "name": "GLARE OF THE SUN"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Sludge Metal"
+          ]
+        },
+        "id": "a079563da4756e7da82a",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "NÀIRE",
+            "url": "https://naire.bandcamp.com/"
+          },
+          {
+            "label": "VAST PYRE",
+            "url": "https://vastpyre.bandcamp.com/"
+          },
+          {
+            "label": "GLARE OF THE SUN",
+            "url": "https://glareofthesun.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1137059785268967/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: NÀIRE / VAST PYRE (d) / GLARE OF THE SUN @ Kapu, Linz [LIGHTLESS cancelled.] [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "a079563da4756e7da82a",
+      "guid": "a079563da4756e7da82a:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d078d509b64d14163aee-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://rickyrat.bandcamp.com/",
+            "name": "Ricky Rat"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "d078d509b64d14163aee",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "Ricky Rat",
+            "url": "https://rickyrat.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: Ricky Rat (usa) @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "d078d509b64d14163aee",
+      "guid": "d078d509b64d14163aee:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ecad9c8a72cefde34257-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://taeglichfrischesobst.com/home",
+            "name": "TÄGLICH FRISCHES OBST"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ecad9c8a72cefde34257",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "TÄGLICH FRISCHES OBST",
+            "url": "https://taeglichfrischesobst.com/home"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: TÄGLICH FRISCHES OBST @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "ecad9c8a72cefde34257",
+      "guid": "ecad9c8a72cefde34257:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bb6950d78efbf2c4d438-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/colorthenightmusic/",
+            "name": "COLOR THE NIGHT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bb6950d78efbf2c4d438",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "COLOR THE NIGHT",
+            "url": "https://www.instagram.com/colorthenightmusic/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: COLOR THE NIGHT @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "bb6950d78efbf2c4d438",
+      "guid": "bb6950d78efbf2c4d438:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-dfe675d90276335270c1-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SVK",
+            "link": "https://ohen.bandcamp.com/",
+            "name": "OHEN"
+          },
+          {
+            "country": "D",
+            "link": "https://apostasie.bandcamp.com/music",
+            "name": "APOSTASIE"
+          },
+          {
+            "country": "CZE",
+            "link": "https://bjes.bandcamp.com/",
+            "name": "BJES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "dfe675d90276335270c1",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "OHEN",
+            "url": "https://ohen.bandcamp.com/"
+          },
+          {
+            "label": "APOSTASIE",
+            "url": "https://apostasie.bandcamp.com/music"
+          },
+          {
+            "label": "BJES",
+            "url": "https://bjes.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/969255536134067/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: OHEN (svk) / APOSTASIE (d) / BJES (cze) @ Last, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "dfe675d90276335270c1",
+      "guid": "dfe675d90276335270c1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c4bef60064ac717f3c7d-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BRA",
+            "link": "https://www.instagram.com/revengin/",
+            "name": "REVENGIN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c4bef60064ac717f3c7d",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "REVENGIN",
+            "url": "https://www.instagram.com/revengin/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.11.: REVENGIN (bra) @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "c4bef60064ac717f3c7d",
+      "guid": "c4bef60064ac717f3c7d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c5cc93d300e6a82ce87c-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://birdstoneband.bandcamp.com/",
+            "name": "BIRDSTONE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/waranteeband/",
+            "name": "WARANTEE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c5cc93d300e6a82ce87c",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "BIRDSTONE",
+            "url": "https://birdstoneband.bandcamp.com/"
+          },
+          {
+            "label": "WARANTEE",
+            "url": "https://www.facebook.com/waranteeband/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: BIRDSTONE (fra) / WARANTEE @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "c5cc93d300e6a82ce87c",
+      "guid": "c5cc93d300e6a82ce87c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b5c4d8145105a600c28-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://www.facebook.com/eugenerippermusic",
+            "name": "Eugene Ripper"
+          },
+          {
+            "country": null,
+            "link": "https://chrismagerl.bandcamp.com/",
+            "name": "Chris Magerl"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "0b5c4d8145105a600c28",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "Eugene Ripper",
+            "url": "https://www.facebook.com/eugenerippermusic"
+          },
+          {
+            "label": "Chris Magerl",
+            "url": "https://chrismagerl.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: Eugene Ripper (can) / Chris Magerl @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "0b5c4d8145105a600c28",
+      "guid": "0b5c4d8145105a600c28:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-59f203d4307dc6af4d84-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://gooseberryband.bandcamp.com/music",
+            "name": "GOOSEBERRY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-22",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "59f203d4307dc6af4d84",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "GOOSEBERRY",
+            "url": "https://gooseberryband.bandcamp.com/music"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.11.: GOOSEBERRY (usa) @ Lucia, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "59f203d4307dc6af4d84",
+      "guid": "59f203d4307dc6af4d84:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ed3352d9d1c44eb91a81-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/kobrakasino/",
+            "name": "KOBRAKASINO"
+          },
+          {
+            "country": null,
+            "link": "https://www.black-energy.online/",
+            "name": "BLACK ENERGY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ed3352d9d1c44eb91a81",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "KOBRAKASINO",
+            "url": "https://www.instagram.com/kobrakasino/"
+          },
+          {
+            "label": "BLACK ENERGY",
+            "url": "https://www.black-energy.online/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: KOBRAKASINO / BLACK ENERGY @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "ed3352d9d1c44eb91a81",
+      "guid": "ed3352d9d1c44eb91a81:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3402d460624da614b28a-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://manumayr.bandcamp.com/",
+            "name": "Manu Mayr"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-06",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3402d460624da614b28a",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "Manu Mayr",
+            "url": "https://manumayr.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2090762865181478/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.12.: Manu Mayr @ Raumschiff, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Raumschiff"
+      },
+      "event_id": "3402d460624da614b28a",
+      "guid": "3402d460624da614b28a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d931bf87ede3b4e5c284-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.kreisky.net/",
+            "name": "KREISKY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-12-12",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d931bf87ede3b4e5c284",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "KREISKY",
+            "url": "https://www.kreisky.net/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.12.: KREISKY @ Glam, Feldbach",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "d931bf87ede3b4e5c284",
+      "guid": "d931bf87ede3b4e5c284:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-27c565ac0182053a429a-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://nekrodeus.bandcamp.com/",
+            "name": "NEKRODEUS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ReignofVermin",
+            "name": "REIGN OF VERMIN"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "NECROSCOPY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Freistadt",
+        "event_date": "2027-01-02",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal",
+            "Sludge Metal"
+          ]
+        },
+        "id": "27c565ac0182053a429a",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "NEKRODEUS",
+            "url": "https://nekrodeus.bandcamp.com/"
+          },
+          {
+            "label": "REIGN OF VERMIN",
+            "url": "https://www.facebook.com/ReignofVermin"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1640536774097700/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "02.01.: NEKRODEUS / REIGN OF VERMIN / NECROSCOPY @ Salzhof, Freistadt [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Salzhof"
+      },
+      "event_id": "27c565ac0182053a429a",
+      "guid": "27c565ac0182053a429a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-25973a41984035e0f601-1",
+      "changes": {},
+      "detected_at": "2026-09-09T07:23:54.060566+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/kristofhahn667/",
+            "name": "Kristof Hahn"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "TMW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-09T07:23:54.060566+00:00",
+        "city": "Linz",
+        "event_date": "2027-01-15",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "25973a41984035e0f601",
+        "last_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "links": [
+          {
+            "label": "Kristof Hahn",
+            "url": "https://www.instagram.com/kristofhahn667/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1635496074606997"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.01.: Kristof Hahn (d) / TMW @ Alte Welt, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Alte Welt"
+      },
+      "event_id": "25973a41984035e0f601",
+      "guid": "25973a41984035e0f601:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-fcd66a55bb74ab89421e-1",
       "changes": {

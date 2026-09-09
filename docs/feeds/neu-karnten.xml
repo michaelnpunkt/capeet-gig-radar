@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: GISCHT, SUBLETVIS, T.R.A.S.H. – St. Veit an der Glan</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-508c4d8b8c1f47d17440-1</link>
+      <guid isPermaLink="false">508c4d8b8c1f47d17440:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-09-12 · Mühle,  St. Veit an der Glan · Kärnten</description>
+    </item>
+    <item>
+      <title>Neu: WE STOOD LIKE KINGS – Villach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bfe0278f1383dbf022ac-1</link>
+      <guid isPermaLink="false">bfe0278f1383dbf022ac:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-22 · Kulturhof,  Villach · Kärnten</description>
+    </item>
+    <item>
+      <title>Neu: LASER EYES, LE_MOL – Villach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a1fe6240648280ad34fd-1</link>
+      <guid isPermaLink="false">a1fe6240648280ad34fd:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-24 · Kulturhof,  Villach · Kärnten</description>
+    </item>
     <item>
       <title>Neu: GUYOÐ, BLIGHTBRINGER – St. Veit an der Glan</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5e22d86db0670f4e0fc4-1</link>

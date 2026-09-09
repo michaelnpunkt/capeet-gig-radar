@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: BIPOLAR PENGUINS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-62010ebc93de0830ddef-1</link>
+      <guid isPermaLink="false">62010ebc93de0830ddef:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-09-27 · Flucc,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: Nick Neuburg, KNURRHAHN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-38e4bf2f14d54672ad81-1</link>
+      <guid isPermaLink="false">38e4bf2f14d54672ad81:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-09-27 · Vekks,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MI COSA DE RESISTANCE, ASTRO BLACK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9aa7b0e35e767b5017dd-1</link>
+      <guid isPermaLink="false">9aa7b0e35e767b5017dd:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-17 · Vekks,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: GOOSEBERRY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-59f203d4307dc6af4d84-1</link>
+      <guid isPermaLink="false">59f203d4307dc6af4d84:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-11-22 · Lucia,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: THE GARDENER &amp; THE TREE, LEMONY RUG – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fcd66a55bb74ab89421e-1</link>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">54ccea34fe3494398b84:1</guid>
       <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
       <description>2026-09-14 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: INOFFIZIELL, RUSTY RAILGUN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-671870baddf7afd16d06-1</link>
-      <guid isPermaLink="false">671870baddf7afd16d06:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-09-15 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: CAVE CLUB – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d48951d5a702c2af8820-1</link>
-      <guid isPermaLink="false">d48951d5a702c2af8820:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-09-22 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: KARLMER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c80311d8022de236a03c-1</link>
-      <guid isPermaLink="false">c80311d8022de236a03c:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-09-27 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: LITTLE ELEMENT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-06be2c25d9cc33c382b9-1</link>
-      <guid isPermaLink="false">06be2c25d9cc33c382b9:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-10-06 · Lucia,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

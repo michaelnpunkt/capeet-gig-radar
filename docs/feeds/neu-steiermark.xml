@@ -5,8 +5,85 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: ETJM, BÄD HAMMER – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae763ad1dd7001f0ee96-1</link>
+      <guid isPermaLink="false">ae763ad1dd7001f0ee96:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-03 · Glam,  Feldbach · Steiermark · Line-up: ETJM → ETJM · BÄD HAMMER</description>
+    </item>
+    <item>
+      <title>Neu: FOREST RAY, Cordell Winter – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7f1a8d4f74e549982f0d-1</link>
+      <guid isPermaLink="false">7f1a8d4f74e549982f0d:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-12 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: IROKÄSE, SKALAPEÑOS – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1e382bd3d80adc8e9ecd-1</link>
+      <guid isPermaLink="false">1e382bd3d80adc8e9ecd:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-16 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: Ricky Rat – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d078d509b64d14163aee-1</link>
+      <guid isPermaLink="false">d078d509b64d14163aee:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-28 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: TÄGLICH FRISCHES OBST – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ecad9c8a72cefde34257-1</link>
+      <guid isPermaLink="false">ecad9c8a72cefde34257:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-10-31 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: COLOR THE NIGHT – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bb6950d78efbf2c4d438-1</link>
+      <guid isPermaLink="false">bb6950d78efbf2c4d438:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-11-06 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: REVENGIN – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c4bef60064ac717f3c7d-1</link>
+      <guid isPermaLink="false">c4bef60064ac717f3c7d:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-11-12 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: BIRDSTONE, WARANTEE – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c5cc93d300e6a82ce87c-1</link>
+      <guid isPermaLink="false">c5cc93d300e6a82ce87c:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-11-14 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: Eugene Ripper, Chris Magerl – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b5c4d8145105a600c28-1</link>
+      <guid isPermaLink="false">0b5c4d8145105a600c28:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-11-20 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: KOBRAKASINO, BLACK ENERGY – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ed3352d9d1c44eb91a81-1</link>
+      <guid isPermaLink="false">ed3352d9d1c44eb91a81:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-12-04 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: KREISKY – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d931bf87ede3b4e5c284-1</link>
+      <guid isPermaLink="false">d931bf87ede3b4e5c284:1</guid>
+      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
+      <description>2026-12-12 · Glam,  Feldbach · Steiermark</description>
+    </item>
     <item>
       <title>Neu: BETWEEN THE BEASTS, BOY IN A PLASTIC BAG, I CAN'T – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dbf9cab6dbdbc2c4c7de-1</link>
