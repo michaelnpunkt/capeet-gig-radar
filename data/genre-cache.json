@@ -75,6 +75,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "a r f": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "abbie falls": {
     "family": "Metal",
     "source": "lastfm",
@@ -425,6 +434,12 @@
       "Death Metal"
     ]
   },
+  "anchorage": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "and so i watch you from afar": {
     "family": "Rock",
     "source": "lastfm",
@@ -444,6 +459,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "ankathie koi": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "ankor": {
@@ -1115,6 +1136,18 @@
       "Doom Metal"
     ]
   },
+  "blind channel": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "block of flats": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "blood and sun": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -1435,6 +1468,12 @@
     ]
   },
   "cat power": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "catastrophe cure": {
+    "classifier_version": 2,
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
@@ -1837,6 +1876,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "cryptic remains": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
   },
   "cryptic shift": {
     "classifier_version": 2,
@@ -2667,6 +2714,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "electricleona": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "eleine": {
     "family": "Metal",
     "source": "lastfm",
@@ -2958,6 +3011,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "face yourself": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
   "faintest idea": {
     "family": "Punk",
     "source": "lastfm",
@@ -3014,6 +3076,12 @@
     "subgenres": []
   },
   "feder": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "fenzl": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -3375,6 +3443,12 @@
       "Metalcore"
     ]
   },
+  "giftig": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "gilgamosh": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3547,6 +3621,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "great rift": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "green lung": {
     "family": "Metal",
     "source": "lastfm",
@@ -3632,6 +3712,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "gspusi": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "guadalajara": {
     "family": "Punk",
     "source": "lastfm",
@@ -3644,6 +3730,14 @@
     "source": "lastfm",
     "subgenres": [
       "Metalcore"
+    ]
+  },
+  "gurriers": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
     ]
   },
   "gusch": {
@@ -3901,6 +3995,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "hexenaltar": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
   "hexis": {
     "family": "Metal",
     "source": "lastfm",
@@ -3949,6 +4052,12 @@
       "Stoner Metal"
     ]
   },
+  "hills like white lions": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "hippie death cult": {
     "family": "Metal",
     "source": "lastfm",
@@ -3976,6 +4085,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "hokka": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "holding pattern": {
     "classifier_version": 2,
@@ -4007,6 +4124,12 @@
     "subgenres": []
   },
   "honeyface": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "honeygiant": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4847,6 +4970,14 @@
       "Crust Punk"
     ]
   },
+  "laibach": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
   "lakeside x": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -4874,6 +5005,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "lara": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "larma": {
     "family": "Hardcore",
@@ -5187,6 +5324,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lost society": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
   "lothario": {
     "family": "Punk",
     "source": "lastfm",
@@ -5465,10 +5610,24 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "marmoto": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "mars red sky": {
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "mass of the fermenting dregs": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
   },
   "mass reaction": {
     "classifier_version": 2,
@@ -5527,6 +5686,15 @@
     "subgenres": [
       "Deathcore",
       "Death Metal"
+    ]
+  },
+  "maunra": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Sludge Metal"
     ]
   },
   "maustetytot": {
@@ -5761,6 +5929,12 @@
   "mittel alta": {
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "mocca chung": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "modecenter": {
@@ -6078,6 +6252,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "nicht nur angenehmes": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "nichtseattle": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -6087,6 +6267,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "niemals": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "nightingales": {
@@ -6286,6 +6472,14 @@
       "Hardcore Punk"
     ]
   },
+  "oceans ate alaska": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "of feather and bone": {
     "family": "Metal",
     "source": "lastfm",
@@ -6375,6 +6569,14 @@
       "Metalcore",
       "Doom Metal",
       "Sludge Metal"
+    ]
+  },
+  "otay onii": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
     ]
   },
   "our ceasing voice": {
@@ -6499,6 +6701,12 @@
     "subgenres": []
   },
   "paloma 004": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "pamo": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -7596,6 +7804,15 @@
       "Industrial"
     ]
   },
+  "signs of the swarm": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Death Metal"
+    ]
+  },
   "sikm": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -8432,6 +8649,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "ten56": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
   "tender": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -8616,6 +8842,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the ghost and the machine": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the ghost inside": {
     "family": "Metal",
     "source": "lastfm",
@@ -8788,6 +9020,12 @@
       "Ska Punk"
     ]
   },
+  "the pineapple thief": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the prodigy": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -8807,6 +9045,12 @@
     "subgenres": [
       "Street Punk"
     ]
+  },
+  "the rainbow kissers": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "the refrigerators": {
     "classifier_version": 2,
@@ -8910,6 +9154,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "the tallest man on earth": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "the teflon dons": {
     "classifier_version": 2,
@@ -9511,6 +9761,12 @@
       "Metalcore"
     ]
   },
+  "venice blue": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "venusasaboi": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9805,6 +10061,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "wetlook": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "wham bam bodyslam": {
     "family": "Punk",

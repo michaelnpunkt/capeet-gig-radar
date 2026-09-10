@@ -18051,5 +18051,1642 @@
     "guid": "25973a41984035e0f601:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SOLO ONO"
+          }
+        ],
+        "to": [
+          {
+            "name": "SOLO ONO"
+          },
+          {
+            "name": "PALOMA 004"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NZL/AUT",
+          "link": "https://soloono.bandcamp.com/",
+          "name": "SOLO ONO"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/paloma_004_/",
+          "name": "PALOMA 004"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "03564a8bd6bf24e10cc3",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "SOLO ONO",
+          "url": "https://soloono.bandcamp.com/"
+        },
+        {
+          "label": "PALOMA 004",
+          "url": "https://www.instagram.com/paloma_004_/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1088907776889290/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "19.09.: SOLO ONO (nzl/aut) / PALOMA 004 @ rhiz, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "03564a8bd6bf24e10cc3",
+    "guid": "03564a8bd6bf24e10cc3:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/veniceblueofficial/",
+          "name": "VENICE BLUE"
+        },
+        {
+          "country": null,
+          "link": "https://honeygiant.bandcamp.com/",
+          "name": "HONEYGIANT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/therainbowkissers/",
+          "name": "The RAINBOW KISSERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Stockerau",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "6f8fc34cb2550ce525aa",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "VENICE BLUE",
+          "url": "https://www.instagram.com/veniceblueofficial/"
+        },
+        {
+          "label": "HONEYGIANT",
+          "url": "https://honeygiant.bandcamp.com/"
+        },
+        {
+          "label": "The RAINBOW KISSERS",
+          "url": "https://www.instagram.com/therainbowkissers/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: VENICE BLUE / HONEYGIANT / The RAINBOW KISSERS @ Skatepark, Stockerau",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Skatepark"
+    },
+    "event_id": "6f8fc34cb2550ce525aa",
+    "guid": "6f8fc34cb2550ce525aa:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "WOKE"
+          }
+        ],
+        "to": [
+          {
+            "name": "WOKE"
+          },
+          {
+            "name": "JÆSMINE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wokeband/",
+          "name": "WOKE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/band.jaesmine/",
+          "name": "JÆSMINE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "45fed300a989449cffd1",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "WOKE",
+          "url": "https://www.instagram.com/wokeband/"
+        },
+        {
+          "label": "JÆSMINE",
+          "url": "https://www.instagram.com/band.jaesmine/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: WOKE / JÆSMINE @ Loop, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Loop"
+    },
+    "event_id": "45fed300a989449cffd1",
+    "guid": "45fed300a989449cffd1:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gspusi.ffz",
+          "name": "GSPUSI"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/electricleona/",
+          "name": "ELECTRICLEONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-26",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "95ad1ae5ef7fa199bb38",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "GSPUSI",
+          "url": "https://www.instagram.com/gspusi.ffz"
+        },
+        {
+          "label": "ELECTRICLEONA",
+          "url": "https://www.instagram.com/electricleona/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.09.: GSPUSI / ELECTRICLEONA @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "95ad1ae5ef7fa199bb38",
+    "guid": "95ad1ae5ef7fa199bb38:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MY FRIEND PETER"
+          }
+        ],
+        "to": [
+          {
+            "name": "MY FRIEND PETER"
+          },
+          {
+            "name": "MARMOTO"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://myfriendpeter.bandcamp.com/",
+          "name": "MY FRIEND PETER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/marmotomarmoto/",
+          "name": "MARMOTO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-26",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "5ed8cde624cabe917e76",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "MY FRIEND PETER",
+          "url": "https://myfriendpeter.bandcamp.com/"
+        },
+        {
+          "label": "MARMOTO",
+          "url": "https://www.instagram.com/marmotomarmoto/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "26.09.: MY FRIEND PETER / MARMOTO @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "5ed8cde624cabe917e76",
+    "guid": "5ed8cde624cabe917e76:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": null,
+          "name": "Emma Harner"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-29",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ac96818f7340256e1da5",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.09.: Emma Harner (usa) @ Lucia, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "ac96818f7340256e1da5",
+    "guid": "ac96818f7340256e1da5:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/niemalsmusik/",
+          "name": "NIEMALS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wiesopamo/",
+          "name": "Pamo"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "44f809f66439ee898f10",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "NIEMALS",
+          "url": "https://www.instagram.com/niemalsmusik/"
+        },
+        {
+          "label": "Pamo",
+          "url": "https://www.instagram.com/wiesopamo/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: NIEMALS (d) / Pamo @ Replugged, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "44f809f66439ee898f10",
+    "guid": "44f809f66439ee898f10:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/ankathiekoi",
+          "name": "Ankathie Koi"
+        },
+        {
+          "country": null,
+          "link": "https://lusterboden.at/",
+          "name": "LUSTERBODEN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "72e028990f91d9367e97",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "Ankathie Koi",
+          "url": "https://www.facebook.com/ankathiekoi"
+        },
+        {
+          "label": "LUSTERBODEN",
+          "url": "https://lusterboden.at/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/ankathie-koi/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: Ankathie Koi / LUSTERBODEN u.a. @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "72e028990f91d9367e97",
+    "guid": "72e028990f91d9367e97:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "CASEY"
+          },
+          {
+            "name": "DOWNSWING"
+          }
+        ],
+        "to": [
+          {
+            "name": "CASEY"
+          },
+          {
+            "name": "DOWNSWING"
+          },
+          {
+            "name": "ANCHORAGE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://abandcalledcasey.com/",
+          "name": "CASEY"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/downswingstyle/",
+          "name": "DOWNSWING"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/thisisanchorage",
+          "name": "ANCHORAGE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Melodic Hardcore",
+          "Hardcore Punk"
+        ]
+      },
+      "id": "f90c1828ec22d236aab5",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "CASEY",
+          "url": "https://abandcalledcasey.com/"
+        },
+        {
+          "label": "DOWNSWING",
+          "url": "https://www.instagram.com/downswingstyle/"
+        },
+        {
+          "label": "ANCHORAGE",
+          "url": "https://www.facebook.com/thisisanchorage"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3256780974516514/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: CASEY (uk) / DOWNSWING (usa) / ANCHORAGE @ Flex (Café), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex (Café)"
+    },
+    "event_id": "f90c1828ec22d236aab5",
+    "guid": "f90c1828ec22d236aab5:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/moccachung/",
+          "name": "Mocca Chung"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/nicht_nur_angenehmes/",
+          "name": "NICHT NUR ANGENEHMES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "4567dd0d21f3ab43a7b4",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "Mocca Chung",
+          "url": "https://www.instagram.com/moccachung/"
+        },
+        {
+          "label": "NICHT NUR ANGENEHMES",
+          "url": "https://www.instagram.com/nicht_nur_angenehmes/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/mocca-chung-nicht-nur-angenehmes/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: Mocca Chung / NICHT NUR ANGENEHMES @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "4567dd0d21f3ab43a7b4",
+    "guid": "4567dd0d21f3ab43a7b4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "IRL",
+          "link": "https://www.wallisbird.com/",
+          "name": "Wallis Bird"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/catastropheandcure",
+          "name": "CATASTROPHE & CURE"
+        },
+        {
+          "country": null,
+          "link": "https://www.jothemanthemusic.com/",
+          "name": "JO THE MAN THE MUSIC"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-09",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "9a0bfe02fe858830e73c",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "Wallis Bird",
+          "url": "https://www.wallisbird.com/"
+        },
+        {
+          "label": "CATASTROPHE & CURE",
+          "url": "https://www.facebook.com/catastropheandcure"
+        },
+        {
+          "label": "JO THE MAN THE MUSIC",
+          "url": "https://www.jothemanthemusic.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.rockhouse.at/de/events/33rd-rockhouse-birthday-party-0d3vyl"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.10.: Wallis Bird (irl) / CATASTROPHE & CURE / JO THE MAN THE MUSIC u.a. @ Rockhouse, Salzburg [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rockhouse"
+    },
+    "event_id": "9a0bfe02fe858830e73c",
+    "guid": "9a0bfe02fe858830e73c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "FRITTENBUDE"
+          }
+        ],
+        "to": [
+          {
+            "name": "FRITTENBUDE"
+          },
+          {
+            "name": "NAKED CAMEO"
+          },
+          {
+            "name": "FENZL"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://frittenbude.xyz/",
+          "name": "FRITTENBUDE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/nacameomusic/",
+          "name": "NAKED CAMEO"
+        },
+        {
+          "country": "D",
+          "link": "https://fenzlmusic.com/",
+          "name": "FENZL"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-10",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "9dd8d85f01d89c2710d6",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "FRITTENBUDE",
+          "url": "https://frittenbude.xyz/"
+        },
+        {
+          "label": "NAKED CAMEO",
+          "url": "https://www.facebook.com/nacameomusic/"
+        },
+        {
+          "label": "FENZL",
+          "url": "https://fenzlmusic.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.rockhouse.at/de/events/33rd-rockhouse-birthday-party-0d3vyl"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.10.: FRITTENBUDE (d) / NAKED CAMEO / FENZL (d) u.a. @ Rockhouse, Salzburg [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rockhouse"
+    },
+    "event_id": "9dd8d85f01d89c2710d6",
+    "guid": "9dd8d85f01d89c2710d6:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wetlook.wav/",
+          "name": "WETLOOK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-14",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "90c1fab0d762d5314bc1",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "WETLOOK",
+          "url": "https://www.instagram.com/wetlook.wav/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/wetlook/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.10.: WETLOOK @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "90c1fab0d762d5314bc1",
+    "guid": "90c1fab0d762d5314bc1:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://greatrift.bandcamp.com/",
+          "name": "GREAT RIFT"
+        },
+        {
+          "country": null,
+          "link": "https://www.the-ghost-and-the-machine.com/",
+          "name": "THE GHOST AND THE MACHINE"
+        },
+        {
+          "country": null,
+          "link": "https://honeygiant.bandcamp.com/",
+          "name": "HONEYGIANT"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "A.R.F."
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-17",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "775f4d55bf06cc116faf",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "GREAT RIFT",
+          "url": "https://greatrift.bandcamp.com/"
+        },
+        {
+          "label": "THE GHOST AND THE MACHINE",
+          "url": "https://www.the-ghost-and-the-machine.com/"
+        },
+        {
+          "label": "HONEYGIANT",
+          "url": "https://honeygiant.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2139582910224087"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.10.: GREAT RIFT / THE GHOST AND THE MACHINE / HONEYGIANT / A.R.F. @ Replugged, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "775f4d55bf06cc116faf",
+    "guid": "775f4d55bf06cc116faf:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/axelmoleyjr/",
+          "name": "AXEL MOLEY JR."
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wirsindgiftig/",
+          "name": "GIFTIG"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-22",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "56dc195c13c0135e3103",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "AXEL MOLEY JR.",
+          "url": "https://www.instagram.com/axelmoleyjr/"
+        },
+        {
+          "label": "GIFTIG",
+          "url": "https://www.instagram.com/wirsindgiftig/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/axel-moley-jr-giftig/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.10.: AXEL MOLEY JR. / GIFTIG @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "56dc195c13c0135e3103",
+    "guid": "56dc195c13c0135e3103:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "AND SO I WATCH YOU FROM AFAR"
+          },
+          {
+            "name": "CASPIAN"
+          }
+        ],
+        "to": [
+          {
+            "name": "AND SO I WATCH YOU FROM AFAR"
+          },
+          {
+            "name": "CASPIAN"
+          },
+          {
+            "name": "OTAY:ONII"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://asiwyfa.bandcamp.com/",
+          "name": "AND SO I WATCH YOU FROM AFAR"
+        },
+        {
+          "country": "USA",
+          "link": "https://caspiantheband.bandcamp.com/",
+          "name": "CASPIAN"
+        },
+        {
+          "country": "CHN",
+          "link": "https://otayonii.bandcamp.com/",
+          "name": "OTAY:ONII"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e4fcc3e08c7e3e54c5ba",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "AND SO I WATCH YOU FROM AFAR",
+          "url": "https://asiwyfa.bandcamp.com/"
+        },
+        {
+          "label": "CASPIAN",
+          "url": "https://caspiantheband.bandcamp.com/"
+        },
+        {
+          "label": "OTAY:ONII",
+          "url": "https://otayonii.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.10.: AND SO I WATCH YOU FROM AFAR (uk) / CASPIAN (usa) / OTAY:ONII (chn) @ Flex, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "e4fcc3e08c7e3e54c5ba",
+    "guid": "e4fcc3e08c7e3e54c5ba:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "IRL",
+          "link": "https://gurriers.net/",
+          "name": "GURRIERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "892fb50463168a9f2dc1",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "GURRIERS",
+          "url": "https://gurriers.net/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://cuteconcerts.com/events/gurriers-30861"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: GURRIERS (irl) @ Flex (Café), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex (Café)"
+    },
+    "event_id": "892fb50463168a9f2dc1",
+    "guid": "892fb50463168a9f2dc1:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://gyfth.bandcamp.com/",
+          "name": "GYFTH"
+        },
+        {
+          "country": null,
+          "link": "https://maunra.bandcamp.com/",
+          "name": "MAUNRA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/HillsLikeWhiteLionsMusic/",
+          "name": "HILLS LIKE WHITE LIONS"
+        },
+        {
+          "country": "D",
+          "link": "https://laeraband.bandcamp.com/",
+          "name": "LÄRA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "64da94a4c14e6cb9bef7",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "GYFTH",
+          "url": "https://gyfth.bandcamp.com/"
+        },
+        {
+          "label": "MAUNRA",
+          "url": "https://maunra.bandcamp.com/"
+        },
+        {
+          "label": "HILLS LIKE WHITE LIONS",
+          "url": "https://www.facebook.com/HillsLikeWhiteLionsMusic/"
+        },
+        {
+          "label": "LÄRA",
+          "url": "https://laeraband.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: GYFTH / MAUNRA / HILLS LIKE WHITE LIONS / LÄRA (d) @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "64da94a4c14e6cb9bef7",
+    "guid": "64da94a4c14e6cb9bef7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Tulsadoom",
+          "name": "TULSADOOM"
+        },
+        {
+          "country": "POL",
+          "link": "https://hexenaltar.bandcamp.com/",
+          "name": "HEXENALTAR"
+        },
+        {
+          "country": "HUN",
+          "link": "https://crypticremains.bandcamp.com/music",
+          "name": "CRYPTIC REMAINS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "81e0c67d23dbe751d4d7",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "TULSADOOM",
+          "url": "https://www.facebook.com/Tulsadoom"
+        },
+        {
+          "label": "HEXENALTAR",
+          "url": "https://hexenaltar.bandcamp.com/"
+        },
+        {
+          "label": "CRYPTIC REMAINS",
+          "url": "https://crypticremains.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: TULSADOOM / HEXENALTAR (pol) / CRYPTIC REMAINS (hun) @ Escape, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "81e0c67d23dbe751d4d7",
+    "guid": "81e0c67d23dbe751d4d7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/endlesswellnesshallo/",
+          "name": "ENDLESS WELLNESS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-10",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "05e78afd223c70f397d3",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "ENDLESS WELLNESS",
+          "url": "https://www.instagram.com/endlesswellnesshallo/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48638"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.12.: ENDLESS WELLNESS @ Arena (gr. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "05e78afd223c70f397d3",
+    "guid": "05e78afd223c70f397d3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": "https://www.blindchannelofficial.com/",
+          "name": "BLIND CHANNEL"
+        },
+        {
+          "country": "FIN",
+          "link": "https://www.instagram.com/block_of_flats/",
+          "name": "BLOCK OF FLATS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-17",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "33f265d70ab5f0420bf5",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "BLIND CHANNEL",
+          "url": "https://www.blindchannelofficial.com/"
+        },
+        {
+          "label": "BLOCK OF FLATS",
+          "url": "https://www.instagram.com/block_of_flats/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2167362413886391/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.02.: BLIND CHANNEL (fin) / BLOCK OF FLATS (fin) @ Simm City, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Simm City"
+    },
+    "event_id": "33f265d70ab5f0420bf5",
+    "guid": "33f265d70ab5f0420bf5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SLO",
+          "link": "https://www.laibach.org/",
+          "name": "LAIBACH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-18",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "6ca047ac60fec99e0df6",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "LAIBACH",
+          "url": "https://www.laibach.org/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1039401478930025/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.02.: LAIBACH (slo) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "6ca047ac60fec99e0df6",
+    "guid": "6ca047ac60fec99e0df6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://signsoftheswarmmusic.bandcamp.com/",
+          "name": "SIGNS OF THE SWARM"
+        },
+        {
+          "country": "FRA",
+          "link": "https://www.facebook.com/ten56hq",
+          "name": "TEN56."
+        },
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/oceansatealaska/",
+          "name": "OCEANS ATE ALASKA"
+        },
+        {
+          "country": "USA/FRA",
+          "link": "https://fyourselfband.com/",
+          "name": "FACE YOURSELF"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-18",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore",
+          "Death Metal"
+        ]
+      },
+      "id": "af1481c87f979fd368b1",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "SIGNS OF THE SWARM",
+          "url": "https://signsoftheswarmmusic.bandcamp.com/"
+        },
+        {
+          "label": "TEN56.",
+          "url": "https://www.facebook.com/ten56hq"
+        },
+        {
+          "label": "OCEANS ATE ALASKA",
+          "url": "https://www.instagram.com/oceansatealaska/"
+        },
+        {
+          "label": "FACE YOURSELF",
+          "url": "https://fyourselfband.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2957561167943860/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.02.: SIGNS OF THE SWARM (usa) / TEN56. (fra) / OCEANS ATE ALASKA (uk) / FACE YOURSELF (usa/fra) @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "af1481c87f979fd368b1",
+    "guid": "af1481c87f979fd368b1:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://thetallestmanonearth.bandcamp.com/music",
+          "name": "The TALLEST MAN ON EARTH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-19",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "235656bf61057a78da0f",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "The TALLEST MAN ON EARTH",
+          "url": "https://thetallestmanonearth.bandcamp.com/music"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48645"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.02.: The TALLEST MAN ON EARTH (swe) @ Arena (gr. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "235656bf61057a78da0f",
+    "guid": "235656bf61057a78da0f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": "https://lostsociety.fi/",
+          "name": "LOST SOCIETY"
+        },
+        {
+          "country": "FIN",
+          "link": "https://www.facebook.com/profile.php?id=61583527443598",
+          "name": "HOKKA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-23",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "b7c2659d3055d8d933d8",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "LOST SOCIETY",
+          "url": "https://lostsociety.fi/"
+        },
+        {
+          "label": "HOKKA",
+          "url": "https://www.facebook.com/profile.php?id=61583527443598"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27819350957765332/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.02.: LOST SOCIETY (fin) / HOKKA (fin) @ Flex (CAfé), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex (CAfé)"
+    },
+    "event_id": "b7c2659d3055d8d933d8",
+    "guid": "b7c2659d3055d8d933d8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.facebook.com/thepineapplethief/",
+          "name": "The PINEAPPLE THIEF"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-13",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "dd20518188598359621a",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "The PINEAPPLE THIEF",
+          "url": "https://www.facebook.com/thepineapplethief/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1758328715219709/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.04.: The PINEAPPLE THIEF (uk) @ WUK, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "dd20518188598359621a",
+    "guid": "dd20518188598359621a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-10T07:19:09.461284+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "JPN",
+          "link": "https://massofthefermentingdregs.bandcamp.com/",
+          "name": "MASS OF THE FERMENTING DREGS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-10T07:19:09.461284+00:00",
+      "city": "Wien",
+      "event_date": "2027-10-07",
+      "first_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Shoegaze"
+        ]
+      },
+      "id": "1581605c9504072ce0d5",
+      "last_seen_at": "2026-09-10T07:19:09.461284+00:00",
+      "links": [
+        {
+          "label": "MASS OF THE FERMENTING DREGS",
+          "url": "https://massofthefermentingdregs.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/mass-of-the-fermenting-dregs/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.10.: MASS OF THE FERMENTING DREGS (jpn) @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "1581605c9504072ce0d5",
+    "guid": "1581605c9504072ce0d5:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

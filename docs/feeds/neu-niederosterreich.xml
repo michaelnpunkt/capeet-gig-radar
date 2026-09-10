@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: VENICE BLUE, HONEYGIANT, The RAINBOW KISSERS – Stockerau</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f8fc34cb2550ce525aa-1</link>
+      <guid isPermaLink="false">6f8fc34cb2550ce525aa:1</guid>
+      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
+      <description>2026-09-19 · Skatepark,  Stockerau · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: AEONS OF ASHES, STREAMBLEED, INSOLAZE, BEFORE ALL GOES DOWN – St. Pölten</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d2583a0fb27682c75bfc-1</link>

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: MY FRIEND PETER, MARMOTO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5ed8cde624cabe917e76-2</link>
+      <guid isPermaLink="false">5ed8cde624cabe917e76:2</guid>
+      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
+      <description>2026-09-26 · Music-House,  Graz · Steiermark · Line-up: MY FRIEND PETER → MY FRIEND PETER · MARMOTO</description>
+    </item>
     <item>
       <title>Geändert: ETJM, BÄD HAMMER – Feldbach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae763ad1dd7001f0ee96-1</link>

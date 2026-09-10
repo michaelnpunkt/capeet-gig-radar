@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Wallis Bird, CATASTROPHE &amp; CURE, JO THE MAN THE MUSIC – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9a0bfe02fe858830e73c-1</link>
+      <guid isPermaLink="false">9a0bfe02fe858830e73c:1</guid>
+      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
+      <description>2026-10-09 · Rockhouse,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Geändert: FRITTENBUDE, NAKED CAMEO, FENZL – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9dd8d85f01d89c2710d6-1</link>
+      <guid isPermaLink="false">9dd8d85f01d89c2710d6:1</guid>
+      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
+      <description>2026-10-10 · Rockhouse,  Salzburg · Salzburg · Line-up: FRITTENBUDE → FRITTENBUDE · NAKED CAMEO · FENZL</description>
+    </item>
     <item>
       <title>Geändert: LOVEHEAD, GROẞKIND – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bcfc4ebe6a0960670aab-1</link>
