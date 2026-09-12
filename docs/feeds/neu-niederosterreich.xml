@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:10:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: UNHOLY OBSCURITY, GRÜMPHRÖ – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b15d477dceb2e874ec1b-1</link>
+      <guid isPermaLink="false">b15d477dceb2e874ec1b:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-11-27 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: VENICE BLUE, HONEYGIANT, The RAINBOW KISSERS – Stockerau</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f8fc34cb2550ce525aa-1</link>

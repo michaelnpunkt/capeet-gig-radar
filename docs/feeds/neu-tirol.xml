@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:10:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: MOON WOMAN, MEAT CHEESE, CHVONCE – Imst</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a75fcd72ad07a310e8d9-1</link>
+      <guid isPermaLink="false">a75fcd72ad07a310e8d9:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-18 · Stadtbühne,  Imst · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: PHAL:ANGST – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2ec6e57dae29e66a0b09-1</link>
+      <guid isPermaLink="false">2ec6e57dae29e66a0b09:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-11-14 · Kult Bar,  Innsbruck · Tirol</description>
+    </item>
     <item>
       <title>Neu: POINTS OF CONCEPTION – Innsbruck</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa6748b14f08fe8ad171-1</link>

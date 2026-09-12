@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:10:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: KREISKY – Seekirchen am Wallersee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-057169592e0850726428-1</link>
+      <guid isPermaLink="false">057169592e0850726428:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-18 · Emailwerk,  Seekirchen am Wallersee · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: CHEAP$HOT, DAS NEUE LEBEN, HAYFEVER, The INVITATION – Kaprun</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d9f7513b6382a0c8ae12-1</link>
+      <guid isPermaLink="false">d9f7513b6382a0c8ae12:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-19 · Botch Bowl,  Kaprun · Salzburg</description>
+    </item>
     <item>
       <title>Neu: Wallis Bird, CATASTROPHE &amp; CURE, JO THE MAN THE MUSIC – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9a0bfe02fe858830e73c-1</link>

@@ -19688,5 +19688,1617 @@
     "guid": "1581605c9504072ce0d5:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://aftmhc.bandcamp.com/",
+          "name": "ABSENT FROM THE MORNING HEADCOUNT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/itookhiseyes/",
+          "name": "ITOOKHISEYES"
+        },
+        {
+          "country": null,
+          "link": "https://e-c-c-c-o.bandcamp.com/",
+          "name": "ECCCO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "55be6e9dc683403ea855",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "ABSENT FROM THE MORNING HEADCOUNT",
+          "url": "https://aftmhc.bandcamp.com/"
+        },
+        {
+          "label": "ITOOKHISEYES",
+          "url": "https://www.instagram.com/itookhiseyes/"
+        },
+        {
+          "label": "ECCCO",
+          "url": "https://e-c-c-c-o.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: ABSENT FROM THE MORNING HEADCOUNT / ITOOKHISEYES / ECCCO @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "55be6e9dc683403ea855",
+    "guid": "55be6e9dc683403ea855:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/killedbyyouth_music/",
+          "name": "KILLED BY YOUTH"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/splitroot.band/",
+          "name": "SPLITROOT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/sheepfieldsux/",
+          "name": "SHEEPFIELD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wels",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "5d2cbde4251951c8a432",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "KILLED BY YOUTH",
+          "url": "https://www.instagram.com/killedbyyouth_music/"
+        },
+        {
+          "label": "SPLITROOT",
+          "url": "https://www.instagram.com/splitroot.band/"
+        },
+        {
+          "label": "SHEEPFIELD",
+          "url": "https://www.instagram.com/sheepfieldsux/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1070066405603534/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: KILLED BY YOUTH / SPLITROOT / SHEEPFIELD @ Alter Schl8hof, Wels [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Alter Schl8hof"
+    },
+    "event_id": "5d2cbde4251951c8a432",
+    "guid": "5d2cbde4251951c8a432:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "STONE SOBER"
+          }
+        ],
+        "to": [
+          {
+            "name": "STONE SOBER"
+          },
+          {
+            "name": "MYMYZEL"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://stonesober.bandcamp.com/",
+          "name": "STONE SOBER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/mymyzel/",
+          "name": "MYMYZEL"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Ebensee",
+      "event_date": "2026-09-12",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "361d4d53074a2daafcba",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "STONE SOBER",
+          "url": "https://stonesober.bandcamp.com/"
+        },
+        {
+          "label": "MYMYZEL",
+          "url": "https://www.instagram.com/mymyzel/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/stone-sober-h-1230.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.09.: STONE SOBER (hun) / MYMYZEL @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "361d4d53074a2daafcba",
+    "guid": "361d4d53074a2daafcba:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UKR",
+          "link": "https://www.instagram.com/Lystopad2007/",
+          "name": "LYSTOPAD2007"
+        },
+        {
+          "country": null,
+          "link": "https://beepki.bandcamp.com/",
+          "name": "BEEPKI"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Fridolin Tausendsassa"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-13",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d128db579965ac6f473e",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "LYSTOPAD2007",
+          "url": "https://www.instagram.com/Lystopad2007/"
+        },
+        {
+          "label": "BEEPKI",
+          "url": "https://beepki.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.09.: LYSTOPAD2007 (ukr) / BEEPKI / Fridolin Tausendsassa @ Wientalterrasse (Kaleido), Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Wientalterrasse (Kaleido)"
+    },
+    "event_id": "d128db579965ac6f473e",
+    "guid": "d128db579965ac6f473e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.kreisky.net/",
+          "name": "KREISKY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Seekirchen am Wallersee",
+      "event_date": "2026-09-18",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "057169592e0850726428",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "KREISKY",
+          "url": "https://www.kreisky.net/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kupfticket.com/events/konzert-kreisky-adieu-unsterblichkeit"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: KREISKY @ Emailwerk, Seekirchen am Wallersee [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Emailwerk"
+    },
+    "event_id": "057169592e0850726428",
+    "guid": "057169592e0850726428:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/leetamusic/",
+          "name": "LEETA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wels",
+      "event_date": "2026-09-18",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f310c552ed0f7197fbd3",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "LEETA",
+          "url": "https://www.instagram.com/leetamusic/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kupfticket.com/events/auftakt-leeta-dj-teresa-more"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: LEETA @ Alter Schl8hof, Wels [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Alter Schl8hof"
+    },
+    "event_id": "f310c552ed0f7197fbd3",
+    "guid": "f310c552ed0f7197fbd3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://moonwoman.org/",
+          "name": "MOON WOMAN"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/MeatCheeseBand",
+          "name": "MEAT CHEESE"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "CHVONCE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Imst",
+      "event_date": "2026-09-18",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a75fcd72ad07a310e8d9",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "MOON WOMAN",
+          "url": "https://moonwoman.org/"
+        },
+        {
+          "label": "MEAT CHEESE",
+          "url": "https://www.facebook.com/MeatCheeseBand"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.stadtbuehne.at/programm/veranstaltung/moon-woman-meat-cheese-chvonce/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: MOON WOMAN / MEAT CHEESE / CHVONCE @ Stadtbühne, Imst [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtbühne"
+    },
+    "event_id": "a75fcd72ad07a310e8d9",
+    "guid": "a75fcd72ad07a310e8d9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/cheapshot.hc/",
+          "name": "CHEAP$HOT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/noise_leben/",
+          "name": "DAS NEUE LEBEN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/hayfever_band/",
+          "name": "HAYFEVER"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "The INVITATION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Kaprun",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d9f7513b6382a0c8ae12",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "CHEAP$HOT",
+          "url": "https://www.instagram.com/cheapshot.hc/"
+        },
+        {
+          "label": "DAS NEUE LEBEN",
+          "url": "https://www.instagram.com/noise_leben/"
+        },
+        {
+          "label": "HAYFEVER",
+          "url": "https://www.instagram.com/hayfever_band/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: CHEAP$HOT / DAS NEUE LEBEN / HAYFEVER / The INVITATION @ Botch Bowl, Kaprun",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Botch Bowl"
+    },
+    "event_id": "d9f7513b6382a0c8ae12",
+    "guid": "d9f7513b6382a0c8ae12:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FRA",
+          "link": "https://www.instagram.com/gizmedium/",
+          "name": "Giz Medium"
+        },
+        {
+          "country": null,
+          "link": "https://beepki.bandcamp.com/",
+          "name": "BEEPKI"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Graz",
+      "event_date": "2026-09-22",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "50a7e7c7eaf64f5b6ae3",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "Giz Medium",
+          "url": "https://www.instagram.com/gizmedium/"
+        },
+        {
+          "label": "BEEPKI",
+          "url": "https://beepki.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.09.: Giz Medium (fra) / BEEPKI @ SUb, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SUb"
+    },
+    "event_id": "50a7e7c7eaf64f5b6ae3",
+    "guid": "50a7e7c7eaf64f5b6ae3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://gischt.xyz/",
+          "name": "GISCHT"
+        },
+        {
+          "country": null,
+          "link": "https://rojinsharafi.com/",
+          "name": "Rojin Sharafi"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-24",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f46f7948366e40a7b9a4",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "GISCHT",
+          "url": "https://gischt.xyz/"
+        },
+        {
+          "label": "Rojin Sharafi",
+          "url": "https://rojinsharafi.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kupfticket.com/events/heavy-listening-w-hiff-rojin-sharafi-gischt"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.09.: GISCHT / Rojin Sharafi @ Coco Bar, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Coco Bar"
+    },
+    "event_id": "f46f7948366e40a7b9a4",
+    "guid": "f46f7948366e40a7b9a4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/binary__boy/",
+          "name": "BINARY BOY"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/umami.mp4",
+          "name": "UMAMI"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ecfbf00f1f16382a4610",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "BINARY BOY",
+          "url": "https://www.instagram.com/binary__boy/"
+        },
+        {
+          "label": "UMAMI",
+          "url": "https://www.instagram.com/umami.mp4"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: BINARY BOY / UMAMI @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "ecfbf00f1f16382a4610",
+    "guid": "ecfbf00f1f16382a4610:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/the_meadow_official/",
+          "name": "The MEADOW"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/muethosband/",
+          "name": "MÜTHOS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-27",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "595787990aa46e614e2f",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "The MEADOW",
+          "url": "https://www.instagram.com/the_meadow_official/"
+        },
+        {
+          "label": "MÜTHOS",
+          "url": "https://www.instagram.com/muethosband/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.09.: The MEADOW / MÜTHOS @ Replugged, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "595787990aa46e614e2f",
+    "guid": "595787990aa46e614e2f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": null,
+          "name": "POINTS OF CONCEPTION"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-28",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "df9d95b02be4378a0819",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.09.: POINTS OF CONCEPTION @ Viper Room, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "df9d95b02be4378a0819",
+    "guid": "df9d95b02be4378a0819:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The NARRATOR"
+          }
+        ],
+        "to": [
+          {
+            "name": "The NARRATOR"
+          },
+          {
+            "name": "ACCUVSE"
+          },
+          {
+            "name": "IMPVLSE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/thenarratorhc",
+          "name": "The NARRATOR"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/accvsed.band/",
+          "name": "ACCUVSE"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/impvlse.official/",
+          "name": "IMPVLSE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-01",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "17ff2bf677b8c43dcee7",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "The NARRATOR",
+          "url": "https://www.facebook.com/thenarratorhc"
+        },
+        {
+          "label": "ACCUVSE",
+          "url": "https://www.instagram.com/accvsed.band/"
+        },
+        {
+          "label": "IMPVLSE",
+          "url": "https://www.instagram.com/impvlse.official/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1302210245036157/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.10.: The NARRATOR (d) / ACCUVSE (d) / IMPVLSE (d) @ Flex (Café), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex (Café)"
+    },
+    "event_id": "17ff2bf677b8c43dcee7",
+    "guid": "17ff2bf677b8c43dcee7:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "VERMINTHRONE"
+          }
+        ],
+        "to": [
+          {
+            "name": "VERMINTHRONE"
+          },
+          {
+            "name": "BONEGRINDER"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://verminthrone.bandcamp.com/",
+          "name": "VERMINTHRONE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/bonegrinder_official/",
+          "name": "BONEGRINDER"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-01",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal",
+          "Sludge Metal"
+        ]
+      },
+      "id": "df06c6818ab0c35d1309",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "VERMINTHRONE",
+          "url": "https://verminthrone.bandcamp.com/"
+        },
+        {
+          "label": "BONEGRINDER",
+          "url": "https://www.instagram.com/bonegrinder_official/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.10.: VERMINTHRONE (uk) / BONEGRINDER @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "df06c6818ab0c35d1309",
+    "guid": "df06c6818ab0c35d1309:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://loseryouth.bandcamp.com/music",
+          "name": "LOSER YOUTH"
+        },
+        {
+          "country": "D",
+          "link": "https://atbb1.bandcamp.com/",
+          "name": "ARBEITSTITEL: BULLENBLUT"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "KLAHEISLA KIDS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "923854fbed3ad80778e9",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "LOSER YOUTH (d) /",
+          "url": "https://loseryouth.bandcamp.com/music"
+        },
+        {
+          "label": "ARBEITSTITEL: BULLENBLUT",
+          "url": "https://atbb1.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: LOSER YOUTH (d) / ARBEITSTITEL: BULLENBLUT (d) / KLAHEISLA KIDS @ Einbaumöbel, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Einbaumöbel"
+    },
+    "event_id": "923854fbed3ad80778e9",
+    "guid": "923854fbed3ad80778e9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/streambleed_official",
+          "name": "STREAMBLEED"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/AeonsOfAshes",
+          "name": "AEONS OF ASHES"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/colddecembermetal",
+          "name": "COLD DECEMBER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/trembling_earth_band/",
+          "name": "TREMBLING EARTH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wels",
+      "event_date": "2026-10-09",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c9cea8d6b4d0f60f72aa",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "STREAMBLEED",
+          "url": "https://www.instagram.com/streambleed_official"
+        },
+        {
+          "label": "AEONS OF ASHES",
+          "url": "https://www.facebook.com/AeonsOfAshes"
+        },
+        {
+          "label": "COLD DECEMBER",
+          "url": "https://www.facebook.com/colddecembermetal"
+        },
+        {
+          "label": "TREMBLING EARTH",
+          "url": "https://www.instagram.com/trembling_earth_band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1519972285981940/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.10.: STREAMBLEED / AEONS OF ASHES / COLD DECEMBER / TREMBLING EARTH u.a. @ Alter Schl8hof, Wels [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Alter Schl8hof"
+    },
+    "event_id": "c9cea8d6b4d0f60f72aa",
+    "guid": "c9cea8d6b4d0f60f72aa:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "VIOLET BLOOM"
+          },
+          {
+            "name": "LOVE EMBASSY"
+          }
+        ],
+        "to": [
+          {
+            "name": "VERBAL BEHAVIOR"
+          },
+          {
+            "name": "VIOLET BLOOM"
+          },
+          {
+            "name": "LOVE EMBASSY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SPA",
+          "link": "https://verbalbehavior.bandcamp.com/",
+          "name": "VERBAL BEHAVIOR"
+        },
+        {
+          "country": null,
+          "link": "https://violetbloomhc.bandcamp.com/",
+          "name": "VIOLET BLOOM"
+        },
+        {
+          "country": null,
+          "link": "https://loveembassy.bandcamp.com/",
+          "name": "LOVE EMBASSY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-18",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "95fb787e293b785a1f19",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "VERBAL BEHAVIOR",
+          "url": "https://verbalbehavior.bandcamp.com/"
+        },
+        {
+          "label": "VIOLET BLOOM",
+          "url": "https://violetbloomhc.bandcamp.com/"
+        },
+        {
+          "label": "LOVE EMBASSY",
+          "url": "https://loveembassy.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.10.: VERBAL BEHAVIOR (spa) / VIOLET BLOOM / LOVE EMBASSY @ Venster, Wien [16:00!]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "95fb787e293b785a1f19",
+    "guid": "95fb787e293b785a1f19:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CZE",
+          "link": "https://nogodrhetoric.bandcamp.com/",
+          "name": "NO GOD RHETORIC"
+        },
+        {
+          "country": "CZE",
+          "link": "https://locuranoise.bandcamp.com/",
+          "name": "LOCURA"
+        },
+        {
+          "country": "CZE",
+          "link": null,
+          "name": "FÖRTELEM"
+        },
+        {
+          "country": null,
+          "link": "https://lostonnos.bandcamp.com/",
+          "name": "LOS TONNOS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Thrash Metal"
+        ]
+      },
+      "id": "96962635cb0181fa98d1",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "NO GOD RHETORIC",
+          "url": "https://nogodrhetoric.bandcamp.com/"
+        },
+        {
+          "label": "LOCURA",
+          "url": "https://locuranoise.bandcamp.com/"
+        },
+        {
+          "label": "LOS TONNOS",
+          "url": "https://lostonnos.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: DIY Punk Beisl feat. NO GOD RHETORIC (cze) / LOCURA (cze) / FÖRTELEM (cze) / LOS TONNOS @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "DIY Punk Beisl",
+      "venue": "Secret Location"
+    },
+    "event_id": "96962635cb0181fa98d1",
+    "guid": "96962635cb0181fa98d1:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://desolat-de.bandcamp.com/",
+          "name": "DESOLAT"
+        },
+        {
+          "country": null,
+          "link": "https://www.annagrob.at/",
+          "name": "Anna Grob"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "904aee572980d0d7528f",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "DESOLAT",
+          "url": "https://desolat-de.bandcamp.com/"
+        },
+        {
+          "label": "Anna Grob",
+          "url": "https://www.annagrob.at/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: DESOLAT (d) / Anna Grob @ Lucia, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "904aee572980d0d7528f",
+    "guid": "904aee572980d0d7528f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://phalangst.bandcamp.com/",
+          "name": "PHAL:ANGST"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2ec6e57dae29e66a0b09",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "PHAL:ANGST",
+          "url": "https://phalangst.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: PHAL:ANGST @ Kult Bar, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kult Bar"
+    },
+    "event_id": "2ec6e57dae29e66a0b09",
+    "guid": "2ec6e57dae29e66a0b09:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://phalangst.bandcamp.com/",
+          "name": "PHAL:ANGST"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "bc5b48ccc80aaf453038",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "PHAL:ANGST",
+          "url": "https://phalangst.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: PHAL:ANGST @ Kapu, Linz",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "bc5b48ccc80aaf453038",
+    "guid": "bc5b48ccc80aaf453038:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "INT",
+          "link": "https://drinktheseamusic.com/",
+          "name": "DRINK THE SEA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b3cd9ef29b7e21932a03",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "DRINK THE SEA",
+          "url": "https://drinktheseamusic.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1764229981230282"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: DRINK THE SEA (int) @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "b3cd9ef29b7e21932a03",
+    "guid": "b3cd9ef29b7e21932a03:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://unholyobscurity.bandcamp.com/",
+          "name": "UNHOLY OBSCURITY"
+        },
+        {
+          "country": null,
+          "link": "https://gruemphroe.bandcamp.com/",
+          "name": "GRÜMPHRÖ"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Scheibbs",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      "id": "b15d477dceb2e874ec1b",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "UNHOLY OBSCURITY",
+          "url": "https://unholyobscurity.bandcamp.com/"
+        },
+        {
+          "label": "GRÜMPHRÖ",
+          "url": "https://gruemphroe.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: UNHOLY OBSCURITY / GRÜMPHRÖ @ Proberaum, Scheibbs",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Proberaum"
+    },
+    "event_id": "b15d477dceb2e874ec1b",
+    "guid": "b15d477dceb2e874ec1b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://softcult.bandcamp.com/music",
+          "name": "SOFTCULT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-29",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Shoegaze"
+        ]
+      },
+      "id": "cc00af247d9e153465b3",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "SOFTCULT",
+          "url": "https://softcult.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.11.: SOFTCULT (can) @ Lucia, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "cc00af247d9e153465b3",
+    "guid": "cc00af247d9e153465b3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://wishboneash.com/",
+          "name": "WISHBONE ASH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-23",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1e99786435c43e88eb5b",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "WISHBONE ASH",
+          "url": "https://wishboneash.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.reigen.at/event/wishbone-ash-4/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.01.: WISHBONE ASH (uk) @ Reigen, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Reigen"
+    },
+    "event_id": "1e99786435c43e88eb5b",
+    "guid": "1e99786435c43e88eb5b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MASTER"
+          },
+          {
+            "name": "TULSADOOM"
+          },
+          {
+            "name": "AMONG RATS"
+          }
+        ],
+        "to": [
+          {
+            "name": "MASTER"
+          },
+          {
+            "name": "TULSADOOM"
+          },
+          {
+            "name": "INFEST"
+          },
+          {
+            "name": "AMONG RATS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-12T07:10:17.739084+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA/CZE",
+          "link": "https://www.speckmetal.net/",
+          "name": "MASTER"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Tulsadoom",
+          "name": "TULSADOOM"
+        },
+        {
+          "country": "SRB",
+          "link": "https://www.facebook.com/infest.serbia",
+          "name": "INFEST"
+        },
+        {
+          "country": null,
+          "link": "https://amongrats.bandcamp.com/",
+          "name": "AMONG RATS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-12T07:10:17.739084+00:00",
+      "city": "Mehrnbach",
+      "event_date": "2027-05-16",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "42b97c84f68ac1424c5b",
+      "last_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "links": [
+        {
+          "label": "MASTER",
+          "url": "https://www.speckmetal.net/"
+        },
+        {
+          "label": "TULSADOOM",
+          "url": "https://www.facebook.com/Tulsadoom"
+        },
+        {
+          "label": "INFEST",
+          "url": "https://www.facebook.com/infest.serbia"
+        },
+        {
+          "label": "AMONG RATS",
+          "url": "https://amongrats.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1069230876026320/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "16.05.: MASTER (usa/cze) / TULSADOOM / INFEST (srb) / AMONG RATS u.a. @ Rohbau, Mehrnbach [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Rohbau"
+    },
+    "event_id": "42b97c84f68ac1424c5b",
+    "guid": "42b97c84f68ac1424c5b:2",
+    "kind": "changed",
+    "revision": 2
   }
 ]

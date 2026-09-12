@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:10:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: MASTER, TULSADOOM, INFEST, AMONG RATS – Mehrnbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42b97c84f68ac1424c5b-2</link>
+      <guid isPermaLink="false">42b97c84f68ac1424c5b:2</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2027-05-16 · Rohbau,  Mehrnbach · Oberösterreich · Line-up: MASTER · TULSADOOM · AMONG RATS → MASTER · TULSADOOM · INFEST · AMONG RATS</description>
+    </item>
+    <item>
+      <title>Neu: KILLED BY YOUTH, SPLITROOT, SHEEPFIELD – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5d2cbde4251951c8a432-1</link>
+      <guid isPermaLink="false">5d2cbde4251951c8a432:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-12 · Alter Schl8hof,  Wels · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: STONE SOBER, MYMYZEL – Ebensee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-361d4d53074a2daafcba-1</link>
+      <guid isPermaLink="false">361d4d53074a2daafcba:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-12 · Kino,  Ebensee · Oberösterreich · Line-up: STONE SOBER → STONE SOBER · MYMYZEL</description>
+    </item>
+    <item>
+      <title>Neu: LEETA – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f310c552ed0f7197fbd3-1</link>
+      <guid isPermaLink="false">f310c552ed0f7197fbd3:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-09-18 · Alter Schl8hof,  Wels · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: STREAMBLEED, AEONS OF ASHES, COLD DECEMBER, TREMBLING EARTH – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c9cea8d6b4d0f60f72aa-1</link>
+      <guid isPermaLink="false">c9cea8d6b4d0f60f72aa:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-10-09 · Alter Schl8hof,  Wels · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: PHAL:ANGST – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc5b48ccc80aaf453038-1</link>
+      <guid isPermaLink="false">bc5b48ccc80aaf453038:1</guid>
+      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
+      <description>2026-11-21 · Kapu,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: PONY PRACHT – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4348680bb4bdf740e37e-1</link>
