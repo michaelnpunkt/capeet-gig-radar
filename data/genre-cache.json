@@ -2295,6 +2295,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "desert lily": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "desolat": {
     "family": "Punk",
     "source": "lastfm",
@@ -2647,6 +2653,12 @@
     ]
   },
   "dukes of tijuana": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "duolia": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -3165,6 +3177,18 @@
   "fifth angel": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "fiio": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "filiah": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "final dose": {
@@ -3970,6 +3994,12 @@
       "Post-Punk"
     ]
   },
+  "hayden arp": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "hayfever": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -4273,6 +4303,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "human host body": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Crust Punk"
+    ]
+  },
   "humanity s last breath": {
     "family": "Metal",
     "source": "lastfm",
@@ -4280,6 +4318,12 @@
       "Deathcore",
       "Death Metal"
     ]
+  },
+  "humming people": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "hyperdog": {
     "family": "Punk",
@@ -4322,6 +4366,12 @@
   "iamx": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "ian fisher": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
   },
@@ -4672,6 +4722,12 @@
       "Death Metal",
       "Black Metal"
     ]
+  },
+  "jessie monk": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "jethro tull": {
     "family": "Rock",
@@ -5425,6 +5481,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "los bitchos": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "los fastidios": {
     "family": "Punk",
@@ -7309,6 +7371,14 @@
       "Industrial"
     ]
   },
+  "purple": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "r p c": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8186,6 +8256,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "soda gomorra": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "sodl": {
@@ -9962,6 +10038,12 @@
     ]
   },
   "velvet rush": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "velvet two stripes": {
+    "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []

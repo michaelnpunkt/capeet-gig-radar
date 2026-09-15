@@ -1,6 +1,525 @@
 {
-  "generated_at": "2026-09-14T07:54:38.676810+00:00",
+  "generated_at": "2026-09-15T07:45:44.711286+00:00",
   "revisions": [
+    {
+      "anchor": "change-9210e21479b5de658c57-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://jessiemonkmusic.com.au/",
+            "name": "Jessie Monk"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-15",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9210e21479b5de658c57",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "Jessie Monk",
+            "url": "https://jessiemonkmusic.com.au/"
+          }
+        ],
+        "postal_code": "1090",
+        "revision": 1,
+        "source_text": "15.09.: Jessie Monk (aus) @ Sternatelier, Pramergasse 5, 1090 Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Sternatelier, Pramergasse 5"
+      },
+      "event_id": "9210e21479b5de658c57",
+      "guid": "9210e21479b5de658c57:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0fbbf966baf64d41265c-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/thebandjeanny",
+            "name": "JEANNY"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/purpleunofficial/",
+            "name": "PURPLE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-19",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "0fbbf966baf64d41265c",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "JEANNY",
+            "url": "https://www.facebook.com/thebandjeanny"
+          },
+          {
+            "label": "PURPLE",
+            "url": "https://www.instagram.com/purpleunofficial/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/3208117256242928/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.09.: JEANNY / PURPLE @ The Loft, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "The Loft"
+      },
+      "event_id": "0fbbf966baf64d41265c",
+      "guid": "0fbbf966baf64d41265c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-842e83e7db85bf07c122-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.haydenarp.com/",
+            "name": "Hayden Arp"
+          },
+          {
+            "country": null,
+            "link": "https://ianfishersongs.com/",
+            "name": "Ian Fisher"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-26",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "842e83e7db85bf07c122",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "Hayden Arp",
+            "url": "https://www.haydenarp.com/"
+          },
+          {
+            "label": "Ian Fisher",
+            "url": "https://ianfishersongs.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1666689374406754/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.09.: Hayden Arp / Ian Fisher @ The Loft, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "The Loft"
+      },
+      "event_id": "842e83e7db85bf07c122",
+      "guid": "842e83e7db85bf07c122:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5d4df2a560496ebff24b-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://sodagomorra.bandcamp.com/",
+            "name": "SODA & GOMORRA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-03",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "5d4df2a560496ebff24b",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "SODA & GOMORRA",
+            "url": "https://sodagomorra.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.10.: SODA & GOMORRA @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "5d4df2a560496ebff24b",
+      "guid": "5d4df2a560496ebff24b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-93c69b333299c36cf2c7-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SLO",
+            "link": "https://humanhostbody.bandcamp.com/music",
+            "name": "HUMAN HOST BODY"
+          },
+          {
+            "country": null,
+            "link": "https://urbanmisery.bandcamp.com/",
+            "name": "URBAN MISERY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-08",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "93c69b333299c36cf2c7",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "HUMAN HOST BODY",
+            "url": "https://humanhostbody.bandcamp.com/music"
+          },
+          {
+            "label": "URBAN MISERY",
+            "url": "https://urbanmisery.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.10.: HUMAN HOST BODY (slo) / URBAN MISERY @ Wagenplatz Treibstoff, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Wagenplatz Treibstoff"
+      },
+      "event_id": "93c69b333299c36cf2c7",
+      "guid": "93c69b333299c36cf2c7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-cb17a84b14b7a0645293-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://desertlilych.bandcamp.com/music",
+            "name": "DESERT LILY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-20",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "cb17a84b14b7a0645293",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "DESERT LILY",
+            "url": "https://desertlilych.bandcamp.com/music"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.10.: DESERT LILY (ch) @ Loop, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Loop"
+      },
+      "event_id": "cb17a84b14b7a0645293",
+      "guid": "cb17a84b14b7a0645293:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9e0dd1f41c98961760e9-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/officialfiliah/",
+            "name": "Filiah"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/duoliamusic/",
+            "name": "DUOLIA."
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9e0dd1f41c98961760e9",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "Filiah",
+            "url": "https://www.facebook.com/officialfiliah/"
+          },
+          {
+            "label": "DUOLIA.",
+            "url": "https://www.instagram.com/duoliamusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1713362782989687"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: Filiah / DUOLIA. @ The Loft, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "The Loft"
+      },
+      "event_id": "9e0dd1f41c98961760e9",
+      "guid": "9e0dd1f41c98961760e9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7ed8aafbff9d54352f28-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/findetfiio/",
+            "name": "Fiio"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/humming.people/",
+            "name": "HUMMING PEOPLE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "7ed8aafbff9d54352f28",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "Fiio",
+            "url": "https://www.instagram.com/findetfiio/"
+          },
+          {
+            "label": "HUMMING PEOPLE",
+            "url": "https://www.instagram.com/humming.people/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4510736659159885"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: Fiio / HUMMING PEOPLE @ The Loft, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "The Loft"
+      },
+      "event_id": "7ed8aafbff9d54352f28",
+      "guid": "7ed8aafbff9d54352f28:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-22df66f7bbb2ddfd5c35-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://www.velvettwostripes.com/",
+            "name": "VELVET TWO STRIPES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Graz",
+        "event_date": "2027-01-22",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "22df66f7bbb2ddfd5c35",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "VELVET TWO STRIPES",
+            "url": "https://www.velvettwostripes.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/28235235766156806"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.01.: VELVET TWO STRIPES (ch) @ Music-House, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "22df66f7bbb2ddfd5c35",
+      "guid": "22df66f7bbb2ddfd5c35:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-383eef8d1147d60a0cf9-1",
+      "changes": {},
+      "detected_at": "2026-09-15T07:45:44.711286+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://losbitchos.bandcamp.com/",
+            "name": "LOS BITCHOS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-15T07:45:44.711286+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-21",
+        "first_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "383eef8d1147d60a0cf9",
+        "last_seen_at": "2026-09-15T07:45:44.711286+00:00",
+        "links": [
+          {
+            "label": "LOS BITCHOS",
+            "url": "https://losbitchos.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.02.: LOS BITCHOS (uk) @ Flex, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "383eef8d1147d60a0cf9",
+      "guid": "383eef8d1147d60a0cf9:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-42b97c84f68ac1424c5b-2",
       "changes": {

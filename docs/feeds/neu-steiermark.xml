@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: VELVET TWO STRIPES – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-22df66f7bbb2ddfd5c35-1</link>
+      <guid isPermaLink="false">22df66f7bbb2ddfd5c35:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2027-01-22 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: Giz Medium, BEEPKI – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-50a7e7c7eaf64f5b6ae3-1</link>

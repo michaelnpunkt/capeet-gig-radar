@@ -5,8 +5,78 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Jessie Monk – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9210e21479b5de658c57-1</link>
+      <guid isPermaLink="false">9210e21479b5de658c57:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-15 · Sternatelier, Pramergasse 5, 1090 Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: JEANNY, PURPLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0fbbf966baf64d41265c-1</link>
+      <guid isPermaLink="false">0fbbf966baf64d41265c:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-19 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Hayden Arp, Ian Fisher – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-842e83e7db85bf07c122-1</link>
+      <guid isPermaLink="false">842e83e7db85bf07c122:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-26 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SODA &amp; GOMORRA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5d4df2a560496ebff24b-1</link>
+      <guid isPermaLink="false">5d4df2a560496ebff24b:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-03 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HUMAN HOST BODY, URBAN MISERY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-93c69b333299c36cf2c7-1</link>
+      <guid isPermaLink="false">93c69b333299c36cf2c7:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-08 · Wagenplatz Treibstoff,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: DESERT LILY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb17a84b14b7a0645293-1</link>
+      <guid isPermaLink="false">cb17a84b14b7a0645293:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-20 · Loop,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Filiah, DUOLIA. – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9e0dd1f41c98961760e9-1</link>
+      <guid isPermaLink="false">9e0dd1f41c98961760e9:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-11-14 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Fiio, HUMMING PEOPLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ed8aafbff9d54352f28-1</link>
+      <guid isPermaLink="false">7ed8aafbff9d54352f28:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-11-21 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: VELVET TWO STRIPES – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-22df66f7bbb2ddfd5c35-1</link>
+      <guid isPermaLink="false">22df66f7bbb2ddfd5c35:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2027-01-22 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: LOS BITCHOS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-383eef8d1147d60a0cf9-1</link>
+      <guid isPermaLink="false">383eef8d1147d60a0cf9:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2027-02-21 · Flex,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: MASTER, TULSADOOM, INFEST, AMONG RATS – Mehrnbach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42b97c84f68ac1424c5b-2</link>
@@ -636,76 +706,6 @@
       <guid isPermaLink="false">a699b5768b2ffbcae94b:1</guid>
       <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
       <description>2026-09-26 · Rockhouse Bar,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: WEEDPECKER, LAZER, TIDERISER – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ba5072afa2db5b2a1473-1</link>
-      <guid isPermaLink="false">ba5072afa2db5b2a1473:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-09-30 · Rockhouse Bar,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: AIRCRAFT, PRETTY AVERAGE, GARLANDS, SNOUT FEVER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c605c9cca8aa1a5eab91-1</link>
-      <guid isPermaLink="false">c605c9cca8aa1a5eab91:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-03 · Secret Location,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BETWEEN THE BEASTS, BOY IN A PLASTIC BAG, I CAN'T – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dbf9cab6dbdbc2c4c7de-1</link>
-      <guid isPermaLink="false">dbf9cab6dbdbc2c4c7de:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-03 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: BELZEBONG – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-005934f6050b002a9a2b-1</link>
-      <guid isPermaLink="false">005934f6050b002a9a2b:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-08 · p.m.k.,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Geändert: FAINTEST IDEA, MIGHTY MAGGOTS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-02d0ddd9267157758b42-1</link>
-      <guid isPermaLink="false">02d0ddd9267157758b42:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-09 · Chelsea,  Wien · Wien · Line-up: FAINTEST IDEA → FAINTEST IDEA · MIGHTY MAGGOTS</description>
-    </item>
-    <item>
-      <title>Neu: G-TOWN JUSTICE, KOHMA, REALITY SHIFT – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48b297d8ee48e89514ec-1</link>
-      <guid isPermaLink="false">48b297d8ee48e89514ec:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-09 · Secret Location,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: KNOCKOUT CONCEPT, ENDLESS PARANOIA, LUPUS, LUCID DREAM – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3cc08aa0d79496df93d8-1</link>
-      <guid isPermaLink="false">3cc08aa0d79496df93d8:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-16 · Livestage,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: WANDAR, ULTIMA NECAT – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-593d1bc81a3d286f9ec1-1</link>
-      <guid isPermaLink="false">593d1bc81a3d286f9ec1:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-17 · Rockhouse Bar,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: GREYBACK, RE QUEST, ETERNALLY BLINDED – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7d41f89b983a7a0fb615-1</link>
-      <guid isPermaLink="false">7d41f89b983a7a0fb615:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-24 · Livestage,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: HIRAES, DRAGONY, COVENDEATH, NOPREACHERS – Deutschlandsberg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f817f967080604b9da3-1</link>
-      <guid isPermaLink="false">5f817f967080604b9da3:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-24 · Lassnitzhaus,  Deutschlandsberg · Steiermark</description>
     </item>
   </channel>
 </rss>

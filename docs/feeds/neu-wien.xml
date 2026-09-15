@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Jessie Monk – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9210e21479b5de658c57-1</link>
+      <guid isPermaLink="false">9210e21479b5de658c57:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-15 · Sternatelier, Pramergasse 5, 1090 Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: JEANNY, PURPLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0fbbf966baf64d41265c-1</link>
+      <guid isPermaLink="false">0fbbf966baf64d41265c:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-19 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Hayden Arp, Ian Fisher – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-842e83e7db85bf07c122-1</link>
+      <guid isPermaLink="false">842e83e7db85bf07c122:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-09-26 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SODA &amp; GOMORRA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5d4df2a560496ebff24b-1</link>
+      <guid isPermaLink="false">5d4df2a560496ebff24b:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-03 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HUMAN HOST BODY, URBAN MISERY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-93c69b333299c36cf2c7-1</link>
+      <guid isPermaLink="false">93c69b333299c36cf2c7:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-08 · Wagenplatz Treibstoff,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: DESERT LILY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb17a84b14b7a0645293-1</link>
+      <guid isPermaLink="false">cb17a84b14b7a0645293:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-10-20 · Loop,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Filiah, DUOLIA. – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9e0dd1f41c98961760e9-1</link>
+      <guid isPermaLink="false">9e0dd1f41c98961760e9:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-11-14 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Fiio, HUMMING PEOPLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ed8aafbff9d54352f28-1</link>
+      <guid isPermaLink="false">7ed8aafbff9d54352f28:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2026-11-21 · The Loft,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LOS BITCHOS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-383eef8d1147d60a0cf9-1</link>
+      <guid isPermaLink="false">383eef8d1147d60a0cf9:1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
+      <description>2027-02-21 · Flex,  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: ABSENT FROM THE MORNING HEADCOUNT, ITOOKHISEYES, ECCCO – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-55be6e9dc683403ea855-1</link>
@@ -643,69 +706,6 @@
       <guid isPermaLink="false">b34dd3d78133a30ca053:1</guid>
       <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
       <description>2026-09-18 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DELI GIRLS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a83104b71f398742439e-1</link>
-      <guid isPermaLink="false">a83104b71f398742439e:1</guid>
-      <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
-      <description>2026-10-06 · Flucc,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: ZAPPZARAPP, VEZZ III – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0767df284932f7e60103-2</link>
-      <guid isPermaLink="false">0767df284932f7e60103:2</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-11 · Kramladen,  Wien · Wien · Line-up: VEZZ III · ZAPPZARAPP → ZAPPZARAPP · VEZZ III</description>
-    </item>
-    <item>
-      <title>Neu: PAPANGU, BIPOLAR PENGUINS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2ec15e23ff5bbbf0a3e6-1</link>
-      <guid isPermaLink="false">2ec15e23ff5bbbf0a3e6:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-02 · TüWi,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DISTRACTION4EVER, ENNS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2957eb04fefa71c3b69d-1</link>
-      <guid isPermaLink="false">2957eb04fefa71c3b69d:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-09 · Das Lot,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: GOB, ANTI-KONTRA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4f68d195e1f6b672fc24-1</link>
-      <guid isPermaLink="false">4f68d195e1f6b672fc24:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-09 · Chelsea,  Wien · Wien · Line-up: GOB → GOB · ANTI-KONTRA</description>
-    </item>
-    <item>
-      <title>Neu: SOLO ONO – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-03564a8bd6bf24e10cc3-1</link>
-      <guid isPermaLink="false">03564a8bd6bf24e10cc3:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-19 · rhiz,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: CATASTROPHY, LOS FLIXS, OBSOLETE ORDER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ebc3eb39103b3a8fa37c-1</link>
-      <guid isPermaLink="false">ebc3eb39103b3a8fa37c:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-25 · Spitzer,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: GETCHOO, ORANGE PEEL HER, GOOD COP – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d9d216560886ded40936-1</link>
-      <guid isPermaLink="false">d9d216560886ded40936:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-09-29 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Abgesagt: ALPHA WOLF, PSYCHO-FRAME, FOX LAKE, DIAMOND CONSTRUCT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c574e8150ec79dbb8a5c-1</link>
-      <guid isPermaLink="false">c574e8150ec79dbb8a5c:1</guid>
-      <pubDate>Tue, 01 Sep 2026 07:49:53 +0000</pubDate>
-      <description>2026-10-28 · Flex,  Wien · Wien · Status: angekündigt → abgesagt</description>
     </item>
   </channel>
 </rss>
