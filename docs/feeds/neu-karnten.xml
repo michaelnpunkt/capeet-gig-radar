@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:42:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: GUYOÐ, BLIGHTBRINGER, WAR.GOAT.RITES – St. Veit an der Glan</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5e22d86db0670f4e0fc4-2</link>
+      <guid isPermaLink="false">5e22d86db0670f4e0fc4:2</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-10-17 · Mühle,  St. Veit an der Glan · Kärnten · Line-up: GUYOÐ · BLIGHTBRINGER → GUYOÐ · BLIGHTBRINGER · WAR.GOAT.RITES</description>
+    </item>
+    <item>
+      <title>Neu: ENSANGUINATE, BALBERSKULT, DRAUGR, EXHUMINATED – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8d252734fe11280d1273-1</link>
+      <guid isPermaLink="false">8d252734fe11280d1273:1</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-10-24 · Kwadrat,  Klagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Neu: GISCHT, SUBLETVIS, T.R.A.S.H. – St. Veit an der Glan</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-508c4d8b8c1f47d17440-1</link>

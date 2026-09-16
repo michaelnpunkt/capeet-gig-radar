@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:42:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: Die VERLIERER, STUHLKREIS, SCAMPI BUMP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d224d80ecce549f1cc64-1</link>
+      <guid isPermaLink="false">d224d80ecce549f1cc64:1</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-10-16 · Music-House,  Graz · Steiermark · Line-up: Die VERLIERER → Die VERLIERER · STUHLKREIS · SCAMPI BUMP</description>
+    </item>
+    <item>
+      <title>Neu: The MAGIC I.D. – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-97a438164b4ab8dc6b27-1</link>
+      <guid isPermaLink="false">97a438164b4ab8dc6b27:1</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-11-05 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: VELVET TWO STRIPES – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-22df66f7bbb2ddfd5c35-1</link>

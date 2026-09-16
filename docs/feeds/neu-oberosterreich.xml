@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:42:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SUNSTAIN, HEADRAWKERS – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-82a90ee219af5fe70183-1</link>
+      <guid isPermaLink="false">82a90ee219af5fe70183:1</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-09-26 · Black Horse Inn,  Wels · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: PALM BEACH DRIVE, BRASSKARAMBOLAGE – Weyer</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f095afc127291e576cb-1</link>
+      <guid isPermaLink="false">5f095afc127291e576cb:1</guid>
+      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
+      <description>2026-12-18 · Bertholdsaal,  Weyer · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: MASTER, TULSADOOM, INFEST, AMONG RATS – Mehrnbach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42b97c84f68ac1424c5b-2</link>
