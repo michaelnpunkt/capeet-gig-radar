@@ -1,6 +1,810 @@
 {
-  "generated_at": "2026-09-16T07:42:17.993766+00:00",
+  "generated_at": "2026-09-17T07:41:07.972715+00:00",
   "revisions": [
+    {
+      "anchor": "change-2aa9d36836133e479d44-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "Die VERLIERER"
+            }
+          ],
+          "to": [
+            {
+              "name": "Die VERLIERER"
+            },
+            {
+              "name": "STUHLKREIS"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://dieverlierer.bandcamp.com/",
+            "name": "Die VERLIERER"
+          },
+          {
+            "country": null,
+            "link": "https://stuhlkreis.bandcamp.com/",
+            "name": "STUHLKREIS"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-15",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "2aa9d36836133e479d44",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "Die VERLIERER",
+            "url": "https://dieverlierer.bandcamp.com/"
+          },
+          {
+            "label": "STUHLKREIS",
+            "url": "https://stuhlkreis.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "15.10.: Die VERLIERER (d) / STUHLKREIS @ Flucc Wanne, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc Wanne"
+      },
+      "event_id": "2aa9d36836133e479d44",
+      "guid": "2aa9d36836133e479d44:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-ce6ff0f7430b3a9b9d9a-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The DARTS"
+            }
+          ],
+          "to": [
+            {
+              "name": "The DARTS"
+            },
+            {
+              "name": "TOPSY TURVY"
+            }
+          ]
+        },
+        "title": {
+          "from": null,
+          "to": "Voodoo Hop"
+        }
+      },
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://thedartsus.bandcamp.com/music",
+            "name": "The DARTS"
+          },
+          {
+            "country": null,
+            "link": "https://topsyturvyvienna.bandcamp.com/",
+            "name": "TOPSY TURVY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-09-08T07:15:33.919002+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ce6ff0f7430b3a9b9d9a",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "The DARTS",
+            "url": "https://thedartsus.bandcamp.com/music"
+          },
+          {
+            "label": "TOPSY TURVY",
+            "url": "https://topsyturvyvienna.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1363855902176244/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "13.11.: Voodoo Hop feat. The DARTS (usa) / TOPSY TURVY @ B72, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Voodoo Hop",
+        "venue": "B72"
+      },
+      "event_id": "ce6ff0f7430b3a9b9d9a",
+      "guid": "ce6ff0f7430b3a9b9d9a:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-dabbb278d2c32b480587-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://madamepsychosis1.bandcamp.com/",
+            "name": "MME PSYCHOSIS"
+          },
+          {
+            "country": null,
+            "link": "https://1000amen.bandcamp.com/album/ora-et-labora-2",
+            "name": "ORA ET LABORA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-25",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "dabbb278d2c32b480587",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "MME PSYCHOSIS",
+            "url": "https://madamepsychosis1.bandcamp.com/"
+          },
+          {
+            "label": "ORA ET LABORA",
+            "url": "https://1000amen.bandcamp.com/album/ora-et-labora-2"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1883775362827918/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.09.: Sniffin' Glue feat. MME PSYCHOSIS / ORA ET LABORA @ Flucc, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Sniffin' Glue",
+        "venue": "Flucc"
+      },
+      "event_id": "dabbb278d2c32b480587",
+      "guid": "dabbb278d2c32b480587:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1f33df71e430c4abda9d-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://jetztwerdichdumm.bandcamp.com/",
+            "name": "JETZT WERD ICH DUMM"
+          },
+          {
+            "country": "D",
+            "link": "https://thebroom.bandcamp.com/",
+            "name": "The BROOM"
+          },
+          {
+            "country": null,
+            "link": "https://beepki.bandcamp.com/",
+            "name": "BEEPKI"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-09-26",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1f33df71e430c4abda9d",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "JETZT WERD ICH DUMM",
+            "url": "https://jetztwerdichdumm.bandcamp.com/"
+          },
+          {
+            "label": "The BROOM",
+            "url": "https://thebroom.bandcamp.com/"
+          },
+          {
+            "label": "BEEPKI",
+            "url": "https://beepki.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.09.: DIY Punk Beisl feat. JETZT WERD ICH DUMM (d) / The BROOM (d) / BEEPKI @ Secret Location, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "DIY Punk Beisl",
+        "venue": "Secret Location"
+      },
+      "event_id": "1f33df71e430c4abda9d",
+      "guid": "1f33df71e430c4abda9d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a9abd6c4c7d5a65fa7f7-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/mt__signal/",
+            "name": "MT SIGNAL"
+          },
+          {
+            "country": "HUN",
+            "link": "https://www.instagram.com/lyndband/",
+            "name": "LYND"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/pilotjr/",
+            "name": "PILOT JR."
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-08",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "a9abd6c4c7d5a65fa7f7",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "MT SIGNAL",
+            "url": "https://www.instagram.com/mt__signal/"
+          },
+          {
+            "label": "LYND",
+            "url": "https://www.instagram.com/lyndband/"
+          },
+          {
+            "label": "PILOT JR.",
+            "url": "https://www.facebook.com/pilotjr/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://flucc.at/events/ZbfQ24-dream-pop-post-rock-abend/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.10.: MT SIGNAL / LYND (hun) / PILOT JR. @ Flucc, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc"
+      },
+      "event_id": "a9abd6c4c7d5a65fa7f7",
+      "guid": "a9abd6c4c7d5a65fa7f7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ddad4e657eb8f47686bf-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://scottheppleandthesunband.bandcamp.com/",
+            "name": "Scott Hepple & The SUN BAND"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/portia.trips/",
+            "name": "PORTIA"
+          },
+          {
+            "country": null,
+            "link": "https://liquidearth.bandcamp.com/",
+            "name": "LIQUID EARTH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Scheibbs",
+        "event_date": "2026-10-10",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ddad4e657eb8f47686bf",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "Scott Hepple & The SUN BAND",
+            "url": "https://scottheppleandthesunband.bandcamp.com/"
+          },
+          {
+            "label": "PORTIA",
+            "url": "https://www.instagram.com/portia.trips/"
+          },
+          {
+            "label": "LIQUID EARTH",
+            "url": "https://liquidearth.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.10.: Scott Hepple & The SUN BAND (uk) / PORTIA / LIQUID EARTH @ Proberaum, Scheibbs",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Proberaum"
+      },
+      "event_id": "ddad4e657eb8f47686bf",
+      "guid": "ddad4e657eb8f47686bf:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-dfe2a91f1ba805d7c611-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/cassiesband",
+            "name": "CASSIES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-29",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "dfe2a91f1ba805d7c611",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "CASSIES",
+            "url": "https://www.instagram.com/cassiesband"
+          },
+          {
+            "label": "[web]",
+            "url": "https://flucc.at/events/HmxHiT-cassies-album-release-konzert/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.10.: CASSIES @ Flucc, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc"
+      },
+      "event_id": "dfe2a91f1ba805d7c611",
+      "guid": "dfe2a91f1ba805d7c611:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5578bb06f5decc401ad4-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS/NZL",
+            "link": "https://thespktr.org/",
+            "name": "The SPKtR"
+          },
+          {
+            "country": "AUS",
+            "link": "https://www.facebook.com/robertjrevell/",
+            "name": "RObert J. Revell"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-16",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "5578bb06f5decc401ad4",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "The SPKtR",
+            "url": "https://thespktr.org/"
+          },
+          {
+            "label": "RObert J. Revell",
+            "url": "https://www.facebook.com/robertjrevell/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1462451939243234"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.11.: The SPKtR (aus/nzl) / RObert J. Revell (aus) @ Viper Room, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "5578bb06f5decc401ad4",
+      "guid": "5578bb06f5decc401ad4:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-82258733c0883f7334c3-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/superfertig/",
+            "name": "BEAKS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "82258733c0883f7334c3",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "BEAKS",
+            "url": "https://www.instagram.com/superfertig/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1003543422702953/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: BEAKS @ Kaorle OWA, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "82258733c0883f7334c3",
+      "guid": "82258733c0883f7334c3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-69d7de0b6c21eb48e53f-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/painoftruthhc/",
+            "name": "PAIN OF TRUTH"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/bigboyrealbayshit/",
+            "name": "BIG BOY"
+          },
+          {
+            "country": "FRA",
+            "link": "https://headbussa.bandcamp.com/",
+            "name": "HEADBUSSA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-10",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "69d7de0b6c21eb48e53f",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "PAIN OF TRUTH",
+            "url": "https://www.facebook.com/painoftruthhc/"
+          },
+          {
+            "label": "BIG BOY",
+            "url": "https://www.instagram.com/bigboyrealbayshit/"
+          },
+          {
+            "label": "HEADBUSSA",
+            "url": "https://headbussa.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1074703135529860/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.02.: PAIN OF TRUTH (usa) / BIG BOY (usa) / HEADBUSSA (fra) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "69d7de0b6c21eb48e53f",
+      "guid": "69d7de0b6c21eb48e53f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f153341bfdca609b285e-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://almostmonday.com/",
+            "name": "ALMOST MONDAY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "f153341bfdca609b285e",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "ALMOST MONDAY",
+            "url": "https://almostmonday.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/3602789643224027"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: ALMOST MONDAY (usa) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "f153341bfdca609b285e",
+      "guid": "f153341bfdca609b285e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a61d519cc3fe69584d05-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.frozensoultx.com/",
+            "name": "FROZEN SOUL"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/DarkestHourDudes/",
+            "name": "DARKEST HOUR"
+          },
+          {
+            "country": "USA",
+            "link": "https://denialoflife.bandcamp.com/",
+            "name": "DENIAL OF LIFE"
+          },
+          {
+            "country": "D",
+            "link": "https://dethronedfm.bandcamp.com/",
+            "name": "DETHRONED"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-16",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "a61d519cc3fe69584d05",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "FROZEN SOUL",
+            "url": "https://www.frozensoultx.com/"
+          },
+          {
+            "label": "DARKEST HOUR",
+            "url": "https://www.facebook.com/DarkestHourDudes/"
+          },
+          {
+            "label": "DENIAL OF LIFE",
+            "url": "https://denialoflife.bandcamp.com/"
+          },
+          {
+            "label": "DETHRONED",
+            "url": "https://dethronedfm.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4636328893360819/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.02.: FROZEN SOUL (usa) / DARKEST HOUR (usa) / DENIAL OF LIFE (usa) / DETHRONED (d) @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "a61d519cc3fe69584d05",
+      "guid": "a61d519cc3fe69584d05:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-64514c13825514d0e40a-1",
+      "changes": {},
+      "detected_at": "2026-09-17T07:41:07.972715+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH/UK",
+            "link": "https://lebanonhanover.bandcamp.com/",
+            "name": "LEBANON HANOVER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-17T07:41:07.972715+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-03",
+        "first_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "64514c13825514d0e40a",
+        "last_seen_at": "2026-09-17T07:41:07.972715+00:00",
+        "links": [
+          {
+            "label": "LEBANON HANOVER",
+            "url": "https://lebanonhanover.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2301316970668000"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.03.: LEBANON HANOVER (ch/uk) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "64514c13825514d0e40a",
+      "guid": "64514c13825514d0e40a:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-25c23fa0371b1f338423-2",
       "changes": {

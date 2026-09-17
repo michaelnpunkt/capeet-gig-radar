@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:42:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:41:07 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Scott Hepple &amp; The SUN BAND, PORTIA, LIQUID EARTH – Scheibbs</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ddad4e657eb8f47686bf-1</link>
+      <guid isPermaLink="false">ddad4e657eb8f47686bf:1</guid>
+      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
+      <description>2026-10-10 · Proberaum,  Scheibbs · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: UNHOLY OBSCURITY, GRÜMPHRÖ – Scheibbs</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b15d477dceb2e874ec1b-1</link>

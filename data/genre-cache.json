@@ -359,6 +359,12 @@
       "Metalcore"
     ]
   },
+  "almost monday": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "alpha wolf": {
     "family": "Metal",
     "source": "lastfm",
@@ -943,6 +949,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "beaks": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "beartooth": {
     "family": "Metal",
     "source": "lastfm",
@@ -1054,6 +1066,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "big boy": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
   },
   "bikini beach": {
     "family": "Punk",
@@ -1508,6 +1528,12 @@
   "cassia": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "cassies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "cassyette": {
@@ -2076,6 +2102,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "darkest hour": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Death Metal"
+    ]
+  },
   "darkfall": {
     "family": "Metal",
     "source": "lastfm",
@@ -2292,6 +2327,15 @@
       "Death Metal"
     ]
   },
+  "denial of life": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Thrash Metal"
+    ]
+  },
   "denim": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -2341,6 +2385,16 @@
       "Deathcore",
       "Metalcore",
       "Grindcore"
+    ]
+  },
+  "dethroned": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Death Metal",
+      "Black Metal"
     ]
   },
   "detlef": {
@@ -3489,6 +3543,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "frozen soul": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "fuji ta": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4101,6 +4163,12 @@
     "subgenres": []
   },
   "haywire": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "headbussa": {
     "classifier_version": 2,
     "family": "Hardcore",
     "source": "lastfm",
@@ -4834,6 +4902,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "jetzt werd ich dumm": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "jinjer": {
     "family": "Metal",
     "source": "lastfm",
@@ -5371,6 +5445,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lebanon hanover": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "leber": {
     "classifier_version": 2,
     "family": "Punk",
@@ -5520,6 +5602,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "liquid earth": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "lisa obereder": {
@@ -5750,6 +5838,12 @@
     "subgenres": []
   },
   "lyink": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "lynd": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6261,6 +6355,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "mme psychosis": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "mocca chung": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -6410,6 +6510,12 @@
     "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "mt signal": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "muff potter": {
@@ -6899,6 +7005,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "ora et labora": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "orange peel her": {
     "classifier_version": 2,
     "family": "Punk",
@@ -7035,6 +7147,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "pain of truth": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
   },
   "painted desert": {
     "classifier_version": 2,
@@ -7201,6 +7319,12 @@
     "subgenres": []
   },
   "pigeon boys": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "pilot jr": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -7717,6 +7841,12 @@
     ]
   },
   "ricky rat": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "robert j revell": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9605,6 +9735,14 @@
     "subgenres": [
       "Death Metal",
       "Black Metal"
+    ]
+  },
+  "the spktr": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
     ]
   },
   "the suicide machines": {
