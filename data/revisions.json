@@ -24945,5 +24945,272 @@
     "guid": "64514c13825514d0e40a:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-18T07:24:51.635437+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BRA",
+          "link": "https://hellpoison.bandcamp.com/",
+          "name": "HELL POISON"
+        },
+        {
+          "country": "D",
+          "link": "https://exxecutorspeed.bandcamp.com/",
+          "name": "EXXECUTOR"
+        },
+        {
+          "country": "ITA",
+          "link": "https://lasquadrademolizioni.bandcamp.com/",
+          "name": "L.S.D."
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-18T07:24:51.635437+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-09-18T07:24:51.635437+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "bdc7c65607d4723ec8cb",
+      "last_seen_at": "2026-09-18T07:24:51.635437+00:00",
+      "links": [
+        {
+          "label": "HELL POISON",
+          "url": "https://hellpoison.bandcamp.com/"
+        },
+        {
+          "label": "EXXECUTOR",
+          "url": "https://exxecutorspeed.bandcamp.com/"
+        },
+        {
+          "label": "L.S.D.",
+          "url": "https://lasquadrademolizioni.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: HELL POISON (bra) / EXXECUTOR (d) / L.S.D. (ita) @ Escape, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "bdc7c65607d4723ec8cb",
+    "guid": "bdc7c65607d4723ec8cb:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "HENGE"
+          }
+        ],
+        "to": [
+          {
+            "name": "HENGE"
+          },
+          {
+            "name": "TOPSY TURVY"
+          },
+          {
+            "name": "Kæry Ann"
+          },
+          {
+            "name": "BRAK"
+          },
+          {
+            "name": "SUNTAN CLUB"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-18T07:24:51.635437+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://hengemusic.bandcamp.com/music",
+          "name": "HENGE"
+        },
+        {
+          "country": null,
+          "link": "https://topsyturvyvienna.bandcamp.com/",
+          "name": "TOPSY TURVY"
+        },
+        {
+          "country": "ITA",
+          "link": "https://www.facebook.com/kaeryann",
+          "name": "Kæry Ann"
+        },
+        {
+          "country": "D",
+          "link": "https://br4k.bandcamp.com/",
+          "name": "BRAK"
+        },
+        {
+          "country": null,
+          "link": "https://suntanclub.bandcamp.com/",
+          "name": "SUNTAN CLUB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-18T07:24:51.635437+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-22",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3b3be4f3f74fe404af60",
+      "last_seen_at": "2026-09-18T07:24:51.635437+00:00",
+      "links": [
+        {
+          "label": "HENGE",
+          "url": "https://hengemusic.bandcamp.com/music"
+        },
+        {
+          "label": "TOPSY TURVY",
+          "url": "https://topsyturvyvienna.bandcamp.com/"
+        },
+        {
+          "label": "Kæry Ann",
+          "url": "https://www.facebook.com/kaeryann"
+        },
+        {
+          "label": "BRAK",
+          "url": "https://br4k.bandcamp.com/"
+        },
+        {
+          "label": "SUNTAN CLUB",
+          "url": "https://suntanclub.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1980516139290263"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "22.01.: Dragged Into Bliss feat. HENGE (uk) / TOPSY TURVY / Kæry Ann (ita) / BRAK (d) / SUNTAN CLUB @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "Dragged Into Bliss",
+      "venue": "Viper Room"
+    },
+    "event_id": "3b3be4f3f74fe404af60",
+    "guid": "3b3be4f3f74fe404af60:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The BLACK WIZARDS"
+          }
+        ],
+        "to": [
+          {
+            "name": "The BLACK WIZARDS"
+          },
+          {
+            "name": "SPECK"
+          },
+          {
+            "name": "TODESSTERN"
+          },
+          {
+            "name": "ZAPPZARAPP"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-18T07:24:51.635437+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "POR",
+          "link": "https://theblackwizards.bandcamp.com/",
+          "name": "The BLACK WIZARDS"
+        },
+        {
+          "country": null,
+          "link": "https://speckspeckspeck.bandcamp.com/",
+          "name": "SPECK"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/TodessternTheBand/",
+          "name": "TODESSTERN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/zappzarapp_gmbh/",
+          "name": "ZAPPZARAPP"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-18T07:24:51.635437+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-23",
+      "first_seen_at": "2026-09-01T07:49:53.893741+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c37f31e929ce3901eeb2",
+      "last_seen_at": "2026-09-18T07:24:51.635437+00:00",
+      "links": [
+        {
+          "label": "The BLACK WIZARDS",
+          "url": "https://theblackwizards.bandcamp.com/"
+        },
+        {
+          "label": "SPECK",
+          "url": "https://speckspeckspeck.bandcamp.com/"
+        },
+        {
+          "label": "TODESSTERN",
+          "url": "https://www.facebook.com/TodessternTheBand/"
+        },
+        {
+          "label": "ZAPPZARAPP",
+          "url": "https://www.instagram.com/zappzarapp_gmbh/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1980516139290263"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "23.01.: Dragged Into Bliss feat. The BLACK WIZARDS (por) / SPECK / TODESSTERN / ZAPPZARAPP u.a. @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "Dragged Into Bliss",
+      "venue": "Viper Room"
+    },
+    "event_id": "c37f31e929ce3901eeb2",
+    "guid": "c37f31e929ce3901eeb2:2",
+    "kind": "changed",
+    "revision": 2
   }
 ]

@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:24:51 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: HENGE, TOPSY TURVY, Kæry Ann, BRAK, SUNTAN CLUB – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3b3be4f3f74fe404af60-2</link>
+      <guid isPermaLink="false">3b3be4f3f74fe404af60:2</guid>
+      <pubDate>Fri, 18 Sep 2026 07:24:51 +0000</pubDate>
+      <description>2027-01-22 · Viper Room,  Wien · Wien · Line-up: HENGE → HENGE · TOPSY TURVY · Kæry Ann · BRAK · SUNTAN CLUB</description>
+    </item>
+    <item>
+      <title>Geändert: The BLACK WIZARDS, SPECK, TODESSTERN, ZAPPZARAPP – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c37f31e929ce3901eeb2-2</link>
+      <guid isPermaLink="false">c37f31e929ce3901eeb2:2</guid>
+      <pubDate>Fri, 18 Sep 2026 07:24:51 +0000</pubDate>
+      <description>2027-01-23 · Viper Room,  Wien · Wien · Line-up: The BLACK WIZARDS → The BLACK WIZARDS · SPECK · TODESSTERN · ZAPPZARAPP</description>
+    </item>
+    <item>
+      <title>Neu: HELL POISON, EXXECUTOR, L.S.D. – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bdc7c65607d4723ec8cb-1</link>
+      <guid isPermaLink="false">bdc7c65607d4723ec8cb:1</guid>
+      <pubDate>Fri, 18 Sep 2026 07:24:51 +0000</pubDate>
+      <description>2026-10-08 · Escape,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: Die VERLIERER, STUHLKREIS – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2aa9d36836133e479d44-2</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">45fed300a989449cffd1:1</guid>
       <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
       <description>2026-09-25 · Loop,  Wien · Wien · Line-up: WOKE → WOKE · JÆSMINE</description>
-    </item>
-    <item>
-      <title>Neu: GSPUSI, ELECTRICLEONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-95ad1ae5ef7fa199bb38-1</link>
-      <guid isPermaLink="false">95ad1ae5ef7fa199bb38:1</guid>
-      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
-      <description>2026-09-26 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Abgesagt: Emma Harner – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ac96818f7340256e1da5-1</link>
-      <guid isPermaLink="false">ac96818f7340256e1da5:1</guid>
-      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
-      <description>2026-09-29 · Lucia,  Wien · Wien · Status: angekündigt → abgesagt</description>
-    </item>
-    <item>
-      <title>Neu: NIEMALS, Pamo – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-44f809f66439ee898f10-1</link>
-      <guid isPermaLink="false">44f809f66439ee898f10:1</guid>
-      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
-      <description>2026-10-02 · Replugged,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

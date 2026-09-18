@@ -1352,6 +1352,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "brak": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "brasskarambolage": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5272,6 +5278,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "kry ann": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "kuenring": {
     "family": "Metal",
     "source": "lastfm",
@@ -5305,6 +5319,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "l s d": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
   },
   "lacrimas profundere": {
     "family": "Metal",
@@ -8697,6 +8719,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "speck": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
   },
   "speedway": {
     "classifier_version": 2,
