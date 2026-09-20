@@ -381,6 +381,14 @@
       "Death Metal"
     ]
   },
+  "altar of oblivion": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "altin gun": {
     "family": "Rock",
     "source": "lastfm",
@@ -604,6 +612,12 @@
     "classifier_version": 2,
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "arcane structures": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "arcane veil": {
@@ -1078,6 +1092,12 @@
   "bikini beach": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "bilch": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "binary boy": {
@@ -1782,6 +1802,12 @@
       "Doom Metal",
       "Sludge Metal"
     ]
+  },
+  "coma": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "comaniac": {
     "classifier_version": 2,
@@ -3221,6 +3247,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "fall into dry lungs": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "fangus": {
     "family": "Metal",
     "source": "lastfm",
@@ -3652,6 +3684,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "gert": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "get the shot": {
     "family": "Hardcore",
@@ -4537,6 +4575,12 @@
       "Hardcore Punk"
     ]
   },
+  "i w n b p t q d t l e": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "iamx": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
@@ -4715,6 +4759,12 @@
     "subgenres": []
   },
   "insominum": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "institut fur schattenarbeit": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4914,6 +4964,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "jigsaw beggars": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "jinjer": {
     "family": "Metal",
     "source": "lastfm",
@@ -4929,6 +4985,12 @@
   },
   "jon mckiel": {
     "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "jopa": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
   },
@@ -5076,6 +5138,12 @@
   "killer": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "killer whales": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "kim dracula": {
@@ -5529,6 +5597,14 @@
     "source": "lastfm",
     "subgenres": [
       "Ska Punk"
+    ]
+  },
+  "levin goes lightly": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
     ]
   },
   "lex candy": {
@@ -6717,6 +6793,12 @@
       "Sludge Metal"
     ]
   },
+  "neuer deutscher acid": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "neunundneunzig": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7058,6 +7140,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "orbital hotel": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "orthodox": {
     "family": "Metal",
@@ -7826,6 +7914,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "reunion gate": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "revengin": {
     "classifier_version": 2,
     "family": "Metal",
@@ -7944,6 +8038,12 @@
     "subgenres": []
   },
   "rusty railgun": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "rylinso": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 07:44:57 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: KENNY KENNY OH OH, BILCH – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1fb612394672f15037b3-2</link>
+      <guid isPermaLink="false">1fb612394672f15037b3:2</guid>
+      <pubDate>Sun, 20 Sep 2026 07:44:57 +0000</pubDate>
+      <description>2026-10-24 · Galerie 5020,  Salzburg · Salzburg · Line-up: KENNY KENNY OH OH → KENNY KENNY OH OH · BILCH</description>
+    </item>
     <item>
       <title>Neu: KREISKY – Seekirchen am Wallersee</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-057169592e0850726428-1</link>

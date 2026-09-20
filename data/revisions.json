@@ -25212,5 +25212,673 @@
     "guid": "c37f31e929ce3901eeb2:2",
     "kind": "changed",
     "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SMILE"
+          },
+          {
+            "name": "The HOMESICK"
+          },
+          {
+            "name": "Brezel Göring"
+          },
+          {
+            "name": "DOC FLIPPERS"
+          },
+          {
+            "name": "GEO"
+          }
+        ],
+        "to": [
+          {
+            "name": "The HOMESICK"
+          },
+          {
+            "name": "Brezel Göring"
+          },
+          {
+            "name": "SMILE"
+          },
+          {
+            "name": "DOC FLIPPERS"
+          },
+          {
+            "name": "GEO"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NED",
+          "link": "https://thehomesick.bandcamp.com/",
+          "name": "The HOMESICK"
+        },
+        {
+          "country": "D",
+          "link": "https://brezelgoering.bandcamp.com/",
+          "name": "Brezel Göring"
+        },
+        {
+          "country": "D",
+          "link": "https://bandofsmiles.bandcamp.com/",
+          "name": "SMILE"
+        },
+        {
+          "country": "D",
+          "link": "https://docflippers.bandcamp.com/",
+          "name": "DOC FLIPPERS"
+        },
+        {
+          "country": "NED",
+          "link": "https://geoband.bandcamp.com/",
+          "name": "GEO"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-19",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "27c01db1c79250869adf",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "The HOMESICK",
+          "url": "https://thehomesick.bandcamp.com/"
+        },
+        {
+          "label": "Brezel Göring",
+          "url": "https://brezelgoering.bandcamp.com/"
+        },
+        {
+          "label": "SMILE",
+          "url": "https://bandofsmiles.bandcamp.com/"
+        },
+        {
+          "label": "DOC FLIPPERS",
+          "url": "https://docflippers.bandcamp.com/"
+        },
+        {
+          "label": "GEO",
+          "url": "https://geoband.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kollektiv-kaorle.at/de/events/plum"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: PLUM! feat. The HOMESICK (ned) / Brezel Göring (d) / SMILE (d) / DOC FLIPPERS (d) / GEO (ned) u.a. @ Kaorle OWA, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "PLUM!",
+      "venue": "Kaorle OWA"
+    },
+    "event_id": "27c01db1c79250869adf",
+    "guid": "27c01db1c79250869adf:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": null,
+          "name": "COMA."
+        },
+        {
+          "country": null,
+          "link": "https://fallintodrylungs.bandcamp.com/",
+          "name": "FALL INTO DRY LUNGS"
+        },
+        {
+          "country": null,
+          "link": "https://lunareclipsevorarlberg.bandcamp.com/",
+          "name": "I.W.N.B.P.T.Q.D.T.L.E."
+        },
+        {
+          "country": null,
+          "link": "https://soundcloud.com/rylinso",
+          "name": "RYLINSO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "2eb2d435786d48b19a52",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "FALL INTO DRY LUNGS",
+          "url": "https://fallintodrylungs.bandcamp.com/"
+        },
+        {
+          "label": "I.W.N.B.P.T.Q.D.T.L.E.",
+          "url": "https://lunareclipsevorarlberg.bandcamp.com/"
+        },
+        {
+          "label": "RYLINSO",
+          "url": "https://soundcloud.com/rylinso"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: COMA. / FALL INTO DRY LUNGS / I.W.N.B.P.T.Q.D.T.L.E. / RYLINSO @ Einbaumöbel, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Einbaumöbel"
+    },
+    "event_id": "2eb2d435786d48b19a52",
+    "guid": "2eb2d435786d48b19a52:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://levingoeslightly.bandcamp.com/",
+          "name": "LEVIN GOES LIGHTLY"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "INSTITUT FÜR SCHATTENARBEIT"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/neuerdeutscheracid/",
+          "name": "NEUER DEUTSCHER ACID"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-25",
+      "first_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "4418be3b2672c7d6ae77",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "LEVIN GOES LIGHTLY",
+          "url": "https://levingoeslightly.bandcamp.com/"
+        },
+        {
+          "label": "NEUER DEUTSCHER ACID",
+          "url": "https://www.instagram.com/neuerdeutscheracid/"
+        },
+        {
+          "label": "[ra]",
+          "url": "https://de.ra.co/events/2538536"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.09.: LEVIN GOES LIGHTLY (d) / INSTITUT FÜR SCHATTENARBEIT / NEUER DEUTSCHER ACID (d) @ Funkhaus, Wien [ra]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Funkhaus"
+    },
+    "event_id": "4418be3b2672c7d6ae77",
+    "guid": "4418be3b2672c7d6ae77:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "http://www.paradeiser.band/",
+          "name": "PARADEISER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/jopa.diesehrguteband/",
+          "name": "JOPA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "b3d60319c84e9724eb1a",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "PARADEISER",
+          "url": "http://www.paradeiser.band/"
+        },
+        {
+          "label": "JOPA",
+          "url": "https://www.instagram.com/jopa.diesehrguteband/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: PARADEISER / JOPA @ Einbaumöbel, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Einbaumöbel"
+    },
+    "event_id": "b3d60319c84e9724eb1a",
+    "guid": "b3d60319c84e9724eb1a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.orbitalhotel.net/",
+          "name": "ORBITAL HOTEL"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61575658113183",
+          "name": "ARCANE STRUCTURES"
+        },
+        {
+          "country": null,
+          "link": "https://reuniongate.bandcamp.com/",
+          "name": "REUNION GATE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-17",
+      "first_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d1122d6ab655a3c3a7d6",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "ORBITAL HOTEL",
+          "url": "https://www.orbitalhotel.net/"
+        },
+        {
+          "label": "ARCANE STRUCTURES",
+          "url": "https://www.facebook.com/profile.php?id=61575658113183"
+        },
+        {
+          "label": "REUNION GATE",
+          "url": "https://reuniongate.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.10.: ORBITAL HOTEL / ARCANE STRUCTURES / REUNION GATE @ TüWi, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "TüWi"
+    },
+    "event_id": "d1122d6ab655a3c3a7d6",
+    "guid": "d1122d6ab655a3c3a7d6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "TUTTI DILEMMA"
+          },
+          {
+            "name": "TEMPORÄRE OBJEKTE"
+          }
+        ],
+        "to": [
+          {
+            "name": "TUTTI DILEMMA"
+          },
+          {
+            "name": "TEMPORÄRE OBJEKTE"
+          },
+          {
+            "name": "GERT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://tuttidilemma.bandcamp.com/",
+          "name": "TUTTI DILEMMA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile/61571099643446",
+          "name": "TEMPORÄRE OBJEKTE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61550102335562",
+          "name": "GERT"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e5c539234e906098ef3c",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "TUTTI DILEMMA",
+          "url": "https://tuttidilemma.bandcamp.com/"
+        },
+        {
+          "label": "TEMPORÄRE OBJEKTE",
+          "url": "https://www.facebook.com/profile/61571099643446"
+        },
+        {
+          "label": "GERT",
+          "url": "https://www.facebook.com/profile.php?id=61550102335562"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.10.: TUTTI DILEMMA / TEMPORÄRE OBJEKTE / GERT @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "e5c539234e906098ef3c",
+    "guid": "e5c539234e906098ef3c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "METALLUS"
+          },
+          {
+            "name": "BONEGRINDER"
+          }
+        ],
+        "to": [
+          {
+            "name": "ALTAR OF OBLIVION"
+          },
+          {
+            "name": "METALLUS"
+          },
+          {
+            "name": "KILLER WHALES"
+          },
+          {
+            "name": "BONEGRINDER"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "DEN",
+          "link": "https://altarofoblivion.bandcamp.com/",
+          "name": "ALTAR OF OBLIVION"
+        },
+        {
+          "country": "POL",
+          "link": "https://metallusdoom.bandcamp.com/",
+          "name": "METALLUS"
+        },
+        {
+          "country": "ITA",
+          "link": "https://www.instagram.com/killerwhalesofficial/",
+          "name": "KILLER WHALES"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/bonegrinder_official/",
+          "name": "BONEGRINDER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-08-18T03:09:18.056724+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal"
+        ]
+      },
+      "id": "e46225e82267e1e2f393",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "ALTAR OF OBLIVION",
+          "url": "https://altarofoblivion.bandcamp.com/"
+        },
+        {
+          "label": "METALLUS",
+          "url": "https://metallusdoom.bandcamp.com/"
+        },
+        {
+          "label": "KILLER WHALES",
+          "url": "https://www.instagram.com/killerwhalesofficial/"
+        },
+        {
+          "label": "BONEGRINDER",
+          "url": "https://www.instagram.com/bonegrinder_official/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27509186795350130/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 3,
+      "source_text": "24.10.: ALTAR OF OBLIVION (den) / METALLUS (pol) / KILLER WHALES (ita) / BONEGRINDER u.a. @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "e46225e82267e1e2f393",
+    "guid": "e46225e82267e1e2f393:3",
+    "kind": "changed",
+    "revision": 3
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "KENNY KENNY OH OH"
+          }
+        ],
+        "to": [
+          {
+            "name": "KENNY KENNY OH OH"
+          },
+          {
+            "name": "BILCH"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://kennykennyohoh.bandcamp.com/music",
+          "name": "KENNY KENNY OH OH"
+        },
+        {
+          "country": "D",
+          "link": "https://bilch.bandcamp.com/",
+          "name": "BILCH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1fb612394672f15037b3",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "KENNY KENNY OH OH",
+          "url": "https://kennykennyohoh.bandcamp.com/music"
+        },
+        {
+          "label": "BILCH",
+          "url": "https://bilch.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "24.10.: KENNY KENNY OH OH (d) / BILCH (d) @ Galerie 5020, Salzburg",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Galerie 5020"
+    },
+    "event_id": "1fb612394672f15037b3",
+    "guid": "1fb612394672f15037b3:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-20T07:44:57.679607+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://jigsawbeggars.bandcamp.com/",
+          "name": "JIGSAW BEGGARS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/zappzarapp_gmbh/",
+          "name": "ZAPPZARAPP"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-20T07:44:57.679607+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f391fddaa36f880e4210",
+      "last_seen_at": "2026-09-20T07:44:57.679607+00:00",
+      "links": [
+        {
+          "label": "JIGSAW BEGGARS",
+          "url": "https://jigsawbeggars.bandcamp.com/"
+        },
+        {
+          "label": "ZAPPZARAPP",
+          "url": "https://www.instagram.com/zappzarapp_gmbh/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: JIGSAW BEGGARS / ZAPPZARAPP @ Fanialive, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Fanialive"
+    },
+    "event_id": "f391fddaa36f880e4210",
+    "guid": "f391fddaa36f880e4210:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
