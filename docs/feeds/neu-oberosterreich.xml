@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:46:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PAPER CROWN – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-23b4ce6dbe96eca0cee0-1</link>
+      <guid isPermaLink="false">23b4ce6dbe96eca0cee0:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-09-28 · CulturCafé Smaragd,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: PRETTY AVERAGE, GARLANDS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f79001a9b00a64ba3a44-1</link>
+      <guid isPermaLink="false">f79001a9b00a64ba3a44:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-10-02 · Ann &amp; Pat,  Linz · Oberösterreich · Line-up: PRETTY AVERAGE → PRETTY AVERAGE · GARLANDS</description>
+    </item>
+    <item>
+      <title>Neu: GREAT RIFT, KITTY CAT &amp; THE UGLY HEADS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d8553fe67431f3689538-1</link>
+      <guid isPermaLink="false">d8553fe67431f3689538:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-10-16 · Ann &amp; Pat,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: MOTHER'S CAKE, KITTY CAT &amp; THE UGLY HEADS – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-404c40133ab002d4438b-1</link>
+      <guid isPermaLink="false">404c40133ab002d4438b:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-11-19 · Alter Schlachthof,  Wels · Oberösterreich · Line-up: MOTHER'S CAKE → MOTHER'S CAKE · KITTY CAT &amp; THE UGLY HEADS</description>
+    </item>
+    <item>
+      <title>Geändert: CF98, KITTY CAT &amp; THE UGLY HEADS – Vöcklabruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3999a4b5e0942fd0a28a-1</link>
+      <guid isPermaLink="false">3999a4b5e0942fd0a28a:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-12-04 · OKH,  Vöcklabruck · Oberösterreich · Line-up: CF98 → CF98 · KITTY CAT &amp; THE UGLY HEADS</description>
+    </item>
     <item>
       <title>Neu: SUNSTAIN, HEADRAWKERS – Wels</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-82a90ee219af5fe70183-1</link>

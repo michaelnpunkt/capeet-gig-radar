@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:46:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: MOTHER'S CAKE, KITTY CAT &amp; THE UGLY HEADS – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d44651d994558dc63727-1</link>
+      <guid isPermaLink="false">d44651d994558dc63727:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-11-18 · Rockhouse,  Salzburg · Salzburg · Line-up: MOTHER'S CAKE → MOTHER'S CAKE · KITTY CAT &amp; THE UGLY HEADS</description>
+    </item>
+    <item>
+      <title>Geändert: WIDOWSPEAK, John Andrews &amp; The YAWNS – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-44a1b39d91a92c22221b-1</link>
+      <guid isPermaLink="false">44a1b39d91a92c22221b:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-11-25 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: WIDOWSPEAK → WIDOWSPEAK · John Andrews &amp; The YAWNS</description>
+    </item>
     <item>
       <title>Geändert: KENNY KENNY OH OH, BILCH – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1fb612394672f15037b3-2</link>

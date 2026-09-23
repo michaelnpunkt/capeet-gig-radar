@@ -895,6 +895,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "bakkers trakkers": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "balberskult": {
     "classifier_version": 2,
     "family": "Metal",
@@ -1129,6 +1135,14 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "bitchfork": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
   },
   "bite down": {
     "family": "Metal",
@@ -1659,6 +1673,14 @@
       "Post-Punk"
     ]
   },
+  "chemicide": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
   "child cemetery": {
     "family": "Metal",
     "source": "lastfm",
@@ -1930,6 +1952,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "coperniquo": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "cordell winter": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2047,6 +2075,12 @@
     ]
   },
   "cupiditas": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "curbside lambsear": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -2207,6 +2241,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dawn protection": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "dazzling killmen": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -2250,6 +2290,12 @@
       "Hardcore Punk"
     ]
   },
+  "deadnate": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "deadsquad": {
     "family": "Metal",
     "source": "lastfm",
@@ -2266,6 +2312,12 @@
       "Metalcore",
       "Death Metal"
     ]
+  },
+  "deaf radio": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "death vomit": {
     "family": "Metal",
@@ -2455,6 +2507,16 @@
       "Doom Metal"
     ]
   },
+  "devastator": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
   "deviated instinct": {
     "classifier_version": 2,
     "family": "Punk",
@@ -2575,6 +2637,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "discure": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
   },
   "disembodied tyrant": {
     "family": "Metal",
@@ -2930,6 +3000,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "elepharmers": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "elin hall": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3071,6 +3147,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "erebos": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
   "eric arn": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -3167,6 +3252,12 @@
     "subgenres": [
       "Thrash Metal"
     ]
+  },
+  "evon rose": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "exception": {
     "family": "Rock",
@@ -3905,6 +3996,12 @@
       "Thrash Metal"
     ]
   },
+  "grave dance company": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "graveyard": {
     "classifier_version": 2,
     "family": "Rock",
@@ -4070,6 +4167,12 @@
     ]
   },
   "guyo": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "guzva u bajt": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4891,6 +4994,12 @@
       "Shoegaze"
     ]
   },
+  "jahn kemper": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "jakobs castle": {
     "classifier_version": 2,
     "family": "Rock",
@@ -4981,6 +5090,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "john andrews the yawns": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "jon mckiel": {
@@ -5194,6 +5309,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "kitty cat the ugly heads": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "klaheisla kids": {
     "classifier_version": 2,
@@ -5494,6 +5615,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "lausch": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
   },
   "laz": {
     "classifier_version": 2,
@@ -6347,6 +6474,14 @@
       "Death Metal"
     ]
   },
+  "midnight tattoo": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Street Punk"
+    ]
+  },
   "midwife": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -6573,6 +6708,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "mortajas": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
   },
   "mortal strike": {
     "classifier_version": 2,
@@ -7016,6 +7159,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "oaken": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Sludge Metal"
+    ]
+  },
   "obscura": {
     "classifier_version": 2,
     "family": "Metal",
@@ -7059,6 +7210,15 @@
     "subgenres": [
       "Grindcore",
       "Death Metal"
+    ]
+  },
+  "officium triste": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   "oh hiroshima": {
@@ -7317,6 +7477,12 @@
       "Sludge Metal"
     ]
   },
+  "paper crown": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "paradeiser": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7387,6 +7553,12 @@
     "subgenres": []
   },
   "perfumed garden": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "pertica": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9075,12 +9247,26 @@
       "Thrash Metal"
     ]
   },
+  "styrian bootboys": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Street Punk"
+    ]
+  },
   "subcutaneous exsanguination": {
     "family": "Metal",
     "source": "lastfm",
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "subground club": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "subletvis": {
     "classifier_version": 2,
@@ -9389,6 +9575,14 @@
       "Hardcore Punk"
     ]
   },
+  "the answer lies in the black void": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "the asteroid no 4": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9499,6 +9693,14 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "the devil the universe": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "the devil wears prada": {
     "family": "Metal",
@@ -10053,6 +10255,12 @@
     ]
   },
   "tideriser": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "tiki mojo": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

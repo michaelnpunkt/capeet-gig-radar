@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:46:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: PRETTY AVERAGE, GARLANDS, SOLO ONO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6213758531444da83135-1</link>
+      <guid isPermaLink="false">6213758531444da83135:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-10-01 · Postgarage,  Graz · Steiermark · Line-up: PRETTY AVERAGE · SOLO ONO → PRETTY AVERAGE · GARLANDS · SOLO ONO</description>
+    </item>
+    <item>
+      <title>Neu: CHEMICIDE, DEVASTATOR, The SNUB – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-65282cac6beb4aed7d46-1</link>
+      <guid isPermaLink="false">65282cac6beb4aed7d46:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-11-02 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: EREBOS, FLESH REMAINS, BITCHFORK – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-79baa9045cc08ac3f8b9-1</link>
+      <guid isPermaLink="false">79baa9045cc08ac3f8b9:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2026-11-14 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: STYRIAN BOOTBOYS, MIDNIGHT TATTOO, GUŽVA U BAJT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-806eda9fb9a4085ea7fe-1</link>
+      <guid isPermaLink="false">806eda9fb9a4085ea7fe:1</guid>
+      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
+      <description>2027-01-08 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: ALTAR OF OBLIVION, METALLUS, KILLER WHALES, BONEGRINDER – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e46225e82267e1e2f393-3</link>
