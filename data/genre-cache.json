@@ -1196,6 +1196,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "blaskapelle chancentod": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "blasser kyren": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1524,6 +1530,12 @@
   "cari cari": {
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "carly cosgrove": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "carnifex": {
@@ -2031,6 +2043,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "cryptal echoes": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Doom Metal"
+    ]
+  },
   "cryptic remains": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2352,6 +2373,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "decultivate": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "deecracks": {
     "family": "Punk",
     "source": "lastfm",
@@ -2382,6 +2409,12 @@
   "deftones": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "deine familie": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "deli girls": {
@@ -3422,6 +3455,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "fight from within": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "fiio": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -3569,6 +3610,12 @@
       "Black Metal"
     ]
   },
+  "foistlinge": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "for eons": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3671,6 +3718,14 @@
     "family": "Punk",
     "source": "lastfm",
     "subgenres": []
+  },
+  "frontal": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "frozen soul": {
     "classifier_version": 2,
@@ -4723,6 +4778,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "ignea": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "ignite": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -4893,6 +4956,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "intimspray": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "irokase": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5010,6 +5079,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "janka": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
     "subgenres": []
   },
   "jasad": {
@@ -5398,6 +5473,22 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "kontravoid": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
+  "kora winter": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "korn": {
     "family": "Metal",
     "source": "lastfm",
@@ -5537,6 +5628,12 @@
       "Crust Punk"
     ]
   },
+  "lagwagon": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "laibach": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
@@ -5597,6 +5694,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "lastelle": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "laster": {
     "family": "Metal",
     "source": "lastfm",
@@ -5621,6 +5726,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "laut fragen": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "laz": {
     "classifier_version": 2,
@@ -5824,6 +5937,12 @@
     ]
   },
   "lion season": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "liquid air": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6397,6 +6516,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "mensch oder tier": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "mephistofeles": {
     "family": "Metal",
     "source": "lastfm",
@@ -6473,6 +6598,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "michael cera palin": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "midnight tattoo": {
     "classifier_version": 2,
@@ -6669,6 +6800,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "morello cherry": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "morgan pines": {
     "classifier_version": 2,
@@ -6975,6 +7112,22 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "nickelcrack": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
+  },
+  "nicolas cage fighter": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "niemals": {
     "classifier_version": 2,
@@ -7397,6 +7550,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "oxyjane": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
     "subgenres": []
   },
   "ozymandias": {
@@ -7823,6 +7982,15 @@
       "Shoegaze"
     ]
   },
+  "prompts": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
   "prunknelke": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -8174,9 +8342,21 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "roses and tulips": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "rotor": {
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "rottweil": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "royals": {
@@ -8440,6 +8620,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "scorn": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
     ]
   },
   "scott hepple the sun band": {
@@ -8986,6 +9174,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "spanish love songs": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "spatzenhirn": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9117,6 +9311,12 @@
       "Industrial"
     ]
   },
+  "stab": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "stage bottles": {
     "family": "Punk",
     "source": "lastfm",
@@ -9168,6 +9368,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "stellar circuits": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "stereotypen": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9187,6 +9393,12 @@
     ]
   },
   "sticky moloch": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "stirnband": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9502,6 +9714,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "temora": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "templar": {
     "family": "Metal",
     "source": "lastfm",
@@ -9734,6 +9954,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "the flatliners": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
+  },
   "the gardener the tree": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -9802,6 +10030,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the intersphere": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the invitation": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -9866,6 +10100,12 @@
   "the meadow": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "the menzingers": {
+    "classifier_version": 2,
+    "family": "Punk",
     "source": "lastfm",
     "subgenres": []
   },
@@ -10795,6 +11035,12 @@
       "Crust Punk"
     ]
   },
+  "verscharft": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "vezz iii": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11193,6 +11439,15 @@
     "family": "Punk",
     "source": "lastfm",
     "subgenres": []
+  },
+  "wojtek": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Sludge Metal"
+    ]
   },
   "woke": {
     "classifier_version": 2,

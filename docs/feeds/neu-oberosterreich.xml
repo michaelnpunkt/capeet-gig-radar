@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:36:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: FRONTAL – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-41b8c6e3b11d7fb46da4-1</link>
+      <guid isPermaLink="false">41b8c6e3b11d7fb46da4:1</guid>
+      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
+      <description>2026-10-16 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: PURPLE – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15107142823aec45a515-1</link>
+      <guid isPermaLink="false">15107142823aec45a515:1</guid>
+      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
+      <description>2026-11-06 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: JANKA – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1df0deae08d89abc55ef-1</link>
+      <guid isPermaLink="false">1df0deae08d89abc55ef:1</guid>
+      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
+      <description>2026-11-21 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: PAPER CROWN – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-23b4ce6dbe96eca0cee0-1</link>

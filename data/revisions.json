@@ -28213,5 +28213,1634 @@
     "guid": "1f39c1d070a8cdfe79e1:1",
     "kind": "changed",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://menschodertierband.com/",
+          "name": "MENSCH ODER TIER"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/MorelloCherryBand",
+          "name": "MORELLO CHERRY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-30",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "bf94dccb398db5b3edb6",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "MENSCH ODER TIER",
+          "url": "https://menschodertierband.com/"
+        },
+        {
+          "label": "MORELLO CHERRY",
+          "url": "https://www.facebook.com/MorelloCherryBand"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.cafe-carina.at/2020/events/mensch-oder-tier-live/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.09.: MENSCH ODER TIER / MORELLO CHERRY @ Café Carina, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "bf94dccb398db5b3edb6",
+    "guid": "bf94dccb398db5b3edb6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/dieCigaretten/",
+          "name": "Die CIGARETTEN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/stirnbaend/",
+          "name": "STIRNBÄND"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-06",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "0056adef8a45b7c9b2ad",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "Die CIGARETTEN",
+          "url": "https://www.facebook.com/dieCigaretten/"
+        },
+        {
+          "label": "STIRNBÄND",
+          "url": "https://www.instagram.com/stirnbaend/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3967182003577395/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.10.: Die CIGARETTEN (d) / STIRNBÄND @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "0056adef8a45b7c9b2ad",
+    "guid": "0056adef8a45b7c9b2ad:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=100063493179535",
+          "name": "FRONTAL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Kirchdorf an der Krems",
+      "event_date": "2026-10-16",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "41b8c6e3b11d7fb46da4",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "FRONTAL",
+          "url": "https://www.facebook.com/profile.php?id=100063493179535"
+        },
+        {
+          "label": "[web]",
+          "url": "https://hildegard.bar/event/frontal/\""
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.10.: FRONTAL @ Bar-Café Hildegard, Kirchdorf an der Krems [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bar-Café Hildegard"
+    },
+    "event_id": "41b8c6e3b11d7fb46da4",
+    "guid": "41b8c6e3b11d7fb46da4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.liquidair.eu/",
+          "name": "LIQUID AIR"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61588429730717",
+          "name": "ROSES AND TULIPS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-17",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "939da9c1104ed00208b6",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "LIQUID AIR",
+          "url": "https://www.liquidair.eu/"
+        },
+        {
+          "label": "ROSES AND TULIPS",
+          "url": "https://www.facebook.com/profile.php?id=61588429730717"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/liquid-air-single-releaseshow/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.10.: LIQUID AIR / ROSES AND TULIPS @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "939da9c1104ed00208b6",
+    "guid": "939da9c1104ed00208b6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/deine.familie.band/",
+          "name": "DEINE FAMILIE"
+        },
+        {
+          "country": null,
+          "link": "https://oxyjaneband.wordpress.com/",
+          "name": "OXYJANE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-18",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "8a175614f07e00371c44",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "DEINE FAMILIE",
+          "url": "https://www.instagram.com/deine.familie.band/"
+        },
+        {
+          "label": "OXYJANE",
+          "url": "https://oxyjaneband.wordpress.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/deine-familie-oxyjane/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.10.: DEINE FAMILIE / OXYJANE @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "8a175614f07e00371c44",
+    "guid": "8a175614f07e00371c44:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "VERBAL BEHAVIOR"
+          },
+          {
+            "name": "VIOLET BLOOM"
+          },
+          {
+            "name": "LOVE EMBASSY"
+          }
+        ],
+        "to": [
+          {
+            "name": "VERBAL BEHAVIOR"
+          },
+          {
+            "name": "SCORN"
+          },
+          {
+            "name": "VIOLET BLOOM"
+          },
+          {
+            "name": "LOVE EMBASSY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SPA",
+          "link": "https://verbalbehavior.bandcamp.com/",
+          "name": "VERBAL BEHAVIOR"
+        },
+        {
+          "country": null,
+          "link": "https://scorncrossover.bandcamp.com/",
+          "name": "SCORN"
+        },
+        {
+          "country": null,
+          "link": "https://violetbloomhc.bandcamp.com/",
+          "name": "VIOLET BLOOM"
+        },
+        {
+          "country": null,
+          "link": "https://loveembassy.bandcamp.com/",
+          "name": "LOVE EMBASSY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-18",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "95fb787e293b785a1f19",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "VERBAL BEHAVIOR",
+          "url": "https://verbalbehavior.bandcamp.com/"
+        },
+        {
+          "label": "SCORN",
+          "url": "https://scorncrossover.bandcamp.com/"
+        },
+        {
+          "label": "VIOLET BLOOM",
+          "url": "https://violetbloomhc.bandcamp.com/"
+        },
+        {
+          "label": "LOVE EMBASSY",
+          "url": "https://loveembassy.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "18.10.: VERBAL BEHAVIOR (spa) / SCORN / VIOLET BLOOM / LOVE EMBASSY @ Venster, Wien [16:00!]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "95fb787e293b785a1f19",
+    "guid": "95fb787e293b785a1f19:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The MONSTERS"
+          }
+        ],
+        "to": [
+          {
+            "name": "The MONSTERS"
+          },
+          {
+            "name": "BLASKAPELLE CHANCENTOD"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://www.themonsters.ch/",
+          "name": "The MONSTERS"
+        },
+        {
+          "country": "CH",
+          "link": "https://blaskapellechancentod.bandcamp.com/",
+          "name": "BLASKAPELLE CHANCENTOD"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "df20f8e4b31e032fcd09",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "The MONSTERS",
+          "url": "https://www.themonsters.ch/"
+        },
+        {
+          "label": "BLASKAPELLE CHANCENTOD",
+          "url": "https://blaskapellechancentod.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48591"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.10.: The MONSTERS (ch) / BLASKAPELLE CHANCENTOD (ch) @ Arena (kl. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "df20f8e4b31e032fcd09",
+    "guid": "df20f8e4b31e032fcd09:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://foistlinge.bandcamp.com/",
+          "name": "FOISTLINGE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "849c808dfeb478b61fcb",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "FOISTLINGE",
+          "url": "https://foistlinge.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1704148144004338"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: FOISTLINGE (d) @ B72, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "849c808dfeb478b61fcb",
+    "guid": "849c808dfeb478b61fcb:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lautfragen.bandcamp.com/",
+          "name": "LAUT FRAGEN"
+        },
+        {
+          "country": null,
+          "link": "https://1000amen.bandcamp.com/album/ora-et-labora-2",
+          "name": "ORA ET LABORA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "0a02b2e3de74b99be4d9",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "LAUT FRAGEN",
+          "url": "https://lautfragen.bandcamp.com/"
+        },
+        {
+          "label": "ORA ET LABORA",
+          "url": "https://1000amen.bandcamp.com/album/ora-et-labora-2"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/10-jahre-laut-fragen/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: LAUT FRAGEN / ORA ET LABORA @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "0a02b2e3de74b99be4d9",
+    "guid": "0a02b2e3de74b99be4d9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/intimspray/",
+          "name": "INTIMSPRAY"
+        },
+        {
+          "country": null,
+          "link": "https://sra.at/band/14905",
+          "name": "VERSCHÄRFT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "177eaa723781c6f71f3e",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "INTIMSPRAY",
+          "url": "https://www.facebook.com/intimspray/"
+        },
+        {
+          "label": "VERSCHÄRFT",
+          "url": "https://sra.at/band/14905"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.cafe-carina.at/2020/events/intimspray-verschaerft/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: INTIMSPRAY / VERSCHÄRFT @ Café Carina, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Carina"
+    },
+    "event_id": "177eaa723781c6f71f3e",
+    "guid": "177eaa723781c6f71f3e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://bumshelter.bandcamp.com/",
+          "name": "BUM SHELTER"
+        },
+        {
+          "country": "CZE",
+          "link": "https://temora.bandcamp.com/",
+          "name": "TEMORA"
+        },
+        {
+          "country": null,
+          "link": "https://cryptalechoes.bandcamp.com/",
+          "name": "CRYPTAL ECHOES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-06",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f29601a39206addc1af8",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "BUM SHELTER",
+          "url": "https://bumshelter.bandcamp.com/"
+        },
+        {
+          "label": "TEMORA",
+          "url": "https://temora.bandcamp.com/"
+        },
+        {
+          "label": "CRYPTAL ECHOES",
+          "url": "https://cryptalechoes.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.11.: BUM SHELTER / TEMORA (cze) / CRYPTAL ECHOES @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "f29601a39206addc1af8",
+    "guid": "f29601a39206addc1af8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/purpleunofficial/",
+          "name": "PURPLE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Kirchdorf an der Krems",
+      "event_date": "2026-11-06",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "15107142823aec45a515",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "PURPLE",
+          "url": "https://www.instagram.com/purpleunofficial/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://hildegard.bar/event/konzert-purple-06-11-2026/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.11.: PURPLE @ Bar-Café Hildegard, Kirchdorf an der Krems [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bar-Café Hildegard"
+    },
+    "event_id": "15107142823aec45a515",
+    "guid": "15107142823aec45a515:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BOY HARSHER"
+          },
+          {
+            "name": "CHOIR BOY"
+          }
+        ],
+        "to": [
+          {
+            "name": "BOY HARSHER"
+          },
+          {
+            "name": "CHOIR BOY"
+          },
+          {
+            "name": "KONTRAVOID"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://boyharsher.bandcamp.com/",
+          "name": "BOY HARSHER"
+        },
+        {
+          "country": "USA",
+          "link": "https://choirboy.bandcamp.com/",
+          "name": "CHOIR BOY"
+        },
+        {
+          "country": "USA",
+          "link": "https://kontravoid.bandcamp.com/music",
+          "name": "KONTRAVOID"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "354921b5493347a7a8a6",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "BOY HARSHER",
+          "url": "https://boyharsher.bandcamp.com/"
+        },
+        {
+          "label": "CHOIR BOY",
+          "url": "https://choirboy.bandcamp.com/"
+        },
+        {
+          "label": "KONTRAVOID",
+          "url": "https://kontravoid.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/901767109644153/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: BOY HARSHER (usa) / CHOIR BOY (usa) / KONTRAVOID (usa) @ Ottakringer Brauerei, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Ottakringer Brauerei"
+    },
+    "event_id": "354921b5493347a7a8a6",
+    "guid": "354921b5493347a7a8a6:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "EVERGREY"
+          }
+        ],
+        "to": [
+          {
+            "name": "EVERGREY"
+          },
+          {
+            "name": "IGNEA"
+          },
+          {
+            "name": "STELLAR CIRCUITS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://evergrey.bandcamp.com/",
+          "name": "EVERGREY"
+        },
+        {
+          "country": "UKR",
+          "link": "https://www.facebook.com/ignea.band",
+          "name": "IGNEA"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/stellarcircuits/",
+          "name": "STELLAR CIRCUITS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1d84dc2bb02eb8299dd7",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "EVERGREY",
+          "url": "https://evergrey.bandcamp.com/"
+        },
+        {
+          "label": "IGNEA",
+          "url": "https://www.facebook.com/ignea.band"
+        },
+        {
+          "label": "STELLAR CIRCUITS",
+          "url": "https://www.facebook.com/stellarcircuits/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2241648959997671"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: EVERGREY (swe) / IGNEA (ukr) / STELLAR CIRCUITS (usa) @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "1d84dc2bb02eb8299dd7",
+    "guid": "1d84dc2bb02eb8299dd7:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/janka.musik/",
+          "name": "JANKA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Kirchdorf an der Krems",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1df0deae08d89abc55ef",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "JANKA",
+          "url": "https://www.instagram.com/janka.musik/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://hildegard.bar/event/konzert-janka-21-11-2026/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: JANKA @ Bar-Café Hildegard, Kirchdorf an der Krems [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bar-Café Hildegard"
+    },
+    "event_id": "1df0deae08d89abc55ef",
+    "guid": "1df0deae08d89abc55ef:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": "https://ultrasunn.bandcamp.com/",
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": "https://sydneyvalette.bandcamp.com/",
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": "https://sadmadona.bandcamp.com/",
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-22",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "0bca1146f21235f9cd08",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "ULTRA SUNN",
+          "url": "https://ultrasunn.bandcamp.com/"
+        },
+        {
+          "label": "Sydney Valette",
+          "url": "https://sydneyvalette.bandcamp.com/"
+        },
+        {
+          "label": "SAD MADONA",
+          "url": "https://sadmadona.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1646324853252085"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Flucc Wanne, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flucc Wanne"
+    },
+    "event_id": "0bca1146f21235f9cd08",
+    "guid": "0bca1146f21235f9cd08:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "HALF ME"
+          }
+        ],
+        "to": [
+          {
+            "name": "HALF ME"
+          },
+          {
+            "name": "LASTELLE"
+          },
+          {
+            "name": "PROMPTS"
+          },
+          {
+            "name": "KORA WINTER"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/halfmeband/",
+          "name": "HALF ME"
+        },
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/lastelleband",
+          "name": "LASTELLE"
+        },
+        {
+          "country": "JPN",
+          "link": "https://www.facebook.com/promptsofficial",
+          "name": "PROMPTS"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/korawinterband",
+          "name": "KORA WINTER"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "272449097944512b1bce",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "HALF ME",
+          "url": "https://www.facebook.com/halfmeband/"
+        },
+        {
+          "label": "LASTELLE",
+          "url": "https://www.instagram.com/lastelleband"
+        },
+        {
+          "label": "PROMPTS",
+          "url": "https://www.facebook.com/promptsofficial"
+        },
+        {
+          "label": "KORA WINTER",
+          "url": "https://www.facebook.com/korawinterband"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1036370032393676/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.12.: HALF ME (d) / LASTELLE (uk) / PROMPTS (jpn) / KORA WINTER (d) @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "272449097944512b1bce",
+    "guid": "272449097944512b1bce:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/rottweil.band/",
+          "name": "ROTTWEIL"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gehoersturz.official/",
+          "name": "GEHÖRSTURZ"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-03",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ee954bd767c513038a52",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "ROTTWEIL",
+          "url": "https://www.instagram.com/rottweil.band/"
+        },
+        {
+          "label": "GEHÖRSTURZ",
+          "url": "https://www.instagram.com/gehoersturz.official/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.12.: ROTTWEIL / GEHÖRSTURZ @ Arena (DreiRaum), Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "ee954bd767c513038a52",
+    "guid": "ee954bd767c513038a52:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MEPHOBIA"
+          }
+        ],
+        "to": [
+          {
+            "name": "MEPHOBIA"
+          },
+          {
+            "name": "DECULTIVATE"
+          },
+          {
+            "name": "WOJTEK"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://mephobia.bandcamp.com/",
+          "name": "MEPHOBIA"
+        },
+        {
+          "country": "CZE",
+          "link": "https://decultivate.bandcamp.com/",
+          "name": "DECULTIVATE"
+        },
+        {
+          "country": "ITA",
+          "link": "https://wojtek3522.bandcamp.com/",
+          "name": "WOJTEK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "ee806b06e5166f21924b",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "MEPHOBIA",
+          "url": "https://mephobia.bandcamp.com/"
+        },
+        {
+          "label": "DECULTIVATE",
+          "url": "https://decultivate.bandcamp.com/"
+        },
+        {
+          "label": "WOJTEK",
+          "url": "https://wojtek3522.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1563311601627760/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "04.12.: MEPHOBIA / DECULTIVATE (cze) / WOJTEK (ita) @ Venster, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "ee806b06e5166f21924b",
+    "guid": "ee806b06e5166f21924b:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://nickelcrack.bandcamp.com/",
+          "name": "NICKELCRACK"
+        },
+        {
+          "country": null,
+          "link": "https://harshresponse.bandcamp.com/",
+          "name": "HARSH RESPONSE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/staeb_baend/",
+          "name": "STÄB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore"
+        ]
+      },
+      "id": "e8a72d8e20ca421e82b0",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "NICKELCRACK",
+          "url": "https://nickelcrack.bandcamp.com/"
+        },
+        {
+          "label": "HARSH RESPONSE",
+          "url": "https://harshresponse.bandcamp.com/"
+        },
+        {
+          "label": "STÄB",
+          "url": "https://www.instagram.com/staeb_baend/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.12.: NICKELCRACK (d) / HARSH RESPONSE / STÄB u.a. @ SchloR, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SchloR"
+    },
+    "event_id": "e8a72d8e20ca421e82b0",
+    "guid": "e8a72d8e20ca421e82b0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://fightfromwithin.com/",
+          "name": "FIGHT FROM WITHIN"
+        },
+        {
+          "country": "AUS",
+          "link": "https://nicolascagefighter.bandcamp.com/",
+          "name": "NICOLAS CAGE FIGHTER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-14",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "107d9d0bceec1f35354b",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "FIGHT FROM WITHIN",
+          "url": "https://fightfromwithin.com/"
+        },
+        {
+          "label": "NICOLAS CAGE FIGHTER",
+          "url": "https://nicolascagefighter.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1396926198638696"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.01.: FIGHT FROM WITHIN (usa) / NICOLAS CAGE FIGHTER (aus) @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "107d9d0bceec1f35354b",
+    "guid": "107d9d0bceec1f35354b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/SpanishLoveSongs",
+          "name": "SPANISH LOVE SONGS"
+        },
+        {
+          "country": "USA",
+          "link": "https://michaelcerapalin.bandcamp.com/",
+          "name": "MICHAEL CERA PALIN"
+        },
+        {
+          "country": "USA",
+          "link": "https://carlycosgrove.bandcamp.com/",
+          "name": "CARLY COSGROVE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-31",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ef0fc770f78649a12701",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "SPANISH LOVE SONGS",
+          "url": "https://www.facebook.com/SpanishLoveSongs"
+        },
+        {
+          "label": "MICHAEL CERA PALIN",
+          "url": "https://michaelcerapalin.bandcamp.com/"
+        },
+        {
+          "label": "CARLY COSGROVE",
+          "url": "https://carlycosgrove.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2317663252324756/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.01.: SPANISH LOVE SONGS (usa) / MICHAEL CERA PALIN (usa) / CARLY COSGROVE (usa) @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "ef0fc770f78649a12701",
+    "guid": "ef0fc770f78649a12701:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://theintersphere.bandcamp.com/",
+          "name": "The INTERSPHERE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-04",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "04871fa22ebe88b2e57e",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "The INTERSPHERE",
+          "url": "https://theintersphere.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1242946428021897/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.02.: The INTERSPHERE (d) @ B72, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "04871fa22ebe88b2e57e",
+    "guid": "04871fa22ebe88b2e57e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://lagwagon.bandcamp.com/",
+          "name": "LAGWAGON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-27",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "21109d566cdb604ab116",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "LAGWAGON",
+          "url": "https://lagwagon.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2152482362814440/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.02.: LAGWAGON (usa) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "21109d566cdb604ab116",
+    "guid": "21109d566cdb604ab116:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-24T07:36:55.483465+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://themenzingers.bandcamp.com/music",
+          "name": "The MENZINGERS"
+        },
+        {
+          "country": "CAN",
+          "link": "https://theflatliners.com/",
+          "name": "The FLATLINERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-24T07:36:55.483465+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-27",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a8cd40db6ef36eba5c64",
+      "last_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "links": [
+        {
+          "label": "The MENZINGERS",
+          "url": "https://themenzingers.bandcamp.com/music"
+        },
+        {
+          "label": "The FLATLINERS",
+          "url": "https://theflatliners.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/927680116527797/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.02.: The MENZINGERS (usa) / The FLATLINERS (can) @ WUK, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "a8cd40db6ef36eba5c64",
+    "guid": "a8cd40db6ef36eba5c64:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
