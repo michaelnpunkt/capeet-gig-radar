@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:43:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: NICKELCRACK, HARSH RESPONSE, LHUMA, STRAGE DI STATO, STÄB – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8a72d8e20ca421e82b0-2</link>
+      <guid isPermaLink="false">e8a72d8e20ca421e82b0:2</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-12-12 · SchloR,  Wien · Wien · Line-up: NICKELCRACK · HARSH RESPONSE · STÄB → NICKELCRACK · HARSH RESPONSE · LHUMA · STRAGE DI STATO · STÄB</description>
+    </item>
+    <item>
+      <title>Geändert: FAKE NAMES, 7 SIOUX – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-91af588f0328b673453c-2</link>
+      <guid isPermaLink="false">91af588f0328b673453c:2</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2027-02-03 · Arena (kl. Halle),  Wien · Wien · Line-up: FAKE NAMES → FAKE NAMES · 7 SIOUX</description>
+    </item>
+    <item>
+      <title>Abgesagt: WALTARI – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-866a4ac557ebd711630e-1</link>
+      <guid isPermaLink="false">866a4ac557ebd711630e:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-10-05 · Viper Room,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: UNKRAUT, ZAPPZARAPP, ERROR 406 – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-87a219ce0a6d955df42f-1</link>
+      <guid isPermaLink="false">87a219ce0a6d955df42f:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-10-16 · TüWi,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: CHEMICIDE, DEVASTATOR – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6043b83a3fbaf9936d2a-1</link>
+      <guid isPermaLink="false">6043b83a3fbaf9936d2a:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-11-01 · Escape,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MORTAL STRIKE, INFEST, DARKFALL, DYSTRUST, FALLEN UTOPIA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9909306976be32d84a3f-1</link>
+      <guid isPermaLink="false">9909306976be32d84a3f:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-12-05 · Szene,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SÓLSTAFIR, ENSLAVED, Gaahls WYRD – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f37ec215e47a68e34b05-1</link>
+      <guid isPermaLink="false">f37ec215e47a68e34b05:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2027-02-25 · Simm City,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: THE GOOD THE BAD AND THE ZUGLY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3348d44adb48096a08d3-1</link>
+      <guid isPermaLink="false">3348d44adb48096a08d3:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2027-04-19 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SADNESS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-623cf6950bd78beced00-1</link>
+      <guid isPermaLink="false">623cf6950bd78beced00:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2027-05-03 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: VERBAL BEHAVIOR, SCORN, VIOLET BLOOM, LOVE EMBASSY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-95fb787e293b785a1f19-2</link>
@@ -643,69 +706,6 @@
       <guid isPermaLink="false">a2e33503804b5f87ea08:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-12-13 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Mambo Kurt – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-027b97814db6e75e8fe8-1</link>
-      <guid isPermaLink="false">027b97814db6e75e8fe8:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-16 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: COUSINES LIKE SHIT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-79b254a7fb3b93f0ec7e-1</link>
-      <guid isPermaLink="false">79b254a7fb3b93f0ec7e:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-18 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DIM PROSPECTS, DESOLAT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c103e8da43ca0962a7da-1</link>
-      <guid isPermaLink="false">c103e8da43ca0962a7da:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-19 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: AMBLE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-32eac686c6122fdaed86-1</link>
-      <guid isPermaLink="false">32eac686c6122fdaed86:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2027-02-16 · Arena (gr. Halle),  Wien · Wien · Venue: Arena → Arena (gr. Halle)</description>
-    </item>
-    <item>
-      <title>Neu: The LEGENDARY PINK DOTS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-74efe1f2b2e12e295a99-1</link>
-      <guid isPermaLink="false">74efe1f2b2e12e295a99:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2027-02-16 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: СОЮЗ (SOYUZ) – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0f8e74816da46a86841a-1</link>
-      <guid isPermaLink="false">0f8e74816da46a86841a:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2027-02-22 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The WARNING – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-df99b3b4b6601afb3a34-1</link>
-      <guid isPermaLink="false">df99b3b4b6601afb3a34:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2027-03-15 · Gasometer,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Jessie Monk – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9210e21479b5de658c57-1</link>
-      <guid isPermaLink="false">9210e21479b5de658c57:1</guid>
-      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
-      <description>2026-09-15 · Sternatelier, Pramergasse 5, 1090 Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: JEANNY, PURPLE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0fbbf966baf64d41265c-1</link>
-      <guid isPermaLink="false">0fbbf966baf64d41265c:1</guid>
-      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
-      <description>2026-09-19 · The Loft,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

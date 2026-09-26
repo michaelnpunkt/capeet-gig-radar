@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:43:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: MASTIC SCUM, PUNCHLINE, JAWBREAKER – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a8678f8eb998e1ee9ccb-1</link>
+      <guid isPermaLink="false">a8678f8eb998e1ee9ccb:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-11-14 · p.m.k.,  Innsbruck · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: BUG, DUNES ON THE MOON, Heavy Kevy – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-083dc2293096f0e1edf6-1</link>
+      <guid isPermaLink="false">083dc2293096f0e1edf6:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-11-27 · p.m.k.,  Innsbruck · Tirol</description>
+    </item>
     <item>
       <title>Neu: SCRUFFY, GRACIOUS IN DEFEAT, Ändie Clash, MY DARK FATE – Innsbruck</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b49f480c57ea945e7f78-1</link>

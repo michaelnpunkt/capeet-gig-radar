@@ -5,6 +5,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "1000mods": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "156 silence": {
     "family": "Metal",
     "source": "lastfm",
@@ -30,6 +36,12 @@
     ]
   },
   "4 espressos": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "7 sioux": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -1464,6 +1476,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "bug": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "bull nakano": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2881,6 +2899,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "dunes on the moon": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "duolia": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2920,6 +2944,14 @@
     "source": "lastfm",
     "subgenres": [
       "Noise Rock"
+    ]
+  },
+  "dystrust": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
     ]
   },
   "e force": {
@@ -3160,6 +3192,14 @@
       "Death Metal"
     ]
   },
+  "enslaved": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "enterprise earth": {
     "family": "Metal",
     "source": "lastfm",
@@ -3201,6 +3241,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "error 406": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "erzsebet": {
     "family": "Metal",
@@ -3376,6 +3422,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "fallen utopia": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
   },
   "fangus": {
     "family": "Metal",
@@ -3761,6 +3816,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "gaahls wyrd": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "garden gang": {
     "family": "Punk",
     "source": "lastfm",
@@ -4115,6 +4178,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "grim rhythm": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "grimming": {
     "family": "Metal",
     "source": "lastfm",
@@ -4422,6 +4491,12 @@
       "Deathcore",
       "Metalcore"
     ]
+  },
+  "heavy kevy": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "hecho mierda": {
     "classifier_version": 2,
@@ -5093,6 +5168,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "jawbreaker": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "jayden": {
     "family": "Alternative/Indie",
@@ -5857,6 +5938,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "lhuma": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
     "subgenres": []
   },
   "liedfett": {
@@ -8447,6 +8534,15 @@
       "Post-Punk"
     ]
   },
+  "sadness": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Doom Metal"
+    ]
+  },
   "saint city orchestra": {
     "family": "Punk",
     "source": "lastfm",
@@ -9089,6 +9185,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "solstafir": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "some sprouts": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -9425,6 +9529,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "strage di stato": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "strange kind of women": {
     "classifier_version": 2,
@@ -9985,6 +10095,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "the good the bad and the zugly": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
   },
   "the halo effect": {
     "classifier_version": 2,
@@ -10857,6 +10975,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "unkraut": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "unmuted": {
     "classifier_version": 2,

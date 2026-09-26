@@ -29842,5 +29842,907 @@
     "guid": "a8cd40db6ef36eba5c64:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": null,
+          "name": "FEDER"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "REVOLUZZA"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Lembach",
+      "event_date": "2026-09-26",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "4950e2c56d5a4accbf2b",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.09.: FEDER / REVOLUZZA @ Musikclub, Lembach [cancelled.]",
+      "state": "Oberösterreich",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Musikclub"
+    },
+    "event_id": "4950e2c56d5a4accbf2b",
+    "guid": "4950e2c56d5a4accbf2b:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": null,
+          "name": "WALTARI"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-05",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "866a4ac557ebd711630e",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.10.: WALTARI (fin) @ Viper Room, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "866a4ac557ebd711630e",
+    "guid": "866a4ac557ebd711630e:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "GRE",
+          "link": "https://1000mods.bandcamp.com/",
+          "name": "1000MODS"
+        },
+        {
+          "country": "AUS",
+          "link": "https://grimrhythm.bandcamp.com/music",
+          "name": "GRIM RHYTHM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-07",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "37699fde5f2b5f54b911",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "1000MODS",
+          "url": "https://1000mods.bandcamp.com/"
+        },
+        {
+          "label": "GRIM RHYTHM",
+          "url": "https://grimrhythm.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1434915578453095"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.10.: 1000MODS (gre) / GRIM RHYTHM (aus) @ p.p.c., Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.p.c."
+    },
+    "event_id": "37699fde5f2b5f54b911",
+    "guid": "37699fde5f2b5f54b911:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/unkrautband/",
+          "name": "UNKRAUT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/zappzarapp_gmbh/",
+          "name": "ZAPPZARAPP"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "ERROR 406"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-16",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "87a219ce0a6d955df42f",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "UNKRAUT",
+          "url": "https://www.instagram.com/unkrautband/"
+        },
+        {
+          "label": "ZAPPZARAPP",
+          "url": "https://www.instagram.com/zappzarapp_gmbh/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.10.: UNKRAUT / ZAPPZARAPP / ERROR 406 @ TüWi, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "TüWi"
+    },
+    "event_id": "87a219ce0a6d955df42f",
+    "guid": "87a219ce0a6d955df42f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CRC",
+          "link": "https://chemicide.bandcamp.com/",
+          "name": "CHEMICIDE"
+        },
+        {
+          "country": "UK",
+          "link": "https://devastatorblackthrash.bandcamp.com/",
+          "name": "DEVASTATOR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-01",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "6043b83a3fbaf9936d2a",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "CHEMICIDE",
+          "url": "https://chemicide.bandcamp.com/"
+        },
+        {
+          "label": "DEVASTATOR",
+          "url": "https://devastatorblackthrash.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1461336969189787/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.11.: CHEMICIDE (crc) / DEVASTATOR (uk) @ Escape, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "6043b83a3fbaf9936d2a",
+    "guid": "6043b83a3fbaf9936d2a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/masticscum",
+          "name": "MASTIC SCUM"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/punchline_hc/",
+          "name": "PUNCHLINE"
+        },
+        {
+          "country": "AUT/ITA",
+          "link": "https://www.instagram.com/jawbreaker_thcbd/",
+          "name": "JAWBREAKER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "a8678f8eb998e1ee9ccb",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "MASTIC SCUM",
+          "url": "https://www.facebook.com/masticscum"
+        },
+        {
+          "label": "PUNCHLINE",
+          "url": "https://www.instagram.com/punchline_hc/"
+        },
+        {
+          "label": "JAWBREAKER",
+          "url": "https://www.instagram.com/jawbreaker_thcbd/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/core-carnage-festival-mastic-scum-punchline-jawbreak/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: MASTIC SCUM / PUNCHLINE / JAWBREAKER (aut/ita) @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "a8678f8eb998e1ee9ccb",
+    "guid": "a8678f8eb998e1ee9ccb:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://bugbuam.bandcamp.com/music",
+          "name": "BUG"
+        },
+        {
+          "country": null,
+          "link": "https://dunesonthemoon.bandcamp.com/",
+          "name": "DUNES ON THE MOON"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/heavykevyofficial/",
+          "name": "Heavy Kevy"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "083dc2293096f0e1edf6",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "BUG",
+          "url": "https://bugbuam.bandcamp.com/music"
+        },
+        {
+          "label": "DUNES ON THE MOON",
+          "url": "https://dunesonthemoon.bandcamp.com/"
+        },
+        {
+          "label": "Heavy Kevy",
+          "url": "https://www.facebook.com/heavykevyofficial/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/workstation-fest-2026-w-bug-dunes-on-the-moon-heavy-/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: BUG / DUNES ON THE MOON / Heavy Kevy @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "083dc2293096f0e1edf6",
+    "guid": "083dc2293096f0e1edf6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://gyfth.bandcamp.com/",
+          "name": "GYFTH"
+        },
+        {
+          "country": null,
+          "link": "https://maunra.bandcamp.com/",
+          "name": "MAUNRA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/HillsLikeWhiteLionsMusic/",
+          "name": "HILLS LIKE WHITE LIONS"
+        },
+        {
+          "country": "D",
+          "link": "https://laeraband.bandcamp.com/",
+          "name": "LÄRA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-28",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "4be97e33dcc619507534",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "GYFTH",
+          "url": "https://gyfth.bandcamp.com/"
+        },
+        {
+          "label": "MAUNRA",
+          "url": "https://maunra.bandcamp.com/"
+        },
+        {
+          "label": "HILLS LIKE WHITE LIONS",
+          "url": "https://www.facebook.com/HillsLikeWhiteLionsMusic/"
+        },
+        {
+          "label": "LÄRA",
+          "url": "https://laeraband.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.11.: GYFTH / MAUNRA / HILLS LIKE WHITE LIONS / LÄRA (d) @ Schlot, Linz",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Schlot"
+    },
+    "event_id": "4be97e33dcc619507534",
+    "guid": "4be97e33dcc619507534:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/MortalStrikeOfficial",
+          "name": "MORTAL STRIKE"
+        },
+        {
+          "country": "SRB",
+          "link": "https://www.facebook.com/infest.serbia",
+          "name": "INFEST"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/DarkfallMetal",
+          "name": "DARKFALL"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Dystrust.Horrorkore",
+          "name": "DYSTRUST"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/fallenutopia",
+          "name": "FALLEN UTOPIA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-05",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "9909306976be32d84a3f",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "MORTAL STRIKE",
+          "url": "https://www.facebook.com/MortalStrikeOfficial"
+        },
+        {
+          "label": "INFEST",
+          "url": "https://www.facebook.com/infest.serbia"
+        },
+        {
+          "label": "DARKFALL",
+          "url": "https://www.facebook.com/DarkfallMetal"
+        },
+        {
+          "label": "DYSTRUST",
+          "url": "https://www.facebook.com/Dystrust.Horrorkore"
+        },
+        {
+          "label": "FALLEN UTOPIA",
+          "url": "https://www.facebook.com/fallenutopia"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1774689100400185/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.12.: MORTAL STRIKE / INFEST (srb) / DARKFALL / DYSTRUST / FALLEN UTOPIA @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "9909306976be32d84a3f",
+    "guid": "9909306976be32d84a3f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "NICKELCRACK"
+          },
+          {
+            "name": "HARSH RESPONSE"
+          },
+          {
+            "name": "STÄB"
+          }
+        ],
+        "to": [
+          {
+            "name": "NICKELCRACK"
+          },
+          {
+            "name": "HARSH RESPONSE"
+          },
+          {
+            "name": "LHUMA"
+          },
+          {
+            "name": "STRAGE DI STATO"
+          },
+          {
+            "name": "STÄB"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://nickelcrack.bandcamp.com/",
+          "name": "NICKELCRACK"
+        },
+        {
+          "country": null,
+          "link": "https://harshresponse.bandcamp.com/",
+          "name": "HARSH RESPONSE"
+        },
+        {
+          "country": "D",
+          "link": "https://lhumanoise.bandcamp.com/",
+          "name": "LHUMA"
+        },
+        {
+          "country": "CZE",
+          "link": "https://stragedistato.bandcamp.com/",
+          "name": "STRAGE DI STATO"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/staeb_baend/",
+          "name": "STÄB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-09-24T07:36:55.483465+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore"
+        ]
+      },
+      "id": "e8a72d8e20ca421e82b0",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "NICKELCRACK",
+          "url": "https://nickelcrack.bandcamp.com/"
+        },
+        {
+          "label": "HARSH RESPONSE",
+          "url": "https://harshresponse.bandcamp.com/"
+        },
+        {
+          "label": "LHUMA",
+          "url": "https://lhumanoise.bandcamp.com/"
+        },
+        {
+          "label": "STRAGE DI STATO",
+          "url": "https://stragedistato.bandcamp.com/"
+        },
+        {
+          "label": "STÄB",
+          "url": "https://www.instagram.com/staeb_baend/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "12.12.: NICKELCRACK (d) / HARSH RESPONSE / LHUMA (d) / STRAGE DI STATO (cze) / STÄB u.a. @ SchloR, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SchloR"
+    },
+    "event_id": "e8a72d8e20ca421e82b0",
+    "guid": "e8a72d8e20ca421e82b0:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "FAKE NAMES"
+          }
+        ],
+        "to": [
+          {
+            "name": "FAKE NAMES"
+          },
+          {
+            "name": "7 SIOUX"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/fakenamesofficial/",
+          "name": "FAKE NAMES"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/7sioux",
+          "name": "7 SIOUX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-03",
+      "first_seen_at": "2026-09-03T07:11:19.949339+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "91af588f0328b673453c",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "FAKE NAMES",
+          "url": "https://www.instagram.com/fakenamesofficial/"
+        },
+        {
+          "label": "7 SIOUX",
+          "url": "https://www.facebook.com/7sioux"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1058224823522981/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "03.02.: FAKE NAMES (usa) / 7 SIOUX @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "91af588f0328b673453c",
+    "guid": "91af588f0328b673453c:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ISL",
+          "link": "https://www.solstafir.net/",
+          "name": "SÓLSTAFIR"
+        },
+        {
+          "country": "NOR",
+          "link": "https://enslaved.no/",
+          "name": "ENSLAVED"
+        },
+        {
+          "country": "NOR",
+          "link": "https://www.facebook.com/gaahlswyrd",
+          "name": "Gaahls WYRD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "f37ec215e47a68e34b05",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "SÓLSTAFIR",
+          "url": "https://www.solstafir.net/"
+        },
+        {
+          "label": "ENSLAVED",
+          "url": "https://enslaved.no/"
+        },
+        {
+          "label": "Gaahls WYRD",
+          "url": "https://www.facebook.com/gaahlswyrd"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/989568504154595/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: SÓLSTAFIR (isl) / ENSLAVED (nor) / Gaahls WYRD (nor) @ Simm City, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Simm City"
+    },
+    "event_id": "f37ec215e47a68e34b05",
+    "guid": "f37ec215e47a68e34b05:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NOR",
+          "link": "https://zugly.no/",
+          "name": "THE GOOD THE BAD AND THE ZUGLY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-19",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "3348d44adb48096a08d3",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "THE GOOD THE BAD AND THE ZUGLY",
+          "url": "https://zugly.no/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1059815173543860/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.04.: THE GOOD THE BAD AND THE ZUGLY (nor) @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "3348d44adb48096a08d3",
+    "guid": "3348d44adb48096a08d3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-26T07:43:17.500748+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://sadnessmusic.bandcamp.com/",
+          "name": "SADNESS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-26T07:43:17.500748+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-03",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
+      },
+      "id": "623cf6950bd78beced00",
+      "last_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "links": [
+        {
+          "label": "SADNESS",
+          "url": "https://sadnessmusic.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1397637398541497/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.05.: SADNESS (usa) @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "623cf6950bd78beced00",
+    "guid": "623cf6950bd78beced00:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:43:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: 1000MODS, GRIM RHYTHM – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37699fde5f2b5f54b911-1</link>
+      <guid isPermaLink="false">37699fde5f2b5f54b911:1</guid>
+      <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
+      <description>2026-10-07 · p.p.c.,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: Die CIGARETTEN, STIRNBÄND – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0056adef8a45b7c9b2ad-1</link>
