@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:11:59 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: DELI GIRLS, RENT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a83104b71f398742439e-2</link>
+      <guid isPermaLink="false">a83104b71f398742439e:2</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-10-06 · Flucc,  Wien · Wien · Line-up: DELI GIRLS → DELI GIRLS · RENT</description>
+    </item>
+    <item>
+      <title>Neu: LEFTOVERS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f6906c2d221ca426f1a3-1</link>
+      <guid isPermaLink="false">f6906c2d221ca426f1a3:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-09-28 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SLOMOSA, KRYPTOGRAF – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b14ac64597a07255299e-1</link>
+      <guid isPermaLink="false">b14ac64597a07255299e:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-09-29 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: SAMURAI PIZZA CATS, BABY BEARD, HIDDEN FATES – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd34bea7ec0228524228-1</link>
+      <guid isPermaLink="false">cd34bea7ec0228524228:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-10-13 · Szene,  Wien · Wien · Line-up: SAMURAI PIZZA CATS → SAMURAI PIZZA CATS · BABY BEARD · HIDDEN FATES</description>
+    </item>
+    <item>
+      <title>Neu: SCHNOGGE, TARZANELLI, WHITE NOISE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cf90fa1ff415137d171f-1</link>
+      <guid isPermaLink="false">cf90fa1ff415137d171f:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-10-31 · Loop,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: BULLETPROOF, GENERATOR, CALUMET CULT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-656a5bc5b68e7ccb1335-1</link>
+      <guid isPermaLink="false">656a5bc5b68e7ccb1335:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-11-13 · Tunnel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PROTEX, The OBSESSIONS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7c84ac32d38a9def85cf-1</link>
+      <guid isPermaLink="false">7c84ac32d38a9def85cf:1</guid>
+      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
+      <description>2026-11-26 · Arena,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: NICKELCRACK, HARSH RESPONSE, LHUMA, STRAGE DI STATO, STÄB – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8a72d8e20ca421e82b0-2</link>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">4636f07b386ced9a82e2:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-12-03 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: MINISEX – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ec74da4262c0055fde8-1</link>
-      <guid isPermaLink="false">7ec74da4262c0055fde8:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-04 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: LEBER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dd667e9f8b5f9b7d4d2e-1</link>
-      <guid isPermaLink="false">dd667e9f8b5f9b7d4d2e:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-05 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FREUD – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e94a085be33613ad32f2-1</link>
-      <guid isPermaLink="false">e94a085be33613ad32f2:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-07 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: KREISKY – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a7a7ca654e6c9a262364-1</link>
-      <guid isPermaLink="false">a7a7ca654e6c9a262364:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-10 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Ankathie Koi – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c064e0bfef0458addd4c-1</link>
-      <guid isPermaLink="false">c064e0bfef0458addd4c:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-11 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The Incredible STAGGERS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2183add210030a734285-1</link>
-      <guid isPermaLink="false">2183add210030a734285:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-12 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Die ÄNDERUNG – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a2e33503804b5f87ea08-1</link>
-      <guid isPermaLink="false">a2e33503804b5f87ea08:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-13 · Arena-Beisl,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

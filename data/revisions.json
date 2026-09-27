@@ -30744,5 +30744,666 @@
     "guid": "623cf6950bd78beced00:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/LeftoversUnofficial",
+          "name": "LEFTOVERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-28",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f6906c2d221ca426f1a3",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "LEFTOVERS",
+          "url": "https://www.facebook.com/LeftoversUnofficial"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.09.: LEFTOVERS @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "f6906c2d221ca426f1a3",
+    "guid": "f6906c2d221ca426f1a3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NOR",
+          "link": "https://www.slomosamusic.com/",
+          "name": "SLOMOSA"
+        },
+        {
+          "country": "NOR",
+          "link": "https://kryptograf.bandcamp.com/",
+          "name": "KRYPTOGRAF"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-29",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b14ac64597a07255299e",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "SLOMOSA",
+          "url": "https://www.slomosamusic.com/"
+        },
+        {
+          "label": "KRYPTOGRAF",
+          "url": "https://kryptograf.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48657"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.09.: SLOMOSA (nor) / KRYPTOGRAF (nor) @ Arena (kl. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "b14ac64597a07255299e",
+    "guid": "b14ac64597a07255299e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GRENZKONTROLLE"
+          },
+          {
+            "name": "STOCKKAMPF"
+          },
+          {
+            "name": "SHEEPFIELD"
+          },
+          {
+            "name": "EHRENLOS & EIERLOS"
+          }
+        ],
+        "to": [
+          {
+            "name": "GRENZKONTROLLE"
+          },
+          {
+            "name": "The ZSA ZSA GABORS"
+          },
+          {
+            "name": "SHEEPFIELD"
+          },
+          {
+            "name": "EHRENLOS & EIERLOS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://grenzkontrolle.org/",
+          "name": "GRENZKONTROLLE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/zsazsagabors",
+          "name": "The ZSA ZSA GABORS"
+        },
+        {
+          "country": null,
+          "link": "https://sheepfieldsux.bandcamp.com/",
+          "name": "SHEEPFIELD"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/ehrenlosundeierlos/",
+          "name": "EHRENLOS & EIERLOS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wels",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "f745f31a637f298eb152",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "GRENZKONTROLLE",
+          "url": "https://grenzkontrolle.org/"
+        },
+        {
+          "label": "The ZSA ZSA GABORS",
+          "url": "https://www.facebook.com/zsazsagabors"
+        },
+        {
+          "label": "SHEEPFIELD",
+          "url": "https://sheepfieldsux.bandcamp.com/"
+        },
+        {
+          "label": "EHRENLOS & EIERLOS",
+          "url": "https://www.instagram.com/ehrenlosundeierlos/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2173263623213127"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: GRENZKONTROLLE (d) / The ZSA ZSA GABORS / SHEEPFIELD / EHRENLOS & EIERLOS @ A. Schlachthof, Wels [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "A. Schlachthof"
+    },
+    "event_id": "f745f31a637f298eb152",
+    "guid": "f745f31a637f298eb152:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "LEFTOVERS"
+          }
+        ],
+        "to": [
+          {
+            "name": "LEFTOVERS"
+          },
+          {
+            "name": "PURPLE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/LeftoversUnofficial",
+          "name": "LEFTOVERS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/purpleunofficial/",
+          "name": "PURPLE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f595930b28bb70a69221",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "LEFTOVERS",
+          "url": "https://www.facebook.com/LeftoversUnofficial"
+        },
+        {
+          "label": "PURPLE",
+          "url": "https://www.instagram.com/purpleunofficial/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://popculture.at/event/leftovers-3/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: LEFTOVERS / PURPLE @ p.p.c., Graz [web]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.p.c."
+    },
+    "event_id": "f595930b28bb70a69221",
+    "guid": "f595930b28bb70a69221:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "DELI GIRLS"
+          }
+        ],
+        "to": [
+          {
+            "name": "DELI GIRLS"
+          },
+          {
+            "name": "RENT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://deligirls.bandcamp.com/",
+          "name": "DELI GIRLS"
+        },
+        {
+          "country": null,
+          "link": "https://rent-music.bandcamp.com/",
+          "name": "RENT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-06",
+      "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "a83104b71f398742439e",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "DELI GIRLS",
+          "url": "https://deligirls.bandcamp.com/"
+        },
+        {
+          "label": "RENT",
+          "url": "https://rent-music.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://flucc.at/events/Hnbuas-live-deli-girls/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "06.10.: DELI GIRLS (usa) / RENT @ Flucc, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flucc"
+    },
+    "event_id": "a83104b71f398742439e",
+    "guid": "a83104b71f398742439e:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SAMURAI PIZZA CATS"
+          }
+        ],
+        "to": [
+          {
+            "name": "SAMURAI PIZZA CATS"
+          },
+          {
+            "name": "BABY BEARD"
+          },
+          {
+            "name": "HIDDEN FATES"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/samuraipizzacats",
+          "name": "SAMURAI PIZZA CATS"
+        },
+        {
+          "country": "JPN",
+          "link": "https://www.instagram.com/babybeard_japan/",
+          "name": "BABY BEARD"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/hiddenfates",
+          "name": "HIDDEN FATES"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-13",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "cd34bea7ec0228524228",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "SAMURAI PIZZA CATS",
+          "url": "https://www.facebook.com/samuraipizzacats"
+        },
+        {
+          "label": "BABY BEARD",
+          "url": "https://www.instagram.com/babybeard_japan/"
+        },
+        {
+          "label": "HIDDEN FATES",
+          "url": "https://www.facebook.com/hiddenfates"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1224814286512588/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.10.: SAMURAI PIZZA CATS (d) / BABY BEARD (jpn) / HIDDEN FATES @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "cd34bea7ec0228524228",
+    "guid": "cd34bea7ec0228524228:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/schnogge_band/",
+          "name": "SCHNOGGE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/tarzanelli_band/",
+          "name": "TARZANELLI"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "WHITE NOISE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "heuristic",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "cf90fa1ff415137d171f",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "SCHNOGGE",
+          "url": "https://www.instagram.com/schnogge_band/"
+        },
+        {
+          "label": "TARZANELLI",
+          "url": "https://www.instagram.com/tarzanelli_band/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://loop.co.at/event/hallowien-live-tarzanelli-schnogge-whitenoise_31_10_26/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: SCHNOGGE (d) / TARZANELLI / WHITE NOISE @ Loop, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Loop"
+    },
+    "event_id": "cf90fa1ff415137d171f",
+    "guid": "cf90fa1ff415137d171f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/steamingsatellites/",
+          "name": "STEAMING SATELLITES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-12",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "eb864f7c08c95013f4f7",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "STEAMING SATELLITES",
+          "url": "https://www.facebook.com/steamingsatellites/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.11.: STEAMING SATELLITES @ Treibhaus, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Treibhaus"
+    },
+    "event_id": "eb864f7c08c95013f4f7",
+    "guid": "eb864f7c08c95013f4f7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://bulletproofrock.com/",
+          "name": "BULLETPROOF"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/generator.austria",
+          "name": "GENERATOR"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/calumetcult/",
+          "name": "CALUMET CULT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "656a5bc5b68e7ccb1335",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "BULLETPROOF",
+          "url": "https://bulletproofrock.com/"
+        },
+        {
+          "label": "GENERATOR",
+          "url": "https://www.facebook.com/generator.austria"
+        },
+        {
+          "label": "CALUMET CULT",
+          "url": "https://www.instagram.com/calumetcult/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/922992533604995/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: BULLETPROOF (d) / GENERATOR / CALUMET CULT @ Tunnel, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Tunnel"
+    },
+    "event_id": "656a5bc5b68e7ccb1335",
+    "guid": "656a5bc5b68e7ccb1335:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-27T08:11:59.108398+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://protexbelfast.bandcamp.com/",
+          "name": "PROTEX"
+        },
+        {
+          "country": null,
+          "link": "https://theobsessionspunk.bandcamp.com/",
+          "name": "The OBSESSIONS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-27T08:11:59.108398+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7c84ac32d38a9def85cf",
+      "last_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "links": [
+        {
+          "label": "PROTEX",
+          "url": "https://protexbelfast.bandcamp.com/"
+        },
+        {
+          "label": "The OBSESSIONS",
+          "url": "https://theobsessionspunk.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: PROTEX (uk) / The OBSESSIONS @ Arena, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena"
+    },
+    "event_id": "7c84ac32d38a9def85cf",
+    "guid": "7c84ac32d38a9def85cf:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
