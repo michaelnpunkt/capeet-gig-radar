@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 27 Sep 2026 08:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LEFTOVERS, LEBER – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a5fdfba7c79c24d02c7b-1</link>
+      <guid isPermaLink="false">a5fdfba7c79c24d02c7b:1</guid>
+      <pubDate>Mon, 28 Sep 2026 08:42:26 +0000</pubDate>
+      <description>2026-10-03 · Alter Schlachthof,  Wels · Oberösterreich · Line-up: LEFTOVERS → LEFTOVERS · LEBER</description>
+    </item>
     <item>
       <title>Geändert: GRENZKONTROLLE, The ZSA ZSA GABORS, SHEEPFIELD, EHRENLOS &amp; EIERLOS – Wels</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f745f31a637f298eb152-1</link>

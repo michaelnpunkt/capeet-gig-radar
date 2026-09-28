@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 27 Sep 2026 08:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LEFTOVERS, LEBER – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a5fdfba7c79c24d02c7b-1</link>
+      <guid isPermaLink="false">a5fdfba7c79c24d02c7b:1</guid>
+      <pubDate>Mon, 28 Sep 2026 08:42:26 +0000</pubDate>
+      <description>2026-10-03 · Alter Schlachthof,  Wels · Oberösterreich · Line-up: LEFTOVERS → LEFTOVERS · LEBER</description>
+    </item>
     <item>
       <title>Geändert: DELI GIRLS, RENT – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a83104b71f398742439e-2</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">2aa9d36836133e479d44:2</guid>
       <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
       <description>2026-10-15 · Flucc Wanne,  Wien · Wien · Line-up: Die VERLIERER → Die VERLIERER · STUHLKREIS</description>
-    </item>
-    <item>
-      <title>Geändert: The DARTS, TOPSY TURVY – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ce6ff0f7430b3a9b9d9a-2</link>
-      <guid isPermaLink="false">ce6ff0f7430b3a9b9d9a:2</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2026-11-13 · B72,  Wien · Wien · Line-up: The DARTS → The DARTS · TOPSY TURVY · Titel: – → Voodoo Hop</description>
     </item>
   </channel>
 </rss>

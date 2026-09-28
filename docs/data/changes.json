@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-09-27T08:11:59.108398+00:00",
+  "generated_at": "2026-09-28T08:42:26.732175+00:00",
   "revisions": [
+    {
+      "anchor": "change-a5fdfba7c79c24d02c7b-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LEFTOVERS"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEFTOVERS"
+            },
+            {
+              "name": "LEBER"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-28T08:42:26.732175+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/LeftoversUnofficial",
+            "name": "LEFTOVERS"
+          },
+          {
+            "country": null,
+            "link": "https://leberpunk.bandcamp.com/",
+            "name": "LEBER"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-28T08:42:26.732175+00:00",
+        "city": "Wels",
+        "event_date": "2026-10-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "a5fdfba7c79c24d02c7b",
+        "last_seen_at": "2026-09-28T08:42:26.732175+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.facebook.com/LeftoversUnofficial"
+          },
+          {
+            "label": "LEBER",
+            "url": "https://leberpunk.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.schlachthofwels.at/programm/detail/leftovers-stadion-tour-2026"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.10.: LEFTOVERS / LEBER @ Alter Schlachthof, Wels [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Alter Schlachthof"
+      },
+      "event_id": "a5fdfba7c79c24d02c7b",
+      "guid": "a5fdfba7c79c24d02c7b:1",
+      "kind": "changed",
+      "revision": 1
+    },
     {
       "anchor": "change-a83104b71f398742439e-2",
       "changes": {
