@@ -1,6 +1,1087 @@
 {
-  "generated_at": "2026-09-28T08:42:26.732175+00:00",
+  "generated_at": "2026-09-29T08:32:15.627706+00:00",
   "revisions": [
+    {
+      "anchor": "change-fae2dd341b4048795e27-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SALABAKTER"
+            },
+            {
+              "name": "LÁZ"
+            },
+            {
+              "name": "HARSH RESPONSE"
+            }
+          ],
+          "to": [
+            {
+              "name": "SALABAKTER"
+            },
+            {
+              "name": "HARSH RESPONSE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "HUN",
+            "link": "https://salabakter.bandcamp.com/",
+            "name": "SALABAKTER"
+          },
+          {
+            "country": null,
+            "link": "https://harshresponse.bandcamp.com/",
+            "name": "HARSH RESPONSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-02",
+        "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "fae2dd341b4048795e27",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "SALABAKTER",
+            "url": "https://salabakter.bandcamp.com/"
+          },
+          {
+            "label": "HARSH RESPONSE",
+            "url": "https://harshresponse.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "02.10.: SALABAKTER (hun) / HARSH RESPONSE @ Secret Location, Wien [LÁZ cancelled.]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "fae2dd341b4048795e27",
+      "guid": "fae2dd341b4048795e27:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-506d2b85b4c880a8a0ea-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/wilmna_band/",
+            "name": "WILMNA"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/bonobo.chessclub/",
+            "name": "BONOBO CHESS CLUB"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/disco.vertigo/",
+            "name": "DISCO VERTIGO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-10",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "506d2b85b4c880a8a0ea",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "WILMNA",
+            "url": "https://www.instagram.com/wilmna_band/"
+          },
+          {
+            "label": "BONOBO CHESS CLUB",
+            "url": "https://www.instagram.com/bonobo.chessclub/"
+          },
+          {
+            "label": "DISCO VERTIGO",
+            "url": "https://www.instagram.com/disco.vertigo/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.10.: WILMNA / BONOBO CHESS CLUB / DISCO VERTIGO @ Pickwick's, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Pickwick's"
+      },
+      "event_id": "506d2b85b4c880a8a0ea",
+      "guid": "506d2b85b4c880a8a0ea:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c7ee1326ac30959f65e5-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": null,
+            "name": "DRUNKEN SWALLOWS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "STAY BOUND"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-11",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c7ee1326ac30959f65e5",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.10.: DRUNKEN SWALLOWS (d) / STAY BOUND @ Loop, Wien [cancelled.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Loop"
+      },
+      "event_id": "c7ee1326ac30959f65e5",
+      "guid": "c7ee1326ac30959f65e5:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9ff63245b172c54d5ab5-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/magnolian.moods",
+            "name": "MAGNOLIAN MOODS"
+          },
+          {
+            "country": "HUN",
+            "link": "https://www.instagram.com/shakartrio/",
+            "name": "SHAKAR TRIO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-16",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9ff63245b172c54d5ab5",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "MAGNOLIAN MOODS",
+            "url": "https://www.instagram.com/magnolian.moods"
+          },
+          {
+            "label": "SHAKAR TRIO",
+            "url": "https://www.instagram.com/shakartrio/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.10.: MAGNOLIAN MOODS / SHAKAR TRIO (hun) @ Loop, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Loop"
+      },
+      "event_id": "9ff63245b172c54d5ab5",
+      "guid": "9ff63245b172c54d5ab5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-947d62d0dbc9013068a9-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://deviatedinstinct.bandcamp.com/",
+            "name": "DEVIATED INSTINCT"
+          },
+          {
+            "country": null,
+            "link": "https://kvalsludge.bandcamp.com/",
+            "name": "KVAL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Bregenz",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "947d62d0dbc9013068a9",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "DEVIATED INSTINCT",
+            "url": "https://deviatedinstinct.bandcamp.com/"
+          },
+          {
+            "label": "KVAL",
+            "url": "https://kvalsludge.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1608496014079834/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: DEVIATED INSTINCT (uk) / KVAL @ Between, Bregenz [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Between"
+      },
+      "event_id": "947d62d0dbc9013068a9",
+      "guid": "947d62d0dbc9013068a9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3f93c6fa563b84c6c0ed-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://deathrite.bandcamp.com/",
+            "name": "DEATHRITE"
+          },
+          {
+            "country": "D",
+            "link": "https://razewiththedevil.bandcamp.com/",
+            "name": "RAZE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Feldkirch",
+        "event_date": "2026-10-19",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "3f93c6fa563b84c6c0ed",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "DEATHRITE",
+            "url": "https://deathrite.bandcamp.com/"
+          },
+          {
+            "label": "RAZE",
+            "url": "https://razewiththedevil.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1079154428181099/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.10.: DEATHRITE (d) / RAZE (d) @ Antiquariat Chybulski, Feldkirch [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Antiquariat Chybulski"
+      },
+      "event_id": "3f93c6fa563b84c6c0ed",
+      "guid": "3f93c6fa563b84c6c0ed:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-341770a5e0f518fa434a-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/fragrant_sweat/",
+            "name": "FRAGRANT SWEAT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/disco.vertigo/",
+            "name": "DISCO VERTIGO"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/metak.official/",
+            "name": "METAK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-25",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "341770a5e0f518fa434a",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "FRAGRANT SWEAT",
+            "url": "https://www.instagram.com/fragrant_sweat/"
+          },
+          {
+            "label": "DISCO VERTIGO",
+            "url": "https://www.instagram.com/disco.vertigo/"
+          },
+          {
+            "label": "METAK",
+            "url": "https://www.instagram.com/metak.official/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2947978438878113"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.10.: FRAGRANT SWEAT / DISCO VERTIGO / METAK @ Loop, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Loop"
+      },
+      "event_id": "341770a5e0f518fa434a",
+      "guid": "341770a5e0f518fa434a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c6fc543a2734416a6c20-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://wearewrex.bandcamp.com/",
+            "name": "WREX"
+          },
+          {
+            "country": null,
+            "link": "https://allhandsdown.bandcamp.com/",
+            "name": "ALL-HANDS DOWN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Feldkirch",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "c6fc543a2734416a6c20",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "WREX",
+            "url": "https://wearewrex.bandcamp.com/"
+          },
+          {
+            "label": "ALL-HANDS DOWN",
+            "url": "https://allhandsdown.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/3492334440924823/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: WREX (uk) / ALL-HANDS DOWN @ Antiquariat Chybulski, Feldkirch [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Antiquariat Chybulski"
+      },
+      "event_id": "c6fc543a2734416a6c20",
+      "guid": "c6fc543a2734416a6c20:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1119b16f90faedc0545c-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/BZFOS",
+            "name": "BLOODSUCKING ZOMBIES FROM OUTER SPACE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Hollabrunn",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "1119b16f90faedc0545c",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "BLOODSUCKING ZOMBIES FROM OUTER SPACE",
+            "url": "https://www.facebook.com/BZFOS"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: BLOODSUCKING ZOMBIES FROM OUTER SPACE @ Alter Schlachthof, Hollabrunn",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Alter Schlachthof"
+      },
+      "event_id": "1119b16f90faedc0545c",
+      "guid": "1119b16f90faedc0545c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f973f1d33d6587951322-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://cringeblizzard.bandcamp.com/",
+            "name": "CRINGE BLIZZARD"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/cheapshot.hc/",
+            "name": "CHEAP$HOT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/reflection_of_destiny_/",
+            "name": "REFLECTION OF DESTINY"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/horobi_official/",
+            "name": "HOROBI"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f973f1d33d6587951322",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "CRINGE BLIZZARD",
+            "url": "https://cringeblizzard.bandcamp.com/"
+          },
+          {
+            "label": "CHEAP$HOT",
+            "url": "https://www.instagram.com/cheapshot.hc/"
+          },
+          {
+            "label": "REFLECTION OF DESTINY",
+            "url": "https://www.instagram.com/reflection_of_destiny_/"
+          },
+          {
+            "label": "HOROBI",
+            "url": "https://www.instagram.com/horobi_official/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: CRINGE BLIZZARD / CHEAP$HOT / REFLECTION OF DESTINY / HOROBI @ Kulturcafé Schlachthaus, Dornbirn",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "f973f1d33d6587951322",
+      "guid": "f973f1d33d6587951322:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-13602db6660e45a41d5e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MESS"
+            }
+          ],
+          "to": [
+            {
+              "name": "MESS"
+            },
+            {
+              "name": "PRESSURE DROP"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "MEX",
+            "link": "https://messtheterribles.bandcamp.com/",
+            "name": "MESS"
+          },
+          {
+            "country": null,
+            "link": "https://pressure-drop.bandcamp.com/",
+            "name": "PRESSURE DROP"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-17",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "13602db6660e45a41d5e",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "MESS",
+            "url": "https://messtheterribles.bandcamp.com/"
+          },
+          {
+            "label": "PRESSURE DROP",
+            "url": "https://pressure-drop.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1007708218613754/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.11.: MESS (mex) / PRESSURE DROP @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "13602db6660e45a41d5e",
+      "guid": "13602db6660e45a41d5e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ea643e19b2af2c2e60cd-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://calorisimpact.bandcamp.com/",
+            "name": "CALORIS IMPACT"
+          },
+          {
+            "country": null,
+            "link": "https://six-score-grindcore.bandcamp.com/",
+            "name": "SIX-SCORE"
+          },
+          {
+            "country": null,
+            "link": "https://tuttidilemma.bandcamp.com/",
+            "name": "TUTTI DILEMMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "ea643e19b2af2c2e60cd",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "CALORIS IMPACT",
+            "url": "https://calorisimpact.bandcamp.com/"
+          },
+          {
+            "label": "SIX-SCORE",
+            "url": "https://six-score-grindcore.bandcamp.com/"
+          },
+          {
+            "label": "TUTTI DILEMMA",
+            "url": "https://tuttidilemma.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1639783501053799/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: CALORIS IMPACT / SIX-SCORE / TUTTI DILEMMA @ Music-House, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "ea643e19b2af2c2e60cd",
+      "guid": "ea643e19b2af2c2e60cd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-183f5bf6b82b7f95cd48-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.desertedfear.de/",
+            "name": "DESERTED FEAR"
+          },
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/manusmortisofficial",
+            "name": "MANUS MORTIS"
+          },
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/lamagrametal/",
+            "name": "LAMAGRA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "183f5bf6b82b7f95cd48",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "DESERTED FEAR",
+            "url": "https://www.desertedfear.de/"
+          },
+          {
+            "label": "MANUS MORTIS",
+            "url": "https://www.facebook.com/manusmortisofficial"
+          },
+          {
+            "label": "LAMAGRA",
+            "url": "https://www.facebook.com/lamagrametal/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/806819019188178/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: DESERTED FEAR (d) / MANUS MORTIS (d) / LAMAGRA (d) @ Kulturcafé Schlachthaus, Dornbirn [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturcafé Schlachthaus"
+      },
+      "event_id": "183f5bf6b82b7f95cd48",
+      "guid": "183f5bf6b82b7f95cd48:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ac507922eda39dd06a64-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.instagram.com/1986band/",
+            "name": "1986"
+          },
+          {
+            "country": "ITA",
+            "link": "https://barbarossametal.bandcamp.com/",
+            "name": "BARBAROSSA"
+          },
+          {
+            "country": "ITA",
+            "link": "https://officialnorsemen.bandcamp.com/",
+            "name": "NORSEMEN"
+          },
+          {
+            "country": "SLO",
+            "link": "https://www.instagram.com/blackcamoofficial",
+            "name": "BLACK CAMO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-29",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ac507922eda39dd06a64",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "1986",
+            "url": "https://www.instagram.com/1986band/"
+          },
+          {
+            "label": "BARBAROSSA",
+            "url": "https://barbarossametal.bandcamp.com/"
+          },
+          {
+            "label": "NORSEMEN",
+            "url": "https://officialnorsemen.bandcamp.com/"
+          },
+          {
+            "label": "BLACK CAMO",
+            "url": "https://www.instagram.com/blackcamoofficial"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.11.: 1986 (uk) / BARBAROSSA (ita) / NORSEMEN (ita) / BLACK CAMO (slo) @ Replugged, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Replugged"
+      },
+      "event_id": "ac507922eda39dd06a64",
+      "guid": "ac507922eda39dd06a64:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e7aaa942bd2973dcd176-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/praeyamusic/",
+            "name": "PRÆYA"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/cursedbythefallen/",
+            "name": "CURSED BY THE FALLEN"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=100086991435351",
+            "name": "TREMBLING EARTH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Enns",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e7aaa942bd2973dcd176",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "PRÆYA",
+            "url": "https://www.instagram.com/praeyamusic/"
+          },
+          {
+            "label": "CURSED BY THE FALLEN",
+            "url": "https://www.facebook.com/cursedbythefallen/"
+          },
+          {
+            "label": "TREMBLING EARTH",
+            "url": "https://www.facebook.com/profile.php?id=100086991435351"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/994280490341888"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: PRÆYA / CURSED BY THE FALLEN / TREMBLING EARTH @ d'Zuckerfabrik, Enns [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "d'Zuckerfabrik"
+      },
+      "event_id": "e7aaa942bd2973dcd176",
+      "guid": "e7aaa942bd2973dcd176:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e86890acdf73be6248d6-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.bulletformyvalentine.com/",
+            "name": "BULLET FOR MY VALENTINE"
+          },
+          {
+            "country": "UK",
+            "link": "https://pendulum.com/",
+            "name": "PENDULUM"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/darkdivineofficial/",
+            "name": "DARK DIVINE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "e86890acdf73be6248d6",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "BULLET FOR MY VALENTINE",
+            "url": "https://www.bulletformyvalentine.com/"
+          },
+          {
+            "label": "PENDULUM",
+            "url": "https://pendulum.com/"
+          },
+          {
+            "label": "DARK DIVINE",
+            "url": "https://www.instagram.com/darkdivineofficial/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1698300701267318"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: BULLET FOR MY VALENTINE (uk) / PENDULUM (uk) / DARK DIVINE (usa) @ Stadthalle, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadthalle"
+      },
+      "event_id": "e86890acdf73be6248d6",
+      "guid": "e86890acdf73be6248d6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e8770954daaad86780af-1",
+      "changes": {},
+      "detected_at": "2026-09-29T08:32:15.627706+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.hotwatermusic.com/",
+            "name": "HOT WATER MUSIC"
+          },
+          {
+            "country": "USA",
+            "link": "https://smallbrownbike.com/",
+            "name": "SMALL BROWN BIKE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-09-29T08:32:15.627706+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-19",
+        "first_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "e8770954daaad86780af",
+        "last_seen_at": "2026-09-29T08:32:15.627706+00:00",
+        "links": [
+          {
+            "label": "HOT WATER MUSIC",
+            "url": "https://www.hotwatermusic.com/"
+          },
+          {
+            "label": "SMALL BROWN BIKE",
+            "url": "https://smallbrownbike.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.04.: HOT WATER MUSIC (usa) / SMALL BROWN BIKE (usa) @ Arena (gr. Halle), Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "e8770954daaad86780af",
+      "guid": "e8770954daaad86780af:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-a5fdfba7c79c24d02c7b-1",
       "changes": {

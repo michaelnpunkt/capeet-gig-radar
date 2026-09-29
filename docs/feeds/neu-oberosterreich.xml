@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PRÆYA, CURSED BY THE FALLEN, TREMBLING EARTH – Enns</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7aaa942bd2973dcd176-1</link>
+      <guid isPermaLink="false">e7aaa942bd2973dcd176:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-12-11 · d'Zuckerfabrik,  Enns · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: LEFTOVERS, LEBER – Wels</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a5fdfba7c79c24d02c7b-1</link>

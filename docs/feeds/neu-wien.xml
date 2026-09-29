@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: SALABAKTER, HARSH RESPONSE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fae2dd341b4048795e27-2</link>
+      <guid isPermaLink="false">fae2dd341b4048795e27:2</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-02 · Secret Location,  Wien · Wien · Line-up: SALABAKTER · LÁZ · HARSH RESPONSE → SALABAKTER · HARSH RESPONSE</description>
+    </item>
+    <item>
+      <title>Neu: WILMNA, BONOBO CHESS CLUB, DISCO VERTIGO – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-506d2b85b4c880a8a0ea-1</link>
+      <guid isPermaLink="false">506d2b85b4c880a8a0ea:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-10 · Pickwick's,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Abgesagt: DRUNKEN SWALLOWS, STAY BOUND – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c7ee1326ac30959f65e5-1</link>
+      <guid isPermaLink="false">c7ee1326ac30959f65e5:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-11 · Loop,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: MAGNOLIAN MOODS, SHAKAR TRIO – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9ff63245b172c54d5ab5-1</link>
+      <guid isPermaLink="false">9ff63245b172c54d5ab5:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-16 · Loop,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: FRAGRANT SWEAT, DISCO VERTIGO, METAK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-341770a5e0f518fa434a-1</link>
+      <guid isPermaLink="false">341770a5e0f518fa434a:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-25 · Loop,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: MESS, PRESSURE DROP – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-13602db6660e45a41d5e-1</link>
+      <guid isPermaLink="false">13602db6660e45a41d5e:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-11-17 · Arena (DreiRaum),  Wien · Wien · Line-up: MESS → MESS · PRESSURE DROP</description>
+    </item>
+    <item>
+      <title>Neu: 1986, BARBAROSSA, NORSEMEN, BLACK CAMO – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ac507922eda39dd06a64-1</link>
+      <guid isPermaLink="false">ac507922eda39dd06a64:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-11-29 · Replugged,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: BULLET FOR MY VALENTINE, PENDULUM, DARK DIVINE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e86890acdf73be6248d6-1</link>
+      <guid isPermaLink="false">e86890acdf73be6248d6:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2027-02-13 · Stadthalle,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HOT WATER MUSIC, SMALL BROWN BIKE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8770954daaad86780af-1</link>
+      <guid isPermaLink="false">e8770954daaad86780af:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2027-04-19 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: DELI GIRLS, RENT – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a83104b71f398742439e-2</link>
@@ -643,69 +706,6 @@
       <guid isPermaLink="false">6292fc011efd05d060d4:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-09-23 · Chelsea,  Wien · Wien · Status: angekündigt → abgesagt</description>
-    </item>
-    <item>
-      <title>Neu: BONJOURTROPFEN, WORTVEHLA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c9fcb17064aee29b4f3f-1</link>
-      <guid isPermaLink="false">c9fcb17064aee29b4f3f:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-10-02 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: NADSAT, THOSAR, BUM SHELTER, TRUUDE HERR – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-27bafbc4d023a4b47283-1</link>
-      <guid isPermaLink="false">27bafbc4d023a4b47283:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-10-08 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: DESOLAT, ZxUxA, VOMITS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2c993d37af794b1bbbd-1</link>
-      <guid isPermaLink="false">c2c993d37af794b1bbbd:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-10-16 · Venster,  Wien · Wien · Line-up: DESOLAT → DESOLAT · ZxUxA · VOMITS</description>
-    </item>
-    <item>
-      <title>Neu: DRINK THE SEA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9a3edbd7b7b734183e34-1</link>
-      <guid isPermaLink="false">9a3edbd7b7b734183e34:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-10-26 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: GENERATION EXIT, RED AT NIGHT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5ee6b33fb393b257ba6e-1</link>
-      <guid isPermaLink="false">5ee6b33fb393b257ba6e:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-11-12 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: H.P. ZINKER, SCARABEUSDREAM – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4f739db6fe8237da60e4-1</link>
-      <guid isPermaLink="false">4f739db6fe8237da60e4:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-11-24 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: TV Smith, The CLASHINISTAS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-562a486e37c5cfb9789f-1</link>
-      <guid isPermaLink="false">562a486e37c5cfb9789f:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-11-25 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: KOMMANDO ELEFANT, DAS SCHOTTISCHE PRINZIP – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1a709132d26aa266564f-1</link>
-      <guid isPermaLink="false">1a709132d26aa266564f:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-11-27 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FRANZ FUEXE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4636f07b386ced9a82e2-1</link>
-      <guid isPermaLink="false">4636f07b386ced9a82e2:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-03 · Chelsea,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

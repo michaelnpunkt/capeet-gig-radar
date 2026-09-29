@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: DEVIATED INSTINCT, KVAL – Bregenz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-947d62d0dbc9013068a9-1</link>
+      <guid isPermaLink="false">947d62d0dbc9013068a9:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-17 · Between,  Bregenz · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: DEATHRITE, RAZE – Feldkirch</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3f93c6fa563b84c6c0ed-1</link>
+      <guid isPermaLink="false">3f93c6fa563b84c6c0ed:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-19 · Antiquariat Chybulski,  Feldkirch · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: WREX, ALL-HANDS DOWN – Feldkirch</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c6fc543a2734416a6c20-1</link>
+      <guid isPermaLink="false">c6fc543a2734416a6c20:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-10-30 · Antiquariat Chybulski,  Feldkirch · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: CRINGE BLIZZARD, CHEAP$HOT, REFLECTION OF DESTINY, HOROBI – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f973f1d33d6587951322-1</link>
+      <guid isPermaLink="false">f973f1d33d6587951322:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-11-14 · Kulturcafé Schlachthaus,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: DESERTED FEAR, MANUS MORTIS, LAMAGRA – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-183f5bf6b82b7f95cd48-1</link>
+      <guid isPermaLink="false">183f5bf6b82b7f95cd48:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-11-28 · Kulturcafé Schlachthaus,  Dornbirn · Vorarlberg</description>
+    </item>
     <item>
       <title>Neu: MAYA ONGAKU, TOPSY TURVY, LAUNDROMAT CHICKS – Dornbirn</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-80bd893b22c7ec1e9cb5-1</link>

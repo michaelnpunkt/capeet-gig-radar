@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: CALORIS IMPACT, SIX-SCORE, TUTTI DILEMMA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ea643e19b2af2c2e60cd-1</link>
+      <guid isPermaLink="false">ea643e19b2af2c2e60cd:1</guid>
+      <pubDate>Tue, 29 Sep 2026 08:32:15 +0000</pubDate>
+      <description>2026-11-21 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: LEFTOVERS, PURPLE – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f595930b28bb70a69221-1</link>

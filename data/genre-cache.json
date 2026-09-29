@@ -27,6 +27,12 @@
       "Doom Metal"
     ]
   },
+  "1986": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "200 stab wounds": {
     "classifier_version": 2,
     "family": "Metal",
@@ -343,6 +349,12 @@
   "alive inside": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "all hands down": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "all misery": {
@@ -953,6 +965,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "barbarossa": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "barchen und die milchbubis": {
     "classifier_version": 2,
     "family": "Punk",
@@ -1182,6 +1200,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "black camo": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "black energy": {
     "classifier_version": 2,
@@ -1499,6 +1523,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "bullet for my valentine": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "bulletproof": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -1550,6 +1582,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "caloris impact": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
   },
   "calumet cult": {
     "classifier_version": 2,
@@ -2068,6 +2108,12 @@
       "Death Metal"
     ]
   },
+  "cringe blizzard": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "cromulents": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2151,6 +2197,15 @@
       "Metalcore"
     ]
   },
+  "cursed by the fallen": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Death Metal"
+    ]
+  },
   "cut manners": {
     "family": "Punk",
     "source": "lastfm",
@@ -2219,6 +2274,14 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "dark divine": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "dark thoughts": {
     "family": "Punk",
@@ -2524,6 +2587,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "deserted fear": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "desolat": {
     "family": "Punk",
     "source": "lastfm",
@@ -2700,6 +2771,12 @@
     "subgenres": [
       "Crust Punk"
     ]
+  },
+  "disco vertigo": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "discopowerboxxx": {
     "classifier_version": 2,
@@ -3738,6 +3815,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "fragrant sweat": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "francis of delirium": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -4736,11 +4819,25 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "horobi": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "horror vacui": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
     "subgenres": [
       "Post-Punk"
+    ]
+  },
+  "hot water music": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
     ]
   },
   "hrgert": {
@@ -5760,6 +5857,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lamagra": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "lamb of god": {
     "classifier_version": 2,
     "family": "Metal",
@@ -6342,6 +6445,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "magnolian moods": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "maid of ace": {
     "family": "Punk",
     "source": "lastfm",
@@ -6452,6 +6561,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "manus mortis": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
   },
   "marc euvrie": {
     "classifier_version": 2,
@@ -6678,6 +6795,12 @@
     ]
   },
   "mess": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "metak": {
+    "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
@@ -7363,6 +7486,14 @@
       "Doom Metal"
     ]
   },
+  "norsemen": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "north of ljubljana": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7809,6 +7940,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "pendulum": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "per noctem et nebulam": {
     "family": "Metal",
     "source": "lastfm",
@@ -8123,6 +8260,12 @@
       "Hardcore Punk"
     ]
   },
+  "prya": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "pryne": {
     "family": "Metal",
     "source": "lastfm",
@@ -8349,6 +8492,12 @@
     "subgenres": []
   },
   "red at night": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "reflection of destiny": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -8894,6 +9043,12 @@
       "Death Metal"
     ]
   },
+  "shakar trio": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "shandon": {
     "family": "Punk",
     "source": "lastfm",
@@ -9136,6 +9291,14 @@
     "source": "lastfm",
     "subgenres": [
       "Industrial"
+    ]
+  },
+  "small brown bike": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
     ]
   },
   "small hours": {
