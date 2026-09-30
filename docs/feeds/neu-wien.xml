@@ -5,8 +5,92 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:35:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: GOD MOTHER, OBSTRUKTION – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e25c4cc3fb87c5c0732d-2</link>
+      <guid isPermaLink="false">e25c4cc3fb87c5c0732d:2</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-14 · Escape Venster,  Wien · Wien · Venue: Escape → Escape Venster</description>
+    </item>
+    <item>
+      <title>Geändert: TIMESHIFT, STONETREE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-2</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:2</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien · Line-up: ULTRA SUNN · Sydney Valette · SAD MADONA → TIMESHIFT · STONETREE · Status: abgesagt → angekündigt</description>
+    </item>
+    <item>
+      <title>Geändert: The LEMON TWIGS, PLASTIC FAMILY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e307de53636809e4ca52-1</link>
+      <guid isPermaLink="false">e307de53636809e4ca52:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-09-30 · Flex,  Wien · Wien · Line-up: The LEMON TWIGS → The LEMON TWIGS · PLASTIC FAMILY</description>
+    </item>
+    <item>
+      <title>Geändert: BLUTHUND, STREET TO THE OCEAN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5c19b8141561ce38a24b-1</link>
+      <guid isPermaLink="false">5c19b8141561ce38a24b:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-01 · Viper Room,  Wien · Wien · Line-up: BLUTHUND · ZOMBIEZ → BLUTHUND · STREET TO THE OCEAN</description>
+    </item>
+    <item>
+      <title>Geändert: HAKEN, IHLO, IONS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-965b6f51347fa87a17fb-1</link>
+      <guid isPermaLink="false">965b6f51347fa87a17fb:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-01 · Simm City,  Wien · Wien · Line-up: HAKEN → HAKEN · IHLO · IONS</description>
+    </item>
+    <item>
+      <title>Neu: DRØVER, VERITATE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2de0fffec10a60a0227d-1</link>
+      <guid isPermaLink="false">2de0fffec10a60a0227d:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-09 · Weberknecht,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: GEHÖRSTURZ, VENT!L – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b31b6cc2bae3a63d52ef-1</link>
+      <guid isPermaLink="false">b31b6cc2bae3a63d52ef:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-23 · TüWi,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HYPNOTIC FLOOR, Kevin 12 Volt &amp; The CRISIS BAND – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4dfcb90f441885fc5057-1</link>
+      <guid isPermaLink="false">4dfcb90f441885fc5057:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-29 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LOVABLE LOSERS, IRON OVERKILL, Othmar Fischer Ramone – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-841e4b6befe47e8b6f3b-1</link>
+      <guid isPermaLink="false">841e4b6befe47e8b6f3b:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-11-20 · Arena-Beisl,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: BRUTAL SPHINCTER, SLAUGHTERCULT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3efbcd54461f02e16cb7-1</link>
+      <guid isPermaLink="false">3efbcd54461f02e16cb7:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-11-26 · Escape,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Adam Green, Turner Cody &amp; The SOLDIERS OF LOVE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-eaece1b4a009298dc32b-1</link>
+      <guid isPermaLink="false">eaece1b4a009298dc32b:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2027-02-20 · Flex,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: SALABAKTER, HARSH RESPONSE – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fae2dd341b4048795e27-2</link>
@@ -622,90 +706,6 @@
       <guid isPermaLink="false">5578bb06f5decc401ad4:1</guid>
       <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
       <description>2026-11-16 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BEAKS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-82258733c0883f7334c3-1</link>
-      <guid isPermaLink="false">82258733c0883f7334c3:1</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2026-11-21 · Kaorle OWA,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PAIN OF TRUTH, BIG BOY, HEADBUSSA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-69d7de0b6c21eb48e53f-1</link>
-      <guid isPermaLink="false">69d7de0b6c21eb48e53f:1</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2027-02-10 · Arena (gr. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ALMOST MONDAY – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f153341bfdca609b285e-1</link>
-      <guid isPermaLink="false">f153341bfdca609b285e:1</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2027-02-13 · Flex,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FROZEN SOUL, DARKEST HOUR, DENIAL OF LIFE, DETHRONED – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a61d519cc3fe69584d05-1</link>
-      <guid isPermaLink="false">a61d519cc3fe69584d05:1</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2027-02-16 · Szene,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: LEBANON HANOVER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-64514c13825514d0e40a-1</link>
-      <guid isPermaLink="false">64514c13825514d0e40a:1</guid>
-      <pubDate>Thu, 17 Sep 2026 07:41:07 +0000</pubDate>
-      <description>2027-03-03 · Flex,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: SPLIT SYSTEM, BROWER, METALLEG – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-25c23fa0371b1f338423-2</link>
-      <guid isPermaLink="false">25c23fa0371b1f338423:2</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-30 · Arena (DreiRaum),  Wien · Wien · Venue: Arena → Arena (DreiRaum)</description>
-    </item>
-    <item>
-      <title>Geändert: NAKED LUNCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b3cd9ef29b7e21932a03-2</link>
-      <guid isPermaLink="false">b3cd9ef29b7e21932a03:2</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-11-26 · Chelsea,  Wien · Wien · Line-up: DRINK THE SEA → NAKED LUNCH</description>
-    </item>
-    <item>
-      <title>Neu: Marco Döttlinger &amp; Patrik Lechner – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4b5d7344553a1a92a767-1</link>
-      <guid isPermaLink="false">4b5d7344553a1a92a767:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-16 · Koje,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SLOW SLOW LORIS, Félicie Bazelaire – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8bd9ee65209d459ba38a-1</link>
-      <guid isPermaLink="false">8bd9ee65209d459ba38a:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-17 · Koje,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Edén Carrasco &amp; Sara Zlanabitnig, Yuko Cornale &amp; Sofía Escamilla – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3499adc14edae87883bf-1</link>
-      <guid isPermaLink="false">3499adc14edae87883bf:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-20 · Koje,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: CARRAGEENAN, Christophe Clébard – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-36e75f47ba7d20a79a61-1</link>
-      <guid isPermaLink="false">36e75f47ba7d20a79a61:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-22 · Koje,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Abgesagt: СОЮЗ (SOYUZ) – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6292fc011efd05d060d4-1</link>
-      <guid isPermaLink="false">6292fc011efd05d060d4:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-23 · Chelsea,  Wien · Wien · Status: angekündigt → abgesagt</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:35:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: JIGSAW BEGGARS, THOSAR – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e092db96e28b45a1801b-1</link>
+      <guid isPermaLink="false">e092db96e28b45a1801b:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-11-28 · p.p.c.,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: CALORIS IMPACT, SIX-SCORE, TUTTI DILEMMA – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ea643e19b2af2c2e60cd-1</link>

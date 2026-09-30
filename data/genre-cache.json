@@ -187,6 +187,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "adam green": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "adenocarcinoma": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1489,6 +1495,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "brutal sphincter": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "brutal verschimmelt": {
     "family": "Punk",
     "source": "lastfm",
@@ -2569,6 +2584,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "der singende bronco": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "der weg einer freiheit": {
     "family": "Metal",
     "source": "lastfm",
@@ -2974,6 +2995,14 @@
     "family": "Punk",
     "source": "lastfm",
     "subgenres": []
+  },
+  "drver": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "dryba": {
     "classifier_version": 2,
@@ -4342,6 +4371,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "gruppensex": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "gspusi": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4891,8 +4926,20 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "hundefutter": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "hyperdog": {
     "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "hypnotic floor": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -4989,6 +5036,12 @@
       "Melodic Hardcore",
       "Hardcore Punk"
     ]
+  },
+  "ihlo": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
   },
   "ikan hyu": {
     "family": "Punk",
@@ -5158,10 +5211,22 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "ions": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "irokase": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "iron overkill": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "iron snag joe": {
@@ -5500,6 +5565,12 @@
     "subgenres": []
   },
   "keshvara": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "kevin 12 volt the crisis band": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -7727,6 +7798,12 @@
       "Industrial"
     ]
   },
+  "othmar fischer ramone": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "our ceasing voice": {
     "classifier_version": 2,
     "family": "Rock",
@@ -8064,6 +8141,12 @@
     "subgenres": [
       "Grindcore"
     ]
+  },
+  "plastic family": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "plastikstrom": {
     "classifier_version": 2,
@@ -9231,6 +9314,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "slaughtercult": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
   "sleaford mods": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -9739,6 +9831,12 @@
   },
   "stone sober": {
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "stonetree": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -11056,6 +11154,12 @@
       "Sludge Metal"
     ]
   },
+  "turner cody the soldiers of love": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "tutti dilemma": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11344,6 +11448,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "vent l": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "venusasaboi": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11355,6 +11467,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "veritate": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Thrash Metal"
+    ]
   },
   "verkauf musique": {
     "classifier_version": 2,

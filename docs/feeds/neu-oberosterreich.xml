@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:35:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: LEBER, GRUPPENSEX – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-94940fbdd21be946250e-1</link>
+      <guid isPermaLink="false">94940fbdd21be946250e:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-02 · Stadtwerkstatt,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: HUNDEFUTTER, Der singende Bronco – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e3f931ddc15cce6a9a8b-1</link>
+      <guid isPermaLink="false">e3f931ddc15cce6a9a8b:1</guid>
+      <pubDate>Wed, 30 Sep 2026 08:35:18 +0000</pubDate>
+      <description>2026-10-08 · Stadtwerkstatt,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: PRÆYA, CURSED BY THE FALLEN, TREMBLING EARTH – Enns</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7aaa942bd2973dcd176-1</link>

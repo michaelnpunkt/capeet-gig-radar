@@ -32524,5 +32524,927 @@
     "guid": "e8770954daaad86780af:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The LEMON TWIGS"
+          }
+        ],
+        "to": [
+          {
+            "name": "The LEMON TWIGS"
+          },
+          {
+            "name": "PLASTIC FAMILY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.thelemontwigs.com/",
+          "name": "The LEMON TWIGS"
+        },
+        {
+          "country": "NED",
+          "link": "https://plasticfamily.bandcamp.com/",
+          "name": "PLASTIC FAMILY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-09-30",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e307de53636809e4ca52",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "The LEMON TWIGS",
+          "url": "https://www.thelemontwigs.com/"
+        },
+        {
+          "label": "PLASTIC FAMILY",
+          "url": "https://plasticfamily.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2061619151431300/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.09.: The LEMON TWIGS (usa) / PLASTIC FAMILY (ned) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "e307de53636809e4ca52",
+    "guid": "e307de53636809e4ca52:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BLUTHUND"
+          },
+          {
+            "name": "ZOMBIEZ"
+          }
+        ],
+        "to": [
+          {
+            "name": "BLUTHUND"
+          },
+          {
+            "name": "STREET TO THE OCEAN"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://bluthund.de/",
+          "name": "BLUTHUND"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/streettotheocean/",
+          "name": "STREET TO THE OCEAN"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-01",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "5c19b8141561ce38a24b",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "BLUTHUND",
+          "url": "https://bluthund.de/"
+        },
+        {
+          "label": "STREET TO THE OCEAN",
+          "url": "https://www.facebook.com/streettotheocean/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/672993869213620/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.10.: BLUTHUND (d) / STREET TO THE OCEAN @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "5c19b8141561ce38a24b",
+    "guid": "5c19b8141561ce38a24b:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "HAKEN"
+          }
+        ],
+        "to": [
+          {
+            "name": "HAKEN"
+          },
+          {
+            "name": "IHLO"
+          },
+          {
+            "name": "IONS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.facebook.com/HakenOfficial",
+          "name": "HAKEN"
+        },
+        {
+          "country": "UK",
+          "link": "https://ihlo.bandcamp.com/",
+          "name": "IHLO"
+        },
+        {
+          "country": "CZE",
+          "link": "https://ionsband.bandcamp.com/music",
+          "name": "IONS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-01",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "965b6f51347fa87a17fb",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "HAKEN",
+          "url": "https://www.facebook.com/HakenOfficial"
+        },
+        {
+          "label": "IHLO",
+          "url": "https://ihlo.bandcamp.com/"
+        },
+        {
+          "label": "IONS",
+          "url": "https://ionsband.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1479012576654135/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.10.: HAKEN (uk) / IHLO (uk) / IONS (cze) @ Simm City, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Simm City"
+    },
+    "event_id": "965b6f51347fa87a17fb",
+    "guid": "965b6f51347fa87a17fb:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://leberpunk.bandcamp.com/",
+          "name": "LEBER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gruppensex_band/",
+          "name": "GRUPPENSEX"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-02",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "94940fbdd21be946250e",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "LEBER",
+          "url": "https://leberpunk.bandcamp.com/"
+        },
+        {
+          "label": "GRUPPENSEX",
+          "url": "https://www.instagram.com/gruppensex_band/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://club.stwst.at/events/zecken-zeche/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.10.: LEBER / GRUPPENSEX @ Stadtwerkstatt, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtwerkstatt"
+    },
+    "event_id": "94940fbdd21be946250e",
+    "guid": "94940fbdd21be946250e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://hundefutter.bandcamp.com/",
+          "name": "HUNDEFUTTER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/dersingendebronco/",
+          "name": "Der singende Bronco"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-08",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e3f931ddc15cce6a9a8b",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "HUNDEFUTTER",
+          "url": "https://hundefutter.bandcamp.com/"
+        },
+        {
+          "label": "Der singende Bronco",
+          "url": "https://www.instagram.com/dersingendebronco/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://club.stwst.at/events/hundefutter/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.10.: HUNDEFUTTER (ch) / Der singende Bronco @ Stadtwerkstatt, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtwerkstatt"
+    },
+    "event_id": "e3f931ddc15cce6a9a8b",
+    "guid": "e3f931ddc15cce6a9a8b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/drvermuc/",
+          "name": "DRØVER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/veritate.official/",
+          "name": "VERITATE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-09",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "2de0fffec10a60a0227d",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "DRØVER",
+          "url": "https://www.instagram.com/drvermuc/"
+        },
+        {
+          "label": "VERITATE",
+          "url": "https://www.instagram.com/veritate.official/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/28090663590611819/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.10.: DRØVER (d) / VERITATE @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "2de0fffec10a60a0227d",
+    "guid": "2de0fffec10a60a0227d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Escape",
+        "to": "Escape Venster"
+      }
+    },
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://godmothersverige.bandcamp.com/",
+          "name": "GOD MOTHER"
+        },
+        {
+          "country": "SWE",
+          "link": "https://obstruktion.bandcamp.com/",
+          "name": "OBSTRUKTION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-14",
+      "first_seen_at": "2026-08-19T03:11:47.510618+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore"
+        ]
+      },
+      "id": "e25c4cc3fb87c5c0732d",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "GOD MOTHER",
+          "url": "https://godmothersverige.bandcamp.com/"
+        },
+        {
+          "label": "OBSTRUKTION",
+          "url": "https://obstruktion.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "14.10.: GOD MOTHER (swe) / OBSTRUKTION (swe) @ Escape Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape Venster"
+    },
+    "event_id": "e25c4cc3fb87c5c0732d",
+    "guid": "e25c4cc3fb87c5c0732d:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gehoersturz.official/",
+          "name": "GEHÖRSTURZ"
+        },
+        {
+          "country": null,
+          "link": "https://vent1l.bandcamp.com/",
+          "name": "VENT!L"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "b31b6cc2bae3a63d52ef",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "GEHÖRSTURZ",
+          "url": "https://www.instagram.com/gehoersturz.official/"
+        },
+        {
+          "label": "VENT!L",
+          "url": "https://vent1l.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://tüwi.at/event/559"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.10.: GEHÖRSTURZ / VENT!L u.a. @ TüWi, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "TüWi"
+    },
+    "event_id": "b31b6cc2bae3a63d52ef",
+    "guid": "b31b6cc2bae3a63d52ef:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://hypnoticfloor.bandcamp.com/",
+          "name": "HYPNOTIC FLOOR"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Kevin 12 Volt & The CRISIS BAND"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-29",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4dfcb90f441885fc5057",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "HYPNOTIC FLOOR",
+          "url": "https://hypnoticfloor.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.10.: HYPNOTIC FLOOR / Kevin 12 Volt & The CRISIS BAND @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "4dfcb90f441885fc5057",
+    "guid": "4dfcb90f441885fc5057:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/_lovable_losers_/",
+          "name": "LOVABLE LOSERS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/iron.overkill/",
+          "name": "IRON OVERKILL"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Othmar Fischer Ramone"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "841e4b6befe47e8b6f3b",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "LOVABLE LOSERS",
+          "url": "https://www.instagram.com/_lovable_losers_/"
+        },
+        {
+          "label": "IRON OVERKILL",
+          "url": "https://www.instagram.com/iron.overkill/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1594334498627791/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: LOVABLE LOSERS / IRON OVERKILL / Othmar Fischer Ramone @ Arena-Beisl, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "841e4b6befe47e8b6f3b",
+    "guid": "841e4b6befe47e8b6f3b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "ULTRA SUNN"
+          },
+          {
+            "name": "Sydney Valette"
+          },
+          {
+            "name": "SAD MADONA"
+          }
+        ],
+        "to": [
+          {
+            "name": "TIMESHIFT"
+          },
+          {
+            "name": "STONETREE"
+          }
+        ]
+      },
+      "status": {
+        "from": "cancelled",
+        "to": "scheduled"
+      }
+    },
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/timeshift.band/",
+          "name": "TIMESHIFT"
+        },
+        {
+          "country": null,
+          "link": "https://stonetreeband.bandcamp.com/",
+          "name": "STONETREE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "TIMESHIFT",
+          "url": "https://www.instagram.com/timeshift.band/"
+        },
+        {
+          "label": "STONETREE",
+          "url": "https://stonetreeband.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "20.11.: TIMESHIFT / STONETREE @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": "https://brutalsphincter.bandcamp.com/",
+          "name": "BRUTAL SPHINCTER"
+        },
+        {
+          "country": "AUS",
+          "link": "https://slaughtercult.bandcamp.com/",
+          "name": "SLAUGHTERCULT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "3efbcd54461f02e16cb7",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "BRUTAL SPHINCTER",
+          "url": "https://brutalsphincter.bandcamp.com/"
+        },
+        {
+          "label": "SLAUGHTERCULT",
+          "url": "https://slaughtercult.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2332646834215211/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: BRUTAL SPHINCTER (bel) / SLAUGHTERCULT (aus) @ Escape, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "3efbcd54461f02e16cb7",
+    "guid": "3efbcd54461f02e16cb7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://jigsawbeggars.bandcamp.com/",
+          "name": "JIGSAW BEGGARS"
+        },
+        {
+          "country": null,
+          "link": "https://thosar.bandcamp.com/",
+          "name": "THOSAR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-28",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e092db96e28b45a1801b",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "JIGSAW BEGGARS",
+          "url": "https://jigsawbeggars.bandcamp.com/"
+        },
+        {
+          "label": "THOSAR",
+          "url": "https://thosar.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.11.: JIGSAW BEGGARS / THOSAR @ p.p.c., Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.p.c."
+    },
+    "event_id": "e092db96e28b45a1801b",
+    "guid": "e092db96e28b45a1801b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-09-30T08:35:18.772285+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://adamgreen.info/",
+          "name": "Adam Green"
+        },
+        {
+          "country": "USA",
+          "link": "https://turnercody.bandcamp.com/music",
+          "name": "Turner Cody & The SOLDIERS OF LOVE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-09-30T08:35:18.772285+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "eaece1b4a009298dc32b",
+      "last_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "links": [
+        {
+          "label": "Adam Green",
+          "url": "https://adamgreen.info/"
+        },
+        {
+          "label": "Turner Cody & The SOLDIERS OF LOVE",
+          "url": "https://turnercody.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1090653516713524"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: Adam Green (usa) / Turner Cody & The SOLDIERS OF LOVE (usa) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "eaece1b4a009298dc32b",
+    "guid": "eaece1b4a009298dc32b:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
