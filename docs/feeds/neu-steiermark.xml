@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:57:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: GNOJ, BONDAGE TOES – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-99b41f68481036c44db9-1</link>
+      <guid isPermaLink="false">99b41f68481036c44db9:1</guid>
+      <pubDate>Thu, 01 Oct 2026 08:57:47 +0000</pubDate>
+      <description>2026-10-13 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Geändert: MISSSTAND, ENDLICH SCHLECHTE MUSIK – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e5f02f4a3d22a348e180-1</link>
+      <guid isPermaLink="false">e5f02f4a3d22a348e180:1</guid>
+      <pubDate>Thu, 01 Oct 2026 08:57:47 +0000</pubDate>
+      <description>2026-10-23 · Music-House,  Graz · Steiermark · Line-up: MISSSTAND · STAGE BOTTLES · ENDLICH SCHLECHTE MUSIK → MISSSTAND · ENDLICH SCHLECHTE MUSIK</description>
+    </item>
+    <item>
+      <title>Neu: AMIMIA, EVERYTHING DIES, SVNTARER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-47bd71936b1c45d2b7a7-1</link>
+      <guid isPermaLink="false">47bd71936b1c45d2b7a7:1</guid>
+      <pubDate>Thu, 01 Oct 2026 08:57:47 +0000</pubDate>
+      <description>2026-10-30 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: JANKA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5237adfd8b49975aa330-1</link>
+      <guid isPermaLink="false">5237adfd8b49975aa330:1</guid>
+      <pubDate>Thu, 01 Oct 2026 08:57:47 +0000</pubDate>
+      <description>2026-11-18 · Café Wolf,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: JIGSAW BEGGARS, THOSAR – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e092db96e28b45a1801b-1</link>

@@ -33446,5 +33446,1084 @@
     "guid": "eaece1b4a009298dc32b:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SRB",
+          "link": "https://gnoj1.bandcamp.com/",
+          "name": "GNOJ"
+        },
+        {
+          "country": null,
+          "link": "https://bondagetoes.bandcamp.com/",
+          "name": "BONDAGE TOES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-13",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "99b41f68481036c44db9",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "GNOJ",
+          "url": "https://gnoj1.bandcamp.com/"
+        },
+        {
+          "label": "BONDAGE TOES",
+          "url": "https://bondagetoes.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.10.: GNOJ (srb) / BONDAGE TOES @ Club Wakuum, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "99b41f68481036c44db9",
+    "guid": "99b41f68481036c44db9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "DEVIATED INSTINCT"
+          },
+          {
+            "name": "PRECIPICE"
+          },
+          {
+            "name": "SCAB"
+          },
+          {
+            "name": "DISCLONE"
+          }
+        ],
+        "to": [
+          {
+            "name": "DEVIATED INSTINCT"
+          },
+          {
+            "name": "PRECIPICE"
+          },
+          {
+            "name": "MENSCHENSCHEISSE"
+          },
+          {
+            "name": "DISCLONE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://deviatedinstinct.bandcamp.com/",
+          "name": "DEVIATED INSTINCT"
+        },
+        {
+          "country": "FRA",
+          "link": "https://urticariarecords.bandcamp.com/album/demo-3",
+          "name": "PRECIPICE"
+        },
+        {
+          "country": "D",
+          "link": "https://menschenscheisse.bandcamp.com/",
+          "name": "MENSCHENSCHEISSE"
+        },
+        {
+          "country": null,
+          "link": "https://disclone.bandcamp.com/",
+          "name": "DISCLONE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-16",
+      "first_seen_at": "2026-08-18T03:09:18.056724+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "b1464336e76de0d92a8b",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "DEVIATED INSTINCT",
+          "url": "https://deviatedinstinct.bandcamp.com/"
+        },
+        {
+          "label": "PRECIPICE",
+          "url": "https://urticariarecords.bandcamp.com/album/demo-3"
+        },
+        {
+          "label": "MENSCHENSCHEISSE",
+          "url": "https://menschenscheisse.bandcamp.com/"
+        },
+        {
+          "label": "DISCLONE",
+          "url": "https://disclone.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1104431592254650/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "16.10.: DEVIATED INSTINCT (uk) / PRECIPICE (fra) / MENSCHENSCHEISSE (d) / DISCLONE u.a. @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "b1464336e76de0d92a8b",
+    "guid": "b1464336e76de0d92a8b:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "PLASMA"
+          },
+          {
+            "name": "SUBVERSIVE POWER"
+          },
+          {
+            "name": "DISARM"
+          },
+          {
+            "name": "HASE"
+          }
+        ],
+        "to": [
+          {
+            "name": "PLASMA"
+          },
+          {
+            "name": "SUBVERSIVE POWER"
+          },
+          {
+            "name": "DISARM"
+          },
+          {
+            "name": "HYACINTH"
+          },
+          {
+            "name": "HASE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FIN",
+          "link": "https://plasmapunk.bandcamp.com/",
+          "name": "PLASMA"
+        },
+        {
+          "country": "D",
+          "link": "https://subversivepower.bandcamp.com/",
+          "name": "SUBVERSIVE POWER"
+        },
+        {
+          "country": "CH",
+          "link": "https://disarm-crustpunk.bandcamp.com/",
+          "name": "DISARM"
+        },
+        {
+          "country": "CZE",
+          "link": "https://hyacinthhc.bandcamp.com/",
+          "name": "HYACINTH"
+        },
+        {
+          "country": null,
+          "link": "https://hasepunx.bandcamp.com/",
+          "name": "HASE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-17",
+      "first_seen_at": "2026-08-18T03:09:18.056724+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore"
+        ]
+      },
+      "id": "b0680767ca0a01101d69",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "PLASMA",
+          "url": "https://plasmapunk.bandcamp.com/"
+        },
+        {
+          "label": "SUBVERSIVE POWER",
+          "url": "https://subversivepower.bandcamp.com/"
+        },
+        {
+          "label": "DISARM",
+          "url": "https://disarm-crustpunk.bandcamp.com/"
+        },
+        {
+          "label": "HYACINTH",
+          "url": "https://hyacinthhc.bandcamp.com/"
+        },
+        {
+          "label": "HASE",
+          "url": "https://hasepunx.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1104431592254650/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "17.10.: PLASMA (fin) / SUBVERSIVE POWER (d) / DISARM (ch) / HYACINTH (cze) / HASE @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "b0680767ca0a01101d69",
+    "guid": "b0680767ca0a01101d69:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/streettotheocean/",
+          "name": "STREET TO THE OCEAN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/convergence_band/",
+          "name": "CONVERGENCE"
+        },
+        {
+          "country": "UKR/AUT",
+          "link": "https://www.instagram.com/nonsense_official_ua",
+          "name": "NONSENSE"
+        },
+        {
+          "country": null,
+          "link": "https://maunra.bandcamp.com/",
+          "name": "MAUNRA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-21",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      "id": "33fd2c71930e1a0e27fc",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "STREET TO THE OCEAN",
+          "url": "https://www.facebook.com/streettotheocean/"
+        },
+        {
+          "label": "CONVERGENCE",
+          "url": "https://www.instagram.com/convergence_band/"
+        },
+        {
+          "label": "NONSENSE",
+          "url": "https://www.instagram.com/nonsense_official_ua"
+        },
+        {
+          "label": "MAUNRA",
+          "url": "https://maunra.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.10.: STREET TO THE OCEAN / CONVERGENCE / NONSENSE (ukr/aut) / MAUNRA @ Replugged, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "33fd2c71930e1a0e27fc",
+    "guid": "33fd2c71930e1a0e27fc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "STAGE BOTTLES"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          }
+        ],
+        "to": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://band-missstand.bandcamp.com/",
+          "name": "MISSSTAND"
+        },
+        {
+          "country": "D",
+          "link": "https://endlichschlechtemusik.bandcamp.com/",
+          "name": "ENDLICH SCHLECHTE MUSIK"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e5f02f4a3d22a348e180",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "MISSSTAND",
+          "url": "https://band-missstand.bandcamp.com/"
+        },
+        {
+          "label": "ENDLICH SCHLECHTE MUSIK",
+          "url": "https://endlichschlechtemusik.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1352677626689464"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.10.: MISSSTAND / ENDLICH SCHLECHTE MUSIK (d) @ Music-House, Graz [STAGE BOTTLES cancelled.] [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "e5f02f4a3d22a348e180",
+    "guid": "e5f02f4a3d22a348e180:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "STAGE BOTTLES"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          }
+        ],
+        "to": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          },
+          {
+            "name": "SZENE PUTZN"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://band-missstand.bandcamp.com/",
+          "name": "MISSSTAND"
+        },
+        {
+          "country": "D",
+          "link": "https://endlichschlechtemusik.bandcamp.com/",
+          "name": "ENDLICH SCHLECHTE MUSIK"
+        },
+        {
+          "country": null,
+          "link": "https://szeneputzn.bandcamp.com/",
+          "name": "SZENE PUTZN"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "31903eafed979bd1bc2c",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "MISSSTAND",
+          "url": "https://band-missstand.bandcamp.com/"
+        },
+        {
+          "label": "ENDLICH SCHLECHTE MUSIK",
+          "url": "https://endlichschlechtemusik.bandcamp.com/"
+        },
+        {
+          "label": "SZENE PUTZN",
+          "url": "https://szeneputzn.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/906230282011540/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: MISSSTAND / ENDLICH SCHLECHTE MUSIK (d) / SZENE PUTZN @ Stadtwerkstatt, Linz [STAGE BOTTLES cancelled.] [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtwerkstatt"
+    },
+    "event_id": "31903eafed979bd1bc2c",
+    "guid": "31903eafed979bd1bc2c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "STAGE BOTTLES"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          }
+        ],
+        "to": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          },
+          {
+            "name": "SZENE PUTZN"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://band-missstand.bandcamp.com/",
+          "name": "MISSSTAND"
+        },
+        {
+          "country": "D",
+          "link": "https://endlichschlechtemusik.bandcamp.com/",
+          "name": "ENDLICH SCHLECHTE MUSIK"
+        },
+        {
+          "country": null,
+          "link": "https://szeneputzn.bandcamp.com/",
+          "name": "SZENE PUTZN"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1e9055caf7e2aaca75eb",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "MISSSTAND",
+          "url": "https://band-missstand.bandcamp.com/"
+        },
+        {
+          "label": "ENDLICH SCHLECHTE MUSIK",
+          "url": "https://endlichschlechtemusik.bandcamp.com/"
+        },
+        {
+          "label": "SZENE PUTZN",
+          "url": "https://szeneputzn.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/919935577580843/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.10.: MISSSTAND / ENDLICH SCHLECHTE MUSIK (d) / SZENE PUTZN @ Arena (kl. Halle), Wien [STAGE BOTTLES cancelled.] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "1e9055caf7e2aaca75eb",
+    "guid": "1e9055caf7e2aaca75eb:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://amimia.bandcamp.com/",
+          "name": "AMIMIA"
+        },
+        {
+          "country": "D",
+          "link": "https://everythingdiesbm.bandcamp.com/",
+          "name": "EVERYTHING DIES"
+        },
+        {
+          "country": null,
+          "link": "https://svntarer.bandcamp.com/",
+          "name": "SVNTARER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "47bd71936b1c45d2b7a7",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "AMIMIA",
+          "url": "https://amimia.bandcamp.com/"
+        },
+        {
+          "label": "EVERYTHING DIES",
+          "url": "https://everythingdiesbm.bandcamp.com/"
+        },
+        {
+          "label": "SVNTARER",
+          "url": "https://svntarer.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27845048141841794/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: AMIMIA (d) / EVERYTHING DIES (d) / SVNTARER @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "47bd71936b1c45d2b7a7",
+    "guid": "47bd71936b1c45d2b7a7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/janka.musik/",
+          "name": "JANKA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-18",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "5237adfd8b49975aa330",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "JANKA",
+          "url": "https://www.instagram.com/janka.musik/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1024928343653885/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.11.: JANKA @ Café Wolf, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Wolf"
+    },
+    "event_id": "5237adfd8b49975aa330",
+    "guid": "5237adfd8b49975aa330:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BRUTAL SPHINCTER"
+          },
+          {
+            "name": "SLAUGHTERCULT"
+          }
+        ],
+        "to": [
+          {
+            "name": "BRUTAL SPHINCTER"
+          },
+          {
+            "name": "SLAUGHTERCULT"
+          },
+          {
+            "name": "ASSBALLS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": "https://brutalsphincter.bandcamp.com/",
+          "name": "BRUTAL SPHINCTER"
+        },
+        {
+          "country": "AUS",
+          "link": "https://slaughtercult.bandcamp.com/",
+          "name": "SLAUGHTERCULT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/assballs.axbx/",
+          "name": "ASSBALLS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-30T08:35:18.772285+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "3efbcd54461f02e16cb7",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "BRUTAL SPHINCTER",
+          "url": "https://brutalsphincter.bandcamp.com/"
+        },
+        {
+          "label": "SLAUGHTERCULT",
+          "url": "https://slaughtercult.bandcamp.com/"
+        },
+        {
+          "label": "ASSBALLS",
+          "url": "https://www.instagram.com/assballs.axbx/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2332646834215211/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "26.11.: BRUTAL SPHINCTER (bel) / SLAUGHTERCULT (aus) / ASSBALLS @ Escape, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "3efbcd54461f02e16cb7",
+    "guid": "3efbcd54461f02e16cb7:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "PROTEX"
+          },
+          {
+            "name": "The OBSESSIONS"
+          }
+        ],
+        "to": [
+          {
+            "name": "PROTEX"
+          },
+          {
+            "name": "Salamirecorder & The HI-FI PHONOS"
+          },
+          {
+            "name": "The OBSESSIONS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://protexbelfast.bandcamp.com/",
+          "name": "PROTEX"
+        },
+        {
+          "country": null,
+          "link": "https://salamirecorder.bandcamp.com/",
+          "name": "Salamirecorder & The HI-FI PHONOS"
+        },
+        {
+          "country": null,
+          "link": "https://theobsessionspunk.bandcamp.com/",
+          "name": "The OBSESSIONS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7c84ac32d38a9def85cf",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "PROTEX",
+          "url": "https://protexbelfast.bandcamp.com/"
+        },
+        {
+          "label": "Salamirecorder & The HI-FI PHONOS",
+          "url": "https://salamirecorder.bandcamp.com/"
+        },
+        {
+          "label": "The OBSESSIONS",
+          "url": "https://theobsessionspunk.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "26.11.: PROTEX (uk) / Salamirecorder & The HI-FI PHONOS / The OBSESSIONS @ Arena, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena"
+    },
+    "event_id": "7c84ac32d38a9def85cf",
+    "guid": "7c84ac32d38a9def85cf:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "DIM PROSPECTS"
+          },
+          {
+            "name": "DESOLAT"
+          }
+        ],
+        "to": [
+          {
+            "name": "PHAL:ANGST"
+          },
+          {
+            "name": "DIM PROSPECTS"
+          },
+          {
+            "name": "DESOLAT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://phalangst.bandcamp.com/",
+          "name": "PHAL:ANGST"
+        },
+        {
+          "country": null,
+          "link": "https://www.med-user.net/~dimprospects/",
+          "name": "DIM PROSPECTS"
+        },
+        {
+          "country": null,
+          "link": "https://desolatvienna.bandcamp.com/",
+          "name": "DESOLAT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-19",
+      "first_seen_at": "2026-09-16T07:42:17.993766+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c103e8da43ca0962a7da",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "PHAL:ANGST",
+          "url": "https://phalangst.bandcamp.com/"
+        },
+        {
+          "label": "DIM PROSPECTS",
+          "url": "https://www.med-user.net/~dimprospects/"
+        },
+        {
+          "label": "DESOLAT",
+          "url": "https://desolatvienna.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "19.12.: PHAL:ANGST / DIM PROSPECTS / DESOLAT @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "c103e8da43ca0962a7da",
+    "guid": "c103e8da43ca0962a7da:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-01T08:57:47.231003+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://comastatic.bandcamp.com/",
+          "name": "COMASTATIC"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-01T08:57:47.231003+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-05",
+      "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "8261ad1890063dabd46e",
+      "last_seen_at": "2026-10-01T08:57:47.231003+00:00",
+      "links": [
+        {
+          "label": "COMASTATIC",
+          "url": "https://comastatic.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1757668838776991/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.02.: COMASTATIC (ch) @ B72, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "8261ad1890063dabd46e",
+    "guid": "8261ad1890063dabd46e:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

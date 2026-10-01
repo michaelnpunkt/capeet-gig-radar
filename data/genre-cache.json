@@ -435,6 +435,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "amimia": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "amira elfeky": {
     "family": "Metal",
     "source": "lastfm",
@@ -1377,6 +1385,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "bondage toes": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "bonegrinder": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -1942,6 +1956,12 @@
       "Thrash Metal"
     ]
   },
+  "comastatic": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "combust": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -2054,6 +2074,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "convergence": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "coperniquo": {
     "classifier_version": 2,
@@ -3447,6 +3475,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "everything dies": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
   },
   "evil invaders": {
     "classifier_version": 2,
@@ -4927,6 +4963,12 @@
     "subgenres": []
   },
   "hundefutter": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "hyacinth": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6824,6 +6866,12 @@
     "subgenres": []
   },
   "mensch oder tier": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "menschenscheisse": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -8842,6 +8890,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "salamirecorder the hi fi phonos": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "salo": {
     "family": "Punk",
     "source": "lastfm",
@@ -10067,6 +10121,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "szene putzn": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
     "subgenres": []
   },
   "t r a s h": {
