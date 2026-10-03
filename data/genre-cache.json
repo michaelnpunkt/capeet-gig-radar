@@ -1509,6 +1509,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "brujeria": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "brutal sphincter": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2284,6 +2293,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dagmar zuniga": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "dagny": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -2325,6 +2340,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "dark nativity": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "dark thoughts": {
     "family": "Punk",
@@ -4381,6 +4402,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "grotesque ceremonium": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "grotta": {
     "family": "Metal",
     "source": "lastfm",
@@ -4543,6 +4572,12 @@
   },
   "hammertime": {
     "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "hannelore": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -5116,6 +5151,14 @@
     "subgenres": [
       "Death Metal",
       "Black Metal"
+    ]
+  },
+  "imposter": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
     ]
   },
   "impulsealer": {
@@ -5929,6 +5972,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "la casa fantom": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Crust Punk"
     ]
   },
   "lacrimas profundere": {
@@ -8610,6 +8661,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "realms of chaos": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "reconfused": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10110,6 +10169,12 @@
       "Death Metal"
     ]
   },
+  "system exclusive": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "system noire": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -10987,6 +11052,15 @@
       "Doom Metal"
     ]
   },
+  "thulcandra": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
   "thus": {
     "classifier_version": 2,
     "family": "Metal",
@@ -11704,6 +11778,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "vorga": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "vtoroi ka": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -12108,6 +12190,14 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "yoth iria": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "yuko cornale sofia escamilla": {
     "classifier_version": 2,

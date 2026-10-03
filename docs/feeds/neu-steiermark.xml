@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:07:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: LA CASA FANTOM – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-857b39735bb7dc40a17c-1</link>
+      <guid isPermaLink="false">857b39735bb7dc40a17c:1</guid>
+      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
+      <description>2026-11-01 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: DARK NATIVITY, THOSAR – Knittelfeld</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2d09e9cd8a026cb6b9f9-1</link>
+      <guid isPermaLink="false">2d09e9cd8a026cb6b9f9:1</guid>
+      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
+      <description>2026-11-20 · Hard Rock Café Sven,  Knittelfeld · Steiermark</description>
+    </item>
     <item>
       <title>Neu: GNOJ, BONDAGE TOES – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-99b41f68481036c44db9-1</link>

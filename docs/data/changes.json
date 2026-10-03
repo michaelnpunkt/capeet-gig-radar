@@ -1,6 +1,693 @@
 {
-  "generated_at": "2026-10-01T08:57:47.231003+00:00",
+  "generated_at": "2026-10-03T08:07:24.912047+00:00",
   "revisions": [
+    {
+      "anchor": "change-fae2dd341b4048795e27-3",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SALABAKTER"
+            },
+            {
+              "name": "HARSH RESPONSE"
+            }
+          ],
+          "to": [
+            {
+              "name": "SALABAKTER"
+            },
+            {
+              "name": "GOOD COP"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "HUN",
+            "link": "https://salabakter.bandcamp.com/",
+            "name": "SALABAKTER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/good_cop_1312/",
+            "name": "GOOD COP"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-02",
+        "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "fae2dd341b4048795e27",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "SALABAKTER",
+            "url": "https://salabakter.bandcamp.com/"
+          },
+          {
+            "label": "GOOD COP",
+            "url": "https://www.instagram.com/good_cop_1312/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 3,
+        "source_text": "02.10.: SALABAKTER (hun) / GOOD COP @ Secret Location, Wien [LÁZ & HARSH RESPONSE cancelled.]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "fae2dd341b4048795e27",
+      "guid": "fae2dd341b4048795e27:3",
+      "kind": "changed",
+      "revision": 3
+    },
+    {
+      "anchor": "change-b57b26112bdbc9acc2f4-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://hannelore.bandcamp.com/",
+            "name": "HANNELORE"
+          },
+          {
+            "country": null,
+            "link": "https://kinkymuppet.klingt.org/",
+            "name": "KINKY MUPPET"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-02",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "b57b26112bdbc9acc2f4",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "HANNELORE",
+            "url": "https://hannelore.bandcamp.com/"
+          },
+          {
+            "label": "KINKY MUPPET",
+            "url": "https://kinkymuppet.klingt.org/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "02.10.: HANNELORE (d) / KINKY MUPPET @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "b57b26112bdbc9acc2f4",
+      "guid": "b57b26112bdbc9acc2f4:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8f514550695b2cf28e16-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/paloma_004_/",
+            "name": "PALOMA 004"
+          },
+          {
+            "country": null,
+            "link": "https://badweed.bandcamp.com/",
+            "name": "BAD WEED"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-03",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "8f514550695b2cf28e16",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "PALOMA 004",
+            "url": "https://www.instagram.com/paloma_004_/"
+          },
+          {
+            "label": "BAD WEED",
+            "url": "https://badweed.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://last-space.at/page/event/view/681"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.10.: PALOMA 004 / BAD WEED u.a. @ Last, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "8f514550695b2cf28e16",
+      "guid": "8f514550695b2cf28e16:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-272b33ba4ecc691306ed-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://headbussa.bandcamp.com/music",
+            "name": "HEADBUSSA"
+          },
+          {
+            "country": "UK",
+            "link": "https://imposterbrighton.bandcamp.com/",
+            "name": "IMPOSTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-06",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "272b33ba4ecc691306ed",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "HEADBUSSA",
+            "url": "https://headbussa.bandcamp.com/music"
+          },
+          {
+            "label": "IMPOSTER",
+            "url": "https://imposterbrighton.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1425386626352964/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.10.: HEADBUSSA (fra) / IMPOSTER (uk) @ Venster, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "272b33ba4ecc691306ed",
+      "guid": "272b33ba4ecc691306ed:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-857b39735bb7dc40a17c-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR",
+            "link": "https://lacasafantom.bandcamp.com/",
+            "name": "LA CASA FANTOM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-01",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "857b39735bb7dc40a17c",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "LA CASA FANTOM",
+            "url": "https://lacasafantom.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "01.11.: LA CASA FANTOM (nor) @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "857b39735bb7dc40a17c",
+      "guid": "857b39735bb7dc40a17c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c7232b2e275f667bc9cc-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://systemexclusive.bandcamp.com/",
+            "name": "SYSTEM EXCLUSIVE"
+          },
+          {
+            "country": null,
+            "link": "https://topsyturvyvienna.bandcamp.com/",
+            "name": "TOPSY TURVY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c7232b2e275f667bc9cc",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "SYSTEM EXCLUSIVE",
+            "url": "https://systemexclusive.bandcamp.com/"
+          },
+          {
+            "label": "TOPSY TURVY",
+            "url": "https://topsyturvyvienna.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://last-space.at/page/event/view/669"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: SYSTEM EXCLUSIVE (usa) / TOPSY TURVY @ Last, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "c7232b2e275f667bc9cc",
+      "guid": "c7232b2e275f667bc9cc:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-085168f603c9d87c67b2-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "MEX",
+            "link": "https://dagmarzuniga.bandcamp.com/",
+            "name": "Dagmar Zuniga"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-15",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "085168f603c9d87c67b2",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "Dagmar Zuniga",
+            "url": "https://dagmarzuniga.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=15-11-2026_dagmar-zuniga-elori-saxl"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.11.: Dagmar Zuniga (mex) @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "085168f603c9d87c67b2",
+      "guid": "085168f603c9d87c67b2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-2d09e9cd8a026cb6b9f9-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DarkNativity13",
+            "name": "DARK NATIVITY"
+          },
+          {
+            "country": null,
+            "link": "https://thosar.bandcamp.com/",
+            "name": "THOSAR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Knittelfeld",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "2d09e9cd8a026cb6b9f9",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "DARK NATIVITY",
+            "url": "https://www.facebook.com/DarkNativity13"
+          },
+          {
+            "label": "THOSAR",
+            "url": "https://thosar.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: DARK NATIVITY / THOSAR @ Hard Rock Café Sven, Knittelfeld",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Hard Rock Café Sven"
+      },
+      "event_id": "2d09e9cd8a026cb6b9f9",
+      "guid": "2d09e9cd8a026cb6b9f9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8bbe5e8cf6a8d83bd58e-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "TUR",
+            "link": "https://cenotaph666.bandcamp.com/music",
+            "name": "CENOTAPH"
+          },
+          {
+            "country": "TUR",
+            "link": "https://grotesqueceremonium.bandcamp.com/",
+            "name": "GROTESQUE CEREMONIUM"
+          },
+          {
+            "country": "SVK",
+            "link": "https://realmsofchaos.bandcamp.com/",
+            "name": "REALMS OF CHAOS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "8bbe5e8cf6a8d83bd58e",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "CENOTAPH",
+            "url": "https://cenotaph666.bandcamp.com/music"
+          },
+          {
+            "label": "GROTESQUE CEREMONIUM",
+            "url": "https://grotesqueceremonium.bandcamp.com/"
+          },
+          {
+            "label": "REALMS OF CHAOS",
+            "url": "https://realmsofchaos.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: CENOTAPH (tur) / GROTESQUE CEREMONIUM (tur) / REALMS OF CHAOS (svk) u.a. @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "8bbe5e8cf6a8d83bd58e",
+      "guid": "8bbe5e8cf6a8d83bd58e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4605db7b7c38f877a69e-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.thetruethulcandra.com/",
+            "name": "THULCANDRA"
+          },
+          {
+            "country": "GRE",
+            "link": "https://yothiria.bandcamp.com/",
+            "name": "YOTH IRIA"
+          },
+          {
+            "country": "D",
+            "link": "https://vorga.bandcamp.com/",
+            "name": "VORGA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-14",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal"
+          ]
+        },
+        "id": "4605db7b7c38f877a69e",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "THULCANDRA",
+            "url": "https://www.thetruethulcandra.com/"
+          },
+          {
+            "label": "YOTH IRIA",
+            "url": "https://yothiria.bandcamp.com/"
+          },
+          {
+            "label": "VORGA",
+            "url": "https://vorga.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1869719221054144/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.03.: THULCANDRA (d) / YOTH IRIA (gre) / VORGA (d) @ Viper Room, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "4605db7b7c38f877a69e",
+      "guid": "4605db7b7c38f877a69e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d9b96e7495c5fd292b2b-1",
+      "changes": {},
+      "detected_at": "2026-10-03T08:07:24.912047+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "MEX",
+            "link": "https://www.brujeria.com/",
+            "name": "BRUJERIA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-03T08:07:24.912047+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-16",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "d9b96e7495c5fd292b2b",
+        "last_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "links": [
+          {
+            "label": "BRUJERIA",
+            "url": "https://www.brujeria.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.03.: BRUJERIA (mex) @ Viper Room, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "d9b96e7495c5fd292b2b",
+      "guid": "d9b96e7495c5fd292b2b:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-b1464336e76de0d92a8b-2",
       "changes": {

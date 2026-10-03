@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:07:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PALOMA 004, BAD WEED – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8f514550695b2cf28e16-1</link>
+      <guid isPermaLink="false">8f514550695b2cf28e16:1</guid>
+      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
+      <description>2026-10-03 · Last,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SYSTEM EXCLUSIVE, TOPSY TURVY – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c7232b2e275f667bc9cc-1</link>
+      <guid isPermaLink="false">c7232b2e275f667bc9cc:1</guid>
+      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
+      <description>2026-11-07 · Last,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: DEVIATED INSTINCT, PRECIPICE, MENSCHENSCHEISSE, DISCLONE – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b1464336e76de0d92a8b-2</link>
