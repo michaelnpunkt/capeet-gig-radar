@@ -897,6 +897,14 @@
       "Shoegaze"
     ]
   },
+  "backyard": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "bacon piglets": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3077,6 +3085,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "dunkelsucht": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "duolia": {
     "classifier_version": 2,
@@ -7476,6 +7492,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "negative frame": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
   "nekrodeus": {
     "family": "Metal",
     "source": "lastfm",
@@ -8772,6 +8796,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "ritualize": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "robert j revell": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9072,6 +9102,12 @@
       "Black Metal",
       "Thrash Metal"
     ]
+  },
+  "scattered mind": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "schirenc plays pungent stench": {
     "family": "Metal",

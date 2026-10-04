@@ -35188,5 +35188,422 @@
     "guid": "d9b96e7495c5fd292b2b:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UKR",
+          "link": null,
+          "name": "AIRCRAFT"
+        },
+        {
+          "country": "D",
+          "link": null,
+          "name": "PRETTY AVERAGE"
+        },
+        {
+          "country": "D",
+          "link": null,
+          "name": "GARLANDS"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "SNOUT FEVER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-09-08T07:15:33.919002+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "c605c9cca8aa1a5eab91",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "03.10.: AIRCRAFT (ukr) / PRETTY AVERAGE (d) / GARLANDS (d) / SNOUT FEVER @ Secret Location, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "c605c9cca8aa1a5eab91",
+    "guid": "c605c9cca8aa1a5eab91:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GRENDEL"
+          },
+          {
+            "name": "SYSTEM NOIRE"
+          }
+        ],
+        "to": [
+          {
+            "name": "GRENDEL"
+          },
+          {
+            "name": "SYSTEM NOIRE"
+          },
+          {
+            "name": "DUNKELSUCHT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://grendel1.bandcamp.com/",
+          "name": "GRENDEL"
+        },
+        {
+          "country": "D",
+          "link": "https://systemnoire.bandcamp.com/",
+          "name": "SYSTEM NOIRE"
+        },
+        {
+          "country": "CH",
+          "link": "https://dunkelsucht.bandcamp.com/",
+          "name": "DUNKELSUCHT"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "c2b061c6768703167172",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [
+        {
+          "label": "GRENDEL",
+          "url": "https://grendel1.bandcamp.com/"
+        },
+        {
+          "label": "SYSTEM NOIRE",
+          "url": "https://systemnoire.bandcamp.com/"
+        },
+        {
+          "label": "DUNKELSUCHT",
+          "url": "https://dunkelsucht.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1016029517776439/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: GRENDEL (uk) / SYSTEM NOIRE (d) / DUNKELSUCHT (ch) @ Replugged, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "c2b061c6768703167172",
+    "guid": "c2b061c6768703167172:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://hookline.bandcamp.com/",
+          "name": "HOOKLINE"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/lowerinstinct/",
+          "name": "LOWER INSTINCT"
+        },
+        {
+          "country": "SVK",
+          "link": "https://truereason.bandcamp.com/",
+          "name": "TRUE REASON"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/PerfectSky2.0",
+          "name": "PERFECT SKY"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/RecurrentPain/",
+          "name": "RECURRENT PAIN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-03",
+      "first_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d0a7c4c42fa021c0c60b",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [
+        {
+          "label": "HOOKLINE",
+          "url": "https://hookline.bandcamp.com/"
+        },
+        {
+          "label": "LOWER INSTINCT",
+          "url": "https://www.facebook.com/lowerinstinct/"
+        },
+        {
+          "label": "TRUE REASON",
+          "url": "https://truereason.bandcamp.com/"
+        },
+        {
+          "label": "PERFECT SKY",
+          "url": "https://www.facebook.com/PerfectSky2.0"
+        },
+        {
+          "label": "RECURRENT PAIN",
+          "url": "https://www.facebook.com/RecurrentPain/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1206929414691412/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.10.: HOOKLINE (d) / LOWER INSTINCT (d) / TRUE REASON (svk) / PERFECT SKY / RECURRENT PAIN u.a. @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "d0a7c4c42fa021c0c60b",
+    "guid": "d0a7c4c42fa021c0c60b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://six-score-grindcore.bandcamp.com/",
+          "name": "SIX-SCORE"
+        },
+        {
+          "country": null,
+          "link": "https://calorisimpact.bandcamp.com/",
+          "name": "CALORIS IMPACT"
+        },
+        {
+          "country": null,
+          "link": "https://backyardpv.bandcamp.com/",
+          "name": "BACKYARD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore"
+        ]
+      },
+      "id": "aaa36ad68ef43d0068d0",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [
+        {
+          "label": "SIX-SCORE",
+          "url": "https://six-score-grindcore.bandcamp.com/"
+        },
+        {
+          "label": "CALORIS IMPACT",
+          "url": "https://calorisimpact.bandcamp.com/"
+        },
+        {
+          "label": "BACKYARD",
+          "url": "https://backyardpv.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: SIX-SCORE / CALORIS IMPACT / BACKYARD @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "aaa36ad68ef43d0068d0",
+    "guid": "aaa36ad68ef43d0068d0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-04T08:27:40.019488+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://negativeframe.bandcamp.com/music",
+          "name": "NEGATIVE FRAME"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/scatteredmind.punx/",
+          "name": "SCATTERED MIND"
+        },
+        {
+          "country": null,
+          "link": "https://leechpitdiy.bandcamp.com/album/demo-2025",
+          "name": "RITUALIZE"
+        },
+        {
+          "country": null,
+          "link": "https://limitedoptions.bandcamp.com/",
+          "name": "LIMITED OPTIONS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-04T08:27:40.019488+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "1e14dbd229c23708ac52",
+      "last_seen_at": "2026-10-04T08:27:40.019488+00:00",
+      "links": [
+        {
+          "label": "NEGATIVE FRAME",
+          "url": "https://negativeframe.bandcamp.com/music"
+        },
+        {
+          "label": "SCATTERED MIND",
+          "url": "https://www.instagram.com/scatteredmind.punx/"
+        },
+        {
+          "label": "RITUALIZE",
+          "url": "https://leechpitdiy.bandcamp.com/album/demo-2025"
+        },
+        {
+          "label": "LIMITED OPTIONS",
+          "url": "https://limitedoptions.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: NEGATIVE FRAME (uk) / SCATTERED MIND (d) / RITUALIZE / LIMITED OPTIONS @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "1e14dbd229c23708ac52",
+    "guid": "1e14dbd229c23708ac52:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:27:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: AIRCRAFT, PRETTY AVERAGE, GARLANDS, SNOUT FEVER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c605c9cca8aa1a5eab91-2</link>
+      <guid isPermaLink="false">c605c9cca8aa1a5eab91:2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-10-03 · Secret Location,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Geändert: GRENDEL, SYSTEM NOIRE, DUNKELSUCHT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2b061c6768703167172-1</link>
+      <guid isPermaLink="false">c2b061c6768703167172:1</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-10-03 · Replugged,  Wien · Wien · Line-up: GRENDEL · SYSTEM NOIRE → GRENDEL · SYSTEM NOIRE · DUNKELSUCHT</description>
+    </item>
+    <item>
+      <title>Neu: HOOKLINE, LOWER INSTINCT, TRUE REASON, PERFECT SKY, RECURRENT PAIN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d0a7c4c42fa021c0c60b-1</link>
+      <guid isPermaLink="false">d0a7c4c42fa021c0c60b:1</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-10-03 · Weberknecht,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SIX-SCORE, CALORIS IMPACT, BACKYARD – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aaa36ad68ef43d0068d0-1</link>
+      <guid isPermaLink="false">aaa36ad68ef43d0068d0:1</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-11-13 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: NEGATIVE FRAME, SCATTERED MIND, RITUALIZE, LIMITED OPTIONS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1e14dbd229c23708ac52-1</link>
+      <guid isPermaLink="false">1e14dbd229c23708ac52:1</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
+      <description>2026-12-18 · Venster,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: SALABAKTER, GOOD COP – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fae2dd341b4048795e27-3</link>
@@ -664,48 +706,6 @@
       <guid isPermaLink="false">177eaa723781c6f71f3e:1</guid>
       <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
       <description>2026-10-30 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BUM SHELTER, TEMORA, CRYPTAL ECHOES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f29601a39206addc1af8-1</link>
-      <guid isPermaLink="false">f29601a39206addc1af8:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-06 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PURPLE – Kirchdorf an der Krems</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15107142823aec45a515-1</link>
-      <guid isPermaLink="false">15107142823aec45a515:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-06 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: BOY HARSHER, CHOIR BOY, KONTRAVOID – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-354921b5493347a7a8a6-1</link>
-      <guid isPermaLink="false">354921b5493347a7a8a6:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-20 · Ottakringer Brauerei,  Wien · Wien · Line-up: BOY HARSHER · CHOIR BOY → BOY HARSHER · CHOIR BOY · KONTRAVOID</description>
-    </item>
-    <item>
-      <title>Geändert: EVERGREY, IGNEA, STELLAR CIRCUITS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1d84dc2bb02eb8299dd7-1</link>
-      <guid isPermaLink="false">1d84dc2bb02eb8299dd7:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-20 · Weberknecht,  Wien · Wien · Line-up: EVERGREY → EVERGREY · IGNEA · STELLAR CIRCUITS</description>
-    </item>
-    <item>
-      <title>Abgesagt: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien · Status: angekündigt → abgesagt</description>
-    </item>
-    <item>
-      <title>Neu: JANKA – Kirchdorf an der Krems</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1df0deae08d89abc55ef-1</link>
-      <guid isPermaLink="false">1df0deae08d89abc55ef:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-21 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
     </item>
   </channel>
 </rss>
