@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:00:02 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The MULLET MONSTER MAFIA – Ebensee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b8311d22736d1ed01dae-1</link>
+      <guid isPermaLink="false">b8311d22736d1ed01dae:1</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
+      <description>2026-11-27 · Kino,  Ebensee · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: PALOMA 004, BAD WEED – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8f514550695b2cf28e16-1</link>

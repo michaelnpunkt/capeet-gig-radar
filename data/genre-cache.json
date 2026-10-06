@@ -47,6 +47,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "532f4e": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "7 sioux": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -685,6 +691,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "arkona": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "arsen": {
     "classifier_version": 2,
@@ -1381,6 +1395,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "bodypacker": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "boing flip": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1721,6 +1741,15 @@
     "source": "lastfm",
     "subgenres": [
       "Deathcore"
+    ]
+  },
+  "castle": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Doom Metal"
     ]
   },
   "cat power": {
@@ -2290,6 +2319,12 @@
       "Death Metal"
     ]
   },
+  "d a a s": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "d r d": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2613,6 +2648,14 @@
     "source": "lastfm",
     "subgenres": [
       "Death Metal"
+    ]
+  },
+  "denever": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
     ]
   },
   "denial of life": {
@@ -5318,6 +5361,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "iotunn": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "irokase": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5366,6 +5417,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "isuzu": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "itchy": {
     "family": "Punk",
@@ -5588,6 +5645,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "julia just joanna coleman": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "julinko": {
     "family": "Metal",
@@ -5997,6 +6060,12 @@
     "subgenres": [
       "Crust Punk"
     ]
+  },
+  "lachsfarbe links": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "lacrimas profundere": {
     "family": "Metal",
@@ -6672,6 +6741,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "malia bakteria": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "malphas": {
     "family": "Metal",
     "source": "lastfm",
@@ -6716,6 +6791,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "manic youth": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
   },
   "mann aus marseille": {
     "classifier_version": 2,
@@ -7033,6 +7116,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "michael fischer": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "midnight tattoo": {
     "classifier_version": 2,
     "family": "Punk",
@@ -7055,6 +7144,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "mika bankomat": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "milkweed": {
     "family": "Metal",
@@ -7165,6 +7260,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "modern love story": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "modula nation": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7198,6 +7299,12 @@
       "Stoner Metal"
     ]
   },
+  "monotrauma": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "moon walker": {
     "family": "Rock",
     "source": "lastfm",
@@ -7208,6 +7315,15 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "moonspell": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Doom Metal"
+    ]
   },
   "mopcut feat mc dalek mats gustasson": {
     "classifier_version": 2,
@@ -7249,6 +7365,12 @@
     ]
   },
   "moritz molnar the necessary evil": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "moritz morast": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -7724,6 +7846,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "nova lux": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "novelists": {
     "family": "Metal",
@@ -8569,6 +8699,12 @@
       "Post-Punk"
     ]
   },
+  "purple bison": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "r p c": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8635,6 +8771,12 @@
     "subgenres": []
   },
   "rathmann": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "ratriot": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -8724,6 +8866,12 @@
     "subgenres": []
   },
   "rent": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "resitant": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9236,6 +9384,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "seth": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "seven blood": {
     "family": "Metal",
     "source": "lastfm",
@@ -9400,6 +9556,12 @@
     "subgenres": []
   },
   "sinnthese": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "sis": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -10275,6 +10437,12 @@
       "Ska Punk"
     ]
   },
+  "tania fuchs": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "tara nome doyle": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -10586,6 +10754,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "the great old ones": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
     ]
   },
   "the halo effect": {
@@ -11035,6 +11211,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the zew": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the zsa zsa gabors": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11174,6 +11356,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "todomal": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "tonal shift": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -11252,6 +11442,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "treibgut": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "trembling earth": {
     "classifier_version": 2,
@@ -12315,6 +12511,12 @@
     "subgenres": []
   },
   "zoomies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "zween solo": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

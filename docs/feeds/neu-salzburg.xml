@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:00:02 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: BELZEBONG, PURPLE BISON – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e967fbb1763b92d7adb4-1</link>
+      <guid isPermaLink="false">e967fbb1763b92d7adb4:1</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
+      <description>2026-10-06 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: BELZEBONG → BELZEBONG · PURPLE BISON</description>
+    </item>
+    <item>
+      <title>Geändert: BACKWARDS CHARM, MANIC YOUTH – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae816b66f68324f4440e-1</link>
+      <guid isPermaLink="false">ae816b66f68324f4440e:1</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
+      <description>2026-11-12 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: FARVEBLIND · BACKWARDS CHARM → BACKWARDS CHARM · MANIC YOUTH</description>
+    </item>
+    <item>
+      <title>Neu: Rummelsnuff &amp; Asbach – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c744ba2cc5585d047fea-1</link>
+      <guid isPermaLink="false">c744ba2cc5585d047fea:1</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
+      <description>2026-12-04 · MARK,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: ARKONA, SETH, The GREAT OLD ONES – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-78aa7a00bbf61def0a7e-1</link>
+      <guid isPermaLink="false">78aa7a00bbf61def0a7e:1</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
+      <description>2026-12-13 · Rockhouse Bar,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: MOTHER'S CAKE, KITTY CAT &amp; THE UGLY HEADS – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d44651d994558dc63727-1</link>
