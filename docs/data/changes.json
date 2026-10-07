@@ -1,6 +1,342 @@
 {
-  "generated_at": "2026-10-06T09:00:02.729229+00:00",
+  "generated_at": "2026-10-07T08:40:22.145979+00:00",
   "revisions": [
+    {
+      "anchor": "change-7c84ac32d38a9def85cf-3",
+      "changes": {
+        "venue": {
+          "from": "Arena",
+          "to": "Arena (DreiRaum)"
+        }
+      },
+      "detected_at": "2026-10-07T08:40:22.145979+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://protexbelfast.bandcamp.com/",
+            "name": "PROTEX"
+          },
+          {
+            "country": null,
+            "link": "https://salamirecorder.bandcamp.com/",
+            "name": "Salamirecorder & The HI-FI PHONOS"
+          },
+          {
+            "country": null,
+            "link": "https://theobsessionspunk.bandcamp.com/",
+            "name": "The OBSESSIONS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-07T08:40:22.145979+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-26",
+        "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "7c84ac32d38a9def85cf",
+        "last_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "links": [
+          {
+            "label": "PROTEX",
+            "url": "https://protexbelfast.bandcamp.com/"
+          },
+          {
+            "label": "Salamirecorder & The HI-FI PHONOS",
+            "url": "https://salamirecorder.bandcamp.com/"
+          },
+          {
+            "label": "The OBSESSIONS",
+            "url": "https://theobsessionspunk.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2042135236500861/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 3,
+        "source_text": "26.11.: PROTEX (uk) / Salamirecorder & The HI-FI PHONOS / The OBSESSIONS @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "7c84ac32d38a9def85cf",
+      "guid": "7c84ac32d38a9def85cf:3",
+      "kind": "changed",
+      "revision": 3
+    },
+    {
+      "anchor": "change-48b297d8ee48e89514ec-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "G-TOWN JUSTICE"
+            },
+            {
+              "name": "KOHMA"
+            },
+            {
+              "name": "REALITY SHIFT"
+            }
+          ],
+          "to": [
+            {
+              "name": "G-TOWN JUSTICE"
+            },
+            {
+              "name": "WELTENASCHE"
+            },
+            {
+              "name": "REALITY SHIFT"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-07T08:40:22.145979+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/gtownjustice/",
+            "name": "G-TOWN JUSTICE"
+          },
+          {
+            "country": null,
+            "link": "https://weltenasche.bandcamp.com/",
+            "name": "WELTENASCHE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/realityshift.hc/",
+            "name": "REALITY SHIFT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-07T08:40:22.145979+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-09-08T07:15:33.919002+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "48b297d8ee48e89514ec",
+        "last_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "links": [
+          {
+            "label": "G-TOWN JUSTICE",
+            "url": "https://www.instagram.com/gtownjustice/"
+          },
+          {
+            "label": "WELTENASCHE",
+            "url": "https://weltenasche.bandcamp.com/"
+          },
+          {
+            "label": "REALITY SHIFT",
+            "url": "https://www.instagram.com/realityshift.hc/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "09.10.: G-TOWN JUSTICE / WELTENASCHE / REALITY SHIFT @ Secret Location, Linz [KOHMA cancelled.]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "48b297d8ee48e89514ec",
+      "guid": "48b297d8ee48e89514ec:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-48f32d7c0d2c920334c1-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LAGRIMAS"
+            },
+            {
+              "name": "BITE TO BREAK"
+            }
+          ],
+          "to": [
+            {
+              "name": "LAGRIMAS"
+            },
+            {
+              "name": "ITOOKHISEYES"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-07T08:40:22.145979+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://lagrimascrust.bandcamp.com/",
+            "name": "LAGRIMAS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/itookhiseyes/",
+            "name": "ITOOKHISEYES"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-07T08:40:22.145979+00:00",
+        "city": "Wr. Neustadt",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "48f32d7c0d2c920334c1",
+        "last_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "links": [
+          {
+            "label": "LAGRIMAS",
+            "url": "https://lagrimascrust.bandcamp.com/"
+          },
+          {
+            "label": "ITOOKHISEYES",
+            "url": "https://www.instagram.com/itookhiseyes/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://triebwerk.co.at/events/lagrimas-us-bite-to-break/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: LAGRIMAS (usa) / ITOOKHISEYES @ Triebwerk, Wr. Neustadt [web]",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Triebwerk"
+      },
+      "event_id": "48f32d7c0d2c920334c1",
+      "guid": "48f32d7c0d2c920334c1:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-07T08:40:22.145979+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-07T08:40:22.145979+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8b757ee21756dc4670ec-1",
+      "changes": {},
+      "detected_at": "2026-10-07T08:40:22.145979+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/n21akedlunch/",
+            "name": "NAKED LUNCH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-07T08:40:22.145979+00:00",
+        "city": "Krems",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "8b757ee21756dc4670ec",
+        "last_seen_at": "2026-10-07T08:40:22.145979+00:00",
+        "links": [
+          {
+            "label": "NAKED LUNCH",
+            "url": "https://www.facebook.com/n21akedlunch/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: NAKED LUNCH @ Stadtsaal, Krems",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtsaal"
+      },
+      "event_id": "8b757ee21756dc4670ec",
+      "guid": "8b757ee21756dc4670ec:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-bdc7c65607d4723ec8cb-3",
       "changes": {

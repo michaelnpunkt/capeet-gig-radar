@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:40:22 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: PROTEX, Salamirecorder &amp; The HI-FI PHONOS, The OBSESSIONS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7c84ac32d38a9def85cf-3</link>
+      <guid isPermaLink="false">7c84ac32d38a9def85cf:3</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-26 · Arena (DreiRaum),  Wien · Wien · Venue: Arena → Arena (DreiRaum)</description>
+    </item>
+    <item>
+      <title>Geändert: G-TOWN JUSTICE, WELTENASCHE, REALITY SHIFT – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48b297d8ee48e89514ec-2</link>
+      <guid isPermaLink="false">48b297d8ee48e89514ec:2</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-10-09 · Secret Location,  Linz · Oberösterreich · Line-up: G-TOWN JUSTICE · KOHMA · REALITY SHIFT → G-TOWN JUSTICE · WELTENASCHE · REALITY SHIFT</description>
+    </item>
+    <item>
+      <title>Geändert: LAGRIMAS, ITOOKHISEYES – Wr. Neustadt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48f32d7c0d2c920334c1-1</link>
+      <guid isPermaLink="false">48f32d7c0d2c920334c1:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-10-30 · Triebwerk,  Wr. Neustadt · Niederösterreich · Line-up: LAGRIMAS · BITE TO BREAK → LAGRIMAS · ITOOKHISEYES</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: NAKED LUNCH – Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8b757ee21756dc4670ec-1</link>
+      <guid isPermaLink="false">8b757ee21756dc4670ec:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-28 · Stadtsaal,  Krems · Niederösterreich</description>
+    </item>
     <item>
       <title>Geändert: HELL POISON, L.S.D., D.A.A.S. – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bdc7c65607d4723ec8cb-3</link>
@@ -671,41 +706,6 @@
       <guid isPermaLink="false">a83104b71f398742439e:2</guid>
       <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
       <description>2026-10-06 · Flucc,  Wien · Wien · Line-up: DELI GIRLS → DELI GIRLS · RENT</description>
-    </item>
-    <item>
-      <title>Neu: LEFTOVERS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f6906c2d221ca426f1a3-1</link>
-      <guid isPermaLink="false">f6906c2d221ca426f1a3:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-09-28 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SLOMOSA, KRYPTOGRAF – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b14ac64597a07255299e-1</link>
-      <guid isPermaLink="false">b14ac64597a07255299e:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-09-29 · Arena (kl. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: GRENZKONTROLLE, The ZSA ZSA GABORS, SHEEPFIELD, EHRENLOS &amp; EIERLOS – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f745f31a637f298eb152-1</link>
-      <guid isPermaLink="false">f745f31a637f298eb152:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-10-02 · A. Schlachthof,  Wels · Oberösterreich · Line-up: GRENZKONTROLLE · STOCKKAMPF · SHEEPFIELD · EHRENLOS &amp; EIERLOS → GRENZKONTROLLE · The ZSA ZSA GABORS · SHEEPFIELD · EHRENLOS &amp; EIERLOS</description>
-    </item>
-    <item>
-      <title>Geändert: LEFTOVERS, PURPLE – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f595930b28bb70a69221-1</link>
-      <guid isPermaLink="false">f595930b28bb70a69221:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-10-02 · p.p.c.,  Graz · Steiermark · Line-up: LEFTOVERS → LEFTOVERS · PURPLE</description>
-    </item>
-    <item>
-      <title>Geändert: SAMURAI PIZZA CATS, BABY BEARD, HIDDEN FATES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd34bea7ec0228524228-1</link>
-      <guid isPermaLink="false">cd34bea7ec0228524228:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-10-13 · Szene,  Wien · Wien · Line-up: SAMURAI PIZZA CATS → SAMURAI PIZZA CATS · BABY BEARD · HIDDEN FATES</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:40:22 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LAGRIMAS, ITOOKHISEYES – Wr. Neustadt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48f32d7c0d2c920334c1-1</link>
+      <guid isPermaLink="false">48f32d7c0d2c920334c1:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-10-30 · Triebwerk,  Wr. Neustadt · Niederösterreich · Line-up: LAGRIMAS · BITE TO BREAK → LAGRIMAS · ITOOKHISEYES</description>
+    </item>
+    <item>
+      <title>Neu: NAKED LUNCH – Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8b757ee21756dc4670ec-1</link>
+      <guid isPermaLink="false">8b757ee21756dc4670ec:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-28 · Stadtsaal,  Krems · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: BLOODSUCKING ZOMBIES FROM OUTER SPACE – Hollabrunn</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1119b16f90faedc0545c-1</link>

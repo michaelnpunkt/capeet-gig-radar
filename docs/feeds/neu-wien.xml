@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:40:22 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: PROTEX, Salamirecorder &amp; The HI-FI PHONOS, The OBSESSIONS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7c84ac32d38a9def85cf-3</link>
+      <guid isPermaLink="false">7c84ac32d38a9def85cf:3</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-26 · Arena (DreiRaum),  Wien · Wien · Venue: Arena → Arena (DreiRaum)</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Wed, 07 Oct 2026 08:40:22 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: HELL POISON, L.S.D., D.A.A.S. – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bdc7c65607d4723ec8cb-3</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">3d681e5b647cb335a81d:2</guid>
       <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
       <description>2026-09-26 · Coco Bar,  Wien · Wien · Line-up: URBAN INSTINKT · LIVE LIFE → URBAN INSTINKT · LIVE LIFE · BETWEEN THE BEASTS</description>
-    </item>
-    <item>
-      <title>Geändert: HELL POISON, L.S.D. – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bdc7c65607d4723ec8cb-2</link>
-      <guid isPermaLink="false">bdc7c65607d4723ec8cb:2</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-10-08 · Escape,  Wien · Wien · Line-up: HELL POISON · EXXECUTOR · L.S.D. → HELL POISON · L.S.D.</description>
-    </item>
-    <item>
-      <title>Geändert: The UNDERGROUND YOUTH, LEETA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46edf0d96f678c1838cb-1</link>
-      <guid isPermaLink="false">46edf0d96f678c1838cb:1</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-09-23 · Arena (kl. Halle),  Wien · Wien · Line-up: The UNDERGROUND YOUTH → The UNDERGROUND YOUTH · LEETA</description>
     </item>
   </channel>
 </rss>
