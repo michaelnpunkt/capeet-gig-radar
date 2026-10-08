@@ -680,6 +680,12 @@
       "Metalcore"
     ]
   },
+  "archive": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "ardenite": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -902,6 +908,12 @@
   "babyshambles": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "back to babel": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "backwards charm": {
@@ -1437,6 +1449,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "boom boom kid": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "boris": {
     "family": "Metal",
     "source": "lastfm",
@@ -1462,6 +1480,14 @@
     "family": "Electronic/Industrial",
     "source": "lastfm",
     "subgenres": []
+  },
+  "boundaries": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "bowie": {
     "classifier_version": 2,
@@ -1804,6 +1830,12 @@
       "Death Metal",
       "Black Metal"
     ]
+  },
+  "chaos theory": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
   },
   "charlotte sands": {
     "family": "Rock",
@@ -2187,6 +2219,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "crash adams": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
     "subgenres": []
   },
   "crawlspace": {
@@ -2643,6 +2681,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "demob happy": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "demonicera": {
     "family": "Metal",
     "source": "lastfm",
@@ -2868,6 +2912,12 @@
     "subgenres": [
       "Hardcore Punk"
     ]
+  },
+  "dirty honey": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "disarm": {
     "classifier_version": 2,
@@ -6128,6 +6178,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lambrini girls": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "lamp of murmuur": {
     "family": "Metal",
     "source": "lastfm",
@@ -6609,6 +6667,12 @@
     ]
   },
   "luisa schweig": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "luminati suns": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -7564,6 +7628,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "narkose": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
   "nasty": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -8042,6 +8114,12 @@
       "Doom Metal",
       "Sludge Metal"
     ]
+  },
+  "osees brigid dawson": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "otay onii": {
     "classifier_version": 2,
@@ -9683,6 +9761,12 @@
       "Sludge Metal"
     ]
   },
+  "sloth rocket": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "slothmachine": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10290,6 +10374,12 @@
       "Stoner Metal"
     ]
   },
+  "surfaholics": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "svntarer": {
     "family": "Metal",
     "source": "lastfm",
@@ -10742,6 +10832,12 @@
       "Metalcore"
     ]
   },
+  "the godfathers": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the good library": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10832,6 +10928,12 @@
     "subgenres": []
   },
   "the junction": {
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "the k s": {
+    "classifier_version": 2,
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
@@ -11757,6 +11859,12 @@
       "Hardcore Punk"
     ]
   },
+  "vanes": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "vanthory": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11976,6 +12084,12 @@
   "vola": {
     "classifier_version": 2,
     "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "voltage": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
     "source": "lastfm",
     "subgenres": []
   },

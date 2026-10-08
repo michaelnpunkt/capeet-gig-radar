@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:59:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: NARKOSE, VOLTAGE, HIËNA – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8779da98d9dd5bd02f15-1</link>
+      <guid isPermaLink="false">8779da98d9dd5bd02f15:1</guid>
+      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
+      <description>2026-11-20 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: The GODFATHERS – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1ff91c3d04c6e610bf2b-1</link>
+      <guid isPermaLink="false">1ff91c3d04c6e610bf2b:1</guid>
+      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
+      <description>2027-05-09 · röda,  Steyr · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: G-TOWN JUSTICE, WELTENASCHE, REALITY SHIFT – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48b297d8ee48e89514ec-2</link>

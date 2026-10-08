@@ -37646,5 +37646,1339 @@
     "guid": "8b757ee21756dc4670ec:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GIRLI"
+          }
+        ],
+        "to": [
+          {
+            "name": "GIRLI"
+          },
+          {
+            "name": "VANèS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.facebook.com/girlimusic",
+          "name": "GIRLI"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/itsnotvanes/",
+          "name": "VANèS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-15",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "846ca8e403f6b53779c9",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "GIRLI",
+          "url": "https://www.facebook.com/girlimusic"
+        },
+        {
+          "label": "VANèS",
+          "url": "https://www.instagram.com/itsnotvanes/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1279902160491281/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.10.: GIRLI (uk) / VANèS (d) @ Flex (Café), Wien [sold out!] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex (Café)"
+    },
+    "event_id": "846ca8e403f6b53779c9",
+    "guid": "846ca8e403f6b53779c9:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SPORTFREUNDE STILLER"
+          }
+        ],
+        "to": [
+          {
+            "name": "SPORTFREUNDE STILLER"
+          },
+          {
+            "name": "CORDOBA78"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.sportfreunde-stiller.de/",
+          "name": "SPORTFREUNDE STILLER"
+        },
+        {
+          "country": null,
+          "link": "https://www.cordoba78.com/",
+          "name": "CORDOBA78"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-28",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "469a2c03f0d2772d09e3",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "SPORTFREUNDE STILLER",
+          "url": "https://www.sportfreunde-stiller.de/"
+        },
+        {
+          "label": "CORDOBA78",
+          "url": "https://www.cordoba78.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/835611772698306/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.10.: SPORTFREUNDE STILLER (d) / CORDOBA78 @ Gasometer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Gasometer"
+    },
+    "event_id": "469a2c03f0d2772d09e3",
+    "guid": "469a2c03f0d2772d09e3:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "WALK OFF THE EARTH"
+          }
+        ],
+        "to": [
+          {
+            "name": "WALK OFF THE EARTH"
+          },
+          {
+            "name": "CRASH ADAMS"
+          },
+          {
+            "name": "LUMINATI SUNS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://www.walkofftheearth.com/",
+          "name": "WALK OFF THE EARTH"
+        },
+        {
+          "country": "CAN",
+          "link": "https://www.crashadamsmusic.com/",
+          "name": "CRASH ADAMS"
+        },
+        {
+          "country": "CAN",
+          "link": "https://www.instagram.com/luminatisuns/",
+          "name": "LUMINATI SUNS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-28",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "cdf1c3eadef472929ddf",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "WALK OFF THE EARTH",
+          "url": "https://www.walkofftheearth.com/"
+        },
+        {
+          "label": "CRASH ADAMS",
+          "url": "https://www.crashadamsmusic.com/"
+        },
+        {
+          "label": "LUMINATI SUNS",
+          "url": "https://www.instagram.com/luminatisuns/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1323389289258096/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.10.: WALK OFF THE EARTH (can) / CRASH ADAMS (can) / LUMINATI SUNS (can) @ Simm City, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Simm City"
+    },
+    "event_id": "cdf1c3eadef472929ddf",
+    "guid": "cdf1c3eadef472929ddf:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "WREX"
+          }
+        ],
+        "to": [
+          {
+            "name": "WREX"
+          },
+          {
+            "name": "BACK TO BABEL"
+          },
+          {
+            "name": "CHAOS THEORY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://wearewrex.bandcamp.com/",
+          "name": "WREX"
+        },
+        {
+          "country": null,
+          "link": "https://backtobabel.bandcamp.com/",
+          "name": "BACK TO BABEL"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/chaostheory_live/",
+          "name": "CHAOS THEORY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-28",
+      "first_seen_at": "2026-08-20T03:10:51.343272+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9131b0c4acd1464bb939",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "WREX",
+          "url": "https://wearewrex.bandcamp.com/"
+        },
+        {
+          "label": "BACK TO BABEL",
+          "url": "https://backtobabel.bandcamp.com/"
+        },
+        {
+          "label": "CHAOS THEORY",
+          "url": "https://www.instagram.com/chaostheory_live/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1082681488030927/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "28.10.: WREX (uk) / BACK TO BABEL / CHAOS THEORY @ G5, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "G5"
+    },
+    "event_id": "9131b0c4acd1464bb939",
+    "guid": "9131b0c4acd1464bb939:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Szene",
+        "to": "Szene Flex (Café)"
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://www.facebook.com/thebonesswe/",
+          "name": "The BONES"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/Murphyslawnyhc/",
+          "name": "MURPHY'S LAW"
+        },
+        {
+          "country": "USA",
+          "link": "https://thedrowns.bandcamp.com/",
+          "name": "The DROWNS"
+        },
+        {
+          "country": "USA",
+          "link": "https://the-teflon-dons.bandcamp.com/",
+          "name": "The TEFLON DONS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7d4b2a5787ca80e44cb3",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "The BONES",
+          "url": "https://www.facebook.com/thebonesswe/"
+        },
+        {
+          "label": "MURPHY'S LAW",
+          "url": "https://www.facebook.com/Murphyslawnyhc/"
+        },
+        {
+          "label": "The DROWNS",
+          "url": "https://thedrowns.bandcamp.com/"
+        },
+        {
+          "label": "The TEFLON DONS",
+          "url": "https://the-teflon-dons.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1502810091313409/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: The BONES (swe) / MURPHY'S LAW (usa) / The DROWNS (usa) / The TEFLON DONS (usa) @ Szene Flex (Café), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene Flex (Café)"
+    },
+    "event_id": "7d4b2a5787ca80e44cb3",
+    "guid": "7d4b2a5787ca80e44cb3:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "VAMPYRES"
+          },
+          {
+            "name": "Moritz Molnar & The NECESSARY EVIL"
+          }
+        ],
+        "to": [
+          {
+            "name": "VAMPYRES"
+          },
+          {
+            "name": "Moritz Molnar & The NECESSARY EVIL"
+          },
+          {
+            "name": "SLOTH ROCKET"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://thevampyres.bandcamp.com/",
+          "name": "VAMPYRES"
+        },
+        {
+          "country": null,
+          "link": "https://moritzmolnar.bandcamp.com/",
+          "name": "Moritz Molnar & The NECESSARY EVIL"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/sloth_rocket/",
+          "name": "SLOTH ROCKET"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-30",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "62f1fcf070bda2a69e9f",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "VAMPYRES",
+          "url": "https://thevampyres.bandcamp.com/"
+        },
+        {
+          "label": "Moritz Molnar & The NECESSARY EVIL",
+          "url": "https://moritzmolnar.bandcamp.com/"
+        },
+        {
+          "label": "SLOTH ROCKET",
+          "url": "https://www.instagram.com/sloth_rocket/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1509173524273514/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.10.: VAMPYRES / Moritz Molnar & The NECESSARY EVIL / SLOTH ROCKET @ U4, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "U4"
+    },
+    "event_id": "62f1fcf070bda2a69e9f",
+    "guid": "62f1fcf070bda2a69e9f:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": null,
+          "name": "Melanie Baker"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ec34aff3edbb109a416d",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.11.: Melanie Baker (uk) @ Lucia, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "ec34aff3edbb109a416d",
+    "guid": "ec34aff3edbb109a416d:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "RAZORLIGHT"
+          }
+        ],
+        "to": [
+          {
+            "name": "RAZORLIGHT"
+          },
+          {
+            "name": "The K's"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.razorlightofficial.com/",
+          "name": "RAZORLIGHT"
+        },
+        {
+          "country": "UK",
+          "link": "https://theks.band/",
+          "name": "The K's"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-05",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7a6e54756d0aef0d6a15",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "RAZORLIGHT",
+          "url": "https://www.razorlightofficial.com/"
+        },
+        {
+          "label": "The K's",
+          "url": "https://theks.band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2110896836153152/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.11.: RAZORLIGHT (uk) / The K's (uk) @ Simm City, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Simm City"
+    },
+    "event_id": "7a6e54756d0aef0d6a15",
+    "guid": "7a6e54756d0aef0d6a15:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://voltagepunk.bandcamp.com/",
+          "name": "VOLTAGE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-12",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "fe896f40a675e5aa6e4f",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "VOLTAGE",
+          "url": "https://voltagepunk.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.11.: VOLTAGE (can) @ Pankahyttn, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Pankahyttn"
+    },
+    "event_id": "fe896f40a675e5aa6e4f",
+    "guid": "fe896f40a675e5aa6e4f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ARG",
+          "link": "https://boomboomkid.bandcamp.com/",
+          "name": "BOOM BOOM KID"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wearetheliquidstones/",
+          "name": "The LIQUID STONES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "37304adc42132f56e0ad",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "BOOM BOOM KID",
+          "url": "https://boomboomkid.bandcamp.com/"
+        },
+        {
+          "label": "The LIQUID STONES",
+          "url": "https://www.instagram.com/wearetheliquidstones/"
+        }
+      ],
+      "postal_code": "1160",
+      "revision": 1,
+      "source_text": "20.11.: BOOM BOOM KID (arg) / The LIQUID STONES @ Jazzclub Miau, Schellhammergasse 22, 1160 Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Jazzclub Miau, Schellhammergasse 22"
+    },
+    "event_id": "37304adc42132f56e0ad",
+    "guid": "37304adc42132f56e0ad:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://narkose.bandcamp.com/",
+          "name": "NARKOSE"
+        },
+        {
+          "country": "CAN",
+          "link": "https://voltagepunk.bandcamp.com/",
+          "name": "VOLTAGE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/hailhiena/",
+          "name": "HIËNA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": [
+          "Industrial"
+        ]
+      },
+      "id": "8779da98d9dd5bd02f15",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "NARKOSE",
+          "url": "https://narkose.bandcamp.com/"
+        },
+        {
+          "label": "VOLTAGE",
+          "url": "https://voltagepunk.bandcamp.com/"
+        },
+        {
+          "label": "HIËNA",
+          "url": "https://www.facebook.com/hailhiena/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1892067608153697/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: NARKOSE (d) / VOLTAGE (can) / HIËNA @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "8779da98d9dd5bd02f15",
+    "guid": "8779da98d9dd5bd02f15:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ARG",
+          "link": "https://boomboomkid.bandcamp.com/",
+          "name": "BOOM BOOM KID"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wearetheliquidstones/",
+          "name": "The LIQUID STONES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Neunkirchen",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "255a91ec943025bbe3a5",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "BOOM BOOM KID",
+          "url": "https://boomboomkid.bandcamp.com/"
+        },
+        {
+          "label": "The LIQUID STONES",
+          "url": "https://www.instagram.com/wearetheliquidstones/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: BOOM BOOM KID (arg) / The LIQUID STONES @ Exil Records, Neunkirchen",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Exil Records"
+    },
+    "event_id": "255a91ec943025bbe3a5",
+    "guid": "255a91ec943025bbe3a5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "KID KAPICHI"
+          }
+        ],
+        "to": [
+          {
+            "name": "KID KAPICHI"
+          },
+          {
+            "name": "DEMOB HAPPY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://kidkapichiband.bandcamp.com/",
+          "name": "KID KAPICHI"
+        },
+        {
+          "country": "UK",
+          "link": "https://demobhappy.bandcamp.com/",
+          "name": "DEMOB HAPPY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "670dfee6ac0f3efb2432",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "KID KAPICHI",
+          "url": "https://kidkapichiband.bandcamp.com/"
+        },
+        {
+          "label": "DEMOB HAPPY",
+          "url": "https://demobhappy.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1330425872257542"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.12.: KID KAPICHI (uk) / DEMOB HAPPY (uk) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "670dfee6ac0f3efb2432",
+    "guid": "670dfee6ac0f3efb2432:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The Incredible STAGGERS"
+          }
+        ],
+        "to": [
+          {
+            "name": "The Incredible STAGGERS"
+          },
+          {
+            "name": "SURFAHOLICS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/theincrediblestaggers_official/",
+          "name": "The Incredible STAGGERS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=100042521235795",
+          "name": "SURFAHOLICS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-09-16T07:42:17.993766+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2183add210030a734285",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "The Incredible STAGGERS",
+          "url": "https://www.instagram.com/theincrediblestaggers_official/"
+        },
+        {
+          "label": "SURFAHOLICS",
+          "url": "https://www.facebook.com/profile.php?id=100042521235795"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2069079847053367/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "12.12.: The Incredible STAGGERS / SURFAHOLICS @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "2183add210030a734285",
+    "guid": "2183add210030a734285:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.dirtyhoney.com/",
+          "name": "DIRTY HONEY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-19",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "339c40a26e3adab205be",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "DIRTY HONEY",
+          "url": "https://www.dirtyhoney.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1460109942648265/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.02.: DIRTY HONEY (usa) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "339c40a26e3adab205be",
+    "guid": "339c40a26e3adab205be:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/BoundariesCT",
+          "name": "BOUNDARIES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-22",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "cd1a8eb5fd6fbbccb936",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "BOUNDARIES",
+          "url": "https://www.facebook.com/BoundariesCT"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1046192835115747/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.04.: BOUNDARIES (usa) @ Flex, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "cd1a8eb5fd6fbbccb936",
+    "guid": "cd1a8eb5fd6fbbccb936:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.thegodfathersofficial.com/",
+          "name": "The GODFATHERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Steyr",
+      "event_date": "2027-05-09",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1ff91c3d04c6e610bf2b",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "The GODFATHERS",
+          "url": "https://www.thegodfathersofficial.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1149659370958183/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.05.: The GODFATHERS (uk) @ röda, Steyr [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "röda"
+    },
+    "event_id": "1ff91c3d04c6e610bf2b",
+    "guid": "1ff91c3d04c6e610bf2b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.thegodfathersofficial.com/",
+          "name": "The GODFATHERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-10",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2b96e2b567f9d2f80e21",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "The GODFATHERS",
+          "url": "https://www.thegodfathersofficial.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1071772148997785"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.05.: The GODFATHERS (uk) @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "2b96e2b567f9d2f80e21",
+    "guid": "2b96e2b567f9d2f80e21:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://lambrinigirlsband.bandcamp.com/",
+          "name": "LAMBRINI GIRLS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-18",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "9b5739b508baddf04e91",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "LAMBRINI GIRLS",
+          "url": "https://lambrinigirlsband.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2473412769838064/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.05.: LAMBRINI GIRLS (uk) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "9b5739b508baddf04e91",
+    "guid": "9b5739b508baddf04e91:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://ohsees.bandcamp.com/",
+          "name": "OSEES & Brigid Dawson"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-06-28",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "2fff5245f827d200498b",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "OSEES & Brigid Dawson",
+          "url": "https://ohsees.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1119155224181949/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.06.: OSEES & Brigid Dawson (usa) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "2fff5245f827d200498b",
+    "guid": "2fff5245f827d200498b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-08T08:59:24.743515+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/archiveofficial/",
+          "name": "ARCHIVE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-08T08:59:24.743515+00:00",
+      "city": "Wien",
+      "event_date": "2027-10-04",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "28a6cb69da1fd2b4ed33",
+      "last_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "links": [
+        {
+          "label": "ARCHIVE",
+          "url": "https://www.instagram.com/archiveofficial/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1940124053615653/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.10.: ARCHIVE (uk) @ Gasometer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Gasometer"
+    },
+    "event_id": "28a6cb69da1fd2b4ed33",
+    "guid": "28a6cb69da1fd2b4ed33:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
