@@ -723,6 +723,15 @@
       "Hardcore Punk"
     ]
   },
+  "as god created": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Thrash Metal"
+    ]
+  },
   "as the sun falls": {
     "classifier_version": 2,
     "family": "Metal",
@@ -845,6 +854,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "ava fina": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "avatar": {
     "family": "Metal",
@@ -3394,6 +3409,12 @@
       "Metalcore"
     ]
   },
+  "emberam": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "embryectomy": {
     "classifier_version": 2,
     "family": "Metal",
@@ -3700,6 +3721,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "fajanc": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "fake names": {
     "classifier_version": 2,
@@ -5732,6 +5759,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "kanine": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore"
+    ]
+  },
   "karlmer": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -6235,6 +6270,12 @@
   "laundromat chicks": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "lauraine": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "lauren babic": {
@@ -8023,6 +8064,12 @@
   "oh hiroshima": {
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "oh non": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "ohen": {
@@ -12524,6 +12571,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "yield point": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "ymp": {

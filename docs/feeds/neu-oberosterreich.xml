@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:05:59 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: NADSAT, FAJANC – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ca24e243703a20d80527-2</link>
+      <guid isPermaLink="false">ca24e243703a20d80527:2</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-09 · Kapu,  Linz · Oberösterreich · Line-up: NADSAT · AMÖBE KÖRKL → NADSAT · FAJANC</description>
+    </item>
+    <item>
+      <title>Abgesagt: AMANDA – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c0e74746e8284b7e5a88-1</link>
+      <guid isPermaLink="false">c0e74746e8284b7e5a88:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-09 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Abgesagt: JO THE MAN THE MUSIC – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-67f9b55f5e86eb0ca122-1</link>
+      <guid isPermaLink="false">67f9b55f5e86eb0ca122:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-10 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: PRIDEBOWL, KRANG – Attnang-Puchheim</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0503a951035a33343083-1</link>
+      <guid isPermaLink="false">0503a951035a33343083:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-10 · RAWS-Diner,  Attnang-Puchheim · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: SPORTFREUNDE STILLER, LAURAINE – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-47ac699c3154c0b6cdc5-1</link>
+      <guid isPermaLink="false">47ac699c3154c0b6cdc5:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-12 · Posthof,  Linz · Oberösterreich · Line-up: SPORTFREUNDE STILLER → SPORTFREUNDE STILLER · LAURAINE</description>
+    </item>
+    <item>
+      <title>Geändert: NAKED CAMEO, Ava Fina – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5fa5980bf1ebe4115f76-1</link>
+      <guid isPermaLink="false">5fa5980bf1ebe4115f76:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-15 · Posthof,  Linz · Oberösterreich · Line-up: NAKED CAMEO → NAKED CAMEO · Ava Fina</description>
+    </item>
+    <item>
+      <title>Neu: KANINE, AS GOD CREATED, CONTAINER OF FOOLS, YIELD POINT – Attnang-Puchheim</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-709ce427719c3b2da6e8-1</link>
+      <guid isPermaLink="false">709ce427719c3b2da6e8:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-17 · RAWS-Diner,  Attnang-Puchheim · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: OH NON – Kirchdorf an der Krems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-887513f47ddf5ad75936-1</link>
+      <guid isPermaLink="false">887513f47ddf5ad75936:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-17 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich · Line-up: Kayla the Crow → OH NON</description>
+    </item>
+    <item>
+      <title>Abgesagt: NEUNUNDNEUNZIG – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7893d6d1b0ec12aa8908-1</link>
+      <guid isPermaLink="false">7893d6d1b0ec12aa8908:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-20 · Posthof,  Linz · Oberösterreich · Status: angekündigt → abgesagt</description>
+    </item>
     <item>
       <title>Neu: NARKOSE, VOLTAGE, HIËNA – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8779da98d9dd5bd02f15-1</link>

@@ -1,6 +1,868 @@
 {
-  "generated_at": "2026-10-08T08:59:24.743515+00:00",
+  "generated_at": "2026-10-09T09:05:59.806156+00:00",
   "revisions": [
+    {
+      "anchor": "change-ca24e243703a20d80527-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NADSAT"
+            },
+            {
+              "name": "AMÖBE KÖRKL"
+            }
+          ],
+          "to": [
+            {
+              "name": "NADSAT"
+            },
+            {
+              "name": "FAJANC"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://nadsat1.bandcamp.com/",
+            "name": "NADSAT"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "FAJANC"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-09-02T07:06:47.631919+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ca24e243703a20d80527",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "NADSAT",
+            "url": "https://nadsat1.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1390888349636975/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "09.10.: NADSAT (ita) / FAJANC @ Kapu, Linz [AMÖBE KÖRKL cancelled.] [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "ca24e243703a20d80527",
+      "guid": "ca24e243703a20d80527:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-c0e74746e8284b7e5a88-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "AMANDA"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Kirchdorf an der Krems",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c0e74746e8284b7e5a88",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.10.: AMANDA @ Bar-Café Hildegard, Kirchdorf an der Krems [cancelled.]",
+        "state": "Oberösterreich",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Bar-Café Hildegard"
+      },
+      "event_id": "c0e74746e8284b7e5a88",
+      "guid": "c0e74746e8284b7e5a88:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bbab125ddac816d333ba-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NAKED CAMEO"
+            }
+          ],
+          "to": [
+            {
+              "name": "NAKED CAMEO"
+            },
+            {
+              "name": "Ava Fina"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/nacameomusic/",
+            "name": "NAKED CAMEO"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/avafinamusic/",
+            "name": "Ava Fina"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bbab125ddac816d333ba",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "NAKED CAMEO",
+            "url": "https://www.facebook.com/nacameomusic/"
+          },
+          {
+            "label": "Ava Fina",
+            "url": "https://www.instagram.com/avafinamusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/957338136796909/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.10.: NAKED CAMEO / Ava Fina @ p.p.c., Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.p.c."
+      },
+      "event_id": "bbab125ddac816d333ba",
+      "guid": "bbab125ddac816d333ba:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-67f9b55f5e86eb0ca122-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "JO THE MAN THE MUSIC"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Kirchdorf an der Krems",
+        "event_date": "2026-10-10",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "67f9b55f5e86eb0ca122",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.10.: JO THE MAN THE MUSIC @ Bar-Café Hildegard, Kirchdorf an der Krems [cancelled.]",
+        "state": "Oberösterreich",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Bar-Café Hildegard"
+      },
+      "event_id": "67f9b55f5e86eb0ca122",
+      "guid": "67f9b55f5e86eb0ca122:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0503a951035a33343083-1",
+      "changes": {},
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/pridebowl_punk_rock/",
+            "name": "PRIDEBOWL"
+          },
+          {
+            "country": "CZE",
+            "link": "https://krangpunkrock.bandcamp.com/",
+            "name": "KRANG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Attnang-Puchheim",
+        "event_date": "2026-10-10",
+        "first_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "0503a951035a33343083",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "PRIDEBOWL",
+            "url": "https://www.instagram.com/pridebowl_punk_rock/"
+          },
+          {
+            "label": "KRANG",
+            "url": "https://krangpunkrock.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1773143994020222/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.10.: PRIDEBOWL (usa) / KRANG (cze) @ RAWS-Diner, Attnang-Puchheim [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "RAWS-Diner"
+      },
+      "event_id": "0503a951035a33343083",
+      "guid": "0503a951035a33343083:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a8de96b9d2ee1f65eb8a-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "EXXECUTOR"
+            },
+            {
+              "name": "HELL POISON"
+            }
+          ],
+          "to": [
+            {
+              "name": "HELL POISON"
+            },
+            {
+              "name": "EMBERAM"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BRA",
+            "link": "https://hellpoison.bandcamp.com/",
+            "name": "HELL POISON"
+          },
+          {
+            "country": "CRO",
+            "link": "https://emberam.bandcamp.com/",
+            "name": "EMBERAM"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-11",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "a8de96b9d2ee1f65eb8a",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "HELL POISON",
+            "url": "https://hellpoison.bandcamp.com/"
+          },
+          {
+            "label": "EMBERAM",
+            "url": "https://emberam.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1079458077765779/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.10.: HELL POISON (bra) / EMBERAM (cro) @ Club Wakuum, Graz [15:00!] [EXXECUTOR cancelled.] [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "a8de96b9d2ee1f65eb8a",
+      "guid": "a8de96b9d2ee1f65eb8a:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-58e673093765a8d6d053-1",
+      "changes": {},
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/nacameomusic/",
+            "name": "NAKED CAMEO"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/avafinamusic/",
+            "name": "Ava Fina"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-11",
+        "first_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "58e673093765a8d6d053",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "NAKED CAMEO",
+            "url": "https://www.facebook.com/nacameomusic/"
+          },
+          {
+            "label": "Ava Fina",
+            "url": "https://www.instagram.com/avafinamusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2462661170872329"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.10.: NAKED CAMEO / Ava Fina @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "58e673093765a8d6d053",
+      "guid": "58e673093765a8d6d053:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-47ac699c3154c0b6cdc5-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SPORTFREUNDE STILLER"
+            }
+          ],
+          "to": [
+            {
+              "name": "SPORTFREUNDE STILLER"
+            },
+            {
+              "name": "LAURAINE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.sportfreunde-stiller.de/",
+            "name": "SPORTFREUNDE STILLER"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/lauraine.wav/",
+            "name": "LAURAINE"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-12",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "47ac699c3154c0b6cdc5",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "SPORTFREUNDE STILLER",
+            "url": "https://www.sportfreunde-stiller.de/"
+          },
+          {
+            "label": "LAURAINE",
+            "url": "https://www.instagram.com/lauraine.wav/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1639465987269858/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.10.: SPORTFREUNDE STILLER (d) / LAURAINE (d) @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "47ac699c3154c0b6cdc5",
+      "guid": "47ac699c3154c0b6cdc5:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5fa5980bf1ebe4115f76-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NAKED CAMEO"
+            }
+          ],
+          "to": [
+            {
+              "name": "NAKED CAMEO"
+            },
+            {
+              "name": "Ava Fina"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/nacameomusic/",
+            "name": "NAKED CAMEO"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/avafinamusic/",
+            "name": "Ava Fina"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-15",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "5fa5980bf1ebe4115f76",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "NAKED CAMEO",
+            "url": "https://www.facebook.com/nacameomusic/"
+          },
+          {
+            "label": "Ava Fina",
+            "url": "https://www.instagram.com/avafinamusic/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.posthof.at/event/naked-cameo-2"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.10.: NAKED CAMEO / Ava Fina @ Posthof, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "5fa5980bf1ebe4115f76",
+      "guid": "5fa5980bf1ebe4115f76:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-709ce427719c3b2da6e8-1",
+      "changes": {},
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://www.facebook.com/KanineSdc/",
+            "name": "KANINE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Asgodcreated",
+            "name": "AS GOD CREATED"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/container_of_fools/",
+            "name": "CONTAINER OF FOOLS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/yieldpointband/",
+            "name": "YIELD POINT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Attnang-Puchheim",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore"
+          ]
+        },
+        "id": "709ce427719c3b2da6e8",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "KANINE",
+            "url": "https://www.facebook.com/KanineSdc/"
+          },
+          {
+            "label": "AS GOD CREATED",
+            "url": "https://www.facebook.com/Asgodcreated"
+          },
+          {
+            "label": "CONTAINER OF FOOLS",
+            "url": "https://www.instagram.com/container_of_fools/"
+          },
+          {
+            "label": "YIELD POINT",
+            "url": "https://www.instagram.com/yieldpointband/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1623641422505493"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: KANINE (fra) / AS GOD CREATED / CONTAINER OF FOOLS / YIELD POINT u.a. @ RAWS-Diner, Attnang-Puchheim [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "RAWS-Diner"
+      },
+      "event_id": "709ce427719c3b2da6e8",
+      "guid": "709ce427719c3b2da6e8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-887513f47ddf5ad75936-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "Kayla the Crow"
+            }
+          ],
+          "to": [
+            {
+              "name": "OH NON"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://ohnon.bandcamp.com/",
+            "name": "OH NON"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Kirchdorf an der Krems",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "887513f47ddf5ad75936",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [
+          {
+            "label": "OH NON",
+            "url": "https://ohnon.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://hildegard.bar/event/konzert-oh-non-17-11-2026/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: OH NON (fra) @ Bar-Café Hildegard, Kirchdorf an der Krems [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Bar-Café Hildegard"
+      },
+      "event_id": "887513f47ddf5ad75936",
+      "guid": "887513f47ddf5ad75936:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7893d6d1b0ec12aa8908-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "NEUNUNDNEUNZIG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-20",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "7893d6d1b0ec12aa8908",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.10.: NEUNUNDNEUNZIG @ Posthof, Linz [cancelled.]",
+        "state": "Oberösterreich",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "7893d6d1b0ec12aa8908",
+      "guid": "7893d6d1b0ec12aa8908:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a23d41b59cbeda4c6ce3-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "NEUNUNDNEUNZIG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Innsbruck",
+        "event_date": "2026-10-21",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "a23d41b59cbeda4c6ce3",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.10.: NEUNUNDNEUNZIG @ p.m.k., Innsbruck [cancelled.]",
+        "state": "Tirol",
+        "status": "cancelled",
+        "title": null,
+        "venue": "p.m.k."
+      },
+      "event_id": "a23d41b59cbeda4c6ce3",
+      "guid": "a23d41b59cbeda4c6ce3:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-09T09:05:59.806156+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-09T09:05:59.806156+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-09T09:05:59.806156+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-9131b0c4acd1464bb939-2",
       "changes": {

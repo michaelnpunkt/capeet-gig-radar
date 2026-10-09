@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:05:59 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: NAKED CAMEO, Ava Fina – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-58e673093765a8d6d053-1</link>
+      <guid isPermaLink="false">58e673093765a8d6d053:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-10-11 · Szene,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Fri, 09 Oct 2026 09:05:59 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: WREX, BACK TO BABEL, CHAOS THEORY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9131b0c4acd1464bb939-2</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">ee806b06e5166f21924b:2</guid>
       <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
       <description>2026-12-04 · Venster,  Wien · Wien · Line-up: MEPHOBIA → MEPHOBIA · DECULTIVATE · WOJTEK</description>
-    </item>
-    <item>
-      <title>Neu: MENSCH ODER TIER, MORELLO CHERRY – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bf94dccb398db5b3edb6-1</link>
-      <guid isPermaLink="false">bf94dccb398db5b3edb6:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-09-30 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: LIQUID AIR, ROSES AND TULIPS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-939da9c1104ed00208b6-1</link>
-      <guid isPermaLink="false">939da9c1104ed00208b6:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-10-17 · Lucia,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
