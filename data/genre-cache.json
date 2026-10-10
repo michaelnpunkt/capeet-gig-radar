@@ -80,6 +80,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "a fonds perdu": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "a goat as our shepherd": {
     "family": "Metal",
     "source": "lastfm",
@@ -331,6 +337,12 @@
     "classifier_version": 2,
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "albinobrothers": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "alcest": {
@@ -1203,6 +1215,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "bim": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "binary boy": {
@@ -2219,6 +2237,12 @@
       "Melodic Hardcore"
     ]
   },
+  "couscous a colazione": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "cousines like shit": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -2412,6 +2436,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "daniel b": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "danko jones": {
     "family": "Rock",
     "source": "lastfm",
@@ -2541,9 +2571,21 @@
       "Shoegaze"
     ]
   },
+  "de vu": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "dead bob": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "dead butterflies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "dead end idols": {
@@ -3415,6 +3457,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "embrace the fire": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "embryectomy": {
     "classifier_version": 2,
     "family": "Metal",
@@ -3594,6 +3642,12 @@
     "subgenres": []
   },
   "eternally blinded": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "eternity again": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6252,6 +6306,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "last hounds": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore",
+      "Hardcore Punk"
+    ]
+  },
   "lastelle": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -7404,6 +7467,12 @@
       "Stoner Metal"
     ]
   },
+  "monoplastic": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "monotrauma": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7778,6 +7847,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "nicitel": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "nick neuburg": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -8094,6 +8171,12 @@
     "subgenres": [
       "Hardcore Punk"
     ]
+  },
+  "one last story": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "onslaught": {
     "family": "Metal",
@@ -8785,6 +8868,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "punched orange": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "punchline": {
@@ -9827,6 +9916,12 @@
       "Industrial"
     ]
   },
+  "sm sher": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "small brown bike": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -9982,6 +10077,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "sorry not sorry": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "soulburn": {
     "family": "Metal",
@@ -10985,6 +11086,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the karma effect": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the kids": {
     "family": "Punk",
     "source": "lastfm",
@@ -11427,6 +11534,12 @@
       "Death Metal",
       "Black Metal"
     ]
+  },
+  "thundermother": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "thus": {
     "classifier_version": 2,

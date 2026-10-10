@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:30:36 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: EREBOS, FALLEN UTOPIA, NECROSOPHY, A FONDS PERDU – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0a1a5154932fd96c6be8-1</link>
+      <guid isPermaLink="false">0a1a5154932fd96c6be8:1</guid>
+      <pubDate>Sat, 10 Oct 2026 08:30:36 +0000</pubDate>
+      <description>2026-11-21 · Kwadrat,  Klagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Geändert: Schirenc plays PUNGENT STENCH, NECROSOPHY, The DEVASTATION – Wolfsberg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-784b1c3f4b8cacf8b45c-1</link>

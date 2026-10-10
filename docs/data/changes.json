@@ -1,6 +1,1119 @@
 {
-  "generated_at": "2026-10-09T09:05:59.806156+00:00",
+  "generated_at": "2026-10-10T08:30:36.395006+00:00",
   "revisions": [
+    {
+      "anchor": "change-28de53f2dba1053ff222-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "BLOOD RED SHOES"
+            }
+          ],
+          "to": [
+            {
+              "name": "BLOOD RED SHOES"
+            },
+            {
+              "name": "SM^SHER"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://bloodredshoes.bandcamp.com/music",
+            "name": "BLOOD RED SHOES"
+          },
+          {
+            "country": "UK",
+            "link": "https://smsher.bandcamp.com/",
+            "name": "SM^SHER"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-09",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "28de53f2dba1053ff222",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "BLOOD RED SHOES",
+            "url": "https://bloodredshoes.bandcamp.com/music"
+          },
+          {
+            "label": "SM^SHER",
+            "url": "https://smsher.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1236264395161389/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.10.: BLOOD RED SHOES (uk) / SM^SHER (uk) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "28de53f2dba1053ff222",
+      "guid": "28de53f2dba1053ff222:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d672d24eafc654f08e18-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://albinobrothers.bandcamp.com/",
+            "name": "ALBINOBROTHERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-14",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "d672d24eafc654f08e18",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "ALBINOBROTHERS",
+            "url": "https://albinobrothers.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=14-10-2026_albinobrothers-just-the-short-story-"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.10.: ALBINOBROTHERS (d) @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "d672d24eafc654f08e18",
+      "guid": "d672d24eafc654f08e18:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c23a82dcca1ce31c8830-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "NEUNUNDNEUNZIG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-22",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "c23a82dcca1ce31c8830",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.10.: NEUNUNDNEUNZIG @ Grelle Forelle, Wien [cancelled.] [neu: 04.12.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Grelle Forelle"
+      },
+      "event_id": "c23a82dcca1ce31c8830",
+      "guid": "c23a82dcca1ce31c8830:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a6eb415e3aa08ed498fa-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "STEAMING SATELLITES"
+            }
+          ],
+          "to": [
+            {
+              "name": "STEAMING SATELLITES"
+            },
+            {
+              "name": "LIKE ELEPHANTS"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/steamingsatellites/",
+            "name": "STEAMING SATELLITES"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/likeelephants_music/",
+            "name": "LIKE ELEPHANTS"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "a6eb415e3aa08ed498fa",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "STEAMING SATELLITES",
+            "url": "https://www.facebook.com/steamingsatellites/"
+          },
+          {
+            "label": "LIKE ELEPHANTS",
+            "url": "https://www.instagram.com/likeelephants_music/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1347652646909538/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: STEAMING SATELLITES / LIKE ELEPHANTS @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "a6eb415e3aa08ed498fa",
+      "guid": "a6eb415e3aa08ed498fa:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ab154daa476bbcf05812-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MY UGLY CLEMENTINE"
+            }
+          ],
+          "to": [
+            {
+              "name": "MY UGLY CLEMENTINE"
+            },
+            {
+              "name": "DE VU"
+            },
+            {
+              "name": "MONOPLASTIC"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/myuglyclementine/",
+            "name": "MY UGLY CLEMENTINE"
+          },
+          {
+            "country": "SLO",
+            "link": "https://www.instagram.com/devu_band",
+            "name": "DE VU"
+          },
+          {
+            "country": "SVK",
+            "link": "https://monoplastic.bandcamp.com/",
+            "name": "MONOPLASTIC"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ab154daa476bbcf05812",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "MY UGLY CLEMENTINE",
+            "url": "https://www.facebook.com/myuglyclementine/"
+          },
+          {
+            "label": "DE VU",
+            "url": "https://www.instagram.com/devu_band"
+          },
+          {
+            "label": "MONOPLASTIC",
+            "url": "https://monoplastic.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.posthof.at/event/my-ugly-clementine"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: MY UGLY CLEMENTINE / DE VU (slo) / MONOPLASTIC (svk) @ Posthof, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "ab154daa476bbcf05812",
+      "guid": "ab154daa476bbcf05812:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-71660e1ce323a59c22e9-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CZE",
+            "link": "https://eternityagain.bandcamp.com/",
+            "name": "ETERNITY AGAIN"
+          },
+          {
+            "country": "FRA",
+            "link": "https://ohnon.bandcamp.com/",
+            "name": "OH NON"
+          },
+          {
+            "country": "SVK",
+            "link": "https://www.instagram.com/danielfcknb/",
+            "name": "Daniel B"
+          },
+          {
+            "country": "ITA",
+            "link": "https://www.instagram.com/couscousacolazione",
+            "name": "COUSCOUS A COLAZIONE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-29",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "71660e1ce323a59c22e9",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "ETERNITY AGAIN",
+            "url": "https://eternityagain.bandcamp.com/"
+          },
+          {
+            "label": "OH NON",
+            "url": "https://ohnon.bandcamp.com/"
+          },
+          {
+            "label": "Daniel B",
+            "url": "https://www.instagram.com/danielfcknb/"
+          },
+          {
+            "label": "COUSCOUS A COLAZIONE",
+            "url": "https://www.instagram.com/couscousacolazione"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1759708668670669/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.10.: ETERNITY AGAIN (cze) / OH NON (fra) / Daniel B (svk) / COUSCOUS A COLAZIONE (ita) @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "71660e1ce323a59c22e9",
+      "guid": "71660e1ce323a59c22e9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fb7f418f79b980c6bc4d-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/amandaband_official/",
+            "name": "AMANDA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "fb7f418f79b980c6bc4d",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "AMANDA",
+            "url": "https://www.instagram.com/amandaband_official/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.reigen.at/event/amanda-2/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: AMANDA @ Reigen, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Reigen"
+      },
+      "event_id": "fb7f418f79b980c6bc4d",
+      "guid": "fb7f418f79b980c6bc4d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-80a54b514f4c6dcf52ad-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://bullnakano.bandcamp.com/",
+            "name": "BULL NAKANO"
+          },
+          {
+            "country": null,
+            "link": "https://catastrophypunx.bandcamp.com/",
+            "name": "CATASTROPHY"
+          },
+          {
+            "country": null,
+            "link": "https://harshresponse.bandcamp.com/",
+            "name": "HARSH RESPONSE"
+          },
+          {
+            "country": null,
+            "link": "https://bim666.bandcamp.com/",
+            "name": "BIM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "80a54b514f4c6dcf52ad",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "BULL NAKANO",
+            "url": "https://bullnakano.bandcamp.com/"
+          },
+          {
+            "label": "CATASTROPHY",
+            "url": "https://catastrophypunx.bandcamp.com/"
+          },
+          {
+            "label": "HARSH RESPONSE",
+            "url": "https://harshresponse.bandcamp.com/"
+          },
+          {
+            "label": "BIM",
+            "url": "https://bim666.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: ABC Soliparty feat. BULL NAKANO / CATASTROPHY / HARSH RESPONSE / BIM @ Secret Location, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "ABC Soliparty",
+        "venue": "Secret Location"
+      },
+      "event_id": "80a54b514f4c6dcf52ad",
+      "guid": "80a54b514f4c6dcf52ad:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d4be05fbdb5d22241a69-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://7yearsbadluck.bandcamp.com/",
+            "name": "7 YEARS BAD LUCK"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/sorrynotsorry_band/",
+            "name": "SORRY NOT SORRY"
+          },
+          {
+            "country": "D",
+            "link": "https://morganpines.bandcamp.com/",
+            "name": "MORGAN PINES"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/weareweirdminds/",
+            "name": "WEIRD MINDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Attnang-Puchheim",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d4be05fbdb5d22241a69",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "7 YEARS BAD LUCK",
+            "url": "https://7yearsbadluck.bandcamp.com/"
+          },
+          {
+            "label": "SORRY NOT SORRY",
+            "url": "https://www.instagram.com/sorrynotsorry_band/"
+          },
+          {
+            "label": "MORGAN PINES",
+            "url": "https://morganpines.bandcamp.com/"
+          },
+          {
+            "label": "WEIRD MINDS",
+            "url": "https://www.instagram.com/weareweirdminds/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1218364200853820/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: 7 YEARS BAD LUCK / SORRY NOT SORRY / MORGAN PINES (d) / WEIRD MINDS @ RAWS-Diner, Attnang-Puchheim [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "RAWS-Diner"
+      },
+      "event_id": "d4be05fbdb5d22241a69",
+      "guid": "d4be05fbdb5d22241a69:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-967970d9de6dae27dd40-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/amandaband_official/",
+            "name": "AMANDA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Schladming",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "967970d9de6dae27dd40",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "AMANDA",
+            "url": "https://www.instagram.com/amandaband_official/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: AMANDA @ Klang-Film-Theater, Schladming",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Klang-Film-Theater"
+      },
+      "event_id": "967970d9de6dae27dd40",
+      "guid": "967970d9de6dae27dd40:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0a1a5154932fd96c6be8-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://erebos666.bandcamp.com/",
+            "name": "EREBOS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/fallenutopia",
+            "name": "FALLEN UTOPIA"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Necrosophy",
+            "name": "NECROSOPHY"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "A FONDS PERDU"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal"
+          ]
+        },
+        "id": "0a1a5154932fd96c6be8",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "EREBOS",
+            "url": "https://erebos666.bandcamp.com/"
+          },
+          {
+            "label": "FALLEN UTOPIA",
+            "url": "https://www.facebook.com/fallenutopia"
+          },
+          {
+            "label": "NECROSOPHY",
+            "url": "https://www.facebook.com/Necrosophy"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1325213352859909"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: EREBOS / FALLEN UTOPIA / NECROSOPHY / A FONDS PERDU @ Kwadrat, Klagenfurt [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kwadrat"
+      },
+      "event_id": "0a1a5154932fd96c6be8",
+      "guid": "0a1a5154932fd96c6be8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-390c39f68dd84d20b61b-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/neunundneunzig.band/",
+            "name": "NEUNUNDNEUNZIG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "390c39f68dd84d20b61b",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "NEUNUNDNEUNZIG",
+            "url": "https://www.instagram.com/neunundneunzig.band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/772605765786424/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: NEUNUNDNEUNZIG @ B72, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "B72"
+      },
+      "event_id": "390c39f68dd84d20b61b",
+      "guid": "390c39f68dd84d20b61b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-866a97587d08f3d57384-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://deadbutterfliesband.bandcamp.com/music",
+            "name": "DEAD BUTTERFLIES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-11",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "866a97587d08f3d57384",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "DEAD BUTTERFLIES",
+            "url": "https://deadbutterfliesband.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2931213820560848/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.03.: DEAD BUTTERFLIES (usa) @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "866a97587d08f3d57384",
+      "guid": "866a97587d08f3d57384:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-afcc469680ea9bb0ffda-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SVK",
+            "link": "https://nicitel.bandcamp.com/",
+            "name": "NIČITEĽ"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-20",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "afcc469680ea9bb0ffda",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "NIČITEĽ",
+            "url": "https://nicitel.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.03.: NIČITEĽ (svk) @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "afcc469680ea9bb0ffda",
+      "guid": "afcc469680ea9bb0ffda:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-cf5fc7202e1a6d4133dd-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://thundermother.bandcamp.com/",
+            "name": "THUNDERMOTHER"
+          },
+          {
+            "country": "UK",
+            "link": "https://thekarmaeffect.bandcamp.com/",
+            "name": "The KARMA EFFECT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Linz",
+        "event_date": "2027-03-23",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "cf5fc7202e1a6d4133dd",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "THUNDERMOTHER",
+            "url": "https://thundermother.bandcamp.com/"
+          },
+          {
+            "label": "The KARMA EFFECT",
+            "url": "https://thekarmaeffect.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2160000964928594/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.03.: THUNDERMOTHER (swe) / The KARMA EFFECT (uk) @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "cf5fc7202e1a6d4133dd",
+      "guid": "cf5fc7202e1a6d4133dd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7e6934dcaf0f660bb1ac-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://thundermother.bandcamp.com/",
+            "name": "THUNDERMOTHER"
+          },
+          {
+            "country": "UK",
+            "link": "https://thekarmaeffect.bandcamp.com/",
+            "name": "The KARMA EFFECT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-26",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "7e6934dcaf0f660bb1ac",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "THUNDERMOTHER",
+            "url": "https://thundermother.bandcamp.com/"
+          },
+          {
+            "label": "The KARMA EFFECT",
+            "url": "https://thekarmaeffect.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1076558855360127/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.03.: THUNDERMOTHER (swe) / The KARMA EFFECT (uk) @ Simm City, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Simm City"
+      },
+      "event_id": "7e6934dcaf0f660bb1ac",
+      "guid": "7e6934dcaf0f660bb1ac:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6b4a85a2e5b0db3bd192-1",
+      "changes": {},
+      "detected_at": "2026-10-10T08:30:36.395006+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://lasthounds.bandcamp.com/music",
+            "name": "LAST HOUNDS"
+          },
+          {
+            "country": "POL",
+            "link": "https://punchedorange.bandcamp.com/",
+            "name": "PUNCHED ORANGE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/onelaststory.music",
+            "name": "ONE LAST STORY"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/EmbraceTheFireOfficial/",
+            "name": "EMBRACE THE FIRE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-10T08:30:36.395006+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-30",
+        "first_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Melodic Hardcore",
+            "Hardcore Punk"
+          ]
+        },
+        "id": "6b4a85a2e5b0db3bd192",
+        "last_seen_at": "2026-10-10T08:30:36.395006+00:00",
+        "links": [
+          {
+            "label": "LAST HOUNDS",
+            "url": "https://lasthounds.bandcamp.com/music"
+          },
+          {
+            "label": "PUNCHED ORANGE",
+            "url": "https://punchedorange.bandcamp.com/"
+          },
+          {
+            "label": "ONE LAST STORY",
+            "url": "https://www.instagram.com/onelaststory.music"
+          },
+          {
+            "label": "EMBRACE THE FIRE",
+            "url": "https://www.facebook.com/EmbraceTheFireOfficial/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1534662435133407/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.04.: LAST HOUNDS (uk) / PUNCHED ORANGE (pol) / ONE LAST STORY / EMBRACE THE FIRE @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "6b4a85a2e5b0db3bd192",
+      "guid": "6b4a85a2e5b0db3bd192:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-ca24e243703a20d80527-2",
       "changes": {
