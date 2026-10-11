@@ -28,7 +28,7 @@ Der Betrieb benötigt keinen Server, keine Datenbank, kein lokales Hosting und k
 - Aktualisierung: genau einmal täglich um 02:17 UTC sowie optional manuell über `workflow_dispatch`.
 - HTTP: transparenter User-Agent sowie bedingte Requests mit ETag und Last-Modified aus `data/source-state.json`.
 - HTTP 304: Bei unveränderter Quelle bleibt der Datenbestand erhalten; der erfolgreiche Prüfzeitpunkt wird trotzdem veröffentlicht. Ausstehende Last.fm-Klassifizierungen können ebenfalls ergänzt werden.
-- Sicherheit: 0 Events, weniger als 20 Events oder ein Rückgang über 40 Prozent brechen den Lauf ab.
+- Sicherheit: 0 Events, weniger als 20 Events oder ein Rückgang der anstehenden Events über 40 Prozent brechen den Lauf ab. Historisierte vergangene Events zählen beim Vergleich nicht mit; Termine am aktuellen UTC-Tag zählen als anstehend.
 
 Der Cron-Zeitpunkt entspricht im Sommer 04:17 Uhr und im Winter 03:17 Uhr in `Europe/Vienna`. GitHub Actions führt geplante Workflows nach dem Best-Effort-Prinzip aus; bei hoher Auslastung kann der tatsächliche Start später erfolgen.
 
