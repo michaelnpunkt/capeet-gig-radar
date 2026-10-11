@@ -1,7 +1,8 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from copy import deepcopy
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -118,6 +119,30 @@ def test_offline_update_and_idempotent_second_run(tmp_path, fixture_path):
     assert run(settings, fixture_path) == 0
     second = json.loads((settings.data_dir / "events.json").read_text())
     assert [event["revision"] for event in second] == [event["revision"] for event in first]
+
+
+def test_update_with_retained_past_events(tmp_path, fixture_path, fixture_events, monkeypatch):
+    now = datetime(2027, 8, 1, tzinfo=timezone.utc)
+
+    class FixedDatetime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return now
+
+    monkeypatch.setattr("src.update.datetime", FixedDatetime)
+    settings = Settings(data_dir=tmp_path / "data", output_dir=tmp_path / "docs")
+    past = deepcopy(fixture_events)
+    for index, event in enumerate(past):
+        event.id = f"past-{index}"
+        event.event_date = now.date() - timedelta(days=1)
+    atomic_write_json(settings.data_dir / "events.json", [
+        event.to_dict() for event in fixture_events + past
+    ])
+    assert run(settings, fixture_path) == 0
+    saved = json.loads((settings.data_dir / "events.json").read_text())
+    assert len(saved) == 40
+    assert {event["id"] for event in saved} == {event.id for event in fixture_events + past}
+    assert json.loads((settings.data_dir / "revisions.json").read_text()) == []
 
 
 def test_304_updates_public_check_time_without_changing_data_time(tmp_path, fixture_path, monkeypatch):

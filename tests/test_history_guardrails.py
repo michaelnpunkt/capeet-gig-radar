@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from copy import deepcopy
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import pytest
 
@@ -84,6 +84,40 @@ def test_guardrails_minimum_drop_and_duplicates(fixture_events):
     with pytest.raises(GuardrailError, match="mindestens"):
         validate_update(fixture_events[:19], [], 20, .4)
     with pytest.raises(GuardrailError, match="fiel"):
-        validate_update(fixture_events[:10], fixture_events, 1, .4)
+        validate_update(fixture_events[:10], fixture_events, 1, .4, today=NOW.date())
     with pytest.raises(GuardrailError, match="Doppelte"):
         validate_update([fixture_events[0], deepcopy(fixture_events[0])], [], 1, .4)
+
+
+def test_guardrails_ignores_retained_past_and_inactive_events(fixture_events):
+    past = deepcopy(fixture_events)
+    for index, event in enumerate(past):
+        event.id = f"past-{index}"
+        event.event_date = NOW.date() - timedelta(days=1)
+    inactive = deepcopy(fixture_events)
+    for event in inactive:
+        event.active = False
+    validate_update(fixture_events, fixture_events + past + inactive, today=NOW.date())
+    validate_update(fixture_events, past + inactive, today=NOW.date())
+
+
+@pytest.mark.parametrize("remaining", [12, 11])
+def test_guardrails_upcoming_drop_threshold_with_past_source_events(fixture_events, remaining):
+    past = deepcopy(fixture_events)
+    for index, event in enumerate(past):
+        event.id = f"past-{index}"
+        event.event_date = NOW.date() - timedelta(days=1)
+    current = fixture_events[:remaining] + past
+    if remaining == 12:
+        validate_update(current, fixture_events + past, today=NOW.date())
+    else:
+        with pytest.raises(GuardrailError, match="fiel"):
+            validate_update(current, fixture_events + past, today=NOW.date())
+
+
+def test_guardrails_includes_events_today(fixture_events):
+    previous = deepcopy(fixture_events)
+    for event in previous:
+        event.event_date = NOW.date()
+    with pytest.raises(GuardrailError, match="fiel"):
+        validate_update(previous[:11], previous, minimum=1, today=NOW.date())

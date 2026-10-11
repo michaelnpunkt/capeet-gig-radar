@@ -90,8 +90,8 @@ def run(settings: Settings, input_path: Path | None = None, use_lastfm: bool = F
         client,
         max_lookups=settings.lastfm_limit,
     )
-    validate_update(current, previous, settings.minimum_events, settings.maximum_drop_ratio)
     now = datetime.now(timezone.utc)
+    validate_update(current, previous, settings.minimum_events, settings.maximum_drop_ratio, today=now.date())
     events, revisions = reconcile(current, previous, load_json(revisions_path, []), now=now, initial_baseline=not previous, past_event_retention_days=settings.past_event_retention_days)
     if dry_run:
         print(f"Validierung erfolgreich: {len(events)} Veranstaltungen, {len(revisions)} Revisionen")
