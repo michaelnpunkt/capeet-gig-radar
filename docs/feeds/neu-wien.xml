@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:14:22 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: MY NAME JONAS, BEIDL FIGHT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b17df2a8662569c3d4f4-1</link>
+      <guid isPermaLink="false">b17df2a8662569c3d4f4:1</guid>
+      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
+      <description>2026-10-31 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: COVID BOYS, SPION, Uli – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee06e8b99cf3d33e960d-1</link>
+      <guid isPermaLink="false">ee06e8b99cf3d33e960d:1</guid>
+      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
+      <description>2026-11-07 · Einbaumöbel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">b14ac64597a07255299e:1</guid>
       <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
       <description>2026-09-29 · Arena (kl. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: SAMURAI PIZZA CATS, BABY BEARD, HIDDEN FATES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd34bea7ec0228524228-1</link>
-      <guid isPermaLink="false">cd34bea7ec0228524228:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-10-13 · Szene,  Wien · Wien · Line-up: SAMURAI PIZZA CATS → SAMURAI PIZZA CATS · BABY BEARD · HIDDEN FATES</description>
-    </item>
-    <item>
-      <title>Neu: SCHNOGGE, TARZANELLI, WHITE NOISE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cf90fa1ff415137d171f-1</link>
-      <guid isPermaLink="false">cf90fa1ff415137d171f:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-10-31 · Loop,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BULLETPROOF, GENERATOR, CALUMET CULT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-656a5bc5b68e7ccb1335-1</link>
-      <guid isPermaLink="false">656a5bc5b68e7ccb1335:1</guid>
-      <pubDate>Sun, 27 Sep 2026 08:11:59 +0000</pubDate>
-      <description>2026-11-13 · Tunnel,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

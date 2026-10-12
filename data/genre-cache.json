@@ -1131,6 +1131,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "beidl fight": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "belzebong": {
     "family": "Metal",
     "source": "lastfm",
@@ -2249,6 +2255,12 @@
     "subgenres": []
   },
   "covendeath": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "covid boys": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4263,6 +4275,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "generation gap": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
   },
   "generator": {
     "classifier_version": 2,
@@ -7675,6 +7695,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "my name jonas": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "my son the doctor": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -10180,6 +10206,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "spion": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "spiritbox": {
     "family": "Metal",
     "source": "lastfm",
@@ -10240,6 +10272,12 @@
     "subgenres": [
       "Shoegaze"
     ]
+  },
+  "springy pinestix": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "spuren": {
     "classifier_version": 2,
@@ -11843,6 +11881,12 @@
     ]
   },
   "uh batman": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "uli": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

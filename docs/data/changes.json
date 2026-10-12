@@ -1,6 +1,230 @@
 {
-  "generated_at": "2026-10-11T16:31:07.203417+00:00",
+  "generated_at": "2026-10-12T09:14:22.628778+00:00",
   "revisions": [
+    {
+      "anchor": "change-b17df2a8662569c3d4f4-1",
+      "changes": {},
+      "detected_at": "2026-10-12T09:14:22.628778+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "MY NAME JONAS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "BEIDL FIGHT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-12T09:14:22.628778+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "b17df2a8662569c3d4f4",
+        "last_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: Halloween Cover Show feat. MY NAME JONAS / BEIDL FIGHT u.a. @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Halloween Cover Show",
+        "venue": "Venster"
+      },
+      "event_id": "b17df2a8662569c3d4f4",
+      "guid": "b17df2a8662569c3d4f4:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ee06e8b99cf3d33e960d-1",
+      "changes": {},
+      "detected_at": "2026-10-12T09:14:22.628778+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "COVID BOYS"
+          },
+          {
+            "country": null,
+            "link": "https://spion.bandcamp.com/",
+            "name": "SPION"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "Uli"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-12T09:14:22.628778+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ee06e8b99cf3d33e960d",
+        "last_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "links": [
+          {
+            "label": "SPION",
+            "url": "https://spion.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: COVID BOYS / SPION / Uli @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "ee06e8b99cf3d33e960d",
+      "guid": "ee06e8b99cf3d33e960d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-383a5123fde5cdef3a16-1",
+      "changes": {},
+      "detected_at": "2026-10-12T09:14:22.628778+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://springypinestix.bandcamp.com/",
+            "name": "SPRINGY PINESTIX"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Generation-Gap-122866307739291/",
+            "name": "GENERATION GAP"
+          },
+          {
+            "country": null,
+            "link": "https://radiopassiv.bandcamp.com/",
+            "name": "RADIO PASSIV"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/weareweirdminds/",
+            "name": "WEIRD MINDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-12T09:14:22.628778+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "383a5123fde5cdef3a16",
+        "last_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "links": [
+          {
+            "label": "SPRINGY PINESTIX",
+            "url": "https://springypinestix.bandcamp.com/"
+          },
+          {
+            "label": "GENERATION GAP",
+            "url": "https://www.facebook.com/Generation-Gap-122866307739291/"
+          },
+          {
+            "label": "RADIO PASSIV",
+            "url": "https://radiopassiv.bandcamp.com/"
+          },
+          {
+            "label": "WEIRD MINDS",
+            "url": "https://www.instagram.com/weareweirdminds/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: SPRINGY PINESTIX / GENERATION GAP / RADIO PASSIV / WEIRD MINDS @ Zoo Club, Klagenfurt",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Zoo Club"
+      },
+      "event_id": "383a5123fde5cdef3a16",
+      "guid": "383a5123fde5cdef3a16:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-12T09:14:22.628778+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-12T09:14:22.628778+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-bc24cf37e64d31c8307e-1",
       "changes": {},
