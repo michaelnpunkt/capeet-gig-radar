@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:26:31 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: RAVENOUS, AEONS OF ASHES, FEARANCY, BELOW BABYLON – Wr. Neustadt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-eaec41d827f243f6a989-1</link>
+      <guid isPermaLink="false">eaec41d827f243f6a989:1</guid>
+      <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
+      <description>2026-10-24 · MÄX,  Wr. Neustadt · Niederösterreich</description>
+    </item>
+    <item>
+      <title>Neu: RICHTHAMMER, GHIDRAH, MYNDED, HUNT FOR KINGS, BITE TO BREAK – Wr. Neustadt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f14d46b641a5c20aeb2-1</link>
+      <guid isPermaLink="false">5f14d46b641a5c20aeb2:1</guid>
+      <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
+      <description>2026-11-21 · MÄX,  Wr. Neustadt · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: BOOM BOOM KID, The LIQUID STONES – Neunkirchen</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-255a91ec943025bbe3a5-1</link>

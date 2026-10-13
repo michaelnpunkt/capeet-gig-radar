@@ -41157,5 +41157,1582 @@
     "guid": "bc24cf37e64d31c8307e:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "ZERONIC"
+          }
+        ],
+        "to": [
+          {
+            "name": "ZERONIC"
+          },
+          {
+            "name": "PORTRAIT OF TAO"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.zeronic.net/",
+          "name": "ZERONIC"
+        },
+        {
+          "country": null,
+          "link": "https://portraitoftao.bandcamp.com/",
+          "name": "PORTRAIT OF TAO"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-15",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4c72d7f6a149c6877838",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "ZERONIC",
+          "url": "https://www.zeronic.net/"
+        },
+        {
+          "label": "PORTRAIT OF TAO",
+          "url": "https://portraitoftao.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2331577960585069"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.10.: ZERONIC / PORTRAIT OF TAO @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "4c72d7f6a149c6877838",
+    "guid": "4c72d7f6a149c6877838:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://ultimaradio.bandcamp.com/music",
+          "name": "ULTIMA RADIO"
+        },
+        {
+          "country": null,
+          "link": "https://meatcheese.bandcamp.com/",
+          "name": "MEAT CHEESE"
+        },
+        {
+          "country": null,
+          "link": "https://opiummasala.bandcamp.com/",
+          "name": "OPIUM MASALA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-17",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "23f6e45c263865338799",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "ULTIMA RADIO",
+          "url": "https://ultimaradio.bandcamp.com/music"
+        },
+        {
+          "label": "MEAT CHEESE",
+          "url": "https://meatcheese.bandcamp.com/"
+        },
+        {
+          "label": "OPIUM MASALA",
+          "url": "https://opiummasala.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.10.: ULTIMA RADIO / MEAT CHEESE / OPIUM MASALA @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "23f6e45c263865338799",
+    "guid": "23f6e45c263865338799:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/magogo_band/",
+          "name": "MAGOGO"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/heimliche_idioten/",
+          "name": "HEIMLICHE IDIOTEN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9192bf18652d4b1459ab",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "MAGOGO",
+          "url": "https://www.instagram.com/magogo_band/"
+        },
+        {
+          "label": "HEIMLICHE IDIOTEN",
+          "url": "https://www.instagram.com/heimliche_idioten/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: MAGOGO / HEIMLICHE IDIOTEN @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "9192bf18652d4b1459ab",
+    "guid": "9192bf18652d4b1459ab:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/ravenous2014",
+          "name": "RAVENOUS"
+        },
+        {
+          "country": null,
+          "link": "https://aeonsofashes.bandcamp.com/",
+          "name": "AEONS OF ASHES"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/Fearancy/",
+          "name": "FEARANCY"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/BelowBabylon",
+          "name": "BELOW BABYLON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wr. Neustadt",
+      "event_date": "2026-10-24",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "eaec41d827f243f6a989",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "RAVENOUS",
+          "url": "https://www.facebook.com/ravenous2014"
+        },
+        {
+          "label": "AEONS OF ASHES",
+          "url": "https://aeonsofashes.bandcamp.com/"
+        },
+        {
+          "label": "FEARANCY",
+          "url": "https://www.instagram.com/Fearancy/"
+        },
+        {
+          "label": "BELOW BABYLON",
+          "url": "https://www.facebook.com/BelowBabylon"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1814246749920477/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.10.: RAVENOUS / AEONS OF ASHES / FEARANCY / BELOW BABYLON @ MÄX, Wr. Neustadt [fb]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "MÄX"
+    },
+    "event_id": "eaec41d827f243f6a989",
+    "guid": "eaec41d827f243f6a989:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/karl.musikant/",
+          "name": "Karl"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61559018318421",
+          "name": "EVERYONE'S DARLING"
+        },
+        {
+          "country": null,
+          "link": "https://taeglichfrischesobst.com/home",
+          "name": "TÄGLICH FRISCHES OBST"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-25",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "869924287885aff264ec",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "Karl",
+          "url": "https://www.instagram.com/karl.musikant/"
+        },
+        {
+          "label": "EVERYONE'S DARLING",
+          "url": "https://www.facebook.com/profile.php?id=61559018318421"
+        },
+        {
+          "label": "TÄGLICH FRISCHES OBST",
+          "url": "https://taeglichfrischesobst.com/home"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2947978438878113"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.10.: Karl / EVERYONE'S DARLING / TÄGLICH FRISCHES OBST @ Lucia, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "869924287885aff264ec",
+    "guid": "869924287885aff264ec:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/justice.lost.band/",
+          "name": "JUSTICE LOST"
+        },
+        {
+          "country": null,
+          "link": "https://tiredhc.bandcamp.com/",
+          "name": "TIRED."
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/maltraxxband",
+          "name": "MALTRAXX"
+        },
+        {
+          "country": null,
+          "link": "https://weltenasche.bandcamp.com/",
+          "name": "WELTENASCHE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/vintageparadiseband/",
+          "name": "VINTAGE PARADISE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Koglhof",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "588e872e8c02698ec34c",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "JUSTICE LOST",
+          "url": "https://www.facebook.com/justice.lost.band/"
+        },
+        {
+          "label": "TIRED.",
+          "url": "https://tiredhc.bandcamp.com/"
+        },
+        {
+          "label": "MALTRAXX",
+          "url": "https://www.facebook.com/maltraxxband"
+        },
+        {
+          "label": "WELTENASCHE",
+          "url": "https://weltenasche.bandcamp.com/"
+        },
+        {
+          "label": "VINTAGE PARADISE",
+          "url": "https://www.instagram.com/vintageparadiseband/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: JUSTICE LOST / TIRED. / MALTRAXX / WELTENASCHE / VINTAGE PARADISE @ LiveHaus, Koglhof",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "LiveHaus"
+    },
+    "event_id": "588e872e8c02698ec34c",
+    "guid": "588e872e8c02698ec34c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MANGO WOOD"
+          }
+        ],
+        "to": [
+          {
+            "name": "MANGO WOOD"
+          },
+          {
+            "name": "The ROCKSTEADY CONSPIRACY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SPA",
+          "link": "https://mangowood.bandcamp.com/music",
+          "name": "MANGO WOOD"
+        },
+        {
+          "country": null,
+          "link": "https://therocksteadyconspiracy.bandcamp.com/",
+          "name": "The ROCKSTEADY CONSPIRACY"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a4e0af344b31c3a219ac",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "MANGO WOOD",
+          "url": "https://mangowood.bandcamp.com/music"
+        },
+        {
+          "label": "The ROCKSTEADY CONSPIRACY",
+          "url": "https://therocksteadyconspiracy.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1505787117681970"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: MANGO WOOD (spa) / The ROCKSTEADY CONSPIRACY @ Aera, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Aera"
+    },
+    "event_id": "a4e0af344b31c3a219ac",
+    "guid": "a4e0af344b31c3a219ac:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "title": {
+        "from": null,
+        "to": "The Great Halloween Bash"
+      }
+    },
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": null,
+          "name": "The COVER FIENDS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "1892e9c782d6e1881a9e",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3472953392872212/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: The Great Halloween Bash feat. The COVER FIENDS @ Coco Bar, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "The Great Halloween Bash",
+      "venue": "Coco Bar"
+    },
+    "event_id": "1892e9c782d6e1881a9e",
+    "guid": "1892e9c782d6e1881a9e:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "LA CASA FANTOM"
+          }
+        ],
+        "to": [
+          {
+            "name": "LA CASA FANTOM"
+          },
+          {
+            "name": "NO VIDA"
+          },
+          {
+            "name": "PRUNKNELKE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NOR",
+          "link": "https://lacasafantom.bandcamp.com/",
+          "name": "LA CASA FANTOM"
+        },
+        {
+          "country": "CZE",
+          "link": "https://novida.bandcamp.com/",
+          "name": "NO VIDA"
+        },
+        {
+          "country": null,
+          "link": "https://prunknelke.bandcamp.com/",
+          "name": "PRUNKNELKE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-01",
+      "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "857b39735bb7dc40a17c",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "LA CASA FANTOM",
+          "url": "https://lacasafantom.bandcamp.com/"
+        },
+        {
+          "label": "NO VIDA",
+          "url": "https://novida.bandcamp.com/"
+        },
+        {
+          "label": "PRUNKNELKE",
+          "url": "https://prunknelke.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "01.11.: LA CASA FANTOM (nor) / NO VIDA (cze) / PRUNKNELKE @ SUb, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SUb"
+    },
+    "event_id": "857b39735bb7dc40a17c",
+    "guid": "857b39735bb7dc40a17c:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://cloveronthemic.bandcamp.com/",
+          "name": "Clover Stieve"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-04",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "b6905cbbf296e83a64f8",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "Clover Stieve",
+          "url": "https://cloveronthemic.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/clover-stieve/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.11.: Clover Stieve (usa) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "b6905cbbf296e83a64f8",
+    "guid": "b6905cbbf296e83a64f8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/aerolith.at",
+          "name": "AEROLITH"
+        },
+        {
+          "country": null,
+          "link": "https://gjoad.bandcamp.com/",
+          "name": "GJOAD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-06",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "547794ae4806d565dc49",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "AEROLITH",
+          "url": "https://www.facebook.com/aerolith.at"
+        },
+        {
+          "label": "GJOAD",
+          "url": "https://gjoad.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2014893085857980/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.11.: AEROLITH / GJOAD @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "547794ae4806d565dc49",
+    "guid": "547794ae4806d565dc49:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://officialfanclubfanclub.bandcamp.com/",
+          "name": "FAN CLUB"
+        },
+        {
+          "country": null,
+          "link": "https://urbanmisery.bandcamp.com/",
+          "name": "URBAN MISERY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-06",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d46b11250ff8515918d9",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "FAN CLUB",
+          "url": "https://officialfanclubfanclub.bandcamp.com/"
+        },
+        {
+          "label": "URBAN MISERY",
+          "url": "https://urbanmisery.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1451397890300754/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.11.: FAN CLUB (usa) / URBAN MISERY @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "d46b11250ff8515918d9",
+    "guid": "d46b11250ff8515918d9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://www.annakatarinamusic.com/",
+          "name": "Anna Katarina"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-15",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1b2cc26c9af565c522c4",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "Anna Katarina",
+          "url": "https://www.annakatarinamusic.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/anna-katarina/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.11.: Anna Katarina (can) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "1b2cc26c9af565c522c4",
+    "guid": "1b2cc26c9af565c522c4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "RUS",
+          "link": "https://nukiband.bandcamp.com/",
+          "name": "NUKI"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "258414e67c84b5726286",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "NUKI",
+          "url": "https://nukiband.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1304558044998243/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: NUKI (rus) @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "258414e67c84b5726286",
+    "guid": "258414e67c84b5726286:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://thegreatgrayfunk.bandcamp.com/",
+          "name": "The GREAT GRAY FUNK"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/HillsLikeWhiteLionsMusic/",
+          "name": "HILLS LIKE WHITE LIONS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "005214e8978a0b6ca585",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "The GREAT GRAY FUNK",
+          "url": "https://thegreatgrayfunk.bandcamp.com/"
+        },
+        {
+          "label": "HILLS LIKE WHITE LIONS",
+          "url": "https://www.facebook.com/HillsLikeWhiteLionsMusic/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/the-great-gray-funk-hills-like-white-lions/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: The GREAT GRAY FUNK / HILLS LIKE WHITE LIONS @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "005214e8978a0b6ca585",
+    "guid": "005214e8978a0b6ca585:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/RICHTHAMMER.Band",
+          "name": "RICHTHAMMER"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/ghidrahofficial",
+          "name": "GHIDRAH"
+        },
+        {
+          "country": "D",
+          "link": "https://mynded.bandcamp.com/",
+          "name": "MYNDED"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/huntforkingsmetal/",
+          "name": "HUNT FOR KINGS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/bitetobreak/",
+          "name": "BITE TO BREAK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wr. Neustadt",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      "id": "5f14d46b641a5c20aeb2",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "RICHTHAMMER",
+          "url": "https://www.facebook.com/RICHTHAMMER.Band"
+        },
+        {
+          "label": "GHIDRAH",
+          "url": "https://www.facebook.com/ghidrahofficial"
+        },
+        {
+          "label": "MYNDED",
+          "url": "https://mynded.bandcamp.com/"
+        },
+        {
+          "label": "HUNT FOR KINGS",
+          "url": "https://www.instagram.com/huntforkingsmetal/"
+        },
+        {
+          "label": "BITE TO BREAK",
+          "url": "https://www.instagram.com/bitetobreak/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/881111288293811/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: RICHTHAMMER / GHIDRAH / MYNDED (d) / HUNT FOR KINGS / BITE TO BREAK @ MÄX, Wr. Neustadt [fb]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "MÄX"
+    },
+    "event_id": "5f14d46b641a5c20aeb2",
+    "guid": "5f14d46b641a5c20aeb2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://ajdeyallah.bandcamp.com/",
+          "name": "AJDE YALLAH"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/patiocrash.official/",
+          "name": "PATIOCRASH"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Die LEITER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0b509ae9202b1f102dfc",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "AJDE YALLAH",
+          "url": "https://ajdeyallah.bandcamp.com/"
+        },
+        {
+          "label": "PATIOCRASH",
+          "url": "https://www.instagram.com/patiocrash.official/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3514763955363225/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: AJDE YALLAH / PATIOCRASH / Die LEITER @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "0b509ae9202b1f102dfc",
+    "guid": "0b509ae9202b1f102dfc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61566473431627",
+          "name": "FOR EONS"
+        },
+        {
+          "country": null,
+          "link": "https://mothermorgana.bandcamp.com/",
+          "name": "MOTHER MORGANA"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/magogo_band/",
+          "name": "MAGOGO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "fd708426be982fb64570",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "FOR EONS",
+          "url": "https://www.facebook.com/profile.php?id=61566473431627"
+        },
+        {
+          "label": "MOTHER MORGANA",
+          "url": "https://mothermorgana.bandcamp.com/"
+        },
+        {
+          "label": "MAGOGO",
+          "url": "https://www.instagram.com/magogo_band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1581365429842581"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: FOR EONS / MOTHER MORGANA / MAGOGO @ Music-House, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "fd708426be982fb64570",
+    "guid": "fd708426be982fb64570:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/ninamariemusik/",
+          "name": "NINAMARIE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ede37108a2da9008859c",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "NINAMARIE",
+          "url": "https://www.instagram.com/ninamariemusik/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.12.: NINAMARIE (d) @ Forum Stadtpark, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Forum Stadtpark"
+    },
+    "event_id": "ede37108a2da9008859c",
+    "guid": "ede37108a2da9008859c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://tougani.bandcamp.com/",
+          "name": "TOUGANĪ"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "ec65bf14fc07065c8a36",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "TOUGANĪ",
+          "url": "https://tougani.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.12.: TOUGANĪ (d) @ Kult Bar, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kult Bar"
+    },
+    "event_id": "ec65bf14fc07065c8a36",
+    "guid": "ec65bf14fc07065c8a36:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "INT",
+          "link": "https://maryocher.bandcamp.com/music",
+          "name": "Mary Ocher"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-31",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e3b9b7d3d11afef5bc83",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "Mary Ocher",
+          "url": "https://maryocher.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1002964679547616/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.01.: Mary Ocher (int) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "e3b9b7d3d11afef5bc83",
+    "guid": "e3b9b7d3d11afef5bc83:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://babyofthebunch.bandcamp.com/",
+          "name": "BABY OF THE BUNCH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-24",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "53bacaa50ae088626ffa",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "BABY OF THE BUNCH",
+          "url": "https://babyofthebunch.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.02.: BABY OF THE BUNCH (d) @ Lucia, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "53bacaa50ae088626ffa",
+    "guid": "53bacaa50ae088626ffa:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BRUJERIA"
+          }
+        ],
+        "to": [
+          {
+            "name": "BRUJERIA"
+          },
+          {
+            "name": "CRIMINAL"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "MEX",
+          "link": "https://www.brujeria.com/",
+          "name": "BRUJERIA"
+        },
+        {
+          "country": "CHL",
+          "link": "https://www.facebook.com/Criminal.Band",
+          "name": "CRIMINAL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-16",
+      "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Grindcore",
+          "Death Metal"
+        ]
+      },
+      "id": "d9b96e7495c5fd292b2b",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "BRUJERIA",
+          "url": "https://www.brujeria.com/"
+        },
+        {
+          "label": "CRIMINAL",
+          "url": "https://www.facebook.com/Criminal.Band"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1420775713501286/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "16.03.: BRUJERIA (mex) / CRIMINAL (chl) @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "d9b96e7495c5fd292b2b",
+    "guid": "d9b96e7495c5fd292b2b:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://flyingmooninspace.bandcamp.com/",
+          "name": "FLYING MOON IN SPACE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-08",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "61bef854f2f6c5f7a7f7",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "FLYING MOON IN SPACE",
+          "url": "https://flyingmooninspace.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1510445514459083/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.04.: FLYING MOON IN SPACE (d) @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "61bef854f2f6c5f7a7f7",
+    "guid": "61bef854f2f6c5f7a7f7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.baitsmusic.com/",
+          "name": "BAITS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-24",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "be79038c5a15abd7065d",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "BAITS",
+          "url": "https://www.baitsmusic.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2285230975606426/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.04.: BAITS @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "be79038c5a15abd7065d",
+    "guid": "be79038c5a15abd7065d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-13T09:26:31.556827+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://ohsees.bandcamp.com/",
+          "name": "OSEES & Brigid Dawson"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-13T09:26:31.556827+00:00",
+      "city": "Graz",
+      "event_date": "2027-06-26",
+      "first_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "c2a0d87288ce27768787",
+      "last_seen_at": "2026-10-13T09:26:31.556827+00:00",
+      "links": [
+        {
+          "label": "OSEES & Brigid Dawson",
+          "url": "https://ohsees.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/967201455825581"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.06.: OSEES & Brigid Dawson (usa) @ Helmut List-Halle, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Helmut List-Halle"
+    },
+    "event_id": "c2a0d87288ce27768787",
+    "guid": "c2a0d87288ce27768787:1",
+    "kind": "new",
+    "revision": 1
   }
 ]
