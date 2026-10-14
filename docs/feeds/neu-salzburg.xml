@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:39:35 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LEFTOVERS, Die STÖRUNG – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4b3f6dee92504eb3d506-1</link>
+      <guid isPermaLink="false">4b3f6dee92504eb3d506:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-10-30 · ARGEkultur,  Salzburg · Salzburg · Line-up: LEFTOVERS → LEFTOVERS · Die STÖRUNG</description>
+    </item>
     <item>
       <title>Geändert: BELZEBONG, PURPLE BISON – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e967fbb1763b92d7adb4-1</link>

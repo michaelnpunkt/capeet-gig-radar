@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:39:35 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: POPPO VON ROTT, BAMBI SHOOTS BACK – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-912bd00564a90aa4f1d7-1</link>
+      <guid isPermaLink="false">912bd00564a90aa4f1d7:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-10-25 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: WE ARE CARGO CULT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c833d2b9378165aa61eb-1</link>
+      <guid isPermaLink="false">c833d2b9378165aa61eb:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-11-19 · Café Wolf,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SHADOWS OF BEYOND, CROWHEART, MEPHOBIA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d117104323d7ee09d1ae-1</link>
+      <guid isPermaLink="false">d117104323d7ee09d1ae:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-11-21 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: LA CASA FANTOM, NO VIDA, PRUNKNELKE – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-857b39735bb7dc40a17c-2</link>

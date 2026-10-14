@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:39:35 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: NIGHTINGALES – Ebensee</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-92c146f45017509573a8-1</link>
+      <guid isPermaLink="false">92c146f45017509573a8:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-10-17 · Kino,  Ebensee · Oberösterreich · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: DESOLAT, VOMITS, Muri Anda &amp; Mika Bankomat – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b84f8f7e05f2bbfd77ce-1</link>
+      <guid isPermaLink="false">b84f8f7e05f2bbfd77ce:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-10-25 · Secret Location,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: OUT OF PHASE, LHUMA – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8223207396dcdf52a0dc-1</link>
+      <guid isPermaLink="false">8223207396dcdf52a0dc:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2026-12-13 · Secret Location,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: FIGHT FROM WITHIN, NICOLAS CAGE FIGHTER – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0ceb99187b557e78c2b5-1</link>
+      <guid isPermaLink="false">0ceb99187b557e78c2b5:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2027-01-15 · röda,  Steyr · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: DOPE PURPLE, Nero Kane, LAS MEDIAS NUEVES – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ad54a67c76105c38a7b2-1</link>
+      <guid isPermaLink="false">ad54a67c76105c38a7b2:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2027-02-13 · Last,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: STEAMING SATELLITES – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-837a62e37d4246763405-1</link>
+      <guid isPermaLink="false">837a62e37d4246763405:1</guid>
+      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
+      <description>2027-03-19 · röda,  Steyr · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: FAN CLUB, URBAN MISERY – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d46b11250ff8515918d9-1</link>

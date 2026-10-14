@@ -1,6 +1,1599 @@
 {
-  "generated_at": "2026-10-13T09:26:31.556827+00:00",
+  "generated_at": "2026-10-14T07:39:35.163385+00:00",
   "revisions": [
+    {
+      "anchor": "change-92c146f45017509573a8-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": null,
+            "name": "NIGHTINGALES"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Ebensee",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "92c146f45017509573a8",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: NIGHTINGALES (uk) @ Kino, Ebensee [cancelled.] [neu: tba]",
+        "state": "Oberösterreich",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Kino"
+      },
+      "event_id": "92c146f45017509573a8",
+      "guid": "92c146f45017509573a8:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f4907b4d7081e9361cf9-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NORMAHL"
+            },
+            {
+              "name": "DETLEF"
+            },
+            {
+              "name": "RECONFUSED"
+            }
+          ],
+          "to": [
+            {
+              "name": "NORMAHL"
+            },
+            {
+              "name": "The TROUBLEMAKERS"
+            },
+            {
+              "name": "DETLEF"
+            },
+            {
+              "name": "RECONFUSED"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/normahl.band",
+            "name": "NORMAHL"
+          },
+          {
+            "country": "ITA",
+            "link": "https://www.thetroublemakers.it/",
+            "name": "The TROUBLEMAKERS"
+          },
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/detlef.cgn/",
+            "name": "DETLEF"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/rcfd.reconfused/",
+            "name": "RECONFUSED"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "St. Pölten",
+        "event_date": "2026-10-17",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "f4907b4d7081e9361cf9",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "NORMAHL",
+            "url": "https://www.facebook.com/normahl.band"
+          },
+          {
+            "label": "The TROUBLEMAKERS",
+            "url": "https://www.thetroublemakers.it/"
+          },
+          {
+            "label": "DETLEF",
+            "url": "https://www.facebook.com/detlef.cgn/"
+          },
+          {
+            "label": "RECONFUSED",
+            "url": "https://www.instagram.com/rcfd.reconfused/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2097673544125706"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.10.: NORMAHL (d) / The TROUBLEMAKERS (ita) / DETLEF (d) / RECONFUSED @ Freiraum, St. Pölten [fb]",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Freiraum"
+      },
+      "event_id": "f4907b4d7081e9361cf9",
+      "guid": "f4907b4d7081e9361cf9:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-87f1b625d49000243587-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        },
+        "venue": {
+          "from": "Kaorle",
+          "to": "Kaorle OWA"
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": null,
+            "name": "BORN AT MIDNITE"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "87f1b625d49000243587",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.10.: BORN AT MIDNITE (can) @ Kaorle OWA, Wien [cancelled.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "87f1b625d49000243587",
+      "guid": "87f1b625d49000243587:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b84f8f7e05f2bbfd77ce-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://desolatvienna.bandcamp.com/",
+            "name": "DESOLAT"
+          },
+          {
+            "country": null,
+            "link": "https://vomits.bandcamp.com/",
+            "name": "VOMITS"
+          },
+          {
+            "country": null,
+            "link": "https://murianda.bandcamp.com/",
+            "name": "Muri Anda & Mika Bankomat"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-25",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "b84f8f7e05f2bbfd77ce",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "DESOLAT",
+            "url": "https://desolatvienna.bandcamp.com/"
+          },
+          {
+            "label": "VOMITS",
+            "url": "https://vomits.bandcamp.com/"
+          },
+          {
+            "label": "Muri Anda",
+            "url": "https://murianda.bandcamp.com/"
+          },
+          {
+            "label": "Mika Bankomat",
+            "url": "https://soundcloud.com/mikabankomat"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.10.: DESOLAT / VOMITS / Muri Anda & Mika Bankomat @ Secret Location, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "b84f8f7e05f2bbfd77ce",
+      "guid": "b84f8f7e05f2bbfd77ce:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-912bd00564a90aa4f1d7-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://poppovonrott.bandcamp.com/",
+            "name": "POPPO VON ROTT"
+          },
+          {
+            "country": "D",
+            "link": "https://bambishootsback.bandcamp.com/",
+            "name": "BAMBI SHOOTS BACK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-25",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "912bd00564a90aa4f1d7",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "POPPO VON ROTT",
+            "url": "https://poppovonrott.bandcamp.com/"
+          },
+          {
+            "label": "BAMBI SHOOTS BACK",
+            "url": "https://bambishootsback.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2516420748769756/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.10.: POPPO VON ROTT (d) / BAMBI SHOOTS BACK (d) @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "912bd00564a90aa4f1d7",
+      "guid": "912bd00564a90aa4f1d7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b1f1ed6d13fbc7cc5c22-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR",
+            "link": "https://masteroogway.bandcamp.com/",
+            "name": "MASTER OOGWAY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-26",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "b1f1ed6d13fbc7cc5c22",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "MASTER OOGWAY",
+            "url": "https://masteroogway.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1641736564024442/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.10.: MASTER OOGWAY (nor) @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "b1f1ed6d13fbc7cc5c22",
+      "guid": "b1f1ed6d13fbc7cc5c22:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f2e08ecbdfb05f542772-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "DŸSE"
+            }
+          ],
+          "to": [
+            {
+              "name": "DŸSE"
+            },
+            {
+              "name": "BLACK SUNZET"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.dyse-band.de/",
+            "name": "DŸSE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/black_sunzet/",
+            "name": "BLACK SUNZET"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-27",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Noise Rock"
+          ]
+        },
+        "id": "f2e08ecbdfb05f542772",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "DŸSE",
+            "url": "https://www.dyse-band.de/"
+          },
+          {
+            "label": "BLACK SUNZET",
+            "url": "https://www.instagram.com/black_sunzet/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/914911484594441/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.10.: DŸSE (d) / BLACK SUNZET @ Arena (kl. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "f2e08ecbdfb05f542772",
+      "guid": "f2e08ecbdfb05f542772:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4b3f6dee92504eb3d506-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LEFTOVERS"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEFTOVERS"
+            },
+            {
+              "name": "Die STÖRUNG"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/LeftoversUnofficial",
+            "name": "LEFTOVERS"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/diestoerung/",
+            "name": "Die STÖRUNG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "4b3f6dee92504eb3d506",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.facebook.com/LeftoversUnofficial"
+          },
+          {
+            "label": "Die STÖRUNG",
+            "url": "https://www.instagram.com/diestoerung/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/913185234447683/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: LEFTOVERS / Die STÖRUNG (d) @ ARGEkultur, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "ARGEkultur"
+      },
+      "event_id": "4b3f6dee92504eb3d506",
+      "guid": "4b3f6dee92504eb3d506:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f13df38bc9ae4b4e1062-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LEFTOVERS"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEFTOVERS"
+            },
+            {
+              "name": "Die STÖRUNG"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/LeftoversUnofficial",
+            "name": "LEFTOVERS"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/diestoerung/",
+            "name": "Die STÖRUNG"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Innsbruck",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f13df38bc9ae4b4e1062",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.facebook.com/LeftoversUnofficial"
+          },
+          {
+            "label": "Die STÖRUNG",
+            "url": "https://www.instagram.com/diestoerung/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2311920132622081"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: LEFTOVERS / Die STÖRUNG (d) @ Die Bäckerei, Innsbruck [fb]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Die Bäckerei"
+      },
+      "event_id": "f13df38bc9ae4b4e1062",
+      "guid": "f13df38bc9ae4b4e1062:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-47580c736aa7a8808892-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SPORTS"
+            }
+          ],
+          "to": [
+            {
+              "name": "SPORTS"
+            },
+            {
+              "name": "POOL GIRL"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/sportsband/",
+            "name": "SPORTS"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/p00lgrl/",
+            "name": "POOL GIRL"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "47580c736aa7a8808892",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "SPORTS",
+            "url": "https://www.facebook.com/sportsband/"
+          },
+          {
+            "label": "POOL GIRL",
+            "url": "https://www.instagram.com/p00lgrl/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1351153009918430/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: SPORTS (usa) / POOL GIRL (usa) @ Flucc, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc"
+      },
+      "event_id": "47580c736aa7a8808892",
+      "guid": "47580c736aa7a8808892:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f698255d5657f8e16d55-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://fraudsfraudsfrauds.bandcamp.com/music",
+            "name": "FRAUDS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/wirsindgiftig/",
+            "name": "GIFTIG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "f698255d5657f8e16d55",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "FRAUDS",
+            "url": "https://fraudsfraudsfrauds.bandcamp.com/music"
+          },
+          {
+            "label": "GIFTIG",
+            "url": "https://www.instagram.com/wirsindgiftig/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: FRAUDS / GIFTIG @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "f698255d5657f8e16d55",
+      "guid": "f698255d5657f8e16d55:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ee562530e28d0512f8cf-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "JPN",
+            "link": "https://mushinojuke.bandcamp.com/",
+            "name": "Juke Mushino"
+          },
+          {
+            "country": "FRA",
+            "link": "https://tocmuzzix.bandcamp.com/album/the-theory-of-constraints",
+            "name": "Ternoy Cruz Orins"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ee562530e28d0512f8cf",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "Juke Mushino",
+            "url": "https://mushinojuke.bandcamp.com/"
+          },
+          {
+            "label": "Ternoy Cruz Orins",
+            "url": "https://tocmuzzix.bandcamp.com/album/the-theory-of-constraints"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2037629153554373"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: Juke Mushino (jpn) / Ternoy Cruz Orins (fra) @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "ee562530e28d0512f8cf",
+      "guid": "ee562530e28d0512f8cf:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-221f6c5c168362b007e6-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://sodomland.bandcamp.com/",
+            "name": "SODOMLAND"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/darina.krr",
+            "name": "Darina"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/gush.valley/",
+            "name": "GUSH VALLEY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "221f6c5c168362b007e6",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "SODOMLAND",
+            "url": "https://sodomland.bandcamp.com/"
+          },
+          {
+            "label": "Darina",
+            "url": "https://www.instagram.com/darina.krr"
+          },
+          {
+            "label": "GUSH VALLEY",
+            "url": "https://www.instagram.com/gush.valley/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kollektiv-kaorle.at/de/events/50herz-w-sodomland-13-11-2026"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: SODOMLAND (d) / Darina / GUSH VALLEY u.a. @ Kaorle OWA, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "221f6c5c168362b007e6",
+      "guid": "221f6c5c168362b007e6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c833d2b9378165aa61eb-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "WE ARE CARGO CULT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-19",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "c833d2b9378165aa61eb",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1127006843002828/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.11.: WE ARE CARGO CULT @ Café Wolf, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Wolf"
+      },
+      "event_id": "c833d2b9378165aa61eb",
+      "guid": "c833d2b9378165aa61eb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d117104323d7ee09d1ae-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/shadowsofbeyond_metal",
+            "name": "SHADOWS OF BEYOND"
+          },
+          {
+            "country": null,
+            "link": "https://crowheartaustria.bandcamp.com/",
+            "name": "CROWHEART"
+          },
+          {
+            "country": null,
+            "link": "https://mephobia.bandcamp.com/",
+            "name": "MEPHOBIA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "d117104323d7ee09d1ae",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "SHADOWS OF BEYOND",
+            "url": "https://www.instagram.com/shadowsofbeyond_metal"
+          },
+          {
+            "label": "CROWHEART",
+            "url": "https://crowheartaustria.bandcamp.com/"
+          },
+          {
+            "label": "MEPHOBIA",
+            "url": "https://mephobia.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2795948604197647/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: SHADOWS OF BEYOND / CROWHEART / MEPHOBIA @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "d117104323d7ee09d1ae",
+      "guid": "d117104323d7ee09d1ae:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-261142440be17650c78b-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://irokaese.bandcamp.com/",
+            "name": "IROKÄSE"
+          },
+          {
+            "country": null,
+            "link": "https://leberzerroze.bandcamp.com/",
+            "name": "LEBERZERROZE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "261142440be17650c78b",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "IROKÄSE",
+            "url": "https://irokaese.bandcamp.com/"
+          },
+          {
+            "label": "LEBERZERROZE",
+            "url": "https://leberzerroze.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: IROKÄSE / LEBERZERROZE @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "261142440be17650c78b",
+      "guid": "261142440be17650c78b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-89227e4ff5ef27800b18-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/takeshiscashew/",
+            "name": "TAKESHI'S CASHEW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "89227e4ff5ef27800b18",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "TAKESHI'S CASHEW",
+            "url": "https://www.instagram.com/takeshiscashew/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kollektiv-kaorle.at/de/events/takeshis-cashew-04-12-2026"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: TAKESHI'S CASHEW @ Kaorle OWA, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "89227e4ff5ef27800b18",
+      "guid": "89227e4ff5ef27800b18:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ebc6baa6451cdd33b7ae-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://xenoandoaklander.art/",
+            "name": "XENO & OAKLANDER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "ebc6baa6451cdd33b7ae",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "XENO & OAKLANDER",
+            "url": "https://xenoandoaklander.art/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: Sniffin' Glue feat. XENO & OAKLANDER (usa) @ Flucc, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Sniffin' Glue",
+        "venue": "Flucc"
+      },
+      "event_id": "ebc6baa6451cdd33b7ae",
+      "guid": "ebc6baa6451cdd33b7ae:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f06676ce517fb34053a6-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://backwardscharm.bandcamp.com/",
+            "name": "BACKWARDS CHARM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-12",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "f06676ce517fb34053a6",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "BACKWARDS CHARM",
+            "url": "https://backwardscharm.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.12.: BACKWARDS CHARM @ rhiz, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "f06676ce517fb34053a6",
+      "guid": "f06676ce517fb34053a6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8223207396dcdf52a0dc-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://outofphase.bandcamp.com/",
+            "name": "OUT OF PHASE"
+          },
+          {
+            "country": "D",
+            "link": "https://lhumanoise.bandcamp.com/",
+            "name": "LHUMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-13",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "8223207396dcdf52a0dc",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "OUT OF PHASE",
+            "url": "https://outofphase.bandcamp.com/"
+          },
+          {
+            "label": "LHUMA",
+            "url": "https://lhumanoise.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1117950273970692/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.12.: OUT OF PHASE (d) / LHUMA (d) @ Secret Location, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "8223207396dcdf52a0dc",
+      "guid": "8223207396dcdf52a0dc:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0ceb99187b557e78c2b5-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://fightfromwithin.com/",
+            "name": "FIGHT FROM WITHIN"
+          },
+          {
+            "country": "AUS",
+            "link": "https://nicolascagefighter.bandcamp.com/",
+            "name": "NICOLAS CAGE FIGHTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Steyr",
+        "event_date": "2027-01-15",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "0ceb99187b557e78c2b5",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "FIGHT FROM WITHIN",
+            "url": "https://fightfromwithin.com/"
+          },
+          {
+            "label": "NICOLAS CAGE FIGHTER",
+            "url": "https://nicolascagefighter.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2565067337340430/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.01.: FIGHT FROM WITHIN (usa) / NICOLAS CAGE FIGHTER (aus) @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "0ceb99187b557e78c2b5",
+      "guid": "0ceb99187b557e78c2b5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-47b667e34176ea4a171e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "TALCO"
+            }
+          ],
+          "to": [
+            {
+              "name": "TALCO"
+            },
+            {
+              "name": "The RUMPLED"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://talco-punkchanka.com/",
+            "name": "TALCO"
+          },
+          {
+            "country": "ITA",
+            "link": "https://therumpled.com/",
+            "name": "The RUMPLED"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-05",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Ska Punk"
+          ]
+        },
+        "id": "47b667e34176ea4a171e",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "TALCO",
+            "url": "https://talco-punkchanka.com/"
+          },
+          {
+            "label": "The RUMPLED",
+            "url": "https://therumpled.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2245885289554852/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.02.: TALCO (ita) / The RUMPLED (ita) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "47b667e34176ea4a171e",
+      "guid": "47b667e34176ea4a171e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ad54a67c76105c38a7b2-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "TPE",
+            "link": "https://dopepurple.bandcamp.com/",
+            "name": "DOPE PURPLE"
+          },
+          {
+            "country": "ITA",
+            "link": "https://nerokane.bandcamp.com/",
+            "name": "Nero Kane"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/las.medias.nueves/",
+            "name": "LAS MEDIAS NUEVES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Linz",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ad54a67c76105c38a7b2",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "DOPE PURPLE",
+            "url": "https://dopepurple.bandcamp.com/"
+          },
+          {
+            "label": "Nero Kane",
+            "url": "https://nerokane.bandcamp.com/"
+          },
+          {
+            "label": "LAS MEDIAS NUEVES",
+            "url": "https://www.instagram.com/las.medias.nueves/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: DOPE PURPLE (tpe) / Nero Kane (ita) / LAS MEDIAS NUEVES @ Last, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "ad54a67c76105c38a7b2",
+      "guid": "ad54a67c76105c38a7b2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-837a62e37d4246763405-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/steamingsatellites/",
+            "name": "STEAMING SATELLITES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Steyr",
+        "event_date": "2027-03-19",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "837a62e37d4246763405",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "STEAMING SATELLITES",
+            "url": "https://www.facebook.com/steamingsatellites/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4031829997113385/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.03.: STEAMING SATELLITES @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "837a62e37d4246763405",
+      "guid": "837a62e37d4246763405:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba86a6b4901c16cc85cd-1",
+      "changes": {},
+      "detected_at": "2026-10-14T07:39:35.163385+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/MemphisMayFire/",
+            "name": "MEMPHIS MAY FIRE"
+          },
+          {
+            "country": "SWE",
+            "link": "https://www.facebook.com/deadbyapril/",
+            "name": "DEAD BY APRIL"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/wearesevenblood/",
+            "name": "SEVEN BLOOD"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-14T07:39:35.163385+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-09",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "ba86a6b4901c16cc85cd",
+        "last_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "links": [
+          {
+            "label": "MEMPHIS MAY FIRE",
+            "url": "https://www.facebook.com/MemphisMayFire/"
+          },
+          {
+            "label": "DEAD BY APRIL",
+            "url": "https://www.facebook.com/deadbyapril/"
+          },
+          {
+            "label": "SEVEN BLOOD",
+            "url": "https://www.instagram.com/wearesevenblood/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1802306784409503/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.05.: MEMPHIS MAY FIRE (usa) / DEAD BY APRIL (swe) / SEVEN BLOOD (d) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "ba86a6b4901c16cc85cd",
+      "guid": "ba86a6b4901c16cc85cd:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-857b39735bb7dc40a17c-2",
       "changes": {

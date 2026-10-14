@@ -1050,6 +1050,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "bambi shoots back": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "bane": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -2345,6 +2351,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "crowheart": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "crush": {
     "family": "Metal",
     "source": "lastfm",
@@ -2646,6 +2660,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "dead by april": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Death Metal"
+    ]
   },
   "dead end idols": {
     "classifier_version": 2,
@@ -3015,6 +3038,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "die storung": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "die ublichen": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3163,6 +3192,12 @@
   },
   "donots": {
     "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "dope purple": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },
@@ -4200,6 +4235,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "frauds": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
     ]
   },
   "frayed ends bc": {
@@ -5889,6 +5932,12 @@
       "Hardcore Punk"
     ]
   },
+  "juke mushino": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "julia effekt": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -6425,6 +6474,12 @@
     "subgenres": [
       "Hardcore Punk"
     ]
+  },
+  "las medias nueves": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "laser eyes": {
     "family": "Rock",
@@ -7231,6 +7286,12 @@
       "Industrial"
     ]
   },
+  "master oogway": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "master usa cze": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7325,6 +7386,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "memphis may fire": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
   },
   "mensch oder tier": {
     "classifier_version": 2,
@@ -7775,6 +7844,12 @@
       "Sludge Metal"
     ]
   },
+  "muri anda mika bankomat": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "murphy s law": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -7969,6 +8044,12 @@
       "Black Metal",
       "Sludge Metal"
     ]
+  },
+  "nero kane": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "neuer deutscher acid": {
     "classifier_version": 2,
@@ -8473,6 +8554,12 @@
       "Ska Punk"
     ]
   },
+  "out of phase": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "out of the blue": {
     "classifier_version": 2,
     "family": "Rock",
@@ -8843,6 +8930,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "pool girl": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "poor man s revenge": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -8853,6 +8946,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "poppo von rott": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "portia": {
@@ -9832,6 +9931,12 @@
       "Death Metal"
     ]
   },
+  "shadows of beyond": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "shakar trio": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10173,6 +10278,14 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "sodomland": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "soen": {
     "family": "Metal",
@@ -10860,6 +10973,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "takeshi s cashew": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "takida": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -10964,6 +11083,12 @@
       "Metalcore",
       "Thrash Metal"
     ]
+  },
+  "ternoy cruz orins": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "terra toma": {
     "classifier_version": 2,
@@ -11494,6 +11619,12 @@
       "Doom Metal"
     ]
   },
+  "the rumpled": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the shallaras": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11595,6 +11726,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "the troublemakers": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "the trousers": {
     "classifier_version": 2,
@@ -12630,6 +12767,12 @@
       "Shoegaze"
     ]
   },
+  "we are cargo cult": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "we stood like kings": {
     "classifier_version": 2,
     "family": "Rock",
@@ -12915,6 +13058,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "xeno oaklander": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "xoxo": {
     "family": "Alternative/Indie",
