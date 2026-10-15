@@ -1,6 +1,479 @@
 {
-  "generated_at": "2026-10-14T07:39:35.163385+00:00",
+  "generated_at": "2026-10-15T07:27:45.225881+00:00",
   "revisions": [
+    {
+      "anchor": "change-c2c993d37af794b1bbbd-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "DESOLAT"
+            },
+            {
+              "name": "ZxUxA"
+            },
+            {
+              "name": "VOMITS"
+            }
+          ],
+          "to": [
+            {
+              "name": "VOMITS"
+            },
+            {
+              "name": "ZxUxA"
+            },
+            {
+              "name": "PULVERIN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://vomits.bandcamp.com/",
+            "name": "VOMITS"
+          },
+          {
+            "country": null,
+            "link": "https://zxuxa.bandcamp.com/",
+            "name": "ZxUxA"
+          },
+          {
+            "country": null,
+            "link": "https://pulverin.bandcamp.com/",
+            "name": "PULVERIN"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-16",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "c2c993d37af794b1bbbd",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "VOMITS",
+            "url": "https://vomits.bandcamp.com/"
+          },
+          {
+            "label": "ZxUxA",
+            "url": "https://zxuxa.bandcamp.com/"
+          },
+          {
+            "label": "PULVERIN",
+            "url": "https://pulverin.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1035921106113232/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "16.10.: VOMITS / ZxUxA / PULVERIN @ Venster, Wien [DESOLAT cancelled.] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "c2c993d37af794b1bbbd",
+      "guid": "c2c993d37af794b1bbbd:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-cb66634223e93d6f28b0-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The DARTS"
+            }
+          ],
+          "to": [
+            {
+              "name": "The DARTS"
+            },
+            {
+              "name": "CLIMAX"
+            },
+            {
+              "name": "The AWEZOMBIES"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://thedartsus.bandcamp.com/music",
+            "name": "The DARTS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/whynotclimax/",
+            "name": "CLIMAX"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/theawezombies/",
+            "name": "The AWEZOMBIES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-11",
+        "first_seen_at": "2026-09-08T07:15:33.919002+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "cb66634223e93d6f28b0",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "The DARTS",
+            "url": "https://thedartsus.bandcamp.com/music"
+          },
+          {
+            "label": "CLIMAX",
+            "url": "https://www.instagram.com/whynotclimax/"
+          },
+          {
+            "label": "The AWEZOMBIES",
+            "url": "https://www.facebook.com/theawezombies/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "11.11.: The DARTS (usa) / CLIMAX / The AWEZOMBIES @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "cb66634223e93d6f28b0",
+      "guid": "cb66634223e93d6f28b0:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-19f7239734717a09ea78-1",
+      "changes": {},
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://poppovonrott.bandcamp.com/",
+            "name": "POPPO VON ROTT"
+          },
+          {
+            "country": "D",
+            "link": "https://bambishootsback.bandcamp.com/",
+            "name": "BAMBI SHOOTS BACK"
+          },
+          {
+            "country": null,
+            "link": "https://honeylane.bandcamp.com/",
+            "name": "HONEYLANE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "19f7239734717a09ea78",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "POPPO VON ROTT",
+            "url": "https://poppovonrott.bandcamp.com/"
+          },
+          {
+            "label": "BAMBI SHOOTS BACK",
+            "url": "https://bambishootsback.bandcamp.com/"
+          },
+          {
+            "label": "HONEYLANE",
+            "url": "https://honeylane.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: POPPO VON ROTT (d) / BAMBI SHOOTS BACK (d) / HONEYLANE @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "19f7239734717a09ea78",
+      "guid": "19f7239734717a09ea78:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-cc9e5f06a16d208c39c8-1",
+      "changes": {},
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/gluecrewband",
+            "name": "GLUE CREW"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/MightyMaggots",
+            "name": "MIGHTY MAGGOTS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/theburningflagsrock",
+            "name": "The BURNING FLAGS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "cc9e5f06a16d208c39c8",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "GLUE CREW",
+            "url": "https://www.facebook.com/gluecrewband"
+          },
+          {
+            "label": "MIGHTY MAGGOTS",
+            "url": "https://www.facebook.com/MightyMaggots"
+          },
+          {
+            "label": "The BURNING FLAGS",
+            "url": "https://www.facebook.com/theburningflagsrock"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: GLUE CREW / MIGHTY MAGGOTS / The BURNING FLAGS @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "cc9e5f06a16d208c39c8",
+      "guid": "cc9e5f06a16d208c39c8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1a3e209ffa3e35ba00eb-1",
+      "changes": {},
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://narkose.bandcamp.com/",
+            "name": "NARKOSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-18",
+        "first_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "1a3e209ffa3e35ba00eb",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "NARKOSE",
+            "url": "https://narkose.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.11.: NARKOSE (d) @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "1a3e209ffa3e35ba00eb",
+      "guid": "1a3e209ffa3e35ba00eb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-052406362ecbe4ad38d3-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "CONCRETE LIPSTICK"
+            }
+          ],
+          "to": [
+            {
+              "name": "DISCLONE"
+            },
+            {
+              "name": "CONCRETE LIPSTICK"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-15T07:27:45.225881+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://disclone.bandcamp.com/",
+            "name": "DISCLONE"
+          },
+          {
+            "country": "D",
+            "link": "https://concretelipstick.bandcamp.com/",
+            "name": "CONCRETE LIPSTICK"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-15T07:27:45.225881+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "052406362ecbe4ad38d3",
+        "last_seen_at": "2026-10-15T07:27:45.225881+00:00",
+        "links": [
+          {
+            "label": "DISCLONE",
+            "url": "https://disclone.bandcamp.com/"
+          },
+          {
+            "label": "CONCRETE LIPSTICK",
+            "url": "https://concretelipstick.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: DISCLONE / CONCRETE LIPSTICK (d) @ Arena-Beisl, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "052406362ecbe4ad38d3",
+      "guid": "052406362ecbe4ad38d3:1",
+      "kind": "changed",
+      "revision": 1
+    },
     {
       "anchor": "change-92c146f45017509573a8-1",
       "changes": {

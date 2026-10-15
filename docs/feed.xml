@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:27:45 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: VOMITS, ZxUxA, PULVERIN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2c993d37af794b1bbbd-2</link>
+      <guid isPermaLink="false">c2c993d37af794b1bbbd:2</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-10-16 · Venster,  Wien · Wien · Line-up: DESOLAT · ZxUxA · VOMITS → VOMITS · ZxUxA · PULVERIN</description>
+    </item>
+    <item>
+      <title>Geändert: The DARTS, CLIMAX, The AWEZOMBIES – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb66634223e93d6f28b0-2</link>
+      <guid isPermaLink="false">cb66634223e93d6f28b0:2</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-11 · Music-House,  Graz · Steiermark · Line-up: The DARTS → The DARTS · CLIMAX · The AWEZOMBIES</description>
+    </item>
+    <item>
+      <title>Neu: POPPO VON ROTT, BAMBI SHOOTS BACK, HONEYLANE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-19f7239734717a09ea78-1</link>
+      <guid isPermaLink="false">19f7239734717a09ea78:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-10-23 · Einbaumöbel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: GLUE CREW, MIGHTY MAGGOTS, The BURNING FLAGS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cc9e5f06a16d208c39c8-1</link>
+      <guid isPermaLink="false">cc9e5f06a16d208c39c8:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-07 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: NARKOSE – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1a3e209ffa3e35ba00eb-1</link>
+      <guid isPermaLink="false">1a3e209ffa3e35ba00eb:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-18 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: DISCLONE, CONCRETE LIPSTICK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-052406362ecbe4ad38d3-1</link>
+      <guid isPermaLink="false">052406362ecbe4ad38d3:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-21 · Arena-Beisl,  Wien · Wien · Line-up: CONCRETE LIPSTICK → DISCLONE · CONCRETE LIPSTICK</description>
+    </item>
     <item>
       <title>Abgesagt: NIGHTINGALES – Ebensee</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-92c146f45017509573a8-1</link>
@@ -26,7 +75,7 @@
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-87f1b625d49000243587-1</link>
       <guid isPermaLink="false">87f1b625d49000243587:1</guid>
       <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
-      <description>2026-10-24 · Kaorle OWA,  Wien · Wien · Venue: Kaorle → Kaorle OWA · Status: angekündigt → abgesagt</description>
+      <description>2026-10-24 · Kaorle OWA,  Wien · Wien · Status: angekündigt → abgesagt · Venue: Kaorle → Kaorle OWA</description>
     </item>
     <item>
       <title>Neu: DESOLAT, VOMITS, Muri Anda &amp; Mika Bankomat – Linz</title>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">846ca8e403f6b53779c9:1</guid>
       <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
       <description>2026-10-15 · Flex (Café),  Wien · Wien · Line-up: GIRLI → GIRLI · VANèS</description>
-    </item>
-    <item>
-      <title>Geändert: SPORTFREUNDE STILLER, CORDOBA78 – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-469a2c03f0d2772d09e3-1</link>
-      <guid isPermaLink="false">469a2c03f0d2772d09e3:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-10-28 · Gasometer,  Wien · Wien · Line-up: SPORTFREUNDE STILLER → SPORTFREUNDE STILLER · CORDOBA78</description>
-    </item>
-    <item>
-      <title>Geändert: WALK OFF THE EARTH, CRASH ADAMS, LUMINATI SUNS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cdf1c3eadef472929ddf-1</link>
-      <guid isPermaLink="false">cdf1c3eadef472929ddf:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-10-28 · Simm City,  Wien · Wien · Line-up: WALK OFF THE EARTH → WALK OFF THE EARTH · CRASH ADAMS · LUMINATI SUNS</description>
-    </item>
-    <item>
-      <title>Geändert: The BONES, MURPHY'S LAW, The DROWNS, The TEFLON DONS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7d4b2a5787ca80e44cb3-1</link>
-      <guid isPermaLink="false">7d4b2a5787ca80e44cb3:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-10-30 · Szene Flex (Café),  Wien · Wien · Venue: Szene → Szene Flex (Café)</description>
-    </item>
-    <item>
-      <title>Geändert: VAMPYRES, Moritz Molnar &amp; The NECESSARY EVIL, SLOTH ROCKET – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-62f1fcf070bda2a69e9f-1</link>
-      <guid isPermaLink="false">62f1fcf070bda2a69e9f:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-10-30 · U4,  Wien · Wien · Line-up: VAMPYRES · Moritz Molnar &amp; The NECESSARY EVIL → VAMPYRES · Moritz Molnar &amp; The NECESSARY EVIL · SLOTH ROCKET</description>
-    </item>
-    <item>
-      <title>Abgesagt: Melanie Baker – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ec34aff3edbb109a416d-1</link>
-      <guid isPermaLink="false">ec34aff3edbb109a416d:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-11-02 · Lucia,  Wien · Wien · Status: angekündigt → abgesagt</description>
-    </item>
-    <item>
-      <title>Geändert: RAZORLIGHT, The K's – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7a6e54756d0aef0d6a15-1</link>
-      <guid isPermaLink="false">7a6e54756d0aef0d6a15:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-11-05 · Simm City,  Wien · Wien · Line-up: RAZORLIGHT → RAZORLIGHT · The K's</description>
-    </item>
-    <item>
-      <title>Neu: VOLTAGE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fe896f40a675e5aa6e4f-1</link>
-      <guid isPermaLink="false">fe896f40a675e5aa6e4f:1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:59:24 +0000</pubDate>
-      <description>2026-11-12 · Pankahyttn,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

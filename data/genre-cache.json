@@ -2059,6 +2059,12 @@
       "Industrial"
     ]
   },
+  "climax": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "clover stieve": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5256,6 +5262,12 @@
     "subgenres": []
   },
   "honeygiant": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "honeylane": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

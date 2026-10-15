@@ -5,14 +5,42 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:27:45 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: VOMITS, ZxUxA, PULVERIN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2c993d37af794b1bbbd-2</link>
+      <guid isPermaLink="false">c2c993d37af794b1bbbd:2</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-10-16 · Venster,  Wien · Wien · Line-up: DESOLAT · ZxUxA · VOMITS → VOMITS · ZxUxA · PULVERIN</description>
+    </item>
+    <item>
+      <title>Neu: POPPO VON ROTT, BAMBI SHOOTS BACK, HONEYLANE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-19f7239734717a09ea78-1</link>
+      <guid isPermaLink="false">19f7239734717a09ea78:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-10-23 · Einbaumöbel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: DISCLONE, CONCRETE LIPSTICK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-052406362ecbe4ad38d3-1</link>
+      <guid isPermaLink="false">052406362ecbe4ad38d3:1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:27:45 +0000</pubDate>
+      <description>2026-11-21 · Arena-Beisl,  Wien · Wien · Line-up: CONCRETE LIPSTICK → DISCLONE · CONCRETE LIPSTICK</description>
+    </item>
     <item>
       <title>Abgesagt: BORN AT MIDNITE – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-87f1b625d49000243587-1</link>
       <guid isPermaLink="false">87f1b625d49000243587:1</guid>
       <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
-      <description>2026-10-24 · Kaorle OWA,  Wien · Wien · Venue: Kaorle → Kaorle OWA · Status: angekündigt → abgesagt</description>
+      <description>2026-10-24 · Kaorle OWA,  Wien · Wien · Status: angekündigt → abgesagt · Venue: Kaorle → Kaorle OWA</description>
     </item>
     <item>
       <title>Neu: MASTER OOGWAY – Wien</title>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
       <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
       <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: CENOTAPH, GROTESQUE CEREMONIUM, REALMS OF CHAOS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8bbe5e8cf6a8d83bd58e-1</link>
-      <guid isPermaLink="false">8bbe5e8cf6a8d83bd58e:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-12-03 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: THULCANDRA, YOTH IRIA, VORGA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4605db7b7c38f877a69e-1</link>
-      <guid isPermaLink="false">4605db7b7c38f877a69e:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2027-03-14 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BRUJERIA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d9b96e7495c5fd292b2b-1</link>
-      <guid isPermaLink="false">d9b96e7495c5fd292b2b:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2027-03-16 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: BRUTAL SPHINCTER, SLAUGHTERCULT, ASSBALLS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3efbcd54461f02e16cb7-2</link>
-      <guid isPermaLink="false">3efbcd54461f02e16cb7:2</guid>
-      <pubDate>Thu, 01 Oct 2026 08:57:47 +0000</pubDate>
-      <description>2026-11-26 · Escape,  Wien · Wien · Line-up: BRUTAL SPHINCTER · SLAUGHTERCULT → BRUTAL SPHINCTER · SLAUGHTERCULT · ASSBALLS</description>
     </item>
   </channel>
 </rss>
