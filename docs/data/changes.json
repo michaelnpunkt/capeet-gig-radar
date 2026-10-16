@@ -1,6 +1,482 @@
 {
-  "generated_at": "2026-10-15T07:27:45.225881+00:00",
+  "generated_at": "2026-10-16T07:11:03.397138+00:00",
   "revisions": [
+    {
+      "anchor": "change-e393c10bf32072f8f9ed-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "POL",
+            "link": "https://skorupa.bandcamp.com/",
+            "name": "SKORUP/A"
+          },
+          {
+            "country": "D",
+            "link": "https://oedecrust.bandcamp.com/",
+            "name": "ØDE"
+          },
+          {
+            "country": null,
+            "link": "https://grnder.bandcamp.com/",
+            "name": "GRÏNDER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Graz",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "e393c10bf32072f8f9ed",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "SKORUP/A",
+            "url": "https://skorupa.bandcamp.com/"
+          },
+          {
+            "label": "ØDE",
+            "url": "https://oedecrust.bandcamp.com/"
+          },
+          {
+            "label": "GRÏNDER",
+            "url": "https://grnder.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2387060038705788/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: SKORUP/A (pol) / ØDE (d) / GRÏNDER @ SUb, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "e393c10bf32072f8f9ed",
+      "guid": "e393c10bf32072f8f9ed:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e858e8d88c9a043de2fe-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://biitahoudei.bandcamp.com/",
+            "name": "Biita Houdei"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-04",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "e858e8d88c9a043de2fe",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "Biita Houdei",
+            "url": "https://biitahoudei.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://sargfabrik.at/veranstaltungen/biita-houdei"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.11.: Biita Houdei (usa) @ Sargfabrik, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Sargfabrik"
+      },
+      "event_id": "e858e8d88c9a043de2fe",
+      "guid": "e858e8d88c9a043de2fe:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0305da7f59d8aaa1e33f-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://moormother.bandcamp.com/",
+            "name": "MOOR MOTHER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-09",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "0305da7f59d8aaa1e33f",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "MOOR MOTHER",
+            "url": "https://moormother.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/988693227205250"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.11.: MOOR MOTHER (usa) @ Flucc (Deck), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc (Deck)"
+      },
+      "event_id": "0305da7f59d8aaa1e33f",
+      "guid": "0305da7f59d8aaa1e33f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f0c49138419ce60f790c-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Schirenc.Plays.Pungent.Stench/",
+            "name": "Schirenc plays PUNGENT STENCH"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=100063948907340",
+            "name": "GREYBACK"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61568497607493",
+            "name": "ETERNALLY BLINDED"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Landeck",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "f0c49138419ce60f790c",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "Schirenc plays PUNGENT STENCH",
+            "url": "https://www.facebook.com/Schirenc.Plays.Pungent.Stench/"
+          },
+          {
+            "label": "GREYBACK",
+            "url": "https://www.facebook.com/profile.php?id=100063948907340"
+          },
+          {
+            "label": "ETERNALLY BLINDED",
+            "url": "https://www.facebook.com/profile.php?id=61568497607493"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/963476532717399"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: Schirenc plays PUNGENT STENCH / GREYBACK / ETERNALLY BLINDED @ Altes Kino, Landeck [fb]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Altes Kino"
+      },
+      "event_id": "f0c49138419ce60f790c",
+      "guid": "f0c49138419ce60f790c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6a61e53bf543326a4cf6-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://collapspunk.bandcamp.com/",
+            "name": "COLLAPS"
+          },
+          {
+            "country": "UK",
+            "link": "https://thedogspunk.bandcamp.com/",
+            "name": "The DOGS"
+          },
+          {
+            "country": "D/AUT",
+            "link": "https://spirituallaw.bandcamp.com/",
+            "name": "SPIRITUAL LAW"
+          },
+          {
+            "country": null,
+            "link": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep",
+            "name": "EXCEPTION"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-19",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "6a61e53bf543326a4cf6",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "COLLAPS",
+            "url": "https://collapspunk.bandcamp.com/"
+          },
+          {
+            "label": "The DOGS",
+            "url": "https://thedogspunk.bandcamp.com/"
+          },
+          {
+            "label": "SPIRITUAL LAW",
+            "url": "https://spirituallaw.bandcamp.com/"
+          },
+          {
+            "label": "EXCEPTION",
+            "url": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.12.: COLLAPS (d) / The DOGS (uk) / SPIRITUAL LAW (d/aut) / EXCEPTION @ Arena (DreiRaum), Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "6a61e53bf543326a4cf6",
+      "guid": "6a61e53bf543326a4cf6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4d6dffce632c216ac8b0-1",
+      "changes": {
+        "venue": {
+          "from": "Flucc",
+          "to": "Flucc Wanne"
+        }
+      },
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "IRL",
+            "link": "https://gillaband.bandcamp.com/",
+            "name": "GILLA BAND"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "4d6dffce632c216ac8b0",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "GILLA BAND",
+            "url": "https://gillaband.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1007491911681029/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/923454390645647/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.02.: GILLA BAND (irl) @ Flucc Wanne, Wien [fb] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc Wanne"
+      },
+      "event_id": "4d6dffce632c216ac8b0",
+      "guid": "4d6dffce632c216ac8b0:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bb3e335969e8dae256ab-1",
+      "changes": {},
+      "detected_at": "2026-10-16T07:11:03.397138+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://horselords.bandcamp.com/",
+            "name": "HORSE LORDS"
+          },
+          {
+            "country": null,
+            "link": "https://judithferstl.com/projekte/mel_e-music/",
+            "name": "MEL*E"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-16T07:11:03.397138+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-03",
+        "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bb3e335969e8dae256ab",
+        "last_seen_at": "2026-10-16T07:11:03.397138+00:00",
+        "links": [
+          {
+            "label": "HORSE LORDS",
+            "url": "https://horselords.bandcamp.com/"
+          },
+          {
+            "label": "MEL*E",
+            "url": "https://judithferstl.com/projekte/mel_e-music/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.02.: HORSE LORDS (usa) / MEL*E @ Flucc (Deck), Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc (Deck)"
+      },
+      "event_id": "bb3e335969e8dae256ab",
+      "guid": "bb3e335969e8dae256ab:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-c2c993d37af794b1bbbd-2",
       "changes": {

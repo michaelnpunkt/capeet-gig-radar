@@ -1250,6 +1250,12 @@
       "Hardcore Punk"
     ]
   },
+  "biita houdei": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "bikini beach": {
     "family": "Punk",
     "source": "lastfm",
@@ -2095,6 +2101,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "collaps": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "color the night": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -2649,6 +2663,12 @@
     "subgenres": [
       "Shoegaze"
     ]
+  },
+  "de": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "de vu": {
     "classifier_version": 2,
@@ -5296,6 +5316,12 @@
       "Post-Punk"
     ]
   },
+  "horse lords": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "hot water music": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -7369,6 +7395,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "mel e": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "melanie baker": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -7722,6 +7754,12 @@
       "Black Metal",
       "Doom Metal"
     ]
+  },
+  "moor mother": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "mopcut feat mc dalek mats gustasson": {
     "classifier_version": 2,
@@ -10505,6 +10543,14 @@
       "Metalcore"
     ]
   },
+  "spiritual law": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "spite": {
     "classifier_version": 2,
     "family": "Metal",
@@ -11264,6 +11310,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "the dogs": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "the dresden dolls": {
     "family": "Punk",

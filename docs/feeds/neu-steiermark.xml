@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:11:03 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SKORUP/A, ØDE, GRÏNDER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e393c10bf32072f8f9ed-1</link>
+      <guid isPermaLink="false">e393c10bf32072f8f9ed:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2026-10-30 · SUb,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: The DARTS, CLIMAX, The AWEZOMBIES – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb66634223e93d6f28b0-2</link>

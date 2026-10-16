@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:11:03 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Biita Houdei – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e858e8d88c9a043de2fe-1</link>
+      <guid isPermaLink="false">e858e8d88c9a043de2fe:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2026-11-04 · Sargfabrik,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MOOR MOTHER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0305da7f59d8aaa1e33f-1</link>
+      <guid isPermaLink="false">0305da7f59d8aaa1e33f:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2026-11-09 · Flucc (Deck),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: COLLAPS, The DOGS, SPIRITUAL LAW, EXCEPTION – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6a61e53bf543326a4cf6-1</link>
+      <guid isPermaLink="false">6a61e53bf543326a4cf6:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2026-12-19 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Geändert: GILLA BAND – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4d6dffce632c216ac8b0-1</link>
+      <guid isPermaLink="false">4d6dffce632c216ac8b0:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2027-02-03 · Flucc Wanne,  Wien · Wien · Venue: Flucc → Flucc Wanne</description>
+    </item>
+    <item>
+      <title>Neu: HORSE LORDS, MEL*E – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bb3e335969e8dae256ab-1</link>
+      <guid isPermaLink="false">bb3e335969e8dae256ab:1</guid>
+      <pubDate>Fri, 16 Oct 2026 07:11:03 +0000</pubDate>
+      <description>2027-02-03 · Flucc (Deck),  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: VOMITS, ZxUxA, PULVERIN – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2c993d37af794b1bbbd-2</link>
@@ -663,48 +705,6 @@
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
       <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
       <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: NEGATIVE FRAME, SCATTERED MIND, RITUALIZE, LIMITED OPTIONS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1e14dbd229c23708ac52-1</link>
-      <guid isPermaLink="false">1e14dbd229c23708ac52:1</guid>
-      <pubDate>Sun, 04 Oct 2026 08:27:40 +0000</pubDate>
-      <description>2026-12-18 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: SALABAKTER, GOOD COP – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fae2dd341b4048795e27-3</link>
-      <guid isPermaLink="false">fae2dd341b4048795e27:3</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-10-02 · Secret Location,  Wien · Wien · Line-up: SALABAKTER · HARSH RESPONSE → SALABAKTER · GOOD COP</description>
-    </item>
-    <item>
-      <title>Neu: HANNELORE, KINKY MUPPET – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b57b26112bdbc9acc2f4-1</link>
-      <guid isPermaLink="false">b57b26112bdbc9acc2f4:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-10-02 · Einbaumöbel,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: HEADBUSSA, IMPOSTER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-272b33ba4ecc691306ed-1</link>
-      <guid isPermaLink="false">272b33ba4ecc691306ed:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-10-06 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Dagmar Zuniga – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-085168f603c9d87c67b2-1</link>
-      <guid isPermaLink="false">085168f603c9d87c67b2:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-11-15 · rhiz,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
       <description>2026-11-20 · Chelsea,  Wien · Wien</description>
     </item>
   </channel>
