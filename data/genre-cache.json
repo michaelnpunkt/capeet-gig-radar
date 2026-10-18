@@ -1242,6 +1242,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "bezdan": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Thrash Metal"
+    ]
+  },
   "big boy": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -1891,6 +1900,14 @@
     "source": "lastfm",
     "subgenres": [
       "Sludge Metal"
+    ]
+  },
+  "cemented minds": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
     ]
   },
   "cenotaph": {
@@ -3155,6 +3172,12 @@
       "Death Metal"
     ]
   },
+  "displeaser": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "distant": {
     "classifier_version": 2,
     "family": "Metal",
@@ -3761,6 +3784,12 @@
       "Doom Metal"
     ]
   },
+  "essig": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "eternal god": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -4256,6 +4285,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "frantx": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "franz fuexe": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -4735,6 +4770,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "greyshadow": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "grim rhythm": {
@@ -8101,6 +8142,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "neue heimat": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "neuer deutscher acid": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8478,6 +8525,12 @@
       "Hardcore Punk"
     ]
   },
+  "one erection": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "one last story": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8519,6 +8572,12 @@
   "orange peel her": {
     "classifier_version": 2,
     "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "orange skies": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },

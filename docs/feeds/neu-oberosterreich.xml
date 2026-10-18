@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:14:11 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: Christian Fetish, PHAL:ANGST – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc5b48ccc80aaf453038-2</link>
+      <guid isPermaLink="false">bc5b48ccc80aaf453038:2</guid>
+      <pubDate>Sun, 18 Oct 2026 07:14:11 +0000</pubDate>
+      <description>2026-11-21 · Kapu,  Linz · Oberösterreich · Line-up: PHAL:ANGST → Christian Fetish · PHAL:ANGST</description>
+    </item>
+    <item>
+      <title>Neu: FRANTX – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b29ae5b4a5088a807840-1</link>
+      <guid isPermaLink="false">b29ae5b4a5088a807840:1</guid>
+      <pubDate>Sun, 18 Oct 2026 07:14:11 +0000</pubDate>
+      <description>2027-05-09 · Raumschiff,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Abgesagt: NIGHTINGALES – Ebensee</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-92c146f45017509573a8-1</link>
