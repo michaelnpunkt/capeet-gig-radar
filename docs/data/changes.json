@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-10-18T07:14:11.051551+00:00",
+  "generated_at": "2026-10-19T07:47:24.932516+00:00",
   "revisions": [
+    {
+      "anchor": "change-08c639016389c634737f-1",
+      "changes": {},
+      "detected_at": "2026-10-19T07:47:24.932516+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/livinglache",
+            "name": "LIVING LÂCHE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-19T07:47:24.932516+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-10-19T07:47:24.932516+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "08c639016389c634737f",
+        "last_seen_at": "2026-10-19T07:47:24.932516+00:00",
+        "links": [
+          {
+            "label": "LIVING LÂCHE",
+            "url": "https://www.facebook.com/livinglache"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1097279796061063/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: LIVING LÂCHE @ Down Under, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Down Under"
+      },
+      "event_id": "08c639016389c634737f",
+      "guid": "08c639016389c634737f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-19T07:47:24.932516+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-19T07:47:24.932516+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-19T07:47:24.932516+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-19T07:47:24.932516+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-90513478f79135e8300c-2",
       "changes": {

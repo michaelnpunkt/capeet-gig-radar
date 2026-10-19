@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:47:24 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: LIVING LÂCHE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-08c639016389c634737f-1</link>
+      <guid isPermaLink="false">08c639016389c634737f:1</guid>
+      <pubDate>Mon, 19 Oct 2026 07:47:24 +0000</pubDate>
+      <description>2026-10-30 · Down Under,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 19 Oct 2026 07:47:24 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: ALLES EXHAUSTED, The TELLY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-90513478f79135e8300c-2</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">41d541e2c5bbe0e42d91:1</guid>
       <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
       <description>2026-11-18 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FARVEBLIND – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7e0fc11d120ee070bf75-1</link>
-      <guid isPermaLink="false">7e0fc11d120ee070bf75:1</guid>
-      <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
-      <description>2027-02-13 · Das Werk,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

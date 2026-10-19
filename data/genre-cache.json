@@ -6880,6 +6880,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "living lache": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "lmda": {
     "family": "Metal",
     "source": "lastfm",
