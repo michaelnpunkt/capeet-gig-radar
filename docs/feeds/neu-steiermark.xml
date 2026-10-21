@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:40:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: STEAMING SATELLITES, YATWA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-de690db15123e81c228b-1</link>
+      <guid isPermaLink="false">de690db15123e81c228b:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-10-22 · p.p.c.,  Graz · Steiermark · Line-up: STEAMING SATELLITES → STEAMING SATELLITES · YATWA</description>
+    </item>
+    <item>
+      <title>Geändert: ENDLESS WELLNESS, GLUT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7e3c891e2578f7d8020f-1</link>
+      <guid isPermaLink="false">7e3c891e2578f7d8020f:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-11-01 · Dom im Berg,  Graz · Steiermark · Line-up: ENDLESS WELLNESS → ENDLESS WELLNESS · GLUT</description>
+    </item>
+    <item>
+      <title>Geändert: Kim Salmon, MARMOTO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-506229066fe3d6022aec-1</link>
+      <guid isPermaLink="false">506229066fe3d6022aec:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-11-06 · Forum Stadtpark,  Graz · Steiermark · Line-up: Kim Salmon → Kim Salmon · MARMOTO</description>
+    </item>
+    <item>
+      <title>Geändert: FUJI|||||||||||TA, Luka Kozlovački – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12d75d4d79f6323f5b30-1</link>
+      <guid isPermaLink="false">12d75d4d79f6323f5b30:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-11-14 · Orpheum,  Graz · Steiermark · Line-up: OOIOO · FUJI|||||||||||TA → FUJI|||||||||||TA · Luka Kozlovački</description>
+    </item>
+    <item>
+      <title>Neu: H.P. ZINKER, SOLO ONO – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-680c274224955b8e1c6e-1</link>
+      <guid isPermaLink="false">680c274224955b8e1c6e:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2027-02-05 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: THREE FOR SILVER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-521e7064b3b7a5ea44d0-1</link>
+      <guid isPermaLink="false">521e7064b3b7a5ea44d0:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2027-03-25 · Orpheum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: SKORUP/A, ØDE, GRÏNDER – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e393c10bf32072f8f9ed-1</link>
@@ -664,20 +706,6 @@
       <guid isPermaLink="false">46db00b4c87948f692f9:1</guid>
       <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
       <description>2026-10-22 · Caf&amp;233 / Wolf,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: BONEGRINDER – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e46225e82267e1e2f393-1</link>
-      <guid isPermaLink="false">e46225e82267e1e2f393:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-10-24 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: EUROTEURO – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cd1fefd2214ecb696fd1-1</link>
-      <guid isPermaLink="false">cd1fefd2214ecb696fd1:1</guid>
-      <pubDate>Sat, 15 Aug 2026 03:05:24 +0000</pubDate>
-      <description>2026-11-12 · Music-House,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

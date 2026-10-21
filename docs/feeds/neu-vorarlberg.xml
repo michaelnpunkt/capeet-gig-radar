@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:40:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: STEAMING SATELLITES, YATWA – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-da6377de4513397b864d-1</link>
+      <guid isPermaLink="false">da6377de4513397b864d:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-11-11 · Spielboden,  Dornbirn · Vorarlberg · Line-up: STEAMING SATELLITES → STEAMING SATELLITES · YATWA</description>
+    </item>
+    <item>
+      <title>Neu: FARVEBLIND – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-58fcf4ea6bc499aa0f0c-1</link>
+      <guid isPermaLink="false">58fcf4ea6bc499aa0f0c:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2027-02-12 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: THREE FOR SILVER – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-100233e78d7a94900809-1</link>
+      <guid isPermaLink="false">100233e78d7a94900809:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2027-03-27 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
     <item>
       <title>Neu: DEVIATED INSTINCT, KVAL – Bregenz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-947d62d0dbc9013068a9-1</link>

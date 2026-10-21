@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:40:54 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: MAIIJA &amp; The ZEW – Bad Ischl</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-52e48dcc159c62efe244-1</link>
+      <guid isPermaLink="false">52e48dcc159c62efe244:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-10-31 · Kurdirektion,  Bad Ischl · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: IKAN HYU – Vöcklabruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e71b6a6cf6f7e53cc8c5-1</link>
+      <guid isPermaLink="false">e71b6a6cf6f7e53cc8c5:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2026-11-13 · OKH,  Vöcklabruck · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: KOMMANDO ELEFANT – Vöcklabruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-63110dacf10412a7d796-1</link>
+      <guid isPermaLink="false">63110dacf10412a7d796:1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
+      <description>2027-05-21 · OKH,  Vöcklabruck · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: Christian Fetish, PHAL:ANGST – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc5b48ccc80aaf453038-2</link>
