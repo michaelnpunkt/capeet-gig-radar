@@ -885,6 +885,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "author punisher": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
   "autocamper": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -1289,6 +1297,12 @@
     "subgenres": []
   },
   "bilch": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "billi mpeg": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -5071,6 +5085,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "habak": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Crust Punk"
+    ]
+  },
   "hackedepicciotto": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -5670,6 +5692,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "idem": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "iffernet": {
@@ -7895,6 +7923,15 @@
       "Thrash Metal"
     ]
   },
+  "misery index": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "misophoniac": {
     "family": "Punk",
     "source": "lastfm",
@@ -8291,6 +8328,15 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "napalm death": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
   },
   "napoleon hairfashion": {
     "classifier_version": 2,
@@ -9172,6 +9218,12 @@
       "Thrash Metal"
     ]
   },
+  "peter the test tube babies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "petrol girls": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -9198,6 +9250,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "piece": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Sludge Metal"
+    ]
   },
   "pigeon boys": {
     "classifier_version": 2,
@@ -10381,6 +10442,12 @@
   },
   "siamese elephants": {
     "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "sickret": {
+    "classifier_version": 2,
+    "family": "Metal",
     "source": "lastfm",
     "subgenres": []
   },
@@ -12485,6 +12552,12 @@
       "Street Punk"
     ]
   },
+  "total fucking dilemma": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "total hate": {
     "classifier_version": 2,
     "family": "Metal",
@@ -12685,6 +12758,14 @@
     "source": "lastfm",
     "subgenres": [
       "Industrial"
+    ]
+  },
+  "ugly": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Sludge Metal"
     ]
   },
   "uh batman": {
@@ -13541,6 +13622,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "wrang": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
   },
   "wrath symmetry": {
     "classifier_version": 2,

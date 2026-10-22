@@ -1,6 +1,1133 @@
 {
-  "generated_at": "2026-10-21T07:40:54.326257+00:00",
+  "generated_at": "2026-10-22T07:36:20.954236+00:00",
   "revisions": [
+    {
+      "anchor": "change-df20f8e4b31e032fcd09-2",
+      "changes": {
+        "venue": {
+          "from": "Arena (kl. Halle)",
+          "to": "Arena (DreiRaum)"
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://www.themonsters.ch/",
+            "name": "The MONSTERS"
+          },
+          {
+            "country": "CH",
+            "link": "https://blaskapellechancentod.bandcamp.com/",
+            "name": "BLASKAPELLE CHANCENTOD"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "df20f8e4b31e032fcd09",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "The MONSTERS",
+            "url": "https://www.themonsters.ch/"
+          },
+          {
+            "label": "BLASKAPELLE CHANCENTOD",
+            "url": "https://blaskapellechancentod.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://arena.wien/Home/Programm-Detail/concert-id/48591"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "23.10.: The MONSTERS (ch) / BLASKAPELLE CHANCENTOD (ch) @ Arena (DreiRaum), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "df20f8e4b31e032fcd09",
+      "guid": "df20f8e4b31e032fcd09:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-e5c539234e906098ef3c-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "TUTTI DILEMMA"
+            },
+            {
+              "name": "TEMPORÄRE OBJEKTE"
+            },
+            {
+              "name": "GERT"
+            }
+          ],
+          "to": [
+            {
+              "name": "TOTAL FUCKING DILEMMA"
+            },
+            {
+              "name": "TEMPORÄRE OBJEKTE"
+            },
+            {
+              "name": "GERT"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://tuttidilemma.bandcamp.com/",
+            "name": "TOTAL FUCKING DILEMMA"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile/61571099643446",
+            "name": "TEMPORÄRE OBJEKTE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61550102335562",
+            "name": "GERT"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e5c539234e906098ef3c",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "TOTAL FUCKING DILEMMA",
+            "url": "https://tuttidilemma.bandcamp.com/"
+          },
+          {
+            "label": "TEMPORÄRE OBJEKTE",
+            "url": "https://www.facebook.com/profile/61571099643446"
+          },
+          {
+            "label": "GERT",
+            "url": "https://www.facebook.com/profile.php?id=61550102335562"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "23.10.: TOTAL FUCKING DILEMMA / TEMPORÄRE OBJEKTE / GERT @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "e5c539234e906098ef3c",
+      "guid": "e5c539234e906098ef3c:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-94efdadac6df691ac1da-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/efeuoffiziell/",
+            "name": "EFEU"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/billi_mpeg/",
+            "name": "BILLI MPEG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-22",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "94efdadac6df691ac1da",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "EFEU",
+            "url": "https://www.instagram.com/efeuoffiziell/"
+          },
+          {
+            "label": "BILLI MPEG",
+            "url": "https://www.instagram.com/billi_mpeg/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/efeu-carina-calling-part-1/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.10.: EFEU / BILLI MPEG @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "94efdadac6df691ac1da",
+      "guid": "94efdadac6df691ac1da:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-16e65091a9c83f6d0f21-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SOME SPROUTS"
+            }
+          ],
+          "to": [
+            {
+              "name": "SOME SPROUTS"
+            },
+            {
+              "name": "HUMMING PEOPLE"
+            }
+          ]
+        },
+        "venue": {
+          "from": "Flucc",
+          "to": "Flucc Das Werk"
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.somesprouts.de/",
+            "name": "SOME SPROUTS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/humming.people/",
+            "name": "HUMMING PEOPLE"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-22",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "16e65091a9c83f6d0f21",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "SOME SPROUTS",
+            "url": "https://www.somesprouts.de/"
+          },
+          {
+            "label": "HUMMING PEOPLE",
+            "url": "https://www.instagram.com/humming.people/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1286667666668246"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.10.: SOME SPROUTS (d) / HUMMING PEOPLE @ Flucc Das Werk, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc Das Werk"
+      },
+      "event_id": "16e65091a9c83f6d0f21",
+      "guid": "16e65091a9c83f6d0f21:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fcdb4a592a198f536295-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "CLAWFINGER"
+            }
+          ],
+          "to": [
+            {
+              "name": "CLAWFINGER"
+            },
+            {
+              "name": "SICKRET"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://clawfinger.net/",
+            "name": "CLAWFINGER"
+          },
+          {
+            "country": "CH",
+            "link": "https://www.instagram.com/sickretmusic/",
+            "name": "SICKRET"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "fcdb4a592a198f536295",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "CLAWFINGER",
+            "url": "https://clawfinger.net/"
+          },
+          {
+            "label": "SICKRET",
+            "url": "https://www.instagram.com/sickretmusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1306400621171323/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: CLAWFINGER (swe) / SICKRET (ch) @ Arena (gr. Halle), Wien [sold out!] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "fcdb4a592a198f536295",
+      "guid": "fcdb4a592a198f536295:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6e5bdbb532027f935491-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/efeuoffiziell/",
+            "name": "EFEU"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/thebandjeanny/",
+            "name": "JEANNY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "6e5bdbb532027f935491",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "EFEU",
+            "url": "https://www.instagram.com/efeuoffiziell/"
+          },
+          {
+            "label": "JEANNY",
+            "url": "https://www.instagram.com/thebandjeanny/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/efeu-carina-calling-part-1-750/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: EFEU / JEANNY @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "6e5bdbb532027f935491",
+      "guid": "6e5bdbb532027f935491:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3fa90336b13039f01ce7-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "ENDLESS WELLNESS"
+            }
+          ],
+          "to": [
+            {
+              "name": "ENDLESS WELLNESS"
+            },
+            {
+              "name": "DUOLIA."
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/endlesswellnesshallo/",
+            "name": "ENDLESS WELLNESS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/duoliamusic/",
+            "name": "DUOLIA."
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "3fa90336b13039f01ce7",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "ENDLESS WELLNESS",
+            "url": "https://www.instagram.com/endlesswellnesshallo/"
+          },
+          {
+            "label": "DUOLIA.",
+            "url": "https://www.instagram.com/duoliamusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/979129847997647/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.10.: ENDLESS WELLNESS / DUOLIA. @ Spielboden, Dornbirn [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Spielboden"
+      },
+      "event_id": "3fa90336b13039f01ce7",
+      "guid": "3fa90336b13039f01ce7:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bd7521f7a063bc6572e3-1",
+      "changes": {
+        "venue": {
+          "from": "Arena (kl. Halle)",
+          "to": "Arena (DreiRaum)"
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://krallice.bandcamp.com/",
+            "name": "KRALLICE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/hailhiena/",
+            "name": "HIËNA"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "bd7521f7a063bc6572e3",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "KRALLICE",
+            "url": "https://krallice.bandcamp.com/"
+          },
+          {
+            "label": "HIËNA",
+            "url": "https://www.facebook.com/hailhiena/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1858739048416308/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: KRALLICE (usa) / HIËNA @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "bd7521f7a063bc6572e3",
+      "guid": "bd7521f7a063bc6572e3:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-72162def1094ccc592c6-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CRO",
+            "link": "https://antunidem.bandcamp.com/",
+            "name": "IDEM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-05",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "72162def1094ccc592c6",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "IDEM",
+            "url": "https://antunidem.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=05-11-2026_idem"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.11.: IDEM (cro) @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "72162def1094ccc592c6",
+      "guid": "72162def1094ccc592c6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e058db0ea6155c0975a7-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://birdstoneband.bandcamp.com/",
+            "name": "BIRDSTONE"
+          },
+          {
+            "country": null,
+            "link": "https://liquidearth.bandcamp.com/",
+            "name": "LIQUID EARTH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-10",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "e058db0ea6155c0975a7",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "BIRDSTONE",
+            "url": "https://birdstoneband.bandcamp.com/"
+          },
+          {
+            "label": "LIQUID EARTH",
+            "url": "https://liquidearth.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=10-11-2026_birdstone-birdstone-liquid-earth-support-liquid-earth"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.11.: BIRDSTONE (fra) / LIQUID EARTH @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "e058db0ea6155c0975a7",
+      "guid": "e058db0ea6155c0975a7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b672fc22e5495e1babd-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "CARNIFEX"
+            },
+            {
+              "name": "DESPISED ICON"
+            },
+            {
+              "name": "SUFFOCATION"
+            },
+            {
+              "name": "GATES TO HELL"
+            }
+          ],
+          "to": [
+            {
+              "name": "CARNIFEX"
+            },
+            {
+              "name": "DESPISED ICON"
+            },
+            {
+              "name": "SUFFOCATION"
+            },
+            {
+              "name": "KANINE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/CarnifexMetal/",
+            "name": "CARNIFEX"
+          },
+          {
+            "country": "CAN",
+            "link": "https://www.facebook.com/despisedicon/",
+            "name": "DESPISED ICON"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.suffocationofficial.com/",
+            "name": "SUFFOCATION"
+          },
+          {
+            "country": "FRA",
+            "link": "https://www.facebook.com/KanineSdc/",
+            "name": "KANINE"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Metalcore",
+            "Grindcore"
+          ]
+        },
+        "id": "0b672fc22e5495e1babd",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "CARNIFEX",
+            "url": "https://www.facebook.com/CarnifexMetal/"
+          },
+          {
+            "label": "DESPISED ICON",
+            "url": "https://www.facebook.com/despisedicon/"
+          },
+          {
+            "label": "SUFFOCATION",
+            "url": "https://www.suffocationofficial.com/"
+          },
+          {
+            "label": "KANINE",
+            "url": "https://www.facebook.com/KanineSdc/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1919360635440709/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.11.: CARNIFEX (usa) / DESPISED ICON (can) / SUFFOCATION (usa) / KANINE (fra) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "0b672fc22e5495e1babd",
+      "guid": "0b672fc22e5495e1babd:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-44861a123feba8c3a046-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "DARVAZA"
+            },
+            {
+              "name": "MERRIMACK"
+            },
+            {
+              "name": "HELLERUIN"
+            },
+            {
+              "name": "DÉTRESSE"
+            }
+          ],
+          "to": [
+            {
+              "name": "DARVAZA"
+            },
+            {
+              "name": "MERRIMACK"
+            },
+            {
+              "name": "WRANG"
+            },
+            {
+              "name": "DÉTRESSE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR/ITA",
+            "link": "https://darvazablackmetal.bandcamp.com/",
+            "name": "DARVAZA"
+          },
+          {
+            "country": "FRA",
+            "link": "https://merrimack.bandcamp.com/",
+            "name": "MERRIMACK"
+          },
+          {
+            "country": "NED",
+            "link": "https://wrang.bandcamp.com/",
+            "name": "WRANG"
+          },
+          {
+            "country": "AUT/CAN",
+            "link": "https://detresse.bandcamp.com/",
+            "name": "DÉTRESSE"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "44861a123feba8c3a046",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "DARVAZA",
+            "url": "https://darvazablackmetal.bandcamp.com/"
+          },
+          {
+            "label": "MERRIMACK",
+            "url": "https://merrimack.bandcamp.com/"
+          },
+          {
+            "label": "WRANG",
+            "url": "https://wrang.bandcamp.com/"
+          },
+          {
+            "label": "DÉTRESSE",
+            "url": "https://detresse.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1122629206613571/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: DARVAZA (nor/ita) / MERRIMACK (fra) / WRANG (ned) / DÉTRESSE (aut/can) @ Viper Room, Wien [HELLERUIN cancelled.] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "44861a123feba8c3a046",
+      "guid": "44861a123feba8c3a046:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f7f3f707ce5ed3ecae73-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "http://www.testtubebabies.co.uk/",
+            "name": "Peter & The TEST TUBE BABIES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-27",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f7f3f707ce5ed3ecae73",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "Peter & The TEST TUBE BABIES",
+            "url": "http://www.testtubebabies.co.uk/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/5154575574769090/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.01.: Peter & The TEST TUBE BABIES (uk) @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "f7f3f707ce5ed3ecae73",
+      "guid": "f7f3f707ce5ed3ecae73:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bf221605560946148255-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://napalmdeath.org/",
+            "name": "NAPALM DEATH"
+          },
+          {
+            "country": "USA",
+            "link": "https://miseryindex.bandcamp.com/",
+            "name": "MISERY INDEX"
+          },
+          {
+            "country": "USA",
+            "link": "https://authorandpunisher.bandcamp.com/",
+            "name": "AUTHOR & PUNISHER"
+          },
+          {
+            "country": "MEX",
+            "link": "https://habak.bandcamp.com/",
+            "name": "HABAK"
+          },
+          {
+            "country": "D",
+            "link": "https://pieceismetal.bandcamp.com/",
+            "name": "PIECE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-04",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "bf221605560946148255",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "NAPALM DEATH",
+            "url": "https://napalmdeath.org/"
+          },
+          {
+            "label": "MISERY INDEX",
+            "url": "https://miseryindex.bandcamp.com/"
+          },
+          {
+            "label": "AUTHOR & PUNISHER",
+            "url": "https://authorandpunisher.bandcamp.com/"
+          },
+          {
+            "label": "HABAK",
+            "url": "https://habak.bandcamp.com/"
+          },
+          {
+            "label": "PIECE",
+            "url": "https://pieceismetal.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1121145763608700/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.02.: NAPALM DEATH (uk) / MISERY INDEX (usa) / AUTHOR & PUNISHER (usa) / HABAK (mex) / PIECE (d) @ Arena, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena"
+      },
+      "event_id": "bf221605560946148255",
+      "guid": "bf221605560946148255:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f7d99982ef03ecac37ed-1",
+      "changes": {},
+      "detected_at": "2026-10-22T07:36:20.954236+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://weareugly.bandcamp.com/",
+            "name": "UGLY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-22T07:36:20.954236+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-11",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Sludge Metal"
+          ]
+        },
+        "id": "f7d99982ef03ecac37ed",
+        "last_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "links": [
+          {
+            "label": "UGLY",
+            "url": "https://weareugly.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1000869936362667"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.02.: UGLY (uk) @ Lucia, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "f7d99982ef03ecac37ed",
+      "guid": "f7d99982ef03ecac37ed:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-e858e8d88c9a043de2fe-2",
       "changes": {
