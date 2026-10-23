@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LEBERZERROZE, The END OF RADIO – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2c208413062cadd78e8e-2</link>
+      <guid isPermaLink="false">2c208413062cadd78e8e:2</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-24 · Bricks,  Salzburg · Salzburg · Line-up: The WORM REDUCER · 90 → LEBERZERROZE · The END OF RADIO</description>
+    </item>
+    <item>
+      <title>Neu: The WORM REDUCER, 90 – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0745989ea0f84330a304-1</link>
+      <guid isPermaLink="false">0745989ea0f84330a304:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-23 · Bricks,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: ELEINE, REXORIA, SERAPIS PROJECT – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9b96a25e5136817aa505-1</link>

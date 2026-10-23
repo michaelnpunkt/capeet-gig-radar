@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: LA CASA FANTOM, NO VIDA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-857b39735bb7dc40a17c-3</link>
+      <guid isPermaLink="false">857b39735bb7dc40a17c:3</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-11-01 · SUb,  Graz · Steiermark · Line-up: LA CASA FANTOM · NO VIDA · PRUNKNELKE → LA CASA FANTOM · NO VIDA</description>
+    </item>
+    <item>
+      <title>Neu: BEHIND THE RAILS, PATER TENEBRARUM, EERIE HORIZON – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3890210bbc454cc3b537-1</link>
+      <guid isPermaLink="false">3890210bbc454cc3b537:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-11-20 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: KANINE, A NIGHT IN TEXAS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8705bde4e81d99358962-1</link>
+      <guid isPermaLink="false">8705bde4e81d99358962:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-02-13 · Explosiv,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: VINEGAR HILL, DEADLOCK, EMBRACE THE FIRE, The DEVASTATION – Leoben</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0411a8268af19a53be8b-1</link>
+      <guid isPermaLink="false">0411a8268af19a53be8b:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-03-06 · Live Congress,  Leoben · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SENNTUS, DAARK, ZERNICHTER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e015684ed8a028da797e-1</link>
+      <guid isPermaLink="false">e015684ed8a028da797e:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-05-08 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: STEAMING SATELLITES, YATWA – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-de690db15123e81c228b-1</link>
@@ -671,41 +706,6 @@
       <guid isPermaLink="false">46db00b4c87948f692f9:2</guid>
       <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
       <description>2026-10-22 · Café Wolf,  Graz · Steiermark · Venue: Caf&amp;233 / Wolf → Café Wolf</description>
-    </item>
-    <item>
-      <title>Neu: STATES OF CLAY – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7aec560ca184eea9d3b-1</link>
-      <guid isPermaLink="false">e7aec560ca184eea9d3b:1</guid>
-      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
-      <description>2026-11-12 · Café Wolf,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Geändert: WAR ON WOMEN, BOING FLIP – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a340555deb9aef174a1a-1</link>
-      <guid isPermaLink="false">a340555deb9aef174a1a:1</guid>
-      <pubDate>Wed, 19 Aug 2026 17:16:49 +0000</pubDate>
-      <description>2026-08-19 · Music-House,  Graz · Steiermark · Line-up: WAR ON WOMEN → WAR ON WOMEN · BOING FLIP</description>
-    </item>
-    <item>
-      <title>Neu: SCAMPI BUMP, The ÆMBER, HONEYFACE – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-862f86cad662738f7bc1-1</link>
-      <guid isPermaLink="false">862f86cad662738f7bc1:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-21 · Music-House,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: COMANIAC, RAVENOUS – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f763de585cbb3628936-1</link>
-      <guid isPermaLink="false">5f763de585cbb3628936:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-09-03 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: ANYX – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-1</link>
-      <guid isPermaLink="false">46db00b4c87948f692f9:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-10-22 · Caf&amp;233 / Wolf,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

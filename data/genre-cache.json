@@ -105,6 +105,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "a night in texas": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore"
+    ]
+  },
   "a r f": {
     "classifier_version": 2,
     "family": "Metal",
@@ -1598,6 +1606,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "boss brain twisters": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "bottomless": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2577,6 +2591,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dagger division": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "dagmar zuniga": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -2811,6 +2831,15 @@
       "Hardcore Punk"
     ]
   },
+  "deadlock": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Death Metal"
+    ]
+  },
   "deadnate": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2839,6 +2868,14 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "dear deer": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "death vomit": {
     "family": "Metal",
@@ -3595,6 +3632,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "eerie horizon": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "efeu": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -3965,6 +4008,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "exhauster": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
+  },
   "exhorder": {
     "classifier_version": 2,
     "family": "Metal",
@@ -4009,6 +4060,12 @@
   "exxecutor": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "fabian lanzmaier jakob schauer": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "face off": {
@@ -5391,6 +5448,12 @@
     "subgenres": [
       "Hardcore Punk"
     ]
+  },
+  "high brian": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "high on fire": {
     "family": "Metal",
@@ -7143,6 +7206,12 @@
       "Metalcore"
     ]
   },
+  "lord diabolik": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "lords of salem": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -8574,6 +8643,14 @@
     "subgenres": [
       "Grindcore",
       "Thrash Metal"
+    ]
+  },
+  "no half measures": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore"
     ]
   },
   "no laughing matter": {
@@ -10280,6 +10357,15 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "secret of darkness": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
   "sego": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -10316,6 +10402,14 @@
     "source": "lastfm",
     "subgenres": [
       "Post-Punk"
+    ]
+  },
+  "senntus": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
     ]
   },
   "sense of justice": {
@@ -11534,6 +11628,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "teeth out": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "temora": {
     "classifier_version": 2,
     "family": "Metal",
@@ -11717,6 +11817,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the damn dogs": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the damn truth": {
     "family": "Rock",
     "source": "lastfm",
@@ -11771,6 +11877,15 @@
     "source": "lastfm",
     "subgenres": [
       "Street Punk"
+    ]
+  },
+  "the end of radio": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze",
+      "Noise Rock"
     ]
   },
   "the enforcers": {
@@ -12114,6 +12229,12 @@
     "subgenres": []
   },
   "the rocksteady conspiracy": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "the royal hangmen": {
     "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
@@ -12996,6 +13117,12 @@
       "Thrash Metal"
     ]
   },
+  "vecera": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "velvet rush": {
     "family": "Rock",
     "source": "lastfm",
@@ -13122,6 +13249,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "vinegar hill": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
   },
   "vintage paradise": {
     "classifier_version": 2,

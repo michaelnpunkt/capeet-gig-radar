@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: INFECTED RATS, BITE TO BREAK, NONSENSE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37574264ae6d37aae9f3-2</link>
+      <guid isPermaLink="false">37574264ae6d37aae9f3:2</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-25 · Escape,  Wien · Wien · Line-up: IN OTHER CLIMES · INFECTED RATS · BITE TO BREAK · NONSENSE → INFECTED RATS · BITE TO BREAK · NONSENSE</description>
+    </item>
+    <item>
+      <title>Geändert: EXHAUSTER, BEZDAN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5584b1c3f74f30f18d4d-2</link>
+      <guid isPermaLink="false">5584b1c3f74f30f18d4d:2</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-03-27 · Escape,  Wien · Wien · Line-up: BEZDAN → EXHAUSTER · BEZDAN</description>
+    </item>
+    <item>
+      <title>Neu: ANYX, GISCHT, Fabian Lanzmaier &amp; Jakob Schauer – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-51c815ea6dba146ebd1d-1</link>
+      <guid isPermaLink="false">51c815ea6dba146ebd1d:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-23 · kv.r,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Moritz Molnar &amp; The NECESSARY EVIL, HIGH BRIAN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-94ee313e6528743afd7e-1</link>
+      <guid isPermaLink="false">94ee313e6528743afd7e:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-01-15 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: NO HALF MEASURES, TEETH OUT, REALITY SHIFT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-323689db0282e9770a4d-1</link>
+      <guid isPermaLink="false">323689db0282e9770a4d:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2027-01-20 · Venster,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: The MONSTERS, BLASKAPELLE CHANCENTOD – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-df20f8e4b31e032fcd09-2</link>
@@ -664,48 +706,6 @@
       <guid isPermaLink="false">e3b9b7d3d11afef5bc83:1</guid>
       <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
       <description>2027-01-31 · Arena (DreiRaum),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BABY OF THE BUNCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-53bacaa50ae088626ffa-1</link>
-      <guid isPermaLink="false">53bacaa50ae088626ffa:1</guid>
-      <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
-      <description>2027-02-24 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FLYING MOON IN SPACE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-61bef854f2f6c5f7a7f7-1</link>
-      <guid isPermaLink="false">61bef854f2f6c5f7a7f7:1</guid>
-      <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
-      <description>2027-04-08 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BAITS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-be79038c5a15abd7065d-1</link>
-      <guid isPermaLink="false">be79038c5a15abd7065d:1</guid>
-      <pubDate>Tue, 13 Oct 2026 09:26:31 +0000</pubDate>
-      <description>2027-04-24 · Arena (gr. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: MY NAME JONAS, BEIDL FIGHT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b17df2a8662569c3d4f4-1</link>
-      <guid isPermaLink="false">b17df2a8662569c3d4f4:1</guid>
-      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
-      <description>2026-10-31 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: COVID BOYS, SPION, Uli – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee06e8b99cf3d33e960d-1</link>
-      <guid isPermaLink="false">ee06e8b99cf3d33e960d:1</guid>
-      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
-      <description>2026-11-07 · Einbaumöbel,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Mon, 12 Oct 2026 09:14:22 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,1318 @@
 {
-  "generated_at": "2026-10-22T07:36:20.954236+00:00",
+  "generated_at": "2026-10-23T07:33:32.804904+00:00",
   "revisions": [
+    {
+      "anchor": "change-857b39735bb7dc40a17c-3",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LA CASA FANTOM"
+            },
+            {
+              "name": "NO VIDA"
+            },
+            {
+              "name": "PRUNKNELKE"
+            }
+          ],
+          "to": [
+            {
+              "name": "LA CASA FANTOM"
+            },
+            {
+              "name": "NO VIDA"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NOR",
+            "link": "https://lacasafantom.bandcamp.com/",
+            "name": "LA CASA FANTOM"
+          },
+          {
+            "country": "CZE",
+            "link": "https://novida.bandcamp.com/",
+            "name": "NO VIDA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-01",
+        "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Crust Punk"
+          ]
+        },
+        "id": "857b39735bb7dc40a17c",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "LA CASA FANTOM",
+            "url": "https://lacasafantom.bandcamp.com/"
+          },
+          {
+            "label": "NO VIDA",
+            "url": "https://novida.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 3,
+        "source_text": "01.11.: LA CASA FANTOM (nor) / NO VIDA (cze) @ SUb, Graz [PRUNKNELKE cancelled.]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "857b39735bb7dc40a17c",
+      "guid": "857b39735bb7dc40a17c:3",
+      "kind": "changed",
+      "revision": 3
+    },
+    {
+      "anchor": "change-2c208413062cadd78e8e-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The WORM REDUCER"
+            },
+            {
+              "name": "90"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEBERZERROZE"
+            },
+            {
+              "name": "The END OF RADIO"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://leberzerroze.bandcamp.com/",
+            "name": "LEBERZERROZE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/theendoftheradio",
+            "name": "The END OF RADIO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-09-04T07:14:46.282627+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "2c208413062cadd78e8e",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "LEBERZERROZE",
+            "url": "https://leberzerroze.bandcamp.com/"
+          },
+          {
+            "label": "The END OF RADIO",
+            "url": "https://www.facebook.com/theendoftheradio"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "24.10.: LEBERZERROZE / The END OF RADIO @ Bricks, Salzburg",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Bricks"
+      },
+      "event_id": "2c208413062cadd78e8e",
+      "guid": "2c208413062cadd78e8e:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-37574264ae6d37aae9f3-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "IN OTHER CLIMES"
+            },
+            {
+              "name": "INFECTED RATS"
+            },
+            {
+              "name": "BITE TO BREAK"
+            },
+            {
+              "name": "NONSENSE"
+            }
+          ],
+          "to": [
+            {
+              "name": "INFECTED RATS"
+            },
+            {
+              "name": "BITE TO BREAK"
+            },
+            {
+              "name": "NONSENSE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.infectedrats.com/",
+            "name": "INFECTED RATS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/bitetobreak",
+            "name": "BITE TO BREAK"
+          },
+          {
+            "country": "UKR/AUT",
+            "link": "https://www.instagram.com/nonsense_official_ua",
+            "name": "NONSENSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-25",
+        "first_seen_at": "2026-08-19T03:11:47.510618+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "37574264ae6d37aae9f3",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "INFECTED RATS",
+            "url": "https://www.infectedrats.com/"
+          },
+          {
+            "label": "BITE TO BREAK",
+            "url": "https://www.instagram.com/bitetobreak"
+          },
+          {
+            "label": "NONSENSE",
+            "url": "https://www.instagram.com/nonsense_official_ua"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1598216078309621/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "25.10.: INFECTED RATS / BITE TO BREAK / NONSENSE (ukr/aut) @ Escape, Wien [IN OTHER CLIMES cancelled.] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "37574264ae6d37aae9f3",
+      "guid": "37574264ae6d37aae9f3:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-5584b1c3f74f30f18d4d-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "BEZDAN"
+            }
+          ],
+          "to": [
+            {
+              "name": "EXHAUSTER"
+            },
+            {
+              "name": "BEZDAN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://exhausterthrashmetal.bandcamp.com/music",
+            "name": "EXHAUSTER"
+          },
+          {
+            "country": "CRO",
+            "link": "https://bezdannikaddan.bandcamp.com/",
+            "name": "BEZDAN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-27",
+        "first_seen_at": "2026-10-18T07:14:11.051551+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Thrash Metal"
+          ]
+        },
+        "id": "5584b1c3f74f30f18d4d",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "EXHAUSTER",
+            "url": "https://exhausterthrashmetal.bandcamp.com/music"
+          },
+          {
+            "label": "BEZDAN",
+            "url": "https://bezdannikaddan.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1118430500742614/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "27.03.: EXHAUSTER (fra) / BEZDAN (cro) u.a. @ Escape, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "5584b1c3f74f30f18d4d",
+      "guid": "5584b1c3f74f30f18d4d:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-51c815ea6dba146ebd1d-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://anyx.bandcamp.com/",
+            "name": "ANYX"
+          },
+          {
+            "country": null,
+            "link": "https://gischt.xyz/",
+            "name": "GISCHT"
+          },
+          {
+            "country": null,
+            "link": "https://www.fabianlanzmaier.com/",
+            "name": "Fabian Lanzmaier & Jakob Schauer"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "51c815ea6dba146ebd1d",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "ANYX",
+            "url": "https://anyx.bandcamp.com/"
+          },
+          {
+            "label": "GISCHT",
+            "url": "https://gischt.xyz/"
+          },
+          {
+            "label": "Fabian Lanzmaier",
+            "url": "https://www.fabianlanzmaier.com/"
+          },
+          {
+            "label": "Jakob Schauer",
+            "url": "https://jakobschauer.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: ANYX (d) / GISCHT / Fabian Lanzmaier & Jakob Schauer @ kv.r, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "kv.r"
+      },
+      "event_id": "51c815ea6dba146ebd1d",
+      "guid": "51c815ea6dba146ebd1d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d725f20a8b34bb09c2c2-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/theendoftheradio",
+            "name": "The END OF RADIO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze",
+            "Noise Rock"
+          ]
+        },
+        "id": "d725f20a8b34bb09c2c2",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "The END OF RADIO",
+            "url": "https://www.facebook.com/theendoftheradio"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: The END OF RADIO @ Engel, Dornbirn",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Engel"
+      },
+      "event_id": "d725f20a8b34bb09c2c2",
+      "guid": "d725f20a8b34bb09c2c2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0745989ea0f84330a304-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://thewormreducer.bandcamp.com/",
+            "name": "The WORM REDUCER"
+          },
+          {
+            "country": null,
+            "link": "https://90music.bandcamp.com/",
+            "name": "90"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-10-23",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "0745989ea0f84330a304",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "The WORM REDUCER",
+            "url": "https://thewormreducer.bandcamp.com/"
+          },
+          {
+            "label": "90",
+            "url": "https://90music.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.10.: The WORM REDUCER (d) / 90 @ Bricks, Salzburg",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Bricks"
+      },
+      "event_id": "0745989ea0f84330a304",
+      "guid": "0745989ea0f84330a304:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-da7f4c4c7b4b8ca2f9be-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://anyx.bandcamp.com/",
+            "name": "ANYX"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-24",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "da7f4c4c7b4b8ca2f9be",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "ANYX",
+            "url": "https://anyx.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://sirup-linz.at/dates/deardeer"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.10.: ANYX (d) @ Sirup, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Sirup"
+      },
+      "event_id": "da7f4c4c7b4b8ca2f9be",
+      "guid": "da7f4c4c7b4b8ca2f9be:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8dcdd91c70c8aadf1599-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://deardeerfr.bandcamp.com/",
+            "name": "DEAR DEER"
+          },
+          {
+            "country": "LIT",
+            "link": "https://vecera.bandcamp.com/",
+            "name": "VECERA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-28",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "8dcdd91c70c8aadf1599",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "DEAR DEER",
+            "url": "https://deardeerfr.bandcamp.com/"
+          },
+          {
+            "label": "VECERA",
+            "url": "https://vecera.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://sirup-linz.at/dates/subsirup8"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.10.: DEAR DEER (fra) / VECERA (lit) @ Sirup, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Sirup"
+      },
+      "event_id": "8dcdd91c70c8aadf1599",
+      "guid": "8dcdd91c70c8aadf1599:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f3b5af75f8e125a59b26-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "BOSS BRAIN TWISTERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f3b5af75f8e125a59b26",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: BOSS BRAIN TWISTERS @ Engel, Dornbirn",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Engel"
+      },
+      "event_id": "f3b5af75f8e125a59b26",
+      "guid": "f3b5af75f8e125a59b26:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4395637c7d58e8b98130-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "BOSS BRAIN TWISTERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Feldkirch",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "4395637c7d58e8b98130",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: BOSS BRAIN TWISTERS @ Antiquariat Chybulski, Feldkirch",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Antiquariat Chybulski"
+      },
+      "event_id": "4395637c7d58e8b98130",
+      "guid": "4395637c7d58e8b98130:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ed48411ff9dd2d52a882-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://www.instagram.com/the_damndogs/",
+            "name": "The DAMN DOGS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Dornbirn",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ed48411ff9dd2d52a882",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "The DAMN DOGS",
+            "url": "https://www.instagram.com/the_damndogs/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: The DAMN DOGS (ita) @ Engel, Dornbirn",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Engel"
+      },
+      "event_id": "ed48411ff9dd2d52a882",
+      "guid": "ed48411ff9dd2d52a882:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7a8b188b1b49da5d9459-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DarkfallMetal",
+            "name": "DARKFALL"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Senntus",
+            "name": "SENNTUS"
+          },
+          {
+            "country": "CZE",
+            "link": "https://secretofdarkness.bandcamp.com/music",
+            "name": "SECRET OF DARKNESS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "DAGGER DIVISION"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Villach",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Thrash Metal"
+          ]
+        },
+        "id": "7a8b188b1b49da5d9459",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "DARKFALL",
+            "url": "https://www.facebook.com/DarkfallMetal"
+          },
+          {
+            "label": "SENNTUS",
+            "url": "https://www.facebook.com/Senntus"
+          },
+          {
+            "label": "SECRET OF DARKNESS",
+            "url": "https://secretofdarkness.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1690710112759842/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: DARKFALL / SENNTUS / SECRET OF DARKNESS (cze) / DAGGER DIVISION @ Kulturhof, Villach [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kulturhof"
+      },
+      "event_id": "7a8b188b1b49da5d9459",
+      "guid": "7a8b188b1b49da5d9459:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3890210bbc454cc3b537-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/BTR555",
+            "name": "BEHIND THE RAILS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/patertenebrarumoffical",
+            "name": "PATER TENEBRARUM"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/EerieHorizon",
+            "name": "EERIE HORIZON"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3890210bbc454cc3b537",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "BEHIND THE RAILS",
+            "url": "https://www.facebook.com/BTR555"
+          },
+          {
+            "label": "PATER TENEBRARUM",
+            "url": "https://www.facebook.com/patertenebrarumoffical"
+          },
+          {
+            "label": "EERIE HORIZON",
+            "url": "https://www.facebook.com/EerieHorizon"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1460474066182055/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: BEHIND THE RAILS / PATER TENEBRARUM / EERIE HORIZON @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "3890210bbc454cc3b537",
+      "guid": "3890210bbc454cc3b537:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-38c3526a2ddee5183e8e-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://theroyalhangmen.ch/",
+            "name": "The ROYAL HANGMEN"
+          },
+          {
+            "country": "FRA",
+            "link": "https://lorddiabolik.bandcamp.com/",
+            "name": "LORD DIABOLIK"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "BOSS BRAIN TWISTERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Bregenz",
+        "event_date": "2026-12-26",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "38c3526a2ddee5183e8e",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "The ROYAL HANGMEN",
+            "url": "https://theroyalhangmen.ch/"
+          },
+          {
+            "label": "LORD DIABOLIK",
+            "url": "https://lorddiabolik.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.12.: The ROYAL HANGMEN (ch) / LORD DIABOLIK (fra) / BOSS BRAIN TWISTERS u.a. @ Between, Bregenz",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Between"
+      },
+      "event_id": "38c3526a2ddee5183e8e",
+      "guid": "38c3526a2ddee5183e8e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-94ee313e6528743afd7e-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://moritzmolnar.bandcamp.com/",
+            "name": "Moritz Molnar & The NECESSARY EVIL"
+          },
+          {
+            "country": null,
+            "link": "https://highbrian.bandcamp.com/",
+            "name": "HIGH BRIAN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-15",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "94ee313e6528743afd7e",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "Moritz Molnar & The NECESSARY EVIL",
+            "url": "https://moritzmolnar.bandcamp.com/"
+          },
+          {
+            "label": "HIGH BRIAN",
+            "url": "https://highbrian.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1785445816043720/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.01.: Moritz Molnar & The NECESSARY EVIL / HIGH BRIAN @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "94ee313e6528743afd7e",
+      "guid": "94ee313e6528743afd7e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-323689db0282e9770a4d-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BUL",
+            "link": "https://nohalfmeasureshc.bandcamp.com/",
+            "name": "NO HALF MEASURES"
+          },
+          {
+            "country": "D",
+            "link": "https://teethout.bandcamp.com/",
+            "name": "TEETH OUT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/realityshift.hc/",
+            "name": "REALITY SHIFT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-20",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Melodic Hardcore"
+          ]
+        },
+        "id": "323689db0282e9770a4d",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "NO HALF MEASURES",
+            "url": "https://nohalfmeasureshc.bandcamp.com/"
+          },
+          {
+            "label": "TEETH OUT",
+            "url": "https://teethout.bandcamp.com/"
+          },
+          {
+            "label": "REALITY SHIFT",
+            "url": "https://www.instagram.com/realityshift.hc/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2186137258965020/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.01.: NO HALF MEASURES (bul) / TEETH OUT (d) / REALITY SHIFT @ Venster, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "323689db0282e9770a4d",
+      "guid": "323689db0282e9770a4d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8705bde4e81d99358962-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://www.facebook.com/KanineSdc/",
+            "name": "KANINE"
+          },
+          {
+            "country": "AUS",
+            "link": "https://www.facebook.com/anightintexas",
+            "name": "A NIGHT IN TEXAS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Graz",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore"
+          ]
+        },
+        "id": "8705bde4e81d99358962",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "KANINE",
+            "url": "https://www.facebook.com/KanineSdc/"
+          },
+          {
+            "label": "A NIGHT IN TEXAS",
+            "url": "https://www.facebook.com/anightintexas"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1822515382092487/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: KANINE (fra) / A NIGHT IN TEXAS (aus) @ Explosiv, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Explosiv"
+      },
+      "event_id": "8705bde4e81d99358962",
+      "guid": "8705bde4e81d99358962:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0411a8268af19a53be8b-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/VinegarHillMusic",
+            "name": "VINEGAR HILL"
+          },
+          {
+            "country": "D",
+            "link": "https://www.deadlock-official.com/",
+            "name": "DEADLOCK"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/EmbraceTheFireOfficial/",
+            "name": "EMBRACE THE FIRE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/devastation_band/",
+            "name": "The DEVASTATION"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Leoben",
+        "event_date": "2027-03-06",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "0411a8268af19a53be8b",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "VINEGAR HILL",
+            "url": "https://www.facebook.com/VinegarHillMusic"
+          },
+          {
+            "label": "DEADLOCK",
+            "url": "https://www.deadlock-official.com/"
+          },
+          {
+            "label": "EMBRACE THE FIRE",
+            "url": "https://www.facebook.com/EmbraceTheFireOfficial/"
+          },
+          {
+            "label": "The DEVASTATION",
+            "url": "https://www.instagram.com/devastation_band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1046714248392509/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.03.: VINEGAR HILL / DEADLOCK (d) / EMBRACE THE FIRE / The DEVASTATION @ Live Congress, Leoben [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Live Congress"
+      },
+      "event_id": "0411a8268af19a53be8b",
+      "guid": "0411a8268af19a53be8b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e015684ed8a028da797e-1",
+      "changes": {},
+      "detected_at": "2026-10-23T07:33:32.804904+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Senntus",
+            "name": "SENNTUS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=100051041241611",
+            "name": "DAARK"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/zernichter_official/",
+            "name": "ZERNICHTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-23T07:33:32.804904+00:00",
+        "city": "Graz",
+        "event_date": "2027-05-08",
+        "first_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "e015684ed8a028da797e",
+        "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+        "links": [
+          {
+            "label": "SENNTUS",
+            "url": "https://www.facebook.com/Senntus"
+          },
+          {
+            "label": "DAARK",
+            "url": "https://www.facebook.com/profile.php?id=100051041241611"
+          },
+          {
+            "label": "ZERNICHTER",
+            "url": "https://www.instagram.com/zernichter_official/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1928792128097656/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.05.: SENNTUS / DAARK / ZERNICHTER @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "e015684ed8a028da797e",
+      "guid": "e015684ed8a028da797e:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-df20f8e4b31e032fcd09-2",
       "changes": {

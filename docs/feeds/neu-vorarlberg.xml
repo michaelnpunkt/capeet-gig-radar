@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The END OF RADIO – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d725f20a8b34bb09c2c2-1</link>
+      <guid isPermaLink="false">d725f20a8b34bb09c2c2:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-23 · Engel,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: BOSS BRAIN TWISTERS – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f3b5af75f8e125a59b26-1</link>
+      <guid isPermaLink="false">f3b5af75f8e125a59b26:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-30 · Engel,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: BOSS BRAIN TWISTERS – Feldkirch</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4395637c7d58e8b98130-1</link>
+      <guid isPermaLink="false">4395637c7d58e8b98130:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-10-31 · Antiquariat Chybulski,  Feldkirch · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: The DAMN DOGS – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ed48411ff9dd2d52a882-1</link>
+      <guid isPermaLink="false">ed48411ff9dd2d52a882:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-11-06 · Engel,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: The ROYAL HANGMEN, LORD DIABOLIK, BOSS BRAIN TWISTERS – Bregenz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-38c3526a2ddee5183e8e-1</link>
+      <guid isPermaLink="false">38c3526a2ddee5183e8e:1</guid>
+      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
+      <description>2026-12-26 · Between,  Bregenz · Vorarlberg</description>
+    </item>
     <item>
       <title>Geändert: ENDLESS WELLNESS, DUOLIA. – Dornbirn</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3fa90336b13039f01ce7-1</link>
