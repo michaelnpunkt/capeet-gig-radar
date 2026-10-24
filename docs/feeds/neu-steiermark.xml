@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:18:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: MISSSTAND, ENDLICH SCHLECHTE MUSIK, A GUY NAMED LOU – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e5f02f4a3d22a348e180-2</link>
+      <guid isPermaLink="false">e5f02f4a3d22a348e180:2</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:17 +0000</pubDate>
+      <description>2026-10-23 · Music-House,  Graz · Steiermark · Line-up: MISSSTAND · ENDLICH SCHLECHTE MUSIK → MISSSTAND · ENDLICH SCHLECHTE MUSIK · A GUY NAMED LOU</description>
+    </item>
+    <item>
+      <title>Neu: SISTERLESS, I CAN'T, The SUNSPOTS – Leoben</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-11b7b59ade1caab27c52-1</link>
+      <guid isPermaLink="false">11b7b59ade1caab27c52:1</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:17 +0000</pubDate>
+      <description>2026-11-13 · JUZ Spektrum,  Leoben · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SZENE PUTZN, CALORIS IMPACT, FLOWERS IN CONCRETE, DRAIST, DRYBA, TIRED. – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d157a37274044c40939e-1</link>
+      <guid isPermaLink="false">d157a37274044c40939e:1</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:17 +0000</pubDate>
+      <description>2027-05-07 · Explosiv,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: KAPUT KRAUTS, MISSSTAND, ANTIGEN, PINK WONDER, MANGEL, FEDER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-eef67fef8ab7a0e28cb0-1</link>
+      <guid isPermaLink="false">eef67fef8ab7a0e28cb0:1</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:17 +0000</pubDate>
+      <description>2027-05-08 · Explosiv,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: LA CASA FANTOM, NO VIDA – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-857b39735bb7dc40a17c-3</link>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">af6839ac8ae15019c907:1</guid>
       <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
       <description>2026-10-14 · SUb,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: J. Zunz – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-abdd5e60dd87ce6fa332-1</link>
-      <guid isPermaLink="false">abdd5e60dd87ce6fa332:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-11-05 · Café Wolf,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: GRAZER GRANT, RADIO PASSIV, The AWEZOMBIES, HØRGERÆT – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e15cc019ba974a72435a-1</link>
-      <guid isPermaLink="false">e15cc019ba974a72435a:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-10-02 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: AS THE SUN FALLS, AEON OF AWARENESS, POST PULSE – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-079f17810dacfa34813e-1</link>
-      <guid isPermaLink="false">079f17810dacfa34813e:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-10-23 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Geändert: ANYX – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-46db00b4c87948f692f9-2</link>
-      <guid isPermaLink="false">46db00b4c87948f692f9:2</guid>
-      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
-      <description>2026-10-22 · Café Wolf,  Graz · Steiermark · Venue: Caf&amp;233 / Wolf → Café Wolf</description>
     </item>
   </channel>
 </rss>

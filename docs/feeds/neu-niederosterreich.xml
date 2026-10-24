@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:18:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ANDERWELT, FLESH REMAINS, The GREAT GRAY FUNK, ERLAUFTALER SPRITZBUAM – Purgstall</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a45aa862bd7e173d43ec-1</link>
+      <guid isPermaLink="false">a45aa862bd7e173d43ec:1</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:17 +0000</pubDate>
+      <description>2026-12-05 · Bunker,  Purgstall · Niederösterreich</description>
+    </item>
     <item>
       <title>Geändert: NORMAHL, The TROUBLEMAKERS, DETLEF, RECONFUSED – St. Pölten</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f4907b4d7081e9361cf9-1</link>

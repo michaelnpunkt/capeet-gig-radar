@@ -51782,5 +51782,1187 @@
     "guid": "e015684ed8a028da797e:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          }
+        ],
+        "to": [
+          {
+            "name": "MISSSTAND"
+          },
+          {
+            "name": "ENDLICH SCHLECHTE MUSIK"
+          },
+          {
+            "name": "A GUY NAMED LOU"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://band-missstand.bandcamp.com/",
+          "name": "MISSSTAND"
+        },
+        {
+          "country": "D",
+          "link": "https://endlichschlechtemusik.bandcamp.com/",
+          "name": "ENDLICH SCHLECHTE MUSIK"
+        },
+        {
+          "country": null,
+          "link": "https://aguynamedlou.bandcamp.com/",
+          "name": "A GUY NAMED LOU"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Graz",
+      "event_date": "2026-10-23",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e5f02f4a3d22a348e180",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "MISSSTAND",
+          "url": "https://band-missstand.bandcamp.com/"
+        },
+        {
+          "label": "ENDLICH SCHLECHTE MUSIK",
+          "url": "https://endlichschlechtemusik.bandcamp.com/"
+        },
+        {
+          "label": "A GUY NAMED LOU",
+          "url": "https://aguynamedlou.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1352677626689464"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "23.10.: MISSSTAND / ENDLICH SCHLECHTE MUSIK (d) / A GUY NAMED LOU @ Music-House, Graz [sold out!] [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "e5f02f4a3d22a348e180",
+    "guid": "e5f02f4a3d22a348e180:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CHL",
+          "link": "https://criticaldefiance.bandcamp.com/",
+          "name": "CRITICAL DEFIANCE"
+        },
+        {
+          "country": "FIN",
+          "link": "https://www.instagram.com/detmetalofficial/",
+          "name": "DET"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-11",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "bba39ae3addbc808a931",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "CRITICAL DEFIANCE",
+          "url": "https://criticaldefiance.bandcamp.com/"
+        },
+        {
+          "label": "DET",
+          "url": "https://www.instagram.com/detmetalofficial/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.11.: CRITICAL DEFIANCE (chl) / DET (fin) @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "bba39ae3addbc808a931",
+    "guid": "bba39ae3addbc808a931:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.sisterless.band/",
+          "name": "SISTERLESS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/i.cannot.unofficial/",
+          "name": "I CAN'T"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/thesunspots.official/",
+          "name": "The SUNSPOTS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Leoben",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "11b7b59ade1caab27c52",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "SISTERLESS",
+          "url": "https://www.sisterless.band/"
+        },
+        {
+          "label": "I CAN'T",
+          "url": "https://www.instagram.com/i.cannot.unofficial/"
+        },
+        {
+          "label": "The SUNSPOTS",
+          "url": "https://www.instagram.com/thesunspots.official/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: SISTERLESS / I CAN'T / The SUNSPOTS @ JUZ Spektrum, Leoben",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "JUZ Spektrum"
+    },
+    "event_id": "11b7b59ade1caab27c52",
+    "guid": "11b7b59ade1caab27c52:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://smallsouki-tbtb.bandcamp.com/",
+          "name": "Small Souki & The BIG TROUBLE BAND"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/prevrat_/",
+          "name": "PREVRAT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "394db848d7aa83237acb",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "Small Souki & The BIG TROUBLE BAND",
+          "url": "https://smallsouki-tbtb.bandcamp.com/"
+        },
+        {
+          "label": "PREVRAT",
+          "url": "https://www.instagram.com/prevrat_/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: Small Souki & The BIG TROUBLE BAND / PREVRAT @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "394db848d7aa83237acb",
+    "guid": "394db848d7aa83237acb:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.postmusic.at/",
+          "name": "POST"
+        },
+        {
+          "country": null,
+          "link": "https://oh-fi.bandcamp.com/",
+          "name": "OH-FI"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "8e20c17b7867107b7f0d",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "POST",
+          "url": "https://www.postmusic.at/"
+        },
+        {
+          "label": "OH-FI",
+          "url": "https://oh-fi.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1343595107712016/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: POST / OH-FI @ Spitzer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spitzer"
+    },
+    "event_id": "8e20c17b7867107b7f0d",
+    "guid": "8e20c17b7867107b7f0d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://anderwelt.bandcamp.com/",
+          "name": "ANDERWELT"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/fleshremainsofficial",
+          "name": "FLESH REMAINS"
+        },
+        {
+          "country": null,
+          "link": "https://thegreatgrayfunk.bandcamp.com/",
+          "name": "The GREAT GRAY FUNK"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/spritzbuam/",
+          "name": "ERLAUFTALER SPRITZBUAM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Purgstall",
+      "event_date": "2026-12-05",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a45aa862bd7e173d43ec",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "ANDERWELT",
+          "url": "https://anderwelt.bandcamp.com/"
+        },
+        {
+          "label": "FLESH REMAINS",
+          "url": "https://www.facebook.com/fleshremainsofficial"
+        },
+        {
+          "label": "The GREAT GRAY FUNK",
+          "url": "https://thegreatgrayfunk.bandcamp.com/"
+        },
+        {
+          "label": "ERLAUFTALER SPRITZBUAM",
+          "url": "https://www.facebook.com/spritzbuam/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1560314665779851/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.12.: ANDERWELT / FLESH REMAINS / The GREAT GRAY FUNK / ERLAUFTALER SPRITZBUAM @ Bunker, Purgstall [fb]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bunker"
+    },
+    "event_id": "a45aa862bd7e173d43ec",
+    "guid": "a45aa862bd7e173d43ec:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://spion.bandcamp.com/",
+          "name": "SPION"
+        },
+        {
+          "country": null,
+          "link": "https://bueroklammer.bandcamp.com/",
+          "name": "BÜROKLAMMER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-05",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "5ccebb0bc39d91349af8",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "SPION",
+          "url": "https://spion.bandcamp.com/"
+        },
+        {
+          "label": "BÜROKLAMMER",
+          "url": "https://bueroklammer.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.12.: SPION / BÜROKLAMMER @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "5ccebb0bc39d91349af8",
+    "guid": "5ccebb0bc39d91349af8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UKR",
+          "link": "https://cios.bandcamp.com/music",
+          "name": "CIOS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "a74e0383cb91ef8fa1ab",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "CIOS",
+          "url": "https://cios.bandcamp.com/music"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: CIOS (ukr) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "a74e0383cb91ef8fa1ab",
+    "guid": "a74e0383cb91ef8fa1ab:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://wokeat.bandcamp.com/music",
+          "name": "WOKE"
+        },
+        {
+          "country": null,
+          "link": "https://theshaftons.bandcamp.com/",
+          "name": "The SHAFTONS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/scarlet_trail/",
+          "name": "SCARLET TRAIL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "46d0132cb8efd5205ce6",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "WOKE",
+          "url": "https://wokeat.bandcamp.com/music"
+        },
+        {
+          "label": "The SHAFTONS",
+          "url": "https://theshaftons.bandcamp.com/"
+        },
+        {
+          "label": "SCARLET TRAIL",
+          "url": "https://www.instagram.com/scarlet_trail/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: WOKE / The SHAFTONS / SCARLET TRAIL @ Loop, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Loop"
+    },
+    "event_id": "46d0132cb8efd5205ce6",
+    "guid": "46d0132cb8efd5205ce6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://oh-fi.bandcamp.com/",
+          "name": "OH-FI"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=100063490013740",
+          "name": "SPARKWOOD AND 21"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-22",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "3a20f6ae8d6fafa23d7a",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "OH-FI",
+          "url": "https://oh-fi.bandcamp.com/"
+        },
+        {
+          "label": "SPARKWOOD AND 21",
+          "url": "https://www.facebook.com/profile.php?id=100063490013740"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.01.: OH-FI / SPARKWOOD AND 21 @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "3a20f6ae8d6fafa23d7a",
+    "guid": "3a20f6ae8d6fafa23d7a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://odysseus4.bandcamp.com/",
+          "name": "ODYSSEUS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-12",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "60fb4a3730d84567a83f",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "ODYSSEUS",
+          "url": "https://odysseus4.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.02.: ODYSSEUS (d) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "60fb4a3730d84567a83f",
+    "guid": "60fb4a3730d84567a83f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.dramatistband.com/",
+          "name": "DRAMATIST"
+        },
+        {
+          "country": null,
+          "link": "https://90music.bandcamp.com/",
+          "name": "90"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3be147d55de37e4525ed",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "DRAMATIST",
+          "url": "https://www.dramatistband.com/"
+        },
+        {
+          "label": "90",
+          "url": "https://90music.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: DRAMATIST (d) / 90 @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "3be147d55de37e4525ed",
+    "guid": "3be147d55de37e4525ed:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://thehirscheffekt.de/",
+          "name": "The HIRSCH EFFEKT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "3859c1021bf173b33fa6",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "The HIRSCH EFFEKT",
+          "url": "https://thehirscheffekt.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/942778705464746/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: The HIRSCH EFFEKT (d) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "3859c1021bf173b33fa6",
+    "guid": "3859c1021bf173b33fa6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/Normalboese/",
+          "name": "NORMALBÖSE"
+        },
+        {
+          "country": "D",
+          "link": "https://www.zwakkelmann.de/",
+          "name": "ZWAKKELMANN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-28",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ee2fad8e7e89c8d0295c",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "NORMALBÖSE",
+          "url": "https://www.facebook.com/Normalboese/"
+        },
+        {
+          "label": "ZWAKKELMANN",
+          "url": "https://www.zwakkelmann.de/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.03.: NORMALBÖSE (d) / ZWAKKELMANN (d) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "ee2fad8e7e89c8d0295c",
+    "guid": "ee2fad8e7e89c8d0295c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://irokaese.bandcamp.com/",
+          "name": "IROKÄSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-09",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9c69d1598db708b96758",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "IROKÄSE",
+          "url": "https://irokaese.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.04.: IROKÄSE @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "9c69d1598db708b96758",
+    "guid": "9c69d1598db708b96758:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "POL",
+          "link": "https://nicsmiesznego.bandcamp.com/",
+          "name": "NIC ŚMIESZNEGO"
+        },
+        {
+          "country": "POL",
+          "link": "https://longwaytogo.bandcamp.com/",
+          "name": "LONG WAY TO GO"
+        },
+        {
+          "country": "SVK",
+          "link": "https://truereason.bandcamp.com/",
+          "name": "TRUE REASON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-27",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "2b91d6c2b7c12fb10a67",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "NIC ŚMIESZNEGO",
+          "url": "https://nicsmiesznego.bandcamp.com/"
+        },
+        {
+          "label": "LONG WAY TO GO",
+          "url": "https://longwaytogo.bandcamp.com/"
+        },
+        {
+          "label": "TRUE REASON",
+          "url": "https://truereason.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.04.: NIC ŚMIESZNEGO (pol) / LONG WAY TO GO (pol) / TRUE REASON (svk) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "2b91d6c2b7c12fb10a67",
+    "guid": "2b91d6c2b7c12fb10a67:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://szeneputzn.bandcamp.com/",
+          "name": "SZENE PUTZN"
+        },
+        {
+          "country": null,
+          "link": "https://calorisimpact.bandcamp.com/",
+          "name": "CALORIS IMPACT"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/flowersinconcrete/",
+          "name": "FLOWERS IN CONCRETE"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/profile.php?id=100091805363484",
+          "name": "DRAIST"
+        },
+        {
+          "country": null,
+          "link": "https://dryba.bandcamp.com/",
+          "name": "DRYBA"
+        },
+        {
+          "country": null,
+          "link": "https://tiredhc.bandcamp.com/",
+          "name": "TIRED."
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Graz",
+      "event_date": "2027-05-07",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d157a37274044c40939e",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "SZENE PUTZN",
+          "url": "https://szeneputzn.bandcamp.com/"
+        },
+        {
+          "label": "CALORIS IMPACT",
+          "url": "https://calorisimpact.bandcamp.com/"
+        },
+        {
+          "label": "FLOWERS IN CONCRETE",
+          "url": "https://www.facebook.com/flowersinconcrete/"
+        },
+        {
+          "label": "DRAIST",
+          "url": "https://www.facebook.com/profile.php?id=100091805363484"
+        },
+        {
+          "label": "DRYBA",
+          "url": "https://dryba.bandcamp.com/"
+        },
+        {
+          "label": "TIRED.",
+          "url": "https://tiredhc.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1627996181705367"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.05.: SZENE PUTZN / CALORIS IMPACT / FLOWERS IN CONCRETE / DRAIST (d) / DRYBA / TIRED. etc. @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "d157a37274044c40939e",
+    "guid": "d157a37274044c40939e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://kaputkrauts.bandcamp.com/",
+          "name": "KAPUT KRAUTS"
+        },
+        {
+          "country": null,
+          "link": "https://band-missstand.bandcamp.com/",
+          "name": "MISSSTAND"
+        },
+        {
+          "country": "CZE",
+          "link": "https://antigen.bandcamp.com/",
+          "name": "ANTIGEN"
+        },
+        {
+          "country": "D",
+          "link": "https://pinkwonder.bandcamp.com/",
+          "name": "PINK WONDER"
+        },
+        {
+          "country": "D",
+          "link": "https://mangelpunx.bandcamp.com/",
+          "name": "MANGEL"
+        },
+        {
+          "country": null,
+          "link": "https://federpunx.bandcamp.com/",
+          "name": "FEDER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Graz",
+      "event_date": "2027-05-08",
+      "first_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "eef67fef8ab7a0e28cb0",
+      "last_seen_at": "2026-10-24T07:18:17.087401+00:00",
+      "links": [
+        {
+          "label": "KAPUT KRAUTS",
+          "url": "https://kaputkrauts.bandcamp.com/"
+        },
+        {
+          "label": "MISSSTAND",
+          "url": "https://band-missstand.bandcamp.com/"
+        },
+        {
+          "label": "ANTIGEN",
+          "url": "https://antigen.bandcamp.com/"
+        },
+        {
+          "label": "PINK WONDER",
+          "url": "https://pinkwonder.bandcamp.com/"
+        },
+        {
+          "label": "MANGEL",
+          "url": "https://mangelpunx.bandcamp.com/"
+        },
+        {
+          "label": "FEDER",
+          "url": "https://federpunx.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1627996181705367"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.05.: KAPUT KRAUTS (d) / MISSSTAND / ANTIGEN (cze) / PINK WONDER (d) / MANGEL (d) / FEDER etc. @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "eef67fef8ab7a0e28cb0",
+    "guid": "eef67fef8ab7a0e28cb0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "active": {
+        "from": true,
+        "to": false
+      }
+    },
+    "detected_at": "2026-10-24T07:18:17.087401+00:00",
+    "event": {
+      "active": false,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://thehirscheffekt.de/",
+          "name": "The HIRSCH EFFEKT"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-24T07:18:17.087401+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "489039d29640a5201247",
+      "last_seen_at": "2026-10-23T07:33:32.804904+00:00",
+      "links": [
+        {
+          "label": "The HIRSCH EFFEKT",
+          "url": "https://thehirscheffekt.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/942778705464746/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.05.: The HIRSCH EFFEKT (d) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "489039d29640a5201247",
+    "guid": "489039d29640a5201247:1",
+    "kind": "unlisted",
+    "revision": 1
   }
 ]

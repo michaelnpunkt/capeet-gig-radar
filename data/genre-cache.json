@@ -93,6 +93,12 @@
       "Death Metal"
     ]
   },
+  "a guy named lou": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "a love electric lisa hofmaninger": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -546,6 +552,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "anderwelt": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "andie clash": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -632,6 +644,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "antigen": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
     "subgenres": []
   },
   "antillectual": {
@@ -2118,6 +2136,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "cios": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Street Punk"
+    ]
+  },
   "city of the sun": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -2449,6 +2475,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "critical defiance": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
+    ]
   },
   "cromulents": {
     "classifier_version": 2,
@@ -3077,6 +3111,12 @@
       "Grindcore"
     ]
   },
+  "det": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "dethroned": {
     "classifier_version": 2,
     "family": "Metal",
@@ -3412,9 +3452,21 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "draist": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "dramas": {
     "classifier_version": 2,
     "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "dramatist": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -3872,6 +3924,12 @@
     "classifier_version": 2,
     "family": "Sonstiges",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "erlauftaler spritzbuam": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "erra": {
@@ -4356,6 +4414,12 @@
     "subgenres": [
       "Thrash Metal"
     ]
+  },
+  "flowers in concrete": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "flustern": {
     "family": "Electronic/Industrial",
@@ -6333,6 +6397,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "kaput krauts": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "karl": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
@@ -7206,6 +7276,15 @@
       "Metalcore"
     ]
   },
+  "long way to go": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Melodic Hardcore",
+      "Hardcore Punk"
+    ]
+  },
   "lord diabolik": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -7525,6 +7604,14 @@
     "source": "lastfm",
     "subgenres": [
       "Hardcore Punk"
+    ]
+  },
+  "mangel": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
     ]
   },
   "mango wood": {
@@ -8537,6 +8624,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "nic smiesznego": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "nicht nur angenehmes": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8704,6 +8797,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "normalbose": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "norms": {
     "classifier_version": 2,
     "family": "Punk",
@@ -8854,6 +8953,12 @@
       "Metalcore"
     ]
   },
+  "odysseus": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "of feather and bone": {
     "family": "Metal",
     "source": "lastfm",
@@ -8870,6 +8975,12 @@
       "Death Metal",
       "Doom Metal"
     ]
+  },
+  "oh fi": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "oh hiroshima": {
     "family": "Rock",
@@ -9349,6 +9460,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "pink wonder": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "pintglass": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -9552,6 +9669,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "prevrat": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "pridebowl": {
@@ -10265,6 +10388,12 @@
       "Hardcore Punk"
     ]
   },
+  "scarlet trail": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "scathing": {
     "family": "Metal",
     "source": "lastfm",
@@ -10630,6 +10759,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "sisterless": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "sitd": {
     "family": "Electronic/Industrial",
@@ -11004,6 +11139,12 @@
     "classifier_version": 2,
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "sparkwood and 21": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "spatzenhirn": {
@@ -12336,6 +12477,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "the sunspots": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "the tallest man on earth": {
     "classifier_version": 2,
@@ -13922,6 +14069,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "zwakkelmann": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
     "subgenres": []
   },
   "zween solo": {
