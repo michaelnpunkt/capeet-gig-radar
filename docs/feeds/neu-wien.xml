@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:35:58 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: CONSVMER, THROATCUT., ETERNAL//GOD – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d77568cace1ae8f2c571-1</link>
+      <guid isPermaLink="false">d77568cace1ae8f2c571:1</guid>
+      <pubDate>Sun, 25 Oct 2026 07:35:58 +0000</pubDate>
+      <description>2026-10-25 · Replugged,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Geändert: TEMPLES, JEWLS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f81a90e0644496c5520c-1</link>
+      <guid isPermaLink="false">f81a90e0644496c5520c:1</guid>
+      <pubDate>Sun, 25 Oct 2026 07:35:58 +0000</pubDate>
+      <description>2026-10-25 · WUK,  Wien · Wien · Line-up: TEMPLES → TEMPLES · JEWLS</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 25 Oct 2026 07:35:58 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: CRITICAL DEFIANCE, DET – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bba39ae3addbc808a931-1</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">261142440be17650c78b:1</guid>
       <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
       <description>2026-11-28 · Venster,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: TAKESHI'S CASHEW – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-89227e4ff5ef27800b18-1</link>
-      <guid isPermaLink="false">89227e4ff5ef27800b18:1</guid>
-      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
-      <description>2026-12-04 · Kaorle OWA,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: XENO &amp; OAKLANDER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ebc6baa6451cdd33b7ae-1</link>
-      <guid isPermaLink="false">ebc6baa6451cdd33b7ae:1</guid>
-      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
-      <description>2026-12-11 · Flucc,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BACKWARDS CHARM – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f06676ce517fb34053a6-1</link>
-      <guid isPermaLink="false">f06676ce517fb34053a6:1</guid>
-      <pubDate>Wed, 14 Oct 2026 07:39:35 +0000</pubDate>
-      <description>2026-12-12 · rhiz,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

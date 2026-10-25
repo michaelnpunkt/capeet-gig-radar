@@ -52964,5 +52964,183 @@
     "guid": "489039d29640a5201247:1",
     "kind": "unlisted",
     "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-10-25T07:35:58.941416+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": null,
+          "name": "CONSVMER"
+        },
+        {
+          "country": "D",
+          "link": null,
+          "name": "THROATCUT."
+        },
+        {
+          "country": "D",
+          "link": null,
+          "name": "ETERNAL//GOD"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-25T07:35:58.941416+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore",
+          "Metalcore"
+        ]
+      },
+      "id": "d77568cace1ae8f2c571",
+      "last_seen_at": "2026-10-25T07:35:58.941416+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.10.: CONSVMER (d) / THROATCUT. (d) / ETERNAL//GOD (d) @ Replugged, Wien [cancelled.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Replugged"
+    },
+    "event_id": "d77568cace1ae8f2c571",
+    "guid": "d77568cace1ae8f2c571:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "TEMPLES"
+          }
+        ],
+        "to": [
+          {
+            "name": "TEMPLES"
+          },
+          {
+            "name": "JEWLS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-25T07:35:58.941416+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.templestheband.com/",
+          "name": "TEMPLES"
+        },
+        {
+          "country": "D",
+          "link": "https://jewlsjewls.bandcamp.com/",
+          "name": "JEWLS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-25T07:35:58.941416+00:00",
+      "city": "Wien",
+      "event_date": "2026-10-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f81a90e0644496c5520c",
+      "last_seen_at": "2026-10-25T07:35:58.941416+00:00",
+      "links": [
+        {
+          "label": "TEMPLES",
+          "url": "https://www.templestheband.com/"
+        },
+        {
+          "label": "JEWLS",
+          "url": "https://jewlsjewls.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/temples/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.10.: TEMPLES (uk) / JEWLS (d) @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "f81a90e0644496c5520c",
+    "guid": "f81a90e0644496c5520c:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-25T07:35:58.941416+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-25T07:35:58.941416+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-25T07:35:58.941416+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-25T07:35:58.941416+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -6256,6 +6256,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "jewls": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "jigsaw beggars": {
     "classifier_version": 2,
     "family": "Rock",
