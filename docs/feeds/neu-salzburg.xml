@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:48:52 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PENDEJO SS – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2e9a2167a82eab920e40-1</link>
+      <guid isPermaLink="false">2e9a2167a82eab920e40:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-11-14 · Sub,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: LEBERZERROZE, The END OF RADIO – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2c208413062cadd78e8e-2</link>

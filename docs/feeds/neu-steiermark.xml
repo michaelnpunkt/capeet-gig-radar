@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:48:52 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: HIDDEN BY THE GRAPES, LAMBDA, MANEKI NEKOČ – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c6b47fdea0a4735e801c-1</link>
+      <guid isPermaLink="false">c6b47fdea0a4735e801c:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-12-04 · SUb,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: MISSSTAND, ENDLICH SCHLECHTE MUSIK, A GUY NAMED LOU – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e5f02f4a3d22a348e180-2</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">4dd338c09706f94c8f7c:1</guid>
       <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
       <description>2026-08-28 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: IFFERNET, FEARINGANOTHERGOODBYE, BAD TOKEN – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-af6839ac8ae15019c907-1</link>
-      <guid isPermaLink="false">af6839ac8ae15019c907:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-10-14 · SUb,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

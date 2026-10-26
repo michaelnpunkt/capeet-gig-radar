@@ -5,8 +5,64 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:48:52 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: VÉR, FESSUS, BLÜTWÜRM – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-63ed27bc594b3d712b63-1</link>
+      <guid isPermaLink="false">63ed27bc594b3d712b63:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-11-02 · Arena-Beisl,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PENDEJO SS – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2e9a2167a82eab920e40-1</link>
+      <guid isPermaLink="false">2e9a2167a82eab920e40:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-11-14 · Sub,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: PENDEJO SS, CHRONIC BACK PAIN, BLÜTWÜRM – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-44a6144012b15e8e50b7-1</link>
+      <guid isPermaLink="false">44a6144012b15e8e50b7:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-11-15 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Abgesagt: MEDIEVAL STEEL, TEMPLAR – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6c79c39908951d83c7af-1</link>
+      <guid isPermaLink="false">6c79c39908951d83c7af:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-12-03 · Kapu,  Linz · Oberösterreich · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: HIDDEN BY THE GRAPES, LAMBDA, MANEKI NEKOČ – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c6b47fdea0a4735e801c-1</link>
+      <guid isPermaLink="false">c6b47fdea0a4735e801c:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2026-12-04 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: HERE FOR A REASON, HEROES AND HEROINE, NASTY TOYS, SPATZENHIRN – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ebd9566dbfb84471a0b8-1</link>
+      <guid isPermaLink="false">ebd9566dbfb84471a0b8:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2027-04-09 · Szene,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: Ansa Sauermann – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b290b742b4ab513b4e17-1</link>
+      <guid isPermaLink="false">b290b742b4ab513b4e17:1</guid>
+      <pubDate>Mon, 26 Oct 2026 07:48:52 +0000</pubDate>
+      <description>2027-04-21 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
     <item>
       <title>Abgesagt: CONSVMER, THROATCUT., ETERNAL//GOD – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d77568cace1ae8f2c571-1</link>
@@ -650,62 +706,6 @@
       <guid isPermaLink="false">06cd32cda1f4d36d8fb9:1</guid>
       <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
       <description>2026-12-03 · Rockhouse Bar,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: The RUINS OF BEVERAST, ESOTERIC, IMHA TARIKAT, HEIDNIR – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6a503f2dbafaeed9f9b1-1</link>
-      <guid isPermaLink="false">6a503f2dbafaeed9f9b1:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-04 · Rockhouse,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: TRINITITE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2776c9b8d08c109b382d-1</link>
-      <guid isPermaLink="false">2776c9b8d08c109b382d:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-04 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DISTONACIJA, POBESNELI USISIVAŠ, SUBVERZIJA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ee9429ac3e1d2a030d7-1</link>
-      <guid isPermaLink="false">7ee9429ac3e1d2a030d7:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-05 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ONSLAUGHT, LEGION OF THE DAMNED, MASTIC SCUM, DAISHI – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c1e23424ce555035d88c-1</link>
-      <guid isPermaLink="false">c1e23424ce555035d88c:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-05 · Rockhouse,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Neu: PÁNICO, PORTOBELLO EXPRESS, NEUE WUT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f4011e05db1915cb67d-1</link>
-      <guid isPermaLink="false">6f4011e05db1915cb67d:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-12 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FAREWELL DEAR GHOST – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0dc89a2980979de77616-1</link>
-      <guid isPermaLink="false">0dc89a2980979de77616:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-16 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: H.P. ZINKER, SOLO ONO – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-680c274224955b8e1c6e-1</link>
-      <guid isPermaLink="false">680c274224955b8e1c6e:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-02-05 · Music-House,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: FARVEBLIND – Dornbirn</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-58fcf4ea6bc499aa0f0c-1</link>
-      <guid isPermaLink="false">58fcf4ea6bc499aa0f0c:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-02-12 · Spielboden,  Dornbirn · Vorarlberg</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,474 @@
 {
-  "generated_at": "2026-10-25T07:35:58.941416+00:00",
+  "generated_at": "2026-10-26T07:48:52.027472+00:00",
   "revisions": [
+    {
+      "anchor": "change-63ed27bc594b3d712b63-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "HUN",
+            "link": "https://ver-deathmetal.bandcamp.com/",
+            "name": "VÉR"
+          },
+          {
+            "country": null,
+            "link": "https://fessus.bandcamp.com/",
+            "name": "FESSUS"
+          },
+          {
+            "country": null,
+            "link": "https://bltwrm.bandcamp.com/",
+            "name": "BLÜTWÜRM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-02",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal"
+          ]
+        },
+        "id": "63ed27bc594b3d712b63",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "VÉR",
+            "url": "https://ver-deathmetal.bandcamp.com/"
+          },
+          {
+            "label": "FESSUS",
+            "url": "https://fessus.bandcamp.com/"
+          },
+          {
+            "label": "BLÜTWÜRM",
+            "url": "https://bltwrm.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "02.11.: VÉR (hun) / FESSUS / BLÜTWÜRM @ Arena-Beisl, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "63ed27bc594b3d712b63",
+      "guid": "63ed27bc594b3d712b63:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-2e9a2167a82eab920e40-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ISR",
+            "link": "https://pendejoss.bandcamp.com/",
+            "name": "PENDEJO SS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore"
+          ]
+        },
+        "id": "2e9a2167a82eab920e40",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "PENDEJO SS",
+            "url": "https://pendejoss.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: PENDEJO SS (isr) @ Sub, Salzburg",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Sub"
+      },
+      "event_id": "2e9a2167a82eab920e40",
+      "guid": "2e9a2167a82eab920e40:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-44a6144012b15e8e50b7-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ISR",
+            "link": "https://pendejoss.bandcamp.com/",
+            "name": "PENDEJO SS"
+          },
+          {
+            "country": null,
+            "link": "https://chronicbackpain.bandcamp.com/",
+            "name": "CHRONIC BACK PAIN"
+          },
+          {
+            "country": null,
+            "link": "https://bltwrm.bandcamp.com/",
+            "name": "BLÜTWÜRM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-15",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore"
+          ]
+        },
+        "id": "44a6144012b15e8e50b7",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "PENDEJO SS",
+            "url": "https://pendejoss.bandcamp.com/"
+          },
+          {
+            "label": "CHRONIC BACK PAIN",
+            "url": "https://chronicbackpain.bandcamp.com/"
+          },
+          {
+            "label": "BLÜTWÜRM",
+            "url": "https://bltwrm.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.11.: PENDEJO SS (isr) / CHRONIC BACK PAIN / BLÜTWÜRM @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "44a6144012b15e8e50b7",
+      "guid": "44a6144012b15e8e50b7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6c79c39908951d83c7af-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": null,
+            "name": "MEDIEVAL STEEL"
+          },
+          {
+            "country": "SWE",
+            "link": null,
+            "name": "TEMPLAR"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "6c79c39908951d83c7af",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: MEDIEVAL STEEL (usa) / TEMPLAR (swe) @ Kapu, Linz [cancelled.]",
+        "state": "Oberösterreich",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "6c79c39908951d83c7af",
+      "guid": "6c79c39908951d83c7af:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c6b47fdea0a4735e801c-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://hiddenbythegrapes.bandcamp.com/",
+            "name": "HIDDEN BY THE GRAPES"
+          },
+          {
+            "country": null,
+            "link": "https://lambda.bandcamp.com/",
+            "name": "LAMBDA"
+          },
+          {
+            "country": null,
+            "link": "https://manekinekoc.bandcamp.com/",
+            "name": "MANEKI NEKOČ"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c6b47fdea0a4735e801c",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "HIDDEN BY THE GRAPES",
+            "url": "https://hiddenbythegrapes.bandcamp.com/"
+          },
+          {
+            "label": "LAMBDA",
+            "url": "https://lambda.bandcamp.com/"
+          },
+          {
+            "label": "MANEKI NEKOČ",
+            "url": "https://manekinekoc.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: HIDDEN BY THE GRAPES / LAMBDA / MANEKI NEKOČ @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "c6b47fdea0a4735e801c",
+      "guid": "c6b47fdea0a4735e801c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ebd9566dbfb84471a0b8-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/HereForAReasonOfficial",
+            "name": "HERE FOR A REASON"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/heroesandheroine",
+            "name": "HEROES AND HEROINE"
+          },
+          {
+            "country": "GRE/AUT",
+            "link": "https://nastytoys.bandcamp.com/",
+            "name": "NASTY TOYS"
+          },
+          {
+            "country": null,
+            "link": "https://soundcloud.com/spatzenhirn1369",
+            "name": "SPATZENHIRN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-09",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ebd9566dbfb84471a0b8",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "HERE FOR A REASON",
+            "url": "https://www.facebook.com/HereForAReasonOfficial"
+          },
+          {
+            "label": "HEROES AND HEROINE",
+            "url": "https://www.facebook.com/heroesandheroine"
+          },
+          {
+            "label": "NASTY TOYS",
+            "url": "https://nastytoys.bandcamp.com/"
+          },
+          {
+            "label": "SPATZENHIRN",
+            "url": "https://soundcloud.com/spatzenhirn1369"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2061349401222072"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.04.: HERE FOR A REASON / HEROES AND HEROINE / NASTY TOYS (gre/aut) / SPATZENHIRN u.a. @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "ebd9566dbfb84471a0b8",
+      "guid": "ebd9566dbfb84471a0b8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b290b742b4ab513b4e17-1",
+      "changes": {},
+      "detected_at": "2026-10-26T07:48:52.027472+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "http://www.ansasauermann.de/",
+            "name": "Ansa Sauermann"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-26T07:48:52.027472+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-21",
+        "first_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "b290b742b4ab513b4e17",
+        "last_seen_at": "2026-10-26T07:48:52.027472+00:00",
+        "links": [
+          {
+            "label": "Ansa Sauermann",
+            "url": "http://www.ansasauermann.de/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/27196965206651186"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.04.: Ansa Sauermann (d) @ Arena (kl. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "b290b742b4ab513b4e17",
+      "guid": "b290b742b4ab513b4e17:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-d77568cace1ae8f2c571-1",
       "changes": {

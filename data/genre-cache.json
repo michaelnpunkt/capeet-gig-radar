@@ -2107,6 +2107,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "chronic back pain": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "chronic hate": {
     "family": "Metal",
     "source": "lastfm",
@@ -5467,6 +5475,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "heroes and heroine": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "herrgottsblick": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -6878,6 +6892,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lambda": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "lambrini girls": {
     "classifier_version": 2,
     "family": "Goth/Post-Punk",
@@ -7613,6 +7633,12 @@
     "subgenres": [
       "Hardcore Punk"
     ]
+  },
+  "maneki nekoc": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "mangel": {
     "classifier_version": 2,
@@ -8521,6 +8547,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "nasty toys": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "nation of language": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -9365,6 +9397,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "pendejo ss": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore"
+    ]
   },
   "pendulum": {
     "classifier_version": 2,
@@ -13315,6 +13355,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "ver": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
   },
   "verbal behavior": {
     "classifier_version": 2,
