@@ -1,6 +1,1013 @@
 {
-  "generated_at": "2026-10-26T07:48:52.027472+00:00",
+  "generated_at": "2026-10-28T08:34:19.517870+00:00",
   "revisions": [
+    {
+      "anchor": "change-b17df2a8662569c3d4f4-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MY NAME JONAS"
+            },
+            {
+              "name": "BEIDL FIGHT"
+            }
+          ],
+          "to": [
+            {
+              "name": "TITLE ZWEIGHT"
+            },
+            {
+              "name": "The SMITHERS"
+            },
+            {
+              "name": "MY NAME JONAS"
+            },
+            {
+              "name": "LIZTEGRITY"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "TITLE ZWEIGHT"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "The SMITHERS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "MY NAME JONAS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "LIZTEGRITY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-12T09:14:22.628778+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "b17df2a8662569c3d4f4",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "31.10.: Halloween Cover Show feat. TITLE ZWEIGHT / The SMITHERS / MY NAME JONAS / LIZTEGRITY @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Halloween Cover Show",
+        "venue": "Venster"
+      },
+      "event_id": "b17df2a8662569c3d4f4",
+      "guid": "b17df2a8662569c3d4f4:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-f17cbc9478c6e892e9c5-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://fngrfuia.bandcamp.com/",
+            "name": "FNGR FUIA"
+          },
+          {
+            "country": "JPN/CH",
+            "link": "https://roger-f.com/pacemaker.html",
+            "name": "Roger & The PACEMAKER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f17cbc9478c6e892e9c5",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "FNGR FUIA",
+            "url": "https://fngrfuia.bandcamp.com/"
+          },
+          {
+            "label": "Roger & The PACEMAKER",
+            "url": "https://roger-f.com/pacemaker.html"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kvr.or.at/event.html?slug=event1031"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: FNGR FUIA (d) / Roger & The PACEMAKER (jpn/ch) @ kv.r, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "kv.r"
+      },
+      "event_id": "f17cbc9478c6e892e9c5",
+      "guid": "f17cbc9478c6e892e9c5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3d103084e0c7d80b9c01-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "JPN",
+            "link": "https://reona.bandcamp.com/",
+            "name": "REONA"
+          },
+          {
+            "country": null,
+            "link": "https://bogordon.com/ss6-260412/",
+            "name": "FRUGUM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "3d103084e0c7d80b9c01",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "REONA",
+            "url": "https://reona.bandcamp.com/"
+          },
+          {
+            "label": "FRUGUM",
+            "url": "https://bogordon.com/ss6-260412/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: REONA (jpn) / FRUGUM @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "3d103084e0c7d80b9c01",
+      "guid": "3d103084e0c7d80b9c01:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3cc2bfe86db4c40856c3-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NASTY"
+            },
+            {
+              "name": "CRAWLSPACE"
+            },
+            {
+              "name": "PINTGLASS"
+            },
+            {
+              "name": "GIVE EM BLOOD"
+            }
+          ],
+          "to": [
+            {
+              "name": "NASTY"
+            },
+            {
+              "name": "CRAWLSPACE"
+            },
+            {
+              "name": "PINTGLASS"
+            },
+            {
+              "name": "THROWBACK"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": "http://nastylc.com/",
+            "name": "NASTY"
+          },
+          {
+            "country": "BEL",
+            "link": "https://www.instagram.com/crawlspace_beatdown/",
+            "name": "CRAWLSPACE"
+          },
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/pintglassbd",
+            "name": "PINTGLASS"
+          },
+          {
+            "country": null,
+            "link": "https://throwback4.bandcamp.com/",
+            "name": "THROWBACK"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-03",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "3cc2bfe86db4c40856c3",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "NASTY",
+            "url": "http://nastylc.com/"
+          },
+          {
+            "label": "CRAWLSPACE",
+            "url": "https://www.instagram.com/crawlspace_beatdown/"
+          },
+          {
+            "label": "PINTGLASS",
+            "url": "https://www.facebook.com/pintglassbd"
+          },
+          {
+            "label": "THROWBACK",
+            "url": "https://throwback4.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1658919388768368/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.11.: NASTY (bel) / CRAWLSPACE (bel) / PINTGLASS (uk) / THROWBACK @ Weberknecht, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Weberknecht"
+      },
+      "event_id": "3cc2bfe86db4c40856c3",
+      "guid": "3cc2bfe86db4c40856c3:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9454626b7e1c5420d6bd-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/akida_band/",
+            "name": "AKIDA"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/erans_band/",
+            "name": "ERANS"
+          },
+          {
+            "country": null,
+            "link": "https://suncrust.bandcamp.com/",
+            "name": "SUNCRUST"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "9454626b7e1c5420d6bd",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "AKIDA",
+            "url": "https://www.instagram.com/akida_band/"
+          },
+          {
+            "label": "ERANS",
+            "url": "https://www.instagram.com/erans_band/"
+          },
+          {
+            "label": "SUNCRUST",
+            "url": "https://suncrust.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1097414189934781/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: AKIDA / ERANS / SUNCRUST @ Music-House, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "9454626b7e1c5420d6bd",
+      "guid": "9454626b7e1c5420d6bd:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9c720bf78bc57ddf743d-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/combatbeachx/",
+            "name": "COMBAT BEACH"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/xghostambulancex",
+            "name": "GHOST AMBULANCE"
+          },
+          {
+            "country": null,
+            "link": "https://xshewasholdinganumbrellax.bandcamp.com/",
+            "name": "Kidlol Korey"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-14",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "9c720bf78bc57ddf743d",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "COMBAT BEACH",
+            "url": "https://www.instagram.com/combatbeachx/"
+          },
+          {
+            "label": "GHOST AMBULANCE",
+            "url": "https://www.instagram.com/xghostambulancex"
+          },
+          {
+            "label": "Kidlol Korey",
+            "url": "https://xshewasholdinganumbrellax.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.11.: COMBAT BEACH / GHOST AMBULANCE / Kidlol Korey @ Secret Location, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "9c720bf78bc57ddf743d",
+      "guid": "9c720bf78bc57ddf743d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7ee26bffe7639ab41181-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA/CZE",
+            "link": "https://sabotduo.bandcamp.com/",
+            "name": "SABOT"
+          },
+          {
+            "country": null,
+            "link": "https://knot1.bandcamp.com/",
+            "name": "KNOT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-26",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "7ee26bffe7639ab41181",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "SABOT",
+            "url": "https://sabotduo.bandcamp.com/"
+          },
+          {
+            "label": "KNOT",
+            "url": "https://knot1.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kvr.or.at/event.html?slug=event1126"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.11.: SABOT (usa/cze) / KNOT @ kv.r, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "kv.r"
+      },
+      "event_id": "7ee26bffe7639ab41181",
+      "guid": "7ee26bffe7639ab41181:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-eaafaf8e7ef8e2047ef1-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/GrimJustice",
+            "name": "GRIM JUSTICE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DiamondFalconMetal",
+            "name": "DIAMOND FALCON"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Kuenring",
+            "name": "KÜENRING"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "eaafaf8e7ef8e2047ef1",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "GRIM JUSTICE",
+            "url": "https://www.facebook.com/GrimJustice"
+          },
+          {
+            "label": "DIAMOND FALCON",
+            "url": "https://www.facebook.com/DiamondFalconMetal"
+          },
+          {
+            "label": "KÜENRING",
+            "url": "https://www.facebook.com/Kuenring"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1364590505754483"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: GRIM JUSTICE / DIAMOND FALCON / KÜENRING @ Escape, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "eaafaf8e7ef8e2047ef1",
+      "guid": "eaafaf8e7ef8e2047ef1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-dcf3674f6d596d9068e3-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/bleedfromwithinband",
+            "name": "BLEED FROM WITHIN"
+          },
+          {
+            "country": "NED",
+            "link": "https://www.facebook.com/sugarspine",
+            "name": "SUGAR SPINE"
+          },
+          {
+            "country": null,
+            "link": "https://spireoflazarus.bandcamp.com/music",
+            "name": "SPIRE OF LAZARUS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Salzburg",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Metalcore",
+            "Death Metal"
+          ]
+        },
+        "id": "dcf3674f6d596d9068e3",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "BLEED FROM WITHIN",
+            "url": "https://www.facebook.com/bleedfromwithinband"
+          },
+          {
+            "label": "SUGAR SPINE",
+            "url": "https://www.facebook.com/sugarspine"
+          },
+          {
+            "label": "SPIRE OF LAZARUS",
+            "url": "https://spireoflazarus.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1085505850957161"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: BLEED FROM WITHIN (uk) / SUGAR SPINE (ned) / SPIRE OF LAZARUS @ Rockhouse Bar, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rockhouse Bar"
+      },
+      "event_id": "dcf3674f6d596d9068e3",
+      "guid": "dcf3674f6d596d9068e3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-022734f0068057938a84-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://www.facebook.com/oceangrove",
+            "name": "OCEAN GROVE"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/UnityTX/",
+            "name": "UNITY-TX"
+          },
+          {
+            "country": "AUS",
+            "link": "https://diamondconstruct.bandcamp.com/",
+            "name": "DIAMOND CONSTRUCT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-05",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "022734f0068057938a84",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "OCEAN GROVE",
+            "url": "https://www.facebook.com/oceangrove"
+          },
+          {
+            "label": "UNITY-TX",
+            "url": "https://www.facebook.com/UnityTX/"
+          },
+          {
+            "label": "DIAMOND CONSTRUCT",
+            "url": "https://diamondconstruct.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1463729852274797/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.03.: OCEAN GROVE (aus) / UNITY-TX (usa) / DIAMOND CONSTRUCT (aus) @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "022734f0068057938a84",
+      "guid": "022734f0068057938a84:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fc12ad1682e3daf75615-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "LUX",
+            "link": "https://www.romepage.org/",
+            "name": "ROME"
+          },
+          {
+            "country": "DEN",
+            "link": "https://www.facebook.com/wandmoon",
+            "name": "OF THE WAND & THE MOON"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Linz",
+        "event_date": "2027-03-30",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "fc12ad1682e3daf75615",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "ROME",
+            "url": "https://www.romepage.org/"
+          },
+          {
+            "label": "OF THE WAND & THE MOON",
+            "url": "https://www.facebook.com/wandmoon"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1132918742625133/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.03.: ROME (lux) / OF THE WAND & THE MOON (den) @ Grüner Anker, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Grüner Anker"
+      },
+      "event_id": "fc12ad1682e3daf75615",
+      "guid": "fc12ad1682e3daf75615:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1048f36fdf2e5a2293ca-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://www.facebook.com/breakdownofsanity/",
+            "name": "BREAKDOWN OF SANITY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-27",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Metalcore"
+          ]
+        },
+        "id": "1048f36fdf2e5a2293ca",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "BREAKDOWN OF SANITY",
+            "url": "https://www.facebook.com/breakdownofsanity/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2172068996703862"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.04.: BREAKDOWN OF SANITY (ch) @ Arena (kl. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "1048f36fdf2e5a2293ca",
+      "guid": "1048f36fdf2e5a2293ca:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fe24d14e2f7860413e6b-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://crooksuk.bandcamp.com/",
+            "name": "CROOKS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-27",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Melodic Hardcore"
+          ]
+        },
+        "id": "fe24d14e2f7860413e6b",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "CROOKS",
+            "url": "https://crooksuk.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/996598742715852/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.04.: CROOKS (uk) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "fe24d14e2f7860413e6b",
+      "guid": "fe24d14e2f7860413e6b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-039daf8f84250ad172e1-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.beirutband.com/",
+            "name": "BEIRUT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2027-07-06",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "039daf8f84250ad172e1",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "BEIRUT",
+            "url": "https://www.beirutband.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1465191505533689/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.07.: BEIRUT (usa) @ Arena (Open Air), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (Open Air)"
+      },
+      "event_id": "039daf8f84250ad172e1",
+      "guid": "039daf8f84250ad172e1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e3d98ecdb6160813c7c1-1",
+      "changes": {},
+      "detected_at": "2026-10-28T08:34:19.517870+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://bethgibbons.net/",
+            "name": "Beth Gibbons"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-28T08:34:19.517870+00:00",
+        "city": "Wien",
+        "event_date": "2027-07-21",
+        "first_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "e3d98ecdb6160813c7c1",
+        "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+        "links": [
+          {
+            "label": "Beth Gibbons",
+            "url": "https://bethgibbons.net/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1109800658428887/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.07.: Beth Gibbons (uk) @ Arena (Open Air), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (Open Air)"
+      },
+      "event_id": "e3d98ecdb6160813c7c1",
+      "guid": "e3d98ecdb6160813c7c1:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-63ed27bc594b3d712b63-1",
       "changes": {},

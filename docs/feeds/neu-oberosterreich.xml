@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:34:19 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: COMBAT BEACH, GHOST AMBULANCE, Kidlol Korey – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9c720bf78bc57ddf743d-1</link>
+      <guid isPermaLink="false">9c720bf78bc57ddf743d:1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
+      <description>2026-11-14 · Secret Location,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: ROME, OF THE WAND &amp; THE MOON – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fc12ad1682e3daf75615-1</link>
+      <guid isPermaLink="false">fc12ad1682e3daf75615:1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
+      <description>2027-03-30 · Grüner Anker,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Abgesagt: MEDIEVAL STEEL, TEMPLAR – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6c79c39908951d83c7af-1</link>
@@ -692,13 +706,6 @@
       <guid isPermaLink="false">b0680767ca0a01101d69:1</guid>
       <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
       <description>2026-10-17 · Kapu,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PORTRAYAL OF GUILT, SPIKE HELLIS – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b610b4a507adada1da1-1</link>
-      <guid isPermaLink="false">0b610b4a507adada1da1:1</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:18 +0000</pubDate>
-      <description>2026-11-27 · Kapu,  Linz · Oberösterreich</description>
     </item>
   </channel>
 </rss>

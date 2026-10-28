@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:34:19 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: AKIDA, ERANS, SUNCRUST – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9454626b7e1c5420d6bd-1</link>
+      <guid isPermaLink="false">9454626b7e1c5420d6bd:1</guid>
+      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
+      <description>2026-11-06 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: HIDDEN BY THE GRAPES, LAMBDA, MANEKI NEKOČ – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c6b47fdea0a4735e801c-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">de5116fa5173d873d291:1</guid>
       <pubDate>Thu, 27 Aug 2026 12:48:12 +0000</pubDate>
       <description>2026-09-11 · Music-House,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: I SAW DAYLIGHT, BETWEEN THE BEASTS – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4dd338c09706f94c8f7c-1</link>
-      <guid isPermaLink="false">4dd338c09706f94c8f7c:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-08-28 · Glam,  Feldbach · Steiermark</description>
     </item>
   </channel>
 </rss>
