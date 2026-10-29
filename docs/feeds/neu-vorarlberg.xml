@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: STILL NO ONE, ALL-HANDS DOWN – Hohenems</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bddfb65bae081b0d4522-1</link>
+      <guid isPermaLink="false">bddfb65bae081b0d4522:1</guid>
+      <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
+      <description>2026-10-31 · ProKonTra,  Hohenems · Vorarlberg</description>
+    </item>
     <item>
       <title>Neu: The END OF RADIO – Dornbirn</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d725f20a8b34bb09c2c2-1</link>

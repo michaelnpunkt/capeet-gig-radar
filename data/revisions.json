@@ -54569,5 +54569,1993 @@
     "guid": "e3d98ecdb6160813c7c1:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://halalhardcore.bandcamp.com/",
+          "name": "HALAL HARDCORE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/polly.mehr/",
+          "name": "POLLY MEHR"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "PARROTS, PARTOUT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-29",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "341419b807b168ae6186",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "HALAL HARDCORE",
+          "url": "https://halalhardcore.bandcamp.com/"
+        },
+        {
+          "label": "POLLY MEHR",
+          "url": "https://www.instagram.com/polly.mehr/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.10.: HALAL HARDCORE / POLLY MEHR / PARROTS, PARTOUT @ Secret Location, Linz",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "341419b807b168ae6186",
+    "guid": "341419b807b168ae6186:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/sergeantsteelonline",
+          "name": "SERGEANT STEEL"
+        },
+        {
+          "country": null,
+          "link": "https://www.naca7.com/",
+          "name": "NACA7"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=100063643026495",
+          "name": "DOCTOR ROCK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d12e0d7623d5ad3890b4",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SERGEANT STEEL",
+          "url": "https://www.facebook.com/sergeantsteelonline"
+        },
+        {
+          "label": "NACA7",
+          "url": "https://www.naca7.com/"
+        },
+        {
+          "label": "DOCTOR ROCK",
+          "url": "https://www.facebook.com/profile.php?id=100063643026495"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/978300185297199/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: SERGEANT STEEL / NACA7 / DOCTOR ROCK @ Stadtwerkstatt, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtwerkstatt"
+    },
+    "event_id": "d12e0d7623d5ad3890b4",
+    "guid": "d12e0d7623d5ad3890b4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "ITA",
+          "link": "https://stillnoone.bandcamp.com/",
+          "name": "STILL NO ONE"
+        },
+        {
+          "country": null,
+          "link": "https://allhandsdown.bandcamp.com/",
+          "name": "ALL-HANDS DOWN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Hohenems",
+      "event_date": "2026-10-31",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Melodic Hardcore"
+        ]
+      },
+      "id": "bddfb65bae081b0d4522",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "STILL NO ONE",
+          "url": "https://stillnoone.bandcamp.com/"
+        },
+        {
+          "label": "ALL-HANDS DOWN",
+          "url": "https://allhandsdown.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "31.10.: STILL NO ONE (ita) / ALL-HANDS DOWN @ ProKonTra, Hohenems",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "ProKonTra"
+    },
+    "event_id": "bddfb65bae081b0d4522",
+    "guid": "bddfb65bae081b0d4522:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "LA CASA FANTOM"
+          },
+          {
+            "name": "NO VIDA"
+          }
+        ],
+        "to": [
+          {
+            "name": "LA CASA FANTOM"
+          },
+          {
+            "name": "NO VIDA"
+          },
+          {
+            "name": "FEARINGANOTHERGOODBYE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NOR",
+          "link": "https://lacasafantom.bandcamp.com/",
+          "name": "LA CASA FANTOM"
+        },
+        {
+          "country": "CZE",
+          "link": "https://novida.bandcamp.com/",
+          "name": "NO VIDA"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "FEARINGANOTHERGOODBYE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-01",
+      "first_seen_at": "2026-10-03T08:07:24.912047+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Crust Punk"
+        ]
+      },
+      "id": "857b39735bb7dc40a17c",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "LA CASA FANTOM",
+          "url": "https://lacasafantom.bandcamp.com/"
+        },
+        {
+          "label": "NO VIDA",
+          "url": "https://novida.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 4,
+      "source_text": "01.11.: LA CASA FANTOM (nor) / NO VIDA (cze) / FEARINGANOTHERGOODBYE @ SUb, Graz [PRUNKNELKE cancelled.]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "SUb"
+    },
+    "event_id": "857b39735bb7dc40a17c",
+    "guid": "857b39735bb7dc40a17c:4",
+    "kind": "changed",
+    "revision": 4
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SOFT LOFT"
+          }
+        ],
+        "to": [
+          {
+            "name": "SOFT LOFT"
+          },
+          {
+            "name": "BROCKHOFF"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CH",
+          "link": "https://softloftmusic.com/",
+          "name": "SOFT LOFT"
+        },
+        {
+          "country": "D",
+          "link": "https://brockhoff.bandcamp.com/",
+          "name": "BROCKHOFF"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-01",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Shoegaze"
+        ]
+      },
+      "id": "70e608dbe343838ca24a",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SOFT LOFT",
+          "url": "https://softloftmusic.com/"
+        },
+        {
+          "label": "BROCKHOFF",
+          "url": "https://brockhoff.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1005989285445756/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.11.: SOFT LOFT (ch) / BROCKHOFF (d) @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "70e608dbe343838ca24a",
+    "guid": "70e608dbe343838ca24a:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "MKD",
+          "link": "https://www.instagram.com/svetlost.jazz/",
+          "name": "SVETLOST"
+        },
+        {
+          "country": "CZE",
+          "link": "https://hothouse.bandcamp.com/",
+          "name": "HOTHOUSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-05",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "d2fe7ee32d951fdb35a0",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SVETLOST",
+          "url": "https://www.instagram.com/svetlost.jazz/"
+        },
+        {
+          "label": "HOTHOUSE",
+          "url": "https://hothouse.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.11.: SVETLOST (mkd) / HOTHOUSE (cze) @ Das Lot, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Das Lot"
+    },
+    "event_id": "d2fe7ee32d951fdb35a0",
+    "guid": "d2fe7ee32d951fdb35a0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/grandhotelschilling/",
+          "name": "GRAND HOTEL SCHILLING"
+        },
+        {
+          "country": null,
+          "link": "https://taeglichfrischesobst.com/home",
+          "name": "TÄGLICH FRISCHES OBST"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/wernawarum",
+          "name": "WERNA WARUM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-06",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "cd64eded7eec806445f1",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "GRAND HOTEL SCHILLING",
+          "url": "https://www.instagram.com/grandhotelschilling/"
+        },
+        {
+          "label": "TÄGLICH FRISCHES OBST",
+          "url": "https://taeglichfrischesobst.com/home"
+        },
+        {
+          "label": "WERNA WARUM",
+          "url": "https://www.instagram.com/wernawarum"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1793926691933751/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.11.: GRAND HOTEL SCHILLING / TÄGLICH FRISCHES OBST / WERNA WARUM @ Wakuum B-Side, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Wakuum B-Side"
+    },
+    "event_id": "cd64eded7eec806445f1",
+    "guid": "cd64eded7eec806445f1:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "MONOLORD"
+          },
+          {
+            "name": "MARS RED SKY"
+          }
+        ],
+        "to": [
+          {
+            "name": "MONOLORD"
+          },
+          {
+            "name": "MARS RED SKY"
+          },
+          {
+            "name": "BONEGRINDER"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "SWE",
+          "link": "https://monolord.bandcamp.com/music",
+          "name": "MONOLORD"
+        },
+        {
+          "country": "FRA",
+          "link": "https://marsredsky.bandcamp.com/",
+          "name": "MARS RED SKY"
+        },
+        {
+          "country": null,
+          "link": "https://bonegrinder666.bandcamp.com/",
+          "name": "BONEGRINDER"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-11",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal",
+          "Sludge Metal",
+          "Stoner Metal"
+        ]
+      },
+      "id": "11104ca462b7f8ba5d2f",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "MONOLORD",
+          "url": "https://monolord.bandcamp.com/music"
+        },
+        {
+          "label": "MARS RED SKY",
+          "url": "https://marsredsky.bandcamp.com/"
+        },
+        {
+          "label": "BONEGRINDER",
+          "url": "https://bonegrinder666.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1594008205043485/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.11.: MONOLORD (swe) / MARS RED SKY (fra) / BONEGRINDER @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "11104ca462b7f8ba5d2f",
+    "guid": "11104ca462b7f8ba5d2f:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "Ty Freeman"
+          }
+        ],
+        "to": [
+          {
+            "name": "The MUDDY MOON"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/themuddymoon",
+          "name": "The MUDDY MOON"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-22",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "94fdba5f574f305a7593",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "The MUDDY MOON",
+          "url": "https://www.instagram.com/themuddymoon"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.11.: The MUDDY MOON @ Chelsea, Wien [Ty Freeman cancelled.]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "94fdba5f574f305a7593",
+    "guid": "94fdba5f574f305a7593:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/fuer.band/",
+          "name": "FÜR."
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-23",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "31f9043c44b780eca6d2",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "FÜR.",
+          "url": "https://www.instagram.com/fuer.band/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.11.: FÜR. @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "31f9043c44b780eca6d2",
+    "guid": "31f9043c44b780eca6d2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/officialduath",
+          "name": "DÚATH"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/confessionsofpain",
+          "name": "CONFESSIONS OF PAIN"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/profile.php?id=61577474611926",
+          "name": "THRONE OF DYSTOPIA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/arcaneveil.band",
+          "name": "ARCANE VEIL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "43d99bb3fd29101890cd",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "DÚATH",
+          "url": "https://www.facebook.com/officialduath"
+        },
+        {
+          "label": "CONFESSIONS OF PAIN",
+          "url": "https://www.facebook.com/confessionsofpain"
+        },
+        {
+          "label": "THRONE OF DYSTOPIA",
+          "url": "https://www.facebook.com/profile.php?id=61577474611926"
+        },
+        {
+          "label": "ARCANE VEIL",
+          "url": "https://www.facebook.com/arcaneveil.band"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1370484881605922/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: DÚATH / CONFESSIONS OF PAIN / THRONE OF DYSTOPIA / ARCANE VEIL u.a. @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "43d99bb3fd29101890cd",
+    "guid": "43d99bb3fd29101890cd:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://yakimajera.bandcamp.com/",
+          "name": "YAKIMA JERA"
+        },
+        {
+          "country": "D",
+          "link": "https://hovfot.bandcamp.com/",
+          "name": "HOVFOT"
+        },
+        {
+          "country": null,
+          "link": "https://pulverin.bandcamp.com/",
+          "name": "PULVERIN"
+        },
+        {
+          "country": null,
+          "link": "https://concorde94.bandcamp.com/",
+          "name": "CONCORDE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-28",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "ab9bd589a04cbff155f5",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "YAKIMA JERA",
+          "url": "https://yakimajera.bandcamp.com/"
+        },
+        {
+          "label": "HOVFOT",
+          "url": "https://hovfot.bandcamp.com/"
+        },
+        {
+          "label": "PULVERIN",
+          "url": "https://pulverin.bandcamp.com/"
+        },
+        {
+          "label": "CONCORDE",
+          "url": "https://concorde94.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1813324389979147/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.11.: YAKIMA JERA (d) / HOVFOT (d) / PULVERIN / CONCORDE @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "ab9bd589a04cbff155f5",
+    "guid": "ab9bd589a04cbff155f5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CRO",
+          "link": "https://dezinformacije.bandcamp.com/",
+          "name": "DEZINFORMACIJE"
+        },
+        {
+          "country": null,
+          "link": "https://harshresponse.bandcamp.com/",
+          "name": "HARSH RESPONSE"
+        },
+        {
+          "country": "D",
+          "link": "https://hydrapunk.bandcamp.com/",
+          "name": "HYDRA"
+        },
+        {
+          "country": "D",
+          "link": "https://laeraband.bandcamp.com/",
+          "name": "LÄRA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "3f86763a2845d8173c37",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "DEZINFORMACIJE",
+          "url": "https://dezinformacije.bandcamp.com/"
+        },
+        {
+          "label": "HARSH RESPONSE",
+          "url": "https://harshresponse.bandcamp.com/"
+        },
+        {
+          "label": "HYDRA",
+          "url": "https://hydrapunk.bandcamp.com/"
+        },
+        {
+          "label": "LÄRA",
+          "url": "https://laeraband.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://pmk.or.at/de/events/dezinformacije-harsh-response-hydra-lra/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: DEZINFORMACIJE (cro) / HARSH RESPONSE / HYDRA (d) / LÄRA (d) @ p.m.k., Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "3f86763a2845d8173c37",
+    "guid": "3f86763a2845d8173c37:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/redmachete",
+          "name": "RED MACHETE"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/ManhattanCentury",
+          "name": "MANHATTAN CENTURY"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/officialduath",
+          "name": "DÚATH"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/talltreemusic",
+          "name": "TALLTREE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Ottensheim",
+      "event_date": "2026-12-05",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2753667a174ce5bd8cd2",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "RED MACHETE",
+          "url": "https://www.facebook.com/redmachete"
+        },
+        {
+          "label": "MANHATTAN CENTURY",
+          "url": "https://www.facebook.com/ManhattanCentury"
+        },
+        {
+          "label": "DÚATH",
+          "url": "https://www.facebook.com/officialduath"
+        },
+        {
+          "label": "TALLTREE",
+          "url": "https://www.facebook.com/talltreemusic"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1512775297359245"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.12.: RED MACHETE / MANHATTAN CENTURY / DÚATH / TALLTREE @ Alter Bauhof, Ottensheim [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Alter Bauhof"
+    },
+    "event_id": "2753667a174ce5bd8cd2",
+    "guid": "2753667a174ce5bd8cd2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://www.instagram.com/themahonesofficial/",
+          "name": "The MAHONES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-06",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "638fd7b90f763bb044a4",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "The MAHONES",
+          "url": "https://www.instagram.com/themahonesofficial/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.12.: The MAHONES (can) @ Weberknecht, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "638fd7b90f763bb044a4",
+    "guid": "638fd7b90f763bb044a4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://www.instagram.com/themahonesofficial/",
+          "name": "The MAHONES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Steyr",
+      "event_date": "2026-12-07",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "cace8ac21bfe94806ec4",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "The MAHONES",
+          "url": "https://www.instagram.com/themahonesofficial/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1511125934179288/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "07.12.: The MAHONES (can) @ röda, Steyr [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "röda"
+    },
+    "event_id": "cace8ac21bfe94806ec4",
+    "guid": "cace8ac21bfe94806ec4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://crushcrushcrush.bandcamp.com/",
+          "name": "CRUSH"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/polly.mehr/",
+          "name": "POLLY MEHR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "938833aeefe3191eeed3",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "CRUSH",
+          "url": "https://crushcrushcrush.bandcamp.com/"
+        },
+        {
+          "label": "POLLY MEHR",
+          "url": "https://www.instagram.com/polly.mehr/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1099145839194576/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.12.: CRUSH / POLLY MEHR @ Schlot, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Schlot"
+    },
+    "event_id": "938833aeefe3191eeed3",
+    "guid": "938833aeefe3191eeed3:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "NED",
+          "link": "https://bezwering.bandcamp.com/",
+          "name": "BEZWERING"
+        },
+        {
+          "country": null,
+          "link": "https://weatheredcrest-iec.bandcamp.com/music",
+          "name": "WEATHERED CREST"
+        },
+        {
+          "country": "ITA",
+          "link": "https://feralforms.bandcamp.com/",
+          "name": "FERAL FORMS"
+        },
+        {
+          "country": "CZE",
+          "link": "https://www.instagram.com/cancervoid_death/",
+          "name": "CANCER VOID"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "f9e5465793bbec83b19d",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "BEZWERING",
+          "url": "https://bezwering.bandcamp.com/"
+        },
+        {
+          "label": "WEATHERED CREST",
+          "url": "https://weatheredcrest-iec.bandcamp.com/music"
+        },
+        {
+          "label": "FERAL FORMS",
+          "url": "https://feralforms.bandcamp.com/"
+        },
+        {
+          "label": "CANCER VOID",
+          "url": "https://www.instagram.com/cancervoid_death/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1103182202584480"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: BEZWERING (ned) / WEATHERED CREST / FERAL FORMS (ita) / CANCER VOID (cze) @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "f9e5465793bbec83b19d",
+    "guid": "f9e5465793bbec83b19d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D/AUT",
+          "link": "https://spirituallaw.bandcamp.com/",
+          "name": "SPIRITUAL LAW"
+        },
+        {
+          "country": "D",
+          "link": "https://collapspunk.bandcamp.com/",
+          "name": "COLLAPS"
+        },
+        {
+          "country": "UK",
+          "link": "https://thedogspunk.bandcamp.com/",
+          "name": "The DOGS"
+        },
+        {
+          "country": null,
+          "link": "https://denimpunk.bandcamp.com/",
+          "name": "DENIM"
+        },
+        {
+          "country": null,
+          "link": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep",
+          "name": "EXCEPTION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-19",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "2b7080391d5016888792",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SPIRITUAL LAW",
+          "url": "https://spirituallaw.bandcamp.com/"
+        },
+        {
+          "label": "COLLAPS",
+          "url": "https://collapspunk.bandcamp.com/"
+        },
+        {
+          "label": "The DOGS",
+          "url": "https://thedogspunk.bandcamp.com/"
+        },
+        {
+          "label": "DENIM",
+          "url": "https://denimpunk.bandcamp.com/"
+        },
+        {
+          "label": "EXCEPTION",
+          "url": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48678"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.12.: SPIRITUAL LAW (d/aut) / COLLAPS (d) / The DOGS (uk) / DENIM / EXCEPTION @ Arena (kl. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "2b7080391d5016888792",
+    "guid": "2b7080391d5016888792:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://chahom.bandcamp.com/",
+          "name": "CH'AHOM"
+        },
+        {
+          "country": "D",
+          "link": "https://evilwarriors.bandcamp.com/music",
+          "name": "EVIL WARRIORS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Linz",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      "id": "a63c2443e6214372cda6",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "CH'AHOM",
+          "url": "https://chahom.bandcamp.com/"
+        },
+        {
+          "label": "EVIL WARRIORS",
+          "url": "https://evilwarriors.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1815154479675787/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: CH'AHOM (d) / EVIL WARRIORS (d) @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "a63c2443e6214372cda6",
+    "guid": "a63c2443e6214372cda6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://chahom.bandcamp.com/",
+          "name": "CH'AHOM"
+        },
+        {
+          "country": "D",
+          "link": "https://evilwarriors.bandcamp.com/music",
+          "name": "EVIL WARRIORS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Innsbruck",
+      "event_date": "2027-02-21",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Black Metal"
+        ]
+      },
+      "id": "02ee2e86fdb45397eb94",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "CH'AHOM",
+          "url": "https://chahom.bandcamp.com/"
+        },
+        {
+          "label": "EVIL WARRIORS",
+          "url": "https://evilwarriors.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://pmk.or.at/de/events/chahom-evil-warriors/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.02.: CH'AHOM (d) / EVIL WARRIORS (d) @ p.m.k., Innsbruck [fb]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "p.m.k."
+    },
+    "event_id": "02ee2e86fdb45397eb94",
+    "guid": "02ee2e86fdb45397eb94:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://www.teachesofpeaches.com/",
+          "name": "Peaches"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-03",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4a22e59d2edadadce640",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "Peaches",
+          "url": "https://www.teachesofpeaches.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1146799684959422"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.03.: Peaches (can) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "4a22e59d2edadadce640",
+    "guid": "4a22e59d2edadadce640:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://pestpocken.de/",
+          "name": "PESTPOCKEN"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/rawsideofficial/",
+          "name": "RAWSIDE"
+        },
+        {
+          "country": null,
+          "link": "https://dorfterror.de/",
+          "name": "DORFTERROR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-13",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "914c3577f6a924f0c5db",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "PESTPOCKEN",
+          "url": "https://pestpocken.de/"
+        },
+        {
+          "label": "RAWSIDE",
+          "url": "https://www.facebook.com/rawsideofficial/"
+        },
+        {
+          "label": "DORFTERROR",
+          "url": "https://dorfterror.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1611037933250094"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.03.: PESTPOCKEN (d) / RAWSIDE (d) / DORFTERROR @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "914c3577f6a924f0c5db",
+    "guid": "914c3577f6a924f0c5db:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.kendalllujanmusic.com/",
+          "name": "Kendall Lujan"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Steyr",
+      "event_date": "2027-03-27",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0a765f784082fafcd637",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "Kendall Lujan",
+          "url": "https://www.kendalllujanmusic.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1729984372013188/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.03.: Kendall Lujan (usa) @ röda, Steyr [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "röda"
+    },
+    "event_id": "0a765f784082fafcd637",
+    "guid": "0a765f784082fafcd637:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/wirsindsperling/",
+          "name": "SPERLING"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-11",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "634855a5f6b92c6267db",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SPERLING",
+          "url": "https://www.instagram.com/wirsindsperling/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.04.: SPERLING (d) @ Weberknecht, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "634855a5f6b92c6267db",
+    "guid": "634855a5f6b92c6267db:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://velvetdaydream.bandcamp.com/",
+          "name": "VELVET DAYDREAM"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Steyr",
+      "event_date": "2027-04-16",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "8f3789ec50f6b78e1ec0",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "VELVET DAYDREAM",
+          "url": "https://velvetdaydream.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1811830553474332/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.04.: VELVET DAYDREAM (usa) @ röda, Steyr [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "röda"
+    },
+    "event_id": "8f3789ec50f6b78e1ec0",
+    "guid": "8f3789ec50f6b78e1ec0:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/blackmarblenyc",
+          "name": "BLACK MARBLE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-19",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "6cf7fd937c116a636c79",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "BLACK MARBLE",
+          "url": "https://www.instagram.com/blackmarblenyc"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.04.: BLACK MARBLE (usa) @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "6cf7fd937c116a636c79",
+    "guid": "6cf7fd937c116a636c79:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://jackpott-band.de/",
+          "name": "JACK POTT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-23",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "cdc16d2770b0a0b6998a",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "JACK POTT",
+          "url": "https://jackpott-band.de/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48644"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.04.: JACK POTT (d) @ Arena (kl. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "cdc16d2770b0a0b6998a",
+    "guid": "cdc16d2770b0a0b6998a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://savanah1.bandcamp.com/",
+          "name": "SAVANAH"
+        },
+        {
+          "country": "CZE",
+          "link": "https://acidrow.bandcamp.com/music",
+          "name": "ACID ROW"
+        },
+        {
+          "country": null,
+          "link": "https://pryne.bandcamp.com/",
+          "name": "PRYNE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Graz",
+      "event_date": "2027-05-15",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "bbdd3d03a50ce14f3645",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "SAVANAH",
+          "url": "https://savanah1.bandcamp.com/"
+        },
+        {
+          "label": "ACID ROW",
+          "url": "https://acidrow.bandcamp.com/music"
+        },
+        {
+          "label": "PRYNE",
+          "url": "https://pryne.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1645799340234603/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.05.: SAVANAH / ACID ROW (cze) / PRYNE @ Dom im Berg, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Dom im Berg"
+    },
+    "event_id": "bbdd3d03a50ce14f3645",
+    "guid": "bbdd3d03a50ce14f3645:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/officialjohnbush/",
+          "name": "John Bush"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-08-04",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Thrash Metal"
+        ]
+      },
+      "id": "18ddec1cb84d0100ab29",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "John Bush",
+          "url": "https://www.instagram.com/officialjohnbush/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2504853056671017/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.08.: John Bush (usa) @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "18ddec1cb84d0100ab29",
+    "guid": "18ddec1cb84d0100ab29:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "AUS",
+          "link": "https://thechats.com/",
+          "name": "The CHATS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2027-09-21",
+      "first_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1434b1359fff8ba498c7",
+      "last_seen_at": "2026-10-29T08:30:00.165440+00:00",
+      "links": [
+        {
+          "label": "The CHATS",
+          "url": "https://thechats.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.09.: The CHATS (aus) @ Flex, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Flex"
+    },
+    "event_id": "1434b1359fff8ba498c7",
+    "guid": "1434b1359fff8ba498c7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "active": {
+        "from": true,
+        "to": false
+      }
+    },
+    "detected_at": "2026-10-29T08:30:00.165440+00:00",
+    "event": {
+      "active": false,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://collapspunk.bandcamp.com/",
+          "name": "COLLAPS"
+        },
+        {
+          "country": "UK",
+          "link": "https://thedogspunk.bandcamp.com/",
+          "name": "The DOGS"
+        },
+        {
+          "country": "D/AUT",
+          "link": "https://spirituallaw.bandcamp.com/",
+          "name": "SPIRITUAL LAW"
+        },
+        {
+          "country": null,
+          "link": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep",
+          "name": "EXCEPTION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-10-29T08:30:00.165440+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-19",
+      "first_seen_at": "2026-10-16T07:11:03.397138+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "6a61e53bf543326a4cf6",
+      "last_seen_at": "2026-10-28T08:34:19.517870+00:00",
+      "links": [
+        {
+          "label": "COLLAPS",
+          "url": "https://collapspunk.bandcamp.com/"
+        },
+        {
+          "label": "The DOGS",
+          "url": "https://thedogspunk.bandcamp.com/"
+        },
+        {
+          "label": "SPIRITUAL LAW",
+          "url": "https://spirituallaw.bandcamp.com/"
+        },
+        {
+          "label": "EXCEPTION",
+          "url": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "19.12.: COLLAPS (d) / The DOGS (uk) / SPIRITUAL LAW (d/aut) / EXCEPTION @ Arena (DreiRaum), Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "6a61e53bf543326a4cf6",
+    "guid": "6a61e53bf543326a4cf6:2",
+    "kind": "unlisted",
+    "revision": 2
   }
 ]
