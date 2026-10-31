@@ -5,8 +5,71 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:26:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: Peter &amp; The TEST TUBE BABIES, The ZSA ZSA GABORS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f7f3f707ce5ed3ecae73-2</link>
+      <guid isPermaLink="false">f7f3f707ce5ed3ecae73:2</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2027-01-27 · Arena (DreiRaum),  Wien · Wien · Line-up: Peter &amp; The TEST TUBE BABIES → Peter &amp; The TEST TUBE BABIES · The ZSA ZSA GABORS</description>
+    </item>
+    <item>
+      <title>Neu: SHAKI TAVI, TRAUMA GLOW, MANIC YOUTH – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8b250cc26a146caf662b-1</link>
+      <guid isPermaLink="false">8b250cc26a146caf662b:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-06 · Das Lot,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SZENE PUTZN, GUSCH, FORCE FED FARM ANIMALS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2fac341adc5121d3f8a0-1</link>
+      <guid isPermaLink="false">2fac341adc5121d3f8a0:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-20 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: GRUPPENSEX, NIEDERÖSTERREICHISCHE WELLE, MILDE SORTE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-37a92a368f9dfe47e189-1</link>
+      <guid isPermaLink="false">37a92a368f9dfe47e189:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-27 · TüWi,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: FAILED, WORST, LIVE LIFE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7b40d33a945f84a82e3-1</link>
+      <guid isPermaLink="false">e7b40d33a945f84a82e3:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-29 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: INGESTED, PSYCROPTIC, NETHERWALKER, TRACHEOTOMY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8d50a393d5fa7080294f-1</link>
+      <guid isPermaLink="false">8d50a393d5fa7080294f:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2027-01-26 · Viper Room,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: SUMA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-66b045d5334ca9040175-1</link>
+      <guid isPermaLink="false">66b045d5334ca9040175:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2027-03-09 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: The MEFFS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-192c7797ffe3873c6558-1</link>
+      <guid isPermaLink="false">192c7797ffe3873c6558:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2027-04-09 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
     <item>
       <title>Nicht mehr gelistet: COLLAPS, The DOGS, SPIRITUAL LAW, EXCEPTION – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6a61e53bf543326a4cf6-2</link>
@@ -643,69 +706,6 @@
       <guid isPermaLink="false">2776c9b8d08c109b382d:1</guid>
       <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
       <description>2026-12-04 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DISTONACIJA, POBESNELI USISIVAŠ, SUBVERZIJA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ee9429ac3e1d2a030d7-1</link>
-      <guid isPermaLink="false">7ee9429ac3e1d2a030d7:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-05 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PÁNICO, PORTOBELLO EXPRESS, NEUE WUT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6f4011e05db1915cb67d-1</link>
-      <guid isPermaLink="false">6f4011e05db1915cb67d:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-12 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FAREWELL DEAR GHOST – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0dc89a2980979de77616-1</link>
-      <guid isPermaLink="false">0dc89a2980979de77616:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-16 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DREAM STATE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-51e4506c8744d422997c-1</link>
-      <guid isPermaLink="false">51e4506c8744d422997c:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-02-21 · B72,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Die ÄNDERUNG – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-74763c9fb53c9a1b818b-1</link>
-      <guid isPermaLink="false">74763c9fb53c9a1b818b:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-02-26 · Kramladen,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: SUICIDE COMMANDO, VÖEST – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ab2e9010799009bbd011-1</link>
-      <guid isPermaLink="false">ab2e9010799009bbd011:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-02-27 · Viper Room,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: THREE FOR SILVER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2112e862423383627cd7-1</link>
-      <guid isPermaLink="false">2112e862423383627cd7:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-03-02 · Sargfabrik,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DEA MATRONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-de3f8cbad3acb0892b01-1</link>
-      <guid isPermaLink="false">de3f8cbad3acb0892b01:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-03-08 · Flex (Café),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: FAT DOG – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8a34a79e7a093758812-1</link>
-      <guid isPermaLink="false">e8a34a79e7a093758812:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2027-03-19 · Flex (Café),  Wien · Wien</description>
     </item>
   </channel>
 </rss>

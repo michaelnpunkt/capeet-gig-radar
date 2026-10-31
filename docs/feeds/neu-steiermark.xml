@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:26:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PURPLE, Junes Ivy – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b611988a3564dec07c7-1</link>
+      <guid isPermaLink="false">0b611988a3564dec07c7:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-03 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: LA CASA FANTOM, NO VIDA, FEARINGANOTHERGOODBYE – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-857b39735bb7dc40a17c-4</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">12140cc2ebf265e5e1b6:1</guid>
       <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
       <description>2027-03-12 · p.p.c.,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Geändert: 1914, GRIMMING – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ff887722e505c4d2dcec-1</link>
-      <guid isPermaLink="false">ff887722e505c4d2dcec:1</guid>
-      <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
-      <description>2026-09-24 · p.p.c.,  Graz · Steiermark · Line-up: 1914 → 1914 · GRIMMING</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:26:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: BLUE CHESTERFIELD – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b2a9e65d9894e32de1a-1</link>
+      <guid isPermaLink="false">1b2a9e65d9894e32de1a:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-10-31 · DH5,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: STYRONAUTEN – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5a716c8b82f30483e0cb-1</link>
+      <guid isPermaLink="false">5a716c8b82f30483e0cb:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-07 · DH5,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: HALAL HARDCORE, POLLY MEHR, PARROTS, PARTOUT – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-341419b807b168ae6186-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">53755b2c6e428f9121f3:1</guid>
       <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
       <description>2026-09-05 · Secret Location,  Linz · Oberösterreich · Line-up: BLÜTWÜRM · STICKY MOLOCH · MISOPHONIAC → BLÜTWÜRM · STICKY MOLOCH</description>
-    </item>
-    <item>
-      <title>Neu: Anda Morts – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1ceaab71bc8094b95851-1</link>
-      <guid isPermaLink="false">1ceaab71bc8094b95851:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-10-13 · Kapu,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: Anda Morts – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-56fbe98f2d58261bc178-1</link>
-      <guid isPermaLink="false">56fbe98f2d58261bc178:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-10-14 · Kapu,  Linz · Oberösterreich</description>
     </item>
   </channel>
 </rss>

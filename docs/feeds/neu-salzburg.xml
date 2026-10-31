@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:26:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: RUN, ROBOTS!, MANIC HIGH, PURPLE BISON – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2efb5ffefc3c2a8fb3ca-1</link>
+      <guid isPermaLink="false">2efb5ffefc3c2a8fb3ca:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-10-30 · MARK,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: PURPLE, The VOICEBREAKERS – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-861fa9cf180a6ddccda8-1</link>
+      <guid isPermaLink="false">861fa9cf180a6ddccda8:1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:26:40 +0000</pubDate>
+      <description>2026-11-05 · MARK,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Neu: BLEED FROM WITHIN, SUGAR SPINE, SPIRE OF LAZARUS – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dcf3674f6d596d9068e3-1</link>

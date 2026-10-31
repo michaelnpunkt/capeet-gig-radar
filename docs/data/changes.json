@@ -1,6 +1,891 @@
 {
-  "generated_at": "2026-10-29T08:30:00.165440+00:00",
+  "generated_at": "2026-10-31T08:26:40.404094+00:00",
   "revisions": [
+    {
+      "anchor": "change-f7f3f707ce5ed3ecae73-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "Peter & The TEST TUBE BABIES"
+            }
+          ],
+          "to": [
+            {
+              "name": "Peter & The TEST TUBE BABIES"
+            },
+            {
+              "name": "The ZSA ZSA GABORS"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "http://www.testtubebabies.co.uk/",
+            "name": "Peter & The TEST TUBE BABIES"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/zsazsagabors",
+            "name": "The ZSA ZSA GABORS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-27",
+        "first_seen_at": "2026-10-22T07:36:20.954236+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f7f3f707ce5ed3ecae73",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "Peter & The TEST TUBE BABIES",
+            "url": "http://www.testtubebabies.co.uk/"
+          },
+          {
+            "label": "The ZSA ZSA GABORS",
+            "url": "https://www.facebook.com/zsazsagabors"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/5154575574769090/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "27.01.: Peter & The TEST TUBE BABIES (uk) / The ZSA ZSA GABORS @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "f7f3f707ce5ed3ecae73",
+      "guid": "f7f3f707ce5ed3ecae73:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-2efb5ffefc3c2a8fb3ca-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://runrobots.bandcamp.com/",
+            "name": "RUN, ROBOTS!"
+          },
+          {
+            "country": null,
+            "link": "https://manic-high.bandcamp.com/",
+            "name": "MANIC HIGH"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/purple_bison_band/",
+            "name": "PURPLE BISON"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-10-30",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "2efb5ffefc3c2a8fb3ca",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "RUN, ROBOTS!",
+            "url": "https://runrobots.bandcamp.com/"
+          },
+          {
+            "label": "MANIC HIGH",
+            "url": "https://manic-high.bandcamp.com/"
+          },
+          {
+            "label": "PURPLE BISON",
+            "url": "https://www.instagram.com/purple_bison_band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/29234805852877341/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.10.: RUN, ROBOTS! / MANIC HIGH / PURPLE BISON @ MARK, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "MARK"
+      },
+      "event_id": "2efb5ffefc3c2a8fb3ca",
+      "guid": "2efb5ffefc3c2a8fb3ca:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1b2a9e65d9894e32de1a-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CZE",
+            "link": "https://bluechesterfield.bandcamp.com/",
+            "name": "BLUE CHESTERFIELD"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Linz",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1b2a9e65d9894e32de1a",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "BLUE CHESTERFIELD",
+            "url": "https://bluechesterfield.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.10.: BLUE CHESTERFIELD (cze) @ DH5, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "DH5"
+      },
+      "event_id": "1b2a9e65d9894e32de1a",
+      "guid": "1b2a9e65d9894e32de1a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b611988a3564dec07c7-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/purpleunofficial/",
+            "name": "PURPLE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/junesivy/",
+            "name": "Junes Ivy"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-03",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "0b611988a3564dec07c7",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "PURPLE",
+            "url": "https://www.instagram.com/purpleunofficial/"
+          },
+          {
+            "label": "Junes Ivy",
+            "url": "https://www.instagram.com/junesivy/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.11.: PURPLE / Junes Ivy @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "0b611988a3564dec07c7",
+      "guid": "0b611988a3564dec07c7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-41a3cafb1c2335565dcc-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/purpleunofficial/",
+            "name": "PURPLE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2026-11-04",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "41a3cafb1c2335565dcc",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "PURPLE",
+            "url": "https://www.instagram.com/purpleunofficial/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.11.: PURPLE @ Fritz Club, Klagenfurt",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Fritz Club"
+      },
+      "event_id": "41a3cafb1c2335565dcc",
+      "guid": "41a3cafb1c2335565dcc:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-861fa9cf180a6ddccda8-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/purpleunofficial/",
+            "name": "PURPLE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/the.voicebreakers/",
+            "name": "The VOICEBREAKERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-11-05",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "861fa9cf180a6ddccda8",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "PURPLE",
+            "url": "https://www.instagram.com/purpleunofficial/"
+          },
+          {
+            "label": "The VOICEBREAKERS",
+            "url": "https://www.instagram.com/the.voicebreakers/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1604386640780484/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.11.: PURPLE / The VOICEBREAKERS @ MARK, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "MARK"
+      },
+      "event_id": "861fa9cf180a6ddccda8",
+      "guid": "861fa9cf180a6ddccda8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8b250cc26a146caf662b-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://shakitavi.bandcamp.com/",
+            "name": "SHAKI TAVI"
+          },
+          {
+            "country": null,
+            "link": "https://traumaglow.bandcamp.com/",
+            "name": "TRAUMA GLOW"
+          },
+          {
+            "country": null,
+            "link": "https://manicyouth1.bandcamp.com/",
+            "name": "MANIC YOUTH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "8b250cc26a146caf662b",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "SHAKI TAVI",
+            "url": "https://shakitavi.bandcamp.com/"
+          },
+          {
+            "label": "TRAUMA GLOW",
+            "url": "https://traumaglow.bandcamp.com/"
+          },
+          {
+            "label": "MANIC YOUTH",
+            "url": "https://manicyouth1.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.lot.wien/event-details/live-lot-shaki-tavi-manic-youth-trauma-glow"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: SHAKI TAVI (usa) / TRAUMA GLOW / MANIC YOUTH @ Das Lot, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Das Lot"
+      },
+      "event_id": "8b250cc26a146caf662b",
+      "guid": "8b250cc26a146caf662b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-5a716c8b82f30483e0cb-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://styronauten.com/",
+            "name": "STYRONAUTEN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "5a716c8b82f30483e0cb",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "STYRONAUTEN",
+            "url": "https://styronauten.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: STYRONAUTEN @ DH5, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "DH5"
+      },
+      "event_id": "5a716c8b82f30483e0cb",
+      "guid": "5a716c8b82f30483e0cb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-2fac341adc5121d3f8a0-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://szeneputzn.bandcamp.com/",
+            "name": "SZENE PUTZN"
+          },
+          {
+            "country": null,
+            "link": "https://gusch.bandcamp.com/",
+            "name": "GUSCH"
+          },
+          {
+            "country": null,
+            "link": "https://forcefedfarmanimals.bandcamp.com/",
+            "name": "FORCE FED FARM ANIMALS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "2fac341adc5121d3f8a0",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "SZENE PUTZN",
+            "url": "https://szeneputzn.bandcamp.com/"
+          },
+          {
+            "label": "GUSCH",
+            "url": "https://gusch.bandcamp.com/"
+          },
+          {
+            "label": "FORCE FED FARM ANIMALS",
+            "url": "https://forcefedfarmanimals.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: KUKU Soli feat. SZENE PUTZN / GUSCH / FORCE FED FARM ANIMALS @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "KUKU Soli",
+        "venue": "Venster"
+      },
+      "event_id": "2fac341adc5121d3f8a0",
+      "guid": "2fac341adc5121d3f8a0:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-37a92a368f9dfe47e189-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/gruppensex_band/",
+            "name": "GRUPPENSEX"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/niederoesterreichischewelle/",
+            "name": "NIEDERÖSTERREICHISCHE WELLE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/mildesorte_extraforte/",
+            "name": "MILDE SORTE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "37a92a368f9dfe47e189",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "GRUPPENSEX",
+            "url": "https://www.instagram.com/gruppensex_band/"
+          },
+          {
+            "label": "NIEDERÖSTERREICHISCHE WELLE",
+            "url": "https://www.instagram.com/niederoesterreichischewelle/"
+          },
+          {
+            "label": "MILDE SORTE",
+            "url": "https://www.instagram.com/mildesorte_extraforte/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: GRUPPENSEX / NIEDERÖSTERREICHISCHE WELLE / MILDE SORTE @ TüWi, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "TüWi"
+      },
+      "event_id": "37a92a368f9dfe47e189",
+      "guid": "37a92a368f9dfe47e189:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e7b40d33a945f84a82e3-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://failed2.bandcamp.com/",
+            "name": "FAILED"
+          },
+          {
+            "country": "BRA",
+            "link": "https://www.instagram.com/worsthcband",
+            "name": "WORST"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/livelifehc/",
+            "name": "LIVE LIFE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-29",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "e7b40d33a945f84a82e3",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "FAILED",
+            "url": "https://failed2.bandcamp.com/"
+          },
+          {
+            "label": "WORST",
+            "url": "https://www.instagram.com/worsthcband"
+          },
+          {
+            "label": "LIVE LIFE",
+            "url": "https://www.instagram.com/livelifehc/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.11.: FAILED (ita) / WORST (bra) / LIVE LIFE @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "e7b40d33a945f84a82e3",
+      "guid": "e7b40d33a945f84a82e3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8d50a393d5fa7080294f-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://ingested.bandcamp.com/music",
+            "name": "INGESTED"
+          },
+          {
+            "country": "AUS",
+            "link": "https://psycroptic.bandcamp.com/music",
+            "name": "PSYCROPTIC"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/netherwalkerofficial/",
+            "name": "NETHERWALKER"
+          },
+          {
+            "country": "USA",
+            "link": "https://tracheotomy777.bandcamp.com/",
+            "name": "TRACHEOTOMY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-26",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Death Metal"
+          ]
+        },
+        "id": "8d50a393d5fa7080294f",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "INGESTED",
+            "url": "https://ingested.bandcamp.com/music"
+          },
+          {
+            "label": "PSYCROPTIC",
+            "url": "https://psycroptic.bandcamp.com/music"
+          },
+          {
+            "label": "NETHERWALKER",
+            "url": "https://www.instagram.com/netherwalkerofficial/"
+          },
+          {
+            "label": "TRACHEOTOMY",
+            "url": "https://tracheotomy777.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/978872055295666/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.01.: INGESTED (uk) / PSYCROPTIC (aus) / NETHERWALKER (usa) / TRACHEOTOMY (usa) @ Viper Room, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "8d50a393d5fa7080294f",
+      "guid": "8d50a393d5fa7080294f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-66b045d5334ca9040175-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://sumanoise.bandcamp.com/",
+            "name": "SUMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-09",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal",
+            "Sludge Metal",
+            "Stoner Metal"
+          ]
+        },
+        "id": "66b045d5334ca9040175",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "SUMA",
+            "url": "https://sumanoise.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1026265183207260/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.03.: SUMA (swe) @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "66b045d5334ca9040175",
+      "guid": "66b045d5334ca9040175:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-192c7797ffe3873c6558-1",
+      "changes": {},
+      "detected_at": "2026-10-31T08:26:40.404094+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.themeffs.com/",
+            "name": "The MEFFS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-10-31T08:26:40.404094+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-09",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "192c7797ffe3873c6558",
+        "last_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "links": [
+          {
+            "label": "The MEFFS",
+            "url": "https://www.themeffs.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1833020021173914/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.04.: The MEFFS (uk) @ Arena (kl. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "192c7797ffe3873c6558",
+      "guid": "192c7797ffe3873c6558:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-857b39735bb7dc40a17c-4",
       "changes": {
