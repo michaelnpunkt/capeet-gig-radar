@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-10-31T08:26:40.404094+00:00",
+  "generated_at": "2026-11-01T09:16:45.651264+00:00",
   "revisions": [
+    {
+      "anchor": "change-574a86320152d1933747-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The SPAULDINGS"
+            },
+            {
+              "name": "LOVABLE LOSERS"
+            }
+          ],
+          "to": [
+            {
+              "name": "The SPAULDINGS"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-01T09:16:45.651264+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://thespauldings.bandcamp.com/",
+            "name": "The SPAULDINGS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-01T09:16:45.651264+00:00",
+        "city": "Wien",
+        "event_date": "2026-10-31",
+        "first_seen_at": "2026-08-22T03:08:00.198425+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "574a86320152d1933747",
+        "last_seen_at": "2026-11-01T09:16:45.651264+00:00",
+        "links": [
+          {
+            "label": "The SPAULDINGS",
+            "url": "https://thespauldings.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1098662576257741/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "31.10.: The SPAULDINGS @ Chelsea, Wien [LOVABLE LOSERS cancelled.] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "574a86320152d1933747",
+      "guid": "574a86320152d1933747:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-aabf3aeef9dcbca567e1-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-01T09:16:45.651264+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": null,
+            "name": "BLACK SABBITCH"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-01T09:16:45.651264+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-11",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal",
+            "Stoner Metal"
+          ]
+        },
+        "id": "aabf3aeef9dcbca567e1",
+        "last_seen_at": "2026-11-01T09:16:45.651264+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.11.: BLACK SABBITCH (usa) @ Viper Room, Wien [cancelled.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "aabf3aeef9dcbca567e1",
+      "guid": "aabf3aeef9dcbca567e1:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-01T09:16:45.651264+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-01T09:16:45.651264+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-01T09:16:45.651264+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-01T09:16:45.651264+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-f7f3f707ce5ed3ecae73-2",
       "changes": {

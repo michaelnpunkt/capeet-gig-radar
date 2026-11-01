@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:16:45 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: The SPAULDINGS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-574a86320152d1933747-2</link>
+      <guid isPermaLink="false">574a86320152d1933747:2</guid>
+      <pubDate>Sun, 01 Nov 2026 09:16:45 +0000</pubDate>
+      <description>2026-10-31 · Chelsea,  Wien · Wien · Line-up: The SPAULDINGS · LOVABLE LOSERS → The SPAULDINGS</description>
+    </item>
+    <item>
+      <title>Abgesagt: BLACK SABBITCH – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aabf3aeef9dcbca567e1-1</link>
+      <guid isPermaLink="false">aabf3aeef9dcbca567e1:1</guid>
+      <pubDate>Sun, 01 Nov 2026 09:16:45 +0000</pubDate>
+      <description>2026-11-11 · Viper Room,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 01 Nov 2026 09:16:45 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: Peter &amp; The TEST TUBE BABIES, The ZSA ZSA GABORS – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f7f3f707ce5ed3ecae73-2</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">e059f2894c0e51d4e6ac:1</guid>
       <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
       <description>2026-11-14 · Kaorle OWA,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Billy Liar, Joe McMahon – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-921b08b677a7baa997e0-1</link>
-      <guid isPermaLink="false">921b08b677a7baa997e0:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-11-26 · Beertija,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: TRINITITE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2776c9b8d08c109b382d-1</link>
-      <guid isPermaLink="false">2776c9b8d08c109b382d:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-12-04 · Kramladen,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
