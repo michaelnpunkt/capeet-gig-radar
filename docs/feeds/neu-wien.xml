@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:30:56 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 02 Nov 2026 09:30:56 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: The SPAULDINGS – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-574a86320152d1933747-2</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">d5cec3d7714e13151c5f:1</guid>
       <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
       <description>2026-11-07 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Ulla Suspekt, MONSTERHEART – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e059f2894c0e51d4e6ac-1</link>
-      <guid isPermaLink="false">e059f2894c0e51d4e6ac:1</guid>
-      <pubDate>Wed, 21 Oct 2026 07:40:54 +0000</pubDate>
-      <description>2026-11-14 · Kaorle OWA,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

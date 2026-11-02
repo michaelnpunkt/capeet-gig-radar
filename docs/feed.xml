@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:30:56 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 02 Nov 2026 09:30:56 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: The SPAULDINGS – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-574a86320152d1933747-2</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">857b39735bb7dc40a17c:3</guid>
       <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
       <description>2026-11-01 · SUb,  Graz · Steiermark · Line-up: LA CASA FANTOM · NO VIDA · PRUNKNELKE → LA CASA FANTOM · NO VIDA</description>
-    </item>
-    <item>
-      <title>Geändert: LEBERZERROZE, The END OF RADIO – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2c208413062cadd78e8e-2</link>
-      <guid isPermaLink="false">2c208413062cadd78e8e:2</guid>
-      <pubDate>Fri, 23 Oct 2026 07:33:32 +0000</pubDate>
-      <description>2026-10-24 · Bricks,  Salzburg · Salzburg · Line-up: The WORM REDUCER · 90 → LEBERZERROZE · The END OF RADIO</description>
     </item>
   </channel>
 </rss>
