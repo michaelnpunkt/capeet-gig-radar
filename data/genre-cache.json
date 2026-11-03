@@ -634,6 +634,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "ano malie": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "anomalie magnetique": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -1348,6 +1354,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "bila": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "bilch": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2031,6 +2043,12 @@
     ]
   },
   "cave club": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "celestial guard": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -3372,6 +3390,14 @@
     "source": "lastfm",
     "subgenres": [
       "Post-Punk"
+    ]
+  },
+  "diiv": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
     ]
   },
   "dim prospects": {
@@ -5157,6 +5183,12 @@
       "Thrash Metal"
     ]
   },
+  "grantscherben": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "grave dance company": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5179,6 +5211,12 @@
     "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "green horse": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "green lung": {
@@ -6398,6 +6436,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "jackitup": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "jaguar sun": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -6523,6 +6567,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "joan as police woman": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "joe mcmahon": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -6633,6 +6683,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "k man the 45s": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Ska Punk"
+    ]
   },
   "kadavar": {
     "family": "Rock",
@@ -6884,6 +6942,12 @@
   "kodder": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "kodin hill": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "kohma": {
@@ -8648,6 +8712,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "muck the mires": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "muff potter": {
     "family": "Punk",
     "source": "lastfm",
@@ -9088,6 +9158,12 @@
     "subgenres": []
   },
   "no vida": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "noah monoton band": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9941,6 +10017,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "pondskater": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "pony pracht": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10692,6 +10774,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "saint etienne": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "sakura feat manic youth": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -10899,6 +10987,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "scorpions": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "scott hepple the sun band": {
     "classifier_version": 2,
@@ -11834,6 +11928,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "stereo deathray": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "stereotypen": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11930,6 +12030,14 @@
     "subgenres": [
       "Deathcore",
       "Metalcore"
+    ]
+  },
+  "strikehammer": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Thrash Metal"
     ]
   },
   "stuhlkreis": {
@@ -13062,6 +13170,12 @@
     "subgenres": [
       "Ska Punk"
     ]
+  },
+  "the trance": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "the troublemakers": {
     "classifier_version": 2,
@@ -14410,6 +14524,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "wise monkey": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "wishbone ash": {
     "classifier_version": 2,
     "family": "Rock",
@@ -14706,6 +14826,12 @@
     "subgenres": []
   },
   "zoomies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "zum scheitern verurteilt": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

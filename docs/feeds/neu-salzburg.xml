@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:33:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: ENDLESS WELLNESS, GLUT – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f384a1f5ad70be835274-1</link>
+      <guid isPermaLink="false">f384a1f5ad70be835274:1</guid>
+      <pubDate>Tue, 03 Nov 2026 09:33:55 +0000</pubDate>
+      <description>2026-11-04 · Rockhouse,  Salzburg · Salzburg · Line-up: ENDLESS WELLNESS → ENDLESS WELLNESS · GLUT</description>
+    </item>
     <item>
       <title>Neu: RUN, ROBOTS!, MANIC HIGH, PURPLE BISON – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2efb5ffefc3c2a8fb3ca-1</link>

@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:33:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The DARTS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d06cc400f529f849b868-1</link>
+      <guid isPermaLink="false">d06cc400f529f849b868:1</guid>
+      <pubDate>Tue, 03 Nov 2026 09:33:55 +0000</pubDate>
+      <description>2026-11-12 · DH5,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SUMA, BONEGRINDER – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ea59d171296f2355e85c-1</link>
+      <guid isPermaLink="false">ea59d171296f2355e85c:1</guid>
+      <pubDate>Tue, 03 Nov 2026 09:33:55 +0000</pubDate>
+      <description>2027-03-10 · Kapu,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: BLUE CHESTERFIELD – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b2a9e65d9894e32de1a-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">177faaefbb51bf78606c:1</guid>
       <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
       <description>2026-10-03 · Salzhof,  Freistadt · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: HECKSPOILER – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7bba91b0a224fe0db791-1</link>
-      <guid isPermaLink="false">7bba91b0a224fe0db791:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-12-10 · Kapu,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: BLÜTWÜRM, STICKY MOLOCH – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-53755b2c6e428f9121f3-1</link>
-      <guid isPermaLink="false">53755b2c6e428f9121f3:1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:08:00 +0000</pubDate>
-      <description>2026-09-05 · Secret Location,  Linz · Oberösterreich · Line-up: BLÜTWÜRM · STICKY MOLOCH · MISOPHONIAC → BLÜTWÜRM · STICKY MOLOCH</description>
     </item>
   </channel>
 </rss>
