@@ -2152,6 +2152,12 @@
       "Thrash Metal"
     ]
   },
+  "cheri cheri": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "child cemetery": {
     "family": "Metal",
     "source": "lastfm",
@@ -2692,6 +2698,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "current swell": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "currents": {
@@ -3554,6 +3566,12 @@
   "donots": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "dopamin": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "dope purple": {
@@ -4533,6 +4551,14 @@
     "subgenres": []
   },
   "fleshcrawl": {
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
+  "fleshgod apocalypse": {
+    "classifier_version": 2,
     "family": "Metal",
     "source": "lastfm",
     "subgenres": [
@@ -5842,6 +5868,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "holy motors": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "hometown crew": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -6441,6 +6475,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "jagannatha": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Stoner Metal"
+    ]
   },
   "jaguar sun": {
     "family": "Alternative/Indie",
@@ -7841,6 +7884,12 @@
       "Industrial"
     ]
   },
+  "mad foxes": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "madhouse": {
     "family": "Rock",
     "source": "lastfm",
@@ -8294,6 +8343,14 @@
     "source": "lastfm",
     "subgenres": [
       "Black Metal"
+    ]
+  },
+  "meshuggah": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
     ]
   },
   "mess": {
@@ -9835,6 +9892,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "periphery": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "pertica": {
@@ -11687,6 +11750,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "spain": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "spanish love songs": {
     "classifier_version": 2,
     "family": "Punk",
@@ -11742,6 +11811,12 @@
     ]
   },
   "spike the gimme gimes": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "spink": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -12135,6 +12210,16 @@
     "source": "lastfm",
     "subgenres": [
       "Industrial"
+    ]
+  },
+  "suicide silence": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore",
+      "Grindcore"
     ]
   },
   "suma": {
@@ -12657,6 +12742,12 @@
     "subgenres": [
       "Street Punk"
     ]
+  },
+  "the elephant tracks": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "the end of radio": {
     "classifier_version": 2,
@@ -13442,6 +13533,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "to the grave": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore"
+    ]
   },
   "to the wire": {
     "family": "Hardcore",
@@ -14618,6 +14717,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "wonk unit": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "words of concrete": {
     "family": "Hardcore",

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:14:26 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: HOLY MOTORS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a32388cb3412d505cadb-1</link>
+      <guid isPermaLink="false">a32388cb3412d505cadb:1</guid>
+      <pubDate>Wed, 04 Nov 2026 09:14:26 +0000</pubDate>
+      <description>2027-02-05 · Last,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: The DARTS – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d06cc400f529f849b868-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">84dd75c6ce7e5ae6c2e8:1</guid>
       <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
       <description>2026-09-19 · Secret Location,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: LITTLE HOLE FILLED, KERBMALDARR, GODDESS LIMAX BLACK – Freistadt</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-177faaefbb51bf78606c-1</link>
-      <guid isPermaLink="false">177faaefbb51bf78606c:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-10-03 · Salzhof,  Freistadt · Oberösterreich</description>
     </item>
   </channel>
 </rss>

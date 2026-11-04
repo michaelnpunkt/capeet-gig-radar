@@ -1,6 +1,928 @@
 {
-  "generated_at": "2026-11-03T09:33:55.265171+00:00",
+  "generated_at": "2026-11-04T09:14:26.217404+00:00",
   "revisions": [
+    {
+      "anchor": "change-5ee6b33fb393b257ba6e-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "GENERATION EXIT"
+            },
+            {
+              "name": "RED AT NIGHT"
+            }
+          ],
+          "to": [
+            {
+              "name": "GENERATION EXIT"
+            },
+            {
+              "name": "RED AT NIGHT"
+            },
+            {
+              "name": "DOPAMIN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://generationexit.bandcamp.com/",
+            "name": "GENERATION EXIT"
+          },
+          {
+            "country": "D",
+            "link": "https://redatnight.bandcamp.com/",
+            "name": "RED AT NIGHT"
+          },
+          {
+            "country": null,
+            "link": "https://dopamin.bandcamp.com/",
+            "name": "DOPAMIN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-09-16T07:42:17.993766+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "5ee6b33fb393b257ba6e",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "GENERATION EXIT",
+            "url": "https://generationexit.bandcamp.com/"
+          },
+          {
+            "label": "RED AT NIGHT",
+            "url": "https://redatnight.bandcamp.com/"
+          },
+          {
+            "label": "DOPAMIN",
+            "url": "https://dopamin.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1883217742669797/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "12.11.: GENERATION EXIT (usa) / RED AT NIGHT (d) / DOPAMIN @ Arena-Beisl, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "5ee6b33fb393b257ba6e",
+      "guid": "5ee6b33fb393b257ba6e:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-bf85afb190abad5dd143-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://wonk-unit.bandcamp.com/",
+            "name": "WONK UNIT"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/heavykevyofficial/",
+            "name": "Heavy Kevy"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Feldkirch",
+        "event_date": "2026-11-04",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bf85afb190abad5dd143",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "WONK UNIT",
+            "url": "https://wonk-unit.bandcamp.com/"
+          },
+          {
+            "label": "Heavy Kevy",
+            "url": "https://www.facebook.com/heavykevyofficial/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2166919807587291/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.11.: WONK UNIT (uk) / Heavy Kevy @ Antiquariat Chybulski, Feldkirch [fb]",
+        "state": "Vorarlberg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Antiquariat Chybulski"
+      },
+      "event_id": "bf85afb190abad5dd143",
+      "guid": "bf85afb190abad5dd143:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e3a7465465354fd82c57-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/combatbeachx/",
+            "name": "COMBAT BEACH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e3a7465465354fd82c57",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "COMBAT BEACH",
+            "url": "https://www.instagram.com/combatbeachx/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: COMBAT BEACH @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "e3a7465465354fd82c57",
+      "guid": "e3a7465465354fd82c57:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-37347cffa033a9e82e2a-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/janka.musik/",
+            "name": "JANKA"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/spink_band",
+            "name": "SPINK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-19",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "37347cffa033a9e82e2a",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "JANKA",
+            "url": "https://www.instagram.com/janka.musik/"
+          },
+          {
+            "label": "SPINK",
+            "url": "https://www.instagram.com/spink_band"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/janka-album-release-show-support-spink/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.11.: JANKA / SPINK @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "37347cffa033a9e82e2a",
+      "guid": "37347cffa033a9e82e2a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0562bc8ab769ee5f55b7-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D/AUT",
+            "link": "https://spirituallaw.bandcamp.com/",
+            "name": "SPIRITUAL LAW"
+          },
+          {
+            "country": "D",
+            "link": "https://dbnorecords.bandcamp.com/album/dbno-21-no-laughing-matter-the-demo",
+            "name": "NO LAUGHING MATTER"
+          },
+          {
+            "country": null,
+            "link": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep",
+            "name": "EXCEPTION"
+          },
+          {
+            "country": null,
+            "link": "https://prunknelke.bandcamp.com/",
+            "name": "PRUNKNELKE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "0562bc8ab769ee5f55b7",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "SPIRITUAL LAW",
+            "url": "https://spirituallaw.bandcamp.com/"
+          },
+          {
+            "label": "NO LAUGHING MATTER",
+            "url": "https://dbnorecords.bandcamp.com/album/dbno-21-no-laughing-matter-the-demo"
+          },
+          {
+            "label": "EXCEPTION",
+            "url": "https://maximumprofitrecords.bandcamp.com/album/mpr-001-exception-show-of-force-ep"
+          },
+          {
+            "label": "PRUNKNELKE",
+            "url": "https://prunknelke.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: SPIRITUAL LAW (d/aut) / NO LAUGHING MATTER (d) / EXCEPTION / PRUNKNELKE u.a. @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "0562bc8ab769ee5f55b7",
+      "guid": "0562bc8ab769ee5f55b7:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a32388cb3412d505cadb-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "EST",
+            "link": "https://holymotorsband.bandcamp.com/music",
+            "name": "HOLY MOTORS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Linz",
+        "event_date": "2027-02-05",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "a32388cb3412d505cadb",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "HOLY MOTORS",
+            "url": "https://holymotorsband.bandcamp.com/music"
+          },
+          {
+            "label": "[web]",
+            "url": "https://last-space.at/page/event/view/1019"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.02.: HOLY MOTORS (est) @ Last, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "a32388cb3412d505cadb",
+      "guid": "a32388cb3412d505cadb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-75531fdc41248394122b-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://madfoxes1.bandcamp.com/",
+            "name": "MAD FOXES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-16",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "75531fdc41248394122b",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "MAD FOXES",
+            "url": "https://madfoxes1.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/mad-foxes-3/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.02.: MAD FOXES (fra) @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "75531fdc41248394122b",
+      "guid": "75531fdc41248394122b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-751fd8b52ad45a190af6-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.spaintheband.com/",
+            "name": "SPAIN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-16",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "751fd8b52ad45a190af6",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "SPAIN",
+            "url": "https://www.spaintheband.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2182086199364834/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.02.: SPAIN (usa) @ Arena (DreiRaum), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (DreiRaum)"
+      },
+      "event_id": "751fd8b52ad45a190af6",
+      "guid": "751fd8b52ad45a190af6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fa4573a2480965a2428d-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://jagannatha.bandcamp.com/",
+            "name": "JAGANNATHA"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/theelephanttracks/",
+            "name": "The ELEPHANT TRACKS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-17",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Doom Metal",
+            "Stoner Metal"
+          ]
+        },
+        "id": "fa4573a2480965a2428d",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "JAGANNATHA",
+            "url": "https://jagannatha.bandcamp.com/"
+          },
+          {
+            "label": "The ELEPHANT TRACKS",
+            "url": "https://www.instagram.com/theelephanttracks/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1089048167330750/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.02.: JAGANNATHA (fra) / The ELEPHANT TRACKS @ Kramladen, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kramladen"
+      },
+      "event_id": "fa4573a2480965a2428d",
+      "guid": "fa4573a2480965a2428d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-48bcf226af4c1de3f148-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://chericheri.bandcamp.com/",
+            "name": "CHÉRI CHÉRI"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-28",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "48bcf226af4c1de3f148",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "CHÉRI CHÉRI",
+            "url": "https://chericheri.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/cheri-cheri/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.02.: CHÉRI CHÉRI (fra) @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "48bcf226af4c1de3f148",
+      "guid": "48bcf226af4c1de3f148:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba61087dcb979467e251-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA/D",
+            "link": "https://www.instagram.com/smilebandsmile/",
+            "name": "SMILE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-12",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ba61087dcb979467e251",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "SMILE",
+            "url": "https://www.instagram.com/smilebandsmile/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/smile-us-de-album-release-show-gun-shy/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.03.: SMILE (usa/d) @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "ba61087dcb979467e251",
+      "guid": "ba61087dcb979467e251:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9f8e99c3d324ecdfd813-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://velvetdaydream.bandcamp.com/",
+            "name": "VELVET DAYDREAM"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-18",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "9f8e99c3d324ecdfd813",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "VELVET DAYDREAM",
+            "url": "https://velvetdaydream.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/velvet-daydream/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.04.: VELVET DAYDREAM (usa) @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "9f8e99c3d324ecdfd813",
+      "guid": "9f8e99c3d324ecdfd813:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bd35020f1791f1d6fab1-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://www.currentswell.com/",
+            "name": "CURRENT SWELL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-21",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "bd35020f1791f1d6fab1",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "CURRENT SWELL",
+            "url": "https://www.currentswell.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/current-swell/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.04.: CURRENT SWELL (can) @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "bd35020f1791f1d6fab1",
+      "guid": "bd35020f1791f1d6fab1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-be9f5efd6c82f62af3fc-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/suicidesilence/",
+            "name": "SUICIDE SILENCE"
+          },
+          {
+            "country": "ITA",
+            "link": "https://www.facebook.com/fleshgodapocalypse",
+            "name": "FLESHGOD APOCALYPSE"
+          },
+          {
+            "country": "AUS",
+            "link": "https://www.facebook.com/tothegraveau/",
+            "name": "TO THE GRAVE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-12",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Metalcore",
+            "Grindcore"
+          ]
+        },
+        "id": "be9f5efd6c82f62af3fc",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "SUICIDE SILENCE",
+            "url": "https://www.instagram.com/suicidesilence/"
+          },
+          {
+            "label": "FLESHGOD APOCALYPSE",
+            "url": "https://www.facebook.com/fleshgodapocalypse"
+          },
+          {
+            "label": "TO THE GRAVE",
+            "url": "https://www.facebook.com/tothegraveau/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1791984498757321/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.05.: SUICIDE SILENCE (usa) / FLESHGOD APOCALYPSE (ita) / TO THE GRAVE (aus) u.a. @ Simm City, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Simm City"
+      },
+      "event_id": "be9f5efd6c82f62af3fc",
+      "guid": "be9f5efd6c82f62af3fc:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fe670594a8a2b1624746-1",
+      "changes": {},
+      "detected_at": "2026-11-04T09:14:26.217404+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://www.facebook.com/meshuggah/",
+            "name": "MESHUGGAH"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.periphery.net/",
+            "name": "PERIPHERY"
+          },
+          {
+            "country": "SWE",
+            "link": "https://vildhjarta.bandcamp.com/music",
+            "name": "VILDHJARTA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-04T09:14:26.217404+00:00",
+        "city": "Wien",
+        "event_date": "2027-10-14",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "fe670594a8a2b1624746",
+        "last_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "links": [
+          {
+            "label": "MESHUGGAH",
+            "url": "https://www.facebook.com/meshuggah/"
+          },
+          {
+            "label": "PERIPHERY",
+            "url": "https://www.periphery.net/"
+          },
+          {
+            "label": "VILDHJARTA",
+            "url": "https://vildhjarta.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2391186694752457/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.10.: MESHUGGAH (swe) / PERIPHERY (usa) / VILDHJARTA (swe) @ Gasometer, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Gasometer"
+      },
+      "event_id": "fe670594a8a2b1624746",
+      "guid": "fe670594a8a2b1624746:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-c103e8da43ca0962a7da-3",
       "changes": {

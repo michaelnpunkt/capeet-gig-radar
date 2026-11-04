@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:14:26 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: COMBAT BEACH – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e3a7465465354fd82c57-1</link>
+      <guid isPermaLink="false">e3a7465465354fd82c57:1</guid>
+      <pubDate>Wed, 04 Nov 2026 09:14:26 +0000</pubDate>
+      <description>2026-11-13 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SPIRITUAL LAW, NO LAUGHING MATTER, EXCEPTION, PRUNKNELKE – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0562bc8ab769ee5f55b7-1</link>
+      <guid isPermaLink="false">0562bc8ab769ee5f55b7:1</guid>
+      <pubDate>Wed, 04 Nov 2026 09:14:26 +0000</pubDate>
+      <description>2026-11-21 · SUb,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: PURPLE, Junes Ivy – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b611988a3564dec07c7-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">4ebfd778b8b57a6c7b72:1</guid>
       <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
       <description>2026-10-24 · p.p.c.,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: TRAITRS, WHISPERS IN THE SHADOW – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-edcd4833e0c11101ca26-1</link>
-      <guid isPermaLink="false">edcd4833e0c11101ca26:1</guid>
-      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
-      <description>2027-02-26 · p.p.c.,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: WAVING THE GUNS – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-12140cc2ebf265e5e1b6-1</link>
-      <guid isPermaLink="false">12140cc2ebf265e5e1b6:1</guid>
-      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
-      <description>2027-03-12 · p.p.c.,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>
