@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:30:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PAIN IS, WOKE, GREY VALLEY, SIX – Langenlebarn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-564db34ea359c87d032e-1</link>
+      <guid isPermaLink="false">564db34ea359c87d032e:1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
+      <description>2026-11-07 · AGE @ Florahofsaal,  Langenlebarn · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: ANDERWELT, FLESH REMAINS, The GREAT GRAY FUNK, ERLAUFTALER SPRITZBUAM – Purgstall</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a45aa862bd7e173d43ec-1</link>

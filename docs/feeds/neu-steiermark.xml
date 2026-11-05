@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:30:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SON OF THE VELVET RAT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ba8132e0ce93cd4c9917-1</link>
+      <guid isPermaLink="false">ba8132e0ce93cd4c9917:1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
+      <description>2026-11-07 · Café Stockwerk,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Geändert: AMISTAT, The FRANKLIN ELECTRIC – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-32dbd9e3bbb47d25c5e7-1</link>
+      <guid isPermaLink="false">32dbd9e3bbb47d25c5e7:1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
+      <description>2026-11-27 · Orpheum,  Graz · Steiermark · Line-up: AMISTAT → AMISTAT · The FRANKLIN ELECTRIC</description>
+    </item>
     <item>
       <title>Neu: COMBAT BEACH – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e3a7465465354fd82c57-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">ba76ccb83024ec50d4ab:1</guid>
       <pubDate>Wed, 02 Sep 2026 07:06:47 +0000</pubDate>
       <description>2026-10-10 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: IAMX – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fa6506a01418c3aa2752-1</link>
-      <guid isPermaLink="false">fa6506a01418c3aa2752:1</guid>
-      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
-      <description>2026-09-14 · p.p.c.,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: Justin Sullivan &amp; Dean White – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ebfd778b8b57a6c7b72-1</link>
-      <guid isPermaLink="false">4ebfd778b8b57a6c7b72:1</guid>
-      <pubDate>Sat, 29 Aug 2026 09:04:20 +0000</pubDate>
-      <description>2026-10-24 · p.p.c.,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

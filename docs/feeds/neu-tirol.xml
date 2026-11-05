@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:30:18 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PLEASE MADAME – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-76e596ca08803b2a5f1c-1</link>
+      <guid isPermaLink="false">76e596ca08803b2a5f1c:1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
+      <description>2026-11-07 · p.m.k.,  Innsbruck · Tirol</description>
+    </item>
     <item>
       <title>Neu: DEZINFORMACIJE, HARSH RESPONSE, HYDRA, LÄRA – Innsbruck</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3f86763a2845d8173c37-1</link>

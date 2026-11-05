@@ -1,6 +1,1983 @@
 {
-  "generated_at": "2026-11-04T09:14:26.217404+00:00",
+  "generated_at": "2026-11-05T09:30:18.193382+00:00",
   "revisions": [
+    {
+      "anchor": "change-e697fb0c59fd5d21d34a-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "CORDOBA78"
+            }
+          ],
+          "to": [
+            {
+              "name": "CORDOBA78"
+            },
+            {
+              "name": "Filiah"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.cordoba78.com/",
+            "name": "CORDOBA78"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/officialfiliah/",
+            "name": "Filiah"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e697fb0c59fd5d21d34a",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "CORDOBA78",
+            "url": "https://www.cordoba78.com/"
+          },
+          {
+            "label": "Filiah",
+            "url": "https://www.facebook.com/officialfiliah/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2115598222338306/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "21.11.: CORDOBA78 / Filiah @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "e697fb0c59fd5d21d34a",
+      "guid": "e697fb0c59fd5d21d34a:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-786f418a7227e4d92097-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "AMISTAT"
+            }
+          ],
+          "to": [
+            {
+              "name": "AMISTAT"
+            },
+            {
+              "name": "The FRANKLIN ELECTRIC"
+            }
+          ]
+        },
+        "venue": {
+          "from": "Posthof",
+          "to": "Posthof (gr. Saal)"
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://www.amistatmusic.com/",
+            "name": "AMISTAT"
+          },
+          {
+            "country": "CAN",
+            "link": "https://www.thefranklinelectric.com/music",
+            "name": "The FRANKLIN ELECTRIC"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-08-27T12:48:12.218972+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "786f418a7227e4d92097",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "AMISTAT",
+            "url": "https://www.amistatmusic.com/"
+          },
+          {
+            "label": "The FRANKLIN ELECTRIC",
+            "url": "https://www.thefranklinelectric.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2056965001899732/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "28.11.: AMISTAT (aus) / The FRANKLIN ELECTRIC (can) @ Posthof (gr. Saal), Linz [sold out!] [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof (gr. Saal)"
+      },
+      "event_id": "786f418a7227e4d92097",
+      "guid": "786f418a7227e4d92097:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-124a0bcaa534e0a7da38-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/BOONofficial",
+            "name": "BOON"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/hopetilldecember/",
+            "name": "HOPE TILL DECEMBER"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/topfuelmusic",
+            "name": "TOP FUEL"
+          },
+          {
+            "country": null,
+            "link": "https://www.madhouse-official.com/",
+            "name": "MÄDHOUSE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/MeatCheeseBand/",
+            "name": "MEAT CHEESE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "124a0bcaa534e0a7da38",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "BOON",
+            "url": "https://www.facebook.com/BOONofficial"
+          },
+          {
+            "label": "HOPE TILL DECEMBER",
+            "url": "https://www.facebook.com/hopetilldecember/"
+          },
+          {
+            "label": "TOP FUEL",
+            "url": "https://www.facebook.com/topfuelmusic"
+          },
+          {
+            "label": "MÄDHOUSE",
+            "url": "https://www.madhouse-official.com/"
+          },
+          {
+            "label": "MEAT CHEESE",
+            "url": "https://www.facebook.com/MeatCheeseBand/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2028373957890619/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: BOON / HOPE TILL DECEMBER / TOP FUEL / MÄDHOUSE / MEAT CHEESE @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "124a0bcaa534e0a7da38",
+      "guid": "124a0bcaa534e0a7da38:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-54fd3e8ad107f0f48bc9-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://grubenwehrfreiburg.bandcamp.com/album/tender-moments",
+            "name": "Der VERLORENE FADEN"
+          },
+          {
+            "country": "D",
+            "link": "https://freneticmagicsounds.bandcamp.com/album/noumenon",
+            "name": "H.FLORA"
+          },
+          {
+            "country": "D",
+            "link": "https://immerge.bandcamp.com/",
+            "name": "EMERGE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "54fd3e8ad107f0f48bc9",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "Der VERLORENE FADEN",
+            "url": "https://grubenwehrfreiburg.bandcamp.com/album/tender-moments"
+          },
+          {
+            "label": "H.FLORA",
+            "url": "https://freneticmagicsounds.bandcamp.com/album/noumenon"
+          },
+          {
+            "label": "EMERGE",
+            "url": "https://immerge.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.11.: Der VERLORENE FADEN (d) / H.FLORA (d) / EMERGE (d) @ Koje, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Koje"
+      },
+      "event_id": "54fd3e8ad107f0f48bc9",
+      "guid": "54fd3e8ad107f0f48bc9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-be3fa2c7f51493cc83d5-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://ara-iec.bandcamp.com/",
+            "name": "ARA Duo"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "be3fa2c7f51493cc83d5",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "ARA Duo",
+            "url": "https://ara-iec.bandcamp.com/"
+          }
+        ],
+        "postal_code": "1160",
+        "revision": 1,
+        "source_text": "07.11.: ARA Duo @ Römergasse 38, 1160 Wien [19:00!]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Römergasse 38"
+      },
+      "event_id": "be3fa2c7f51493cc83d5",
+      "guid": "be3fa2c7f51493cc83d5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-564db34ea359c87d032e-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/PainIs1",
+            "name": "PAIN IS"
+          },
+          {
+            "country": null,
+            "link": "https://wokeat.bandcamp.com/music",
+            "name": "WOKE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/grey_valley_music/",
+            "name": "GREY VALLEY"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "SIX"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Langenlebarn",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "564db34ea359c87d032e",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PAIN IS",
+            "url": "https://www.facebook.com/PainIs1"
+          },
+          {
+            "label": "WOKE",
+            "url": "https://wokeat.bandcamp.com/music"
+          },
+          {
+            "label": "GREY VALLEY",
+            "url": "https://www.instagram.com/grey_valley_music/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.metal4friends.at/eventkalender/7.11.2026/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: PAIN IS / WOKE / GREY VALLEY / SIX@AGE @ Florahofsaal, Langenlebarn [web]",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "AGE @ Florahofsaal"
+      },
+      "event_id": "564db34ea359c87d032e",
+      "guid": "564db34ea359c87d032e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-76e596ca08803b2a5f1c-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/pleasemadame",
+            "name": "PLEASE MADAME"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Innsbruck",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "76e596ca08803b2a5f1c",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PLEASE MADAME",
+            "url": "https://www.facebook.com/pleasemadame"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2166155874320188"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: PLEASE MADAME @ p.m.k., Innsbruck [fb]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "p.m.k."
+      },
+      "event_id": "76e596ca08803b2a5f1c",
+      "guid": "76e596ca08803b2a5f1c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba8132e0ce93cd4c9917-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.sonofthevelvetrat.com/",
+            "name": "SON OF THE VELVET RAT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-07",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ba8132e0ce93cd4c9917",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SON OF THE VELVET RAT",
+            "url": "https://www.sonofthevelvetrat.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1751687885961285"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.11.: SON OF THE VELVET RAT @ Café Stockwerk, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Stockwerk"
+      },
+      "event_id": "ba8132e0ce93cd4c9917",
+      "guid": "ba8132e0ce93cd4c9917:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-89f73d74ba20fb782c53-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "The RES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-08",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "89f73d74ba20fb782c53",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "[web]",
+            "url": "https://flucc.at/events/f9RAFs-sonntag-sdisco-081126/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.11.: Sonntag'sdisco feat. The RES @ Flucc, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Sonntag'sdisco",
+        "venue": "Flucc"
+      },
+      "event_id": "89f73d74ba20fb782c53",
+      "guid": "89f73d74ba20fb782c53:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b2c888298cba3ad4b0d-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://redeyetemple.bandcamp.com/",
+            "name": "RED EYE TEMPLE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ChaosInsideMetal",
+            "name": "CHAOS INSIDE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Disseminationband",
+            "name": "DISSEMINATION"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DevilsSmoke/",
+            "name": "DEVILS SMOKE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/havenal",
+            "name": "HAVENAL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "0b2c888298cba3ad4b0d",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "RED EYE TEMPLE",
+            "url": "https://redeyetemple.bandcamp.com/"
+          },
+          {
+            "label": "CHAOS INSIDE",
+            "url": "https://www.facebook.com/ChaosInsideMetal"
+          },
+          {
+            "label": "DISSEMINATION",
+            "url": "https://www.facebook.com/Disseminationband"
+          },
+          {
+            "label": "DEVILS SMOKE",
+            "url": "https://www.facebook.com/DevilsSmoke/"
+          },
+          {
+            "label": "HAVENAL",
+            "url": "https://www.facebook.com/havenal"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1602474604161525/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: RED EYE TEMPLE / CHAOS INSIDE / DISSEMINATION / DEVILS SMOKE / HAVENAL @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "0b2c888298cba3ad4b0d",
+      "guid": "0b2c888298cba3ad4b0d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-74fabcb85860fde957f3-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/paloma_004_/",
+            "name": "PALOMA 004"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DazedPilots/",
+            "name": "DAZED PILOTS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "74fabcb85860fde957f3",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PALOMA 004",
+            "url": "https://www.instagram.com/paloma_004_/"
+          },
+          {
+            "label": "DAZED PILOTS",
+            "url": "https://www.facebook.com/DazedPilots/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/paloma-004-dazed-pilots/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: PALOMA 004 / DAZED PILOTS @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "74fabcb85860fde957f3",
+      "guid": "74fabcb85860fde957f3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-83fcc16e64c23df375fb-1",
+      "changes": {
+        "venue": {
+          "from": "Posthof",
+          "to": "Brucknerhaus"
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://jethrotull.com/",
+            "name": "JETHRO TULL"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-22",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "83fcc16e64c23df375fb",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "JETHRO TULL",
+            "url": "https://jethrotull.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1213156247345408/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "22.11.: JETHRO TULL (uk) @ Brucknerhaus, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Brucknerhaus"
+      },
+      "event_id": "83fcc16e64c23df375fb",
+      "guid": "83fcc16e64c23df375fb:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-980ba73d592e9bcd797e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SONDASCHULE"
+            }
+          ],
+          "to": [
+            {
+              "name": "SONDASCHULE"
+            },
+            {
+              "name": "MISSSTAND"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.sondaschule.de/",
+            "name": "SONDASCHULE"
+          },
+          {
+            "country": null,
+            "link": "https://band-missstand.bandcamp.com/",
+            "name": "MISSSTAND"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-26",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Ska Punk"
+          ]
+        },
+        "id": "980ba73d592e9bcd797e",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SONDASCHULE",
+            "url": "https://www.sondaschule.de/"
+          },
+          {
+            "label": "MISSSTAND",
+            "url": "https://band-missstand.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.posthof.at/event/sondaschule"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.11.: SONDASCHULE (d) / MISSSTAND @ Posthof, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "980ba73d592e9bcd797e",
+      "guid": "980ba73d592e9bcd797e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-32dbd9e3bbb47d25c5e7-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "AMISTAT"
+            }
+          ],
+          "to": [
+            {
+              "name": "AMISTAT"
+            },
+            {
+              "name": "The FRANKLIN ELECTRIC"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://www.amistatmusic.com/",
+            "name": "AMISTAT"
+          },
+          {
+            "country": "CAN",
+            "link": "https://www.thefranklinelectric.com/music",
+            "name": "The FRANKLIN ELECTRIC"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "32dbd9e3bbb47d25c5e7",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "AMISTAT",
+            "url": "https://www.amistatmusic.com/"
+          },
+          {
+            "label": "The FRANKLIN ELECTRIC",
+            "url": "https://www.thefranklinelectric.com/music"
+          },
+          {
+            "label": "[web]",
+            "url": "https://spielstaetten.buehnen-graz.com/event/180957827/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: AMISTAT (aus) / The FRANKLIN ELECTRIC (can) @ Orpheum, Graz [web]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Orpheum"
+      },
+      "event_id": "32dbd9e3bbb47d25c5e7",
+      "guid": "32dbd9e3bbb47d25c5e7:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8d35a52ebeeeb64a4209-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SONDASCHULE"
+            }
+          ],
+          "to": [
+            {
+              "name": "SONDASCHULE"
+            },
+            {
+              "name": "MISSSTAND"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.sondaschule.de/",
+            "name": "SONDASCHULE"
+          },
+          {
+            "country": null,
+            "link": "https://band-missstand.bandcamp.com/",
+            "name": "MISSSTAND"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Ska Punk"
+          ]
+        },
+        "id": "8d35a52ebeeeb64a4209",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SONDASCHULE",
+            "url": "https://www.sondaschule.de/"
+          },
+          {
+            "label": "MISSSTAND",
+            "url": "https://band-missstand.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1317707463589804/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: SONDASCHULE (d) / MISSSTAND @ Rockhouse, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rockhouse"
+      },
+      "event_id": "8d35a52ebeeeb64a4209",
+      "guid": "8d35a52ebeeeb64a4209:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-23502df4130f53345231-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://thedragsband.com/",
+            "name": "The DRAGS"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "ODDLY ENOUGH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "23502df4130f53345231",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "The DRAGS",
+            "url": "https://thedragsband.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/the-drags-w-oddly-enough/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: The DRAGS / ODDLY ENOUGH @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "23502df4130f53345231",
+      "guid": "23502df4130f53345231:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-38e50d665dc2dddd4ec8-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/nacameomusic/",
+            "name": "NAKED CAMEO"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/avafinamusic/",
+            "name": "Ava Fina"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "38e50d665dc2dddd4ec8",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "NAKED CAMEO",
+            "url": "https://www.facebook.com/nacameomusic/"
+          },
+          {
+            "label": "Ava Fina",
+            "url": "https://www.instagram.com/avafinamusic/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.posthof.at/event/naked-cameo-2-1-7532"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: NAKED CAMEO / Ava Fina @ Posthof (mittlerer Saal), Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof (mittlerer Saal)"
+      },
+      "event_id": "38e50d665dc2dddd4ec8",
+      "guid": "38e50d665dc2dddd4ec8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1aa80f202950f4e02dcb-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/schloidakotze/",
+            "name": "SCHLOIDAKOTZE"
+          },
+          {
+            "country": null,
+            "link": "https://heimwerkerband.com/",
+            "name": "HEIMWERKER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "heuristic",
+          "subgenres": [
+            "Street Punk"
+          ]
+        },
+        "id": "1aa80f202950f4e02dcb",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SCHLOIDAKOTZE",
+            "url": "https://www.instagram.com/schloidakotze/"
+          },
+          {
+            "label": "HEIMWERKER",
+            "url": "https://heimwerkerband.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/schloidakotze-heimwerker/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: SCHLOIDAKOTZE / HEIMWERKER @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "1aa80f202950f4e02dcb",
+      "guid": "1aa80f202950f4e02dcb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1ac4c9ad111645ad51f9-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.sonofthevelvetrat.com/",
+            "name": "SON OF THE VELVET RAT"
+          },
+          {
+            "country": null,
+            "link": "https://www.evaplanktonduo.com/",
+            "name": "Eva Plankton"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "1ac4c9ad111645ad51f9",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SON OF THE VELVET RAT",
+            "url": "https://www.sonofthevelvetrat.com/"
+          },
+          {
+            "label": "Eva Plankton",
+            "url": "https://www.evaplanktonduo.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1616366120100728/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: SON OF THE VELVET RAT / Eva Plankton @ Tribüne, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Tribüne"
+      },
+      "event_id": "1ac4c9ad111645ad51f9",
+      "guid": "1ac4c9ad111645ad51f9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-61b50f99a41ec1eed107-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://glut-band.bandcamp.com/",
+            "name": "GLUT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/killedbyyouth_music/",
+            "name": "KILLED BY YOUTH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Vöcklabruck",
+        "event_date": "2026-12-05",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "61b50f99a41ec1eed107",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "GLUT",
+            "url": "https://glut-band.bandcamp.com/"
+          },
+          {
+            "label": "KILLED BY YOUTH",
+            "url": "https://www.instagram.com/killedbyyouth_music/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2943329862720449/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.12.: GLUT / KILLED BY YOUTH @ OKH, Vöcklabruck [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "OKH"
+      },
+      "event_id": "61b50f99a41ec1eed107",
+      "guid": "61b50f99a41ec1eed107:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-55b3ff375ede6962339c-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.sonofthevelvetrat.com/",
+            "name": "SON OF THE VELVET RAT"
+          },
+          {
+            "country": null,
+            "link": "https://www.the-ghost-and-the-machine.com/",
+            "name": "THE GHOST AND THE MACHINE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "55b3ff375ede6962339c",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "SON OF THE VELVET RAT",
+            "url": "https://www.sonofthevelvetrat.com/"
+          },
+          {
+            "label": "THE GHOST AND THE MACHINE",
+            "url": "https://www.the-ghost-and-the-machine.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1343935027728043/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: SON OF THE VELVET RAT / THE GHOST AND THE MACHINE @ Porgy & Bess, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Porgy & Bess"
+      },
+      "event_id": "55b3ff375ede6962339c",
+      "guid": "55b3ff375ede6962339c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-78174be9f1439a627a5a-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ATHIRIA666/",
+            "name": "ATHIRIA"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/EerieHorizon",
+            "name": "EERIE HORIZON"
+          },
+          {
+            "country": null,
+            "link": "https://ratkinggone.bandcamp.com/",
+            "name": "RAT KING GONE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-12",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "78174be9f1439a627a5a",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "ATHIRIA",
+            "url": "https://www.facebook.com/ATHIRIA666/"
+          },
+          {
+            "label": "EERIE HORIZON",
+            "url": "https://www.facebook.com/EerieHorizon"
+          },
+          {
+            "label": "RAT KING GONE",
+            "url": "https://ratkinggone.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2289506811832370"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.12.: ATHIRIA / EERIE HORIZON / RAT KING GONE @ Escape, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "78174be9f1439a627a5a",
+      "guid": "78174be9f1439a627a5a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ba0ef7317c2967211e16-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://acidicjuice2000.bandcamp.com/",
+            "name": "ACIDIC JUICE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/notyourordinary.official/",
+            "name": "NOTYOURORDINARY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-18",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ba0ef7317c2967211e16",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "ACIDIC JUICE",
+            "url": "https://acidicjuice2000.bandcamp.com/"
+          },
+          {
+            "label": "NOTYOURORDINARY",
+            "url": "https://www.instagram.com/notyourordinary.official/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1731467021254217/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.12.: ACIDIC JUICE (d) / NOTYOURORDINARY @ Kramladen, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kramladen"
+      },
+      "event_id": "ba0ef7317c2967211e16",
+      "guid": "ba0ef7317c2967211e16:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3c7ade876fe8b7ba1df4-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://glut-band.bandcamp.com/",
+            "name": "GLUT"
+          },
+          {
+            "country": null,
+            "link": "https://leberpunk.bandcamp.com/",
+            "name": "LEBER"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "USCHI'S AFFAIR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2027-01-29",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3c7ade876fe8b7ba1df4",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "GLUT",
+            "url": "https://glut-band.bandcamp.com/"
+          },
+          {
+            "label": "LEBER",
+            "url": "https://leberpunk.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2718442851946881/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.01.: GLUT / LEBER / USCHI'S AFFAIR @ Kapu, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "3c7ade876fe8b7ba1df4",
+      "guid": "3c7ade876fe8b7ba1df4:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c887fedc89eb7503263d-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://reinoglutberg.bandcamp.com/",
+            "name": "Reino Glutberg"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/johnnycolamusic/",
+            "name": "Johnny Cola"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-18",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "c887fedc89eb7503263d",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "Reino Glutberg",
+            "url": "https://reinoglutberg.bandcamp.com/"
+          },
+          {
+            "label": "Johnny Cola",
+            "url": "https://www.instagram.com/johnnycolamusic/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1057555503963944"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.02.: Reino Glutberg / Johnny Cola @ Kramladen, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kramladen"
+      },
+      "event_id": "c887fedc89eb7503263d",
+      "guid": "c887fedc89eb7503263d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e7b9603f4973ab501bef-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/blackoutproblems/",
+            "name": "BLACKOUT PROBLEMS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2027-03-12",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "e7b9603f4973ab501bef",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "BLACKOUT PROBLEMS",
+            "url": "https://www.facebook.com/blackoutproblems/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.posthof.at/event/blackout-problems-7533"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.03.: BLACKOUT PROBLEMS (d) @ Posthof, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "e7b9603f4973ab501bef",
+      "guid": "e7b9603f4973ab501bef:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b12c8d1b600c9ca509d2-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NED",
+            "link": "https://www.destaat.net/",
+            "name": "DE STAAT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-15",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "b12c8d1b600c9ca509d2",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "DE STAAT",
+            "url": "https://www.destaat.net/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1812127969805821/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.03.: DE STAAT (ned) @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "b12c8d1b600c9ca509d2",
+      "guid": "b12c8d1b600c9ca509d2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ac480f28424872a7a2b5-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/pleasemadame",
+            "name": "PLEASE MADAME"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Linz",
+        "event_date": "2027-04-15",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ac480f28424872a7a2b5",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PLEASE MADAME",
+            "url": "https://www.facebook.com/pleasemadame"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1129275353416454/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.04.: PLEASE MADAME @ Posthof, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Posthof"
+      },
+      "event_id": "ac480f28424872a7a2b5",
+      "guid": "ac480f28424872a7a2b5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a8d8f93e8b1d08925d4b-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/pleasemadame",
+            "name": "PLEASE MADAME"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Salzburg",
+        "event_date": "2027-04-30",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "a8d8f93e8b1d08925d4b",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PLEASE MADAME",
+            "url": "https://www.facebook.com/pleasemadame"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1888826291779942/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.04.: PLEASE MADAME @ Rockhouse, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rockhouse"
+      },
+      "event_id": "a8d8f93e8b1d08925d4b",
+      "guid": "a8d8f93e8b1d08925d4b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-761ef1745104713ea52e-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://draggedintosunlight.bandcamp.com/music",
+            "name": "DRAGGED INTO SUNLIGHT"
+          },
+          {
+            "country": "USA",
+            "link": "https://mizmor.bandcamp.com/",
+            "name": "MIZMOR"
+          },
+          {
+            "country": "SWE",
+            "link": "https://thisgiftisacurse.bandcamp.com/",
+            "name": "THIS GIFT IS A CURSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-05",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal",
+            "Doom Metal"
+          ]
+        },
+        "id": "761ef1745104713ea52e",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "DRAGGED INTO SUNLIGHT",
+            "url": "https://draggedintosunlight.bandcamp.com/music"
+          },
+          {
+            "label": "MIZMOR",
+            "url": "https://mizmor.bandcamp.com/"
+          },
+          {
+            "label": "THIS GIFT IS A CURSE",
+            "url": "https://thisgiftisacurse.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1169149155773223"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.05.: DRAGGED INTO SUNLIGHT (uk) / MIZMOR (usa) / THIS GIFT IS A CURSE (swe) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "761ef1745104713ea52e",
+      "guid": "761ef1745104713ea52e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ddb5271f24d5c164ef57-1",
+      "changes": {},
+      "detected_at": "2026-11-05T09:30:18.193382+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/parentaladvisorydeathmetal",
+            "name": "PARENTAL ADVISORY"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/DarkfallMetal",
+            "name": "DARKFALL"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Dystrust.Horrorkore",
+            "name": "DYSTRUST"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/TitanKillerOfficial",
+            "name": "TITAN KILLER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-05T09:30:18.193382+00:00",
+        "city": "Wien",
+        "event_date": "2027-06-05",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "ddb5271f24d5c164ef57",
+        "last_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "links": [
+          {
+            "label": "PARENTAL ADVISORY",
+            "url": "https://www.facebook.com/parentaladvisorydeathmetal"
+          },
+          {
+            "label": "DARKFALL",
+            "url": "https://www.facebook.com/DarkfallMetal"
+          },
+          {
+            "label": "DYSTRUST",
+            "url": "https://www.facebook.com/Dystrust.Horrorkore"
+          },
+          {
+            "label": "TITAN KILLER",
+            "url": "https://www.facebook.com/TitanKillerOfficial"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1103287055847479/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.06.: PARENTAL ADVISORY / DARKFALL / DYSTRUST / TITAN KILLER @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "ddb5271f24d5c164ef57",
+      "guid": "ddb5271f24d5c164ef57:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-5ee6b33fb393b257ba6e-2",
       "changes": {
