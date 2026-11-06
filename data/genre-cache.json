@@ -41,6 +41,12 @@
       "Death Metal"
     ]
   },
+  "250cc": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "4 espressos": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -109,6 +115,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "a new chapter": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
     "subgenres": []
   },
   "a night in texas": {
@@ -232,6 +244,12 @@
     "subgenres": []
   },
   "adenocarcinoma": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "adina camhy": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -712,6 +730,15 @@
       "Black Metal"
     ]
   },
+  "apricity": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Black Metal"
+    ]
+  },
   "ar ker": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -801,6 +828,12 @@
       "Doom Metal",
       "Sludge Metal"
     ]
+  },
+  "arthur the gang": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "as everything unfolds": {
     "family": "Hardcore",
@@ -1107,6 +1140,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "balans": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "balberskult": {
     "classifier_version": 2,
@@ -1917,6 +1958,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "c u n t s": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "cabal": {
     "family": "Metal",
     "source": "lastfm",
@@ -1944,6 +1991,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "cancer house": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
     "subgenres": []
   },
   "cancer void": {
@@ -2166,6 +2219,12 @@
     ]
   },
   "cheap hot": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "check her pulse": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -3160,6 +3219,14 @@
     "source": "lastfm",
     "subgenres": [
       "Thrash Metal"
+    ]
+  },
+  "defocus": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
     ]
   },
   "deftones": {
@@ -7725,6 +7792,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "little barrie": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "little element": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -7835,6 +7908,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "los piranas": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "los tonnos": {
@@ -8350,6 +8429,12 @@
   "maustetytot": {
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "maxi nagl": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "maya ongaku": {
@@ -9357,6 +9442,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "noah derksen": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "noah monoton band": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9501,6 +9592,12 @@
     "subgenres": [
       "Grindcore"
     ]
+  },
+  "nufo": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "nuki": {
     "classifier_version": 2,
@@ -9734,6 +9831,12 @@
     ]
   },
   "osees brigid dawson": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "osepia": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9994,6 +10097,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "paycheque": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "peace of mind": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -10112,6 +10223,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "philipp otterbach": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "piece": {
@@ -10726,6 +10843,12 @@
     "subgenres": []
   },
   "reino glutberg": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "remeant": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -13258,6 +13381,12 @@
       "Ska Punk"
     ]
   },
+  "the pau": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the pineapple thief": {
     "classifier_version": 2,
     "family": "Rock",
@@ -14051,6 +14180,12 @@
       "Industrial"
     ]
   },
+  "uga bahn": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "ugly": {
     "classifier_version": 2,
     "family": "Metal",
@@ -14437,6 +14572,12 @@
       "Metalcore"
     ]
   },
+  "viech": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "vigljos": {
     "family": "Metal",
     "source": "lastfm",
@@ -14770,6 +14911,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "when it s over": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "whispers": {
     "classifier_version": 2,

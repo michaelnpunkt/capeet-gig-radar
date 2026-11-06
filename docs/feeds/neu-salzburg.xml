@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:25:31 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: PAYCHEQUE, UGA//BAHN – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-65f0c95f6283cbc944d9-1</link>
+      <guid isPermaLink="false">65f0c95f6283cbc944d9:1</guid>
+      <pubDate>Fri, 06 Nov 2026 09:25:31 +0000</pubDate>
+      <description>2026-11-14 · Gallery Antiquariat Weinek,  Salzburg · Salzburg</description>
+    </item>
+    <item>
+      <title>Neu: The SPILL IN DREAMS – St. Johann im Pongau</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cee83fa15464071ded6a-1</link>
+      <guid isPermaLink="false">cee83fa15464071ded6a:1</guid>
+      <pubDate>Fri, 06 Nov 2026 09:25:31 +0000</pubDate>
+      <description>2027-01-29 · kultur:plattform,  St. Johann im Pongau · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: SONDASCHULE, MISSSTAND – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8d35a52ebeeeb64a4209-1</link>
