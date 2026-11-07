@@ -1,6 +1,566 @@
 {
-  "generated_at": "2026-11-06T09:25:31.523216+00:00",
+  "generated_at": "2026-11-07T08:48:08.542565+00:00",
   "revisions": [
+    {
+      "anchor": "change-8b250cc26a146caf662b-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SHAKI TAVI"
+            },
+            {
+              "name": "TRAUMA GLOW"
+            },
+            {
+              "name": "MANIC YOUTH"
+            }
+          ],
+          "to": [
+            {
+              "name": "SHAKI TAVI"
+            },
+            {
+              "name": "TRAUMA GLOW"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://shakitavi.bandcamp.com/",
+            "name": "SHAKI TAVI"
+          },
+          {
+            "country": null,
+            "link": "https://traumaglow.bandcamp.com/",
+            "name": "TRAUMA GLOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-06",
+        "first_seen_at": "2026-10-31T08:26:40.404094+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "8b250cc26a146caf662b",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "SHAKI TAVI",
+            "url": "https://shakitavi.bandcamp.com/"
+          },
+          {
+            "label": "TRAUMA GLOW",
+            "url": "https://traumaglow.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.lot.wien/event-details/live-lot-shaki-tavi-manic-youth-trauma-glow"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "06.11.: SHAKI TAVI (usa) / TRAUMA GLOW @ Das Lot, Wien [MANIC YOUTH cancelled.] [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Das Lot"
+      },
+      "event_id": "8b250cc26a146caf662b",
+      "guid": "8b250cc26a146caf662b:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-74fabcb85860fde957f3-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "PALOMA 004"
+            },
+            {
+              "name": "DAZED PILOTS"
+            }
+          ],
+          "to": [
+            {
+              "name": "Lisa Obereder"
+            },
+            {
+              "name": "FAJANC"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/li__004/",
+            "name": "Lisa Obereder"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/fajancmusic",
+            "name": "FAJANC"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "74fabcb85860fde957f3",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "Lisa Obereder",
+            "url": "https://www.instagram.com/li__004/"
+          },
+          {
+            "label": "FAJANC",
+            "url": "https://www.instagram.com/fajancmusic"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/paloma-004-dazed-pilots/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "21.11.: Lisa Obereder / FAJANC @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "74fabcb85860fde957f3",
+      "guid": "74fabcb85860fde957f3:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-0baf52b4a8e74ee3793e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "AKA RINDE"
+            }
+          ],
+          "to": [
+            {
+              "name": "AKA RINDE"
+            },
+            {
+              "name": "Moritz Molnar & The NECESSARY EVIL"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.akarinde.com/",
+            "name": "AKA RINDE"
+          },
+          {
+            "country": null,
+            "link": "https://moritzmolnar.bandcamp.com/",
+            "name": "Moritz Molnar & The NECESSARY EVIL"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-09",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "0baf52b4a8e74ee3793e",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "AKA RINDE",
+            "url": "https://www.akarinde.com/"
+          },
+          {
+            "label": "Moritz Molnar & The NECESSARY EVIL",
+            "url": "https://moritzmolnar.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.11.: AKA RINDE (d) / Moritz Molnar & The NECESSARY EVIL @ rhiz, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "0baf52b4a8e74ee3793e",
+      "guid": "0baf52b4a8e74ee3793e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-57a7d284e2a249add66f-1",
+      "changes": {},
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://turbodiscos.bandcamp.com/album/der-irrtum-hat-mal-wieder-gewonn",
+            "name": "JAZZ"
+          },
+          {
+            "country": null,
+            "link": "https://kuato666.bandcamp.com/",
+            "name": "KUATO"
+          },
+          {
+            "country": null,
+            "link": "https://resitant.bandcamp.com/",
+            "name": "RESITANT"
+          },
+          {
+            "country": null,
+            "link": "https://m.fischer.wuk.at/",
+            "name": "Michael Fischer"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "57a7d284e2a249add66f",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "JAZZ",
+            "url": "https://turbodiscos.bandcamp.com/album/der-irrtum-hat-mal-wieder-gewonn"
+          },
+          {
+            "label": "KUATO",
+            "url": "https://kuato666.bandcamp.com/"
+          },
+          {
+            "label": "RESITANT",
+            "url": "https://resitant.bandcamp.com/"
+          },
+          {
+            "label": "Michael Fischer",
+            "url": "https://m.fischer.wuk.at/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: JAZZ (d) / KUATO / RESITANT / Michael Fischer @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "57a7d284e2a249add66f",
+      "guid": "57a7d284e2a249add66f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0eb09f58895854212161-1",
+      "changes": {},
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/official.billy.liar/",
+            "name": "Billy Liar"
+          },
+          {
+            "country": "USA/D",
+            "link": "https://joemcmahonmusic.bandcamp.com/",
+            "name": "Joe McMahon"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "HARSH WAVES CHEERIO"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-25",
+        "first_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "0eb09f58895854212161",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "Billy Liar",
+            "url": "https://www.facebook.com/official.billy.liar/"
+          },
+          {
+            "label": "Joe McMahon",
+            "url": "https://joemcmahonmusic.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.11.: Billy Liar (uk) / Joe McMahon (usa/d) / HARSH WAVES CHEERIO @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "0eb09f58895854212161",
+      "guid": "0eb09f58895854212161:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e8bc457ad93607071af1-1",
+      "changes": {},
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/anna.absolut.punk/",
+            "name": "ANNA ABSOLUT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/black_sunzet/",
+            "name": "BLACK SUNZET"
+          },
+          {
+            "country": "D",
+            "link": "https://www.schoefischundruess.de/",
+            "name": "Schöfisch & Rueß"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-05",
+        "first_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e8bc457ad93607071af1",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "ANNA ABSOLUT",
+            "url": "https://www.facebook.com/anna.absolut.punk/"
+          },
+          {
+            "label": "BLACK SUNZET",
+            "url": "https://www.instagram.com/black_sunzet/"
+          },
+          {
+            "label": "Schöfisch & Rueß",
+            "url": "https://www.schoefischundruess.de/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.12.: ANNA ABSOLUT / BLACK SUNZET / Schöfisch & Rueß (d) @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "e8bc457ad93607071af1",
+      "guid": "e8bc457ad93607071af1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6461b05eb748fbc4e072-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The JUNCTION"
+            },
+            {
+              "name": "U.V.M."
+            }
+          ],
+          "to": [
+            {
+              "name": "The JUNCTION"
+            },
+            {
+              "name": "U.V.M."
+            },
+            {
+              "name": "Scott McCloud"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-07T08:48:08.542565+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://www.facebook.com/thejunctionrocks/",
+            "name": "The JUNCTION"
+          },
+          {
+            "country": null,
+            "link": "https://soundcloud.com/uvmofficial",
+            "name": "U.V.M."
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/scottdmccloud/",
+            "name": "Scott McCloud"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-07T08:48:08.542565+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-07",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "6461b05eb748fbc4e072",
+        "last_seen_at": "2026-11-07T08:48:08.542565+00:00",
+        "links": [
+          {
+            "label": "The JUNCTION",
+            "url": "https://www.facebook.com/thejunctionrocks/"
+          },
+          {
+            "label": "U.V.M.",
+            "url": "https://soundcloud.com/uvmofficial"
+          },
+          {
+            "label": "Scott McCloud",
+            "url": "https://www.instagram.com/scottdmccloud/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.12.: The JUNCTION (ita) / U.V.M. / Scott McCloud (usa) @ Café Carina, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "6461b05eb748fbc4e072",
+      "guid": "6461b05eb748fbc4e072:1",
+      "kind": "changed",
+      "revision": 1
+    },
     {
       "anchor": "change-91af588f0328b673453c-3",
       "changes": {

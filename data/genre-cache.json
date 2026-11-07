@@ -5718,6 +5718,12 @@
       "Hardcore Punk"
     ]
   },
+  "harsh waves cheerio": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "hase": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -6727,6 +6733,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "jazz": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "jazz sabbath": {
     "family": "Rock",
     "source": "lastfm",
@@ -7327,6 +7339,12 @@
     "subgenres": [
       "Doom Metal"
     ]
+  },
+  "kuato": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "kuenring": {
     "family": "Metal",
@@ -11363,6 +11381,12 @@
     "subgenres": []
   },
   "scott hepple the sun band": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "scott mccloud": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
