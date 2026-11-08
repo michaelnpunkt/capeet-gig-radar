@@ -1,6 +1,740 @@
 {
-  "generated_at": "2026-11-07T08:48:08.542565+00:00",
+  "generated_at": "2026-11-08T09:00:01.729764+00:00",
   "revisions": [
+    {
+      "anchor": "change-c4bef60064ac717f3c7d-2",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BRA",
+            "link": null,
+            "name": "REVENGIN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Feldbach",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-09-09T07:23:54.060566+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c4bef60064ac717f3c7d",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "12.11.: REVENGIN (bra) @ Glam, Feldbach [cancelled.]",
+        "state": "Steiermark",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Glam"
+      },
+      "event_id": "c4bef60064ac717f3c7d",
+      "guid": "c4bef60064ac717f3c7d:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-e3a7465465354fd82c57-2",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": null,
+            "name": "COMBAT BEACH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-11-04T09:14:26.217404+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e3a7465465354fd82c57",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "13.11.: COMBAT BEACH @ SUb, Graz [cancelled.]",
+        "state": "Steiermark",
+        "status": "cancelled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "e3a7465465354fd82c57",
+      "guid": "e3a7465465354fd82c57:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-48966b7ab1962f312c57-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://birdstoneband.bandcamp.com/",
+            "name": "BIRDSTONE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/swanasus.band/",
+            "name": "SWANASUS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/fast_love_band/",
+            "name": "FAST LOVE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-13",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "48966b7ab1962f312c57",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "BIRDSTONE",
+            "url": "https://birdstoneband.bandcamp.com/"
+          },
+          {
+            "label": "SWANASUS",
+            "url": "https://www.instagram.com/swanasus.band/"
+          },
+          {
+            "label": "FAST LOVE",
+            "url": "https://www.instagram.com/fast_love_band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1117537477356912/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.11.: BIRDSTONE (fra) / SWANASUS / FAST LOVE @ Ann & Pat, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Ann & Pat"
+      },
+      "event_id": "48966b7ab1962f312c57",
+      "guid": "48966b7ab1962f312c57:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-4e62335998d86af2dd4d-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://www.instagram.com/claptrap.band/",
+            "name": "CLAPTRAP"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "4e62335998d86af2dd4d",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "CLAPTRAP",
+            "url": "https://www.instagram.com/claptrap.band/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1558796972680498/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: CLAPTRAP (fra) @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "4e62335998d86af2dd4d",
+      "guid": "4e62335998d86af2dd4d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ee5686ba07502635be17-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/splitroot.band/",
+            "name": "SPLITROOT"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/no_braids.band22/",
+            "name": "NO BRAIDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Linz",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ee5686ba07502635be17",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "SPLITROOT",
+            "url": "https://www.instagram.com/splitroot.band/"
+          },
+          {
+            "label": "NO BRAIDS",
+            "url": "https://www.instagram.com/no_braids.band22/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1831817647835559/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: SPLITROOT / NO BRAIDS @ Ann & Pat, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Ann & Pat"
+      },
+      "event_id": "ee5686ba07502635be17",
+      "guid": "ee5686ba07502635be17:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b4d403dd87645f0f3c40-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://www.facebook.com/eugenerippermusic",
+            "name": "Eugene Ripper"
+          },
+          {
+            "country": null,
+            "link": "https://chrismagerl.bandcamp.com/",
+            "name": "Chris Magerl"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "b4d403dd87645f0f3c40",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "Eugene Ripper",
+            "url": "https://www.facebook.com/eugenerippermusic"
+          },
+          {
+            "label": "Chris Magerl",
+            "url": "https://chrismagerl.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1093978366684150/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: Eugene Ripper (can) / Chris Magerl @ Das Wohnzimmer, Klagenfurt [fb]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Das Wohnzimmer"
+      },
+      "event_id": "b4d403dd87645f0f3c40",
+      "guid": "b4d403dd87645f0f3c40:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b88cf8e72c03e35e59b-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://auszaat.bandcamp.com/",
+            "name": "AUSZAAT"
+          },
+          {
+            "country": null,
+            "link": "https://harrowist.bandcamp.com/",
+            "name": "HARROWIST"
+          },
+          {
+            "country": null,
+            "link": "https://saturnists.bandcamp.com/",
+            "name": "SATURNISTS"
+          },
+          {
+            "country": null,
+            "link": "https://goddesslimaxblack.bandcamp.com/",
+            "name": "GODDESS LIMAX BLACK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-12-18",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal",
+            "Sludge Metal"
+          ]
+        },
+        "id": "0b88cf8e72c03e35e59b",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "AUSZAAT",
+            "url": "https://auszaat.bandcamp.com/"
+          },
+          {
+            "label": "HARROWIST",
+            "url": "https://harrowist.bandcamp.com/"
+          },
+          {
+            "label": "SATURNISTS",
+            "url": "https://saturnists.bandcamp.com/"
+          },
+          {
+            "label": "GODDESS LIMAX BLACK",
+            "url": "https://goddesslimaxblack.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1153939780624666/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.12.: AUSZAAT / HARROWIST / SATURNISTS / GODDESS LIMAX BLACK @ Rockhouse Bar, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rockhouse Bar"
+      },
+      "event_id": "0b88cf8e72c03e35e59b",
+      "guid": "0b88cf8e72c03e35e59b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3881df5801430d44cda0-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/low_life_rich_kids/",
+            "name": "LOW LIFE RICH KIDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-29",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3881df5801430d44cda0",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "LOW LIFE RICH KIDS",
+            "url": "https://www.instagram.com/low_life_rich_kids/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/29230631576548768/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "29.01.: LOW LIFE RICH KIDS @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "3881df5801430d44cda0",
+      "guid": "3881df5801430d44cda0:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1c72b839ad0b4a666422-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FIN",
+            "link": "https://www.instagram.com/weareharms/",
+            "name": "HARMS"
+          },
+          {
+            "country": null,
+            "link": "https://tiredhc.bandcamp.com/",
+            "name": "TIRED."
+          },
+          {
+            "country": null,
+            "link": "https://harrowist.bandcamp.com/",
+            "name": "HARROWIST"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Graz",
+        "event_date": "2027-02-20",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "1c72b839ad0b4a666422",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "HARMS",
+            "url": "https://www.instagram.com/weareharms/"
+          },
+          {
+            "label": "TIRED.",
+            "url": "https://tiredhc.bandcamp.com/"
+          },
+          {
+            "label": "HARROWIST",
+            "url": "https://harrowist.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.02.: HARMS (fin) / TIRED. / HARROWIST @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "1c72b839ad0b4a666422",
+      "guid": "1c72b839ad0b4a666422:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9d4e0480dada9332fec8-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://palinstar.bandcamp.com/",
+            "name": "PALINSTAR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-20",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "9d4e0480dada9332fec8",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "PALINSTAR",
+            "url": "https://palinstar.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/4391152217813546/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.03.: PALINSTAR (ch) @ rhiz, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "9d4e0480dada9332fec8",
+      "guid": "9d4e0480dada9332fec8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-568394711fae8c0244ca-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/antimatteronline/",
+            "name": "ANTIMATTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-15",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "568394711fae8c0244ca",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "ANTIMATTER",
+            "url": "https://www.facebook.com/antimatteronline/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1178755104730163/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.04.: ANTIMATTER (uk) @ Escape, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Escape"
+      },
+      "event_id": "568394711fae8c0244ca",
+      "guid": "568394711fae8c0244ca:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3b4e48ebdff031eb6193-1",
+      "changes": {},
+      "detected_at": "2026-11-08T09:00:01.729764+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://draggedintosunlight.bandcamp.com/music",
+            "name": "DRAGGED INTO SUNLIGHT"
+          },
+          {
+            "country": "USA",
+            "link": "https://mizmor.bandcamp.com/",
+            "name": "MIZMOR"
+          },
+          {
+            "country": "SWE",
+            "link": "https://thisgiftisacurse.bandcamp.com/",
+            "name": "THIS GIFT IS A CURSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-08T09:00:01.729764+00:00",
+        "city": "Salzburg",
+        "event_date": "2027-05-06",
+        "first_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal",
+            "Black Metal",
+            "Doom Metal"
+          ]
+        },
+        "id": "3b4e48ebdff031eb6193",
+        "last_seen_at": "2026-11-08T09:00:01.729764+00:00",
+        "links": [
+          {
+            "label": "DRAGGED INTO SUNLIGHT",
+            "url": "https://draggedintosunlight.bandcamp.com/music"
+          },
+          {
+            "label": "MIZMOR",
+            "url": "https://mizmor.bandcamp.com/"
+          },
+          {
+            "label": "THIS GIFT IS A CURSE",
+            "url": "https://thisgiftisacurse.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1435615115393481/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.05.: DRAGGED INTO SUNLIGHT (uk) / MIZMOR (usa) / THIS GIFT IS A CURSE (swe) @ Rockhouse Bar, Salzburg [fb]",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rockhouse Bar"
+      },
+      "event_id": "3b4e48ebdff031eb6193",
+      "guid": "3b4e48ebdff031eb6193:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-8b250cc26a146caf662b-2",
       "changes": {

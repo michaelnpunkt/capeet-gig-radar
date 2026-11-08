@@ -696,6 +696,12 @@
       "Hardcore Punk"
     ]
   },
+  "antimatter": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "antiteil": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -969,6 +975,15 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "auszaat": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal",
+      "Sludge Metal"
+    ]
   },
   "author punisher": {
     "classifier_version": 2,
@@ -2360,6 +2375,12 @@
     "subgenres": [
       "Post-Punk"
     ]
+  },
+  "claptrap": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "clara luzia": {
     "family": "Alternative/Indie",
@@ -5704,6 +5725,12 @@
     "subgenres": [
       "Thrash Metal"
     ]
+  },
+  "harms": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "harrowist": {
     "family": "Hardcore",
@@ -10019,6 +10046,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "palinstar": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "palm beach drive": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11234,6 +11267,12 @@
     "subgenres": []
   },
   "satori devils": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "saturnists": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -12633,6 +12672,12 @@
   "swan songs": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "swanasus": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "swanmay": {

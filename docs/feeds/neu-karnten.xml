@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:01 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Eugene Ripper, Chris Magerl – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b4d403dd87645f0f3c40-1</link>
+      <guid isPermaLink="false">b4d403dd87645f0f3c40:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2026-11-21 · Das Wohnzimmer,  Klagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Neu: PURPLE – Klagenfurt</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-41a3cafb1c2335565dcc-1</link>

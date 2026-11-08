@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:01 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: BIRDSTONE, SWANASUS, FAST LOVE – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48966b7ab1962f312c57-1</link>
+      <guid isPermaLink="false">48966b7ab1962f312c57:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2026-11-13 · Ann &amp; Pat,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SPLITROOT, NO BRAIDS – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee5686ba07502635be17-1</link>
+      <guid isPermaLink="false">ee5686ba07502635be17:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2026-11-20 · Ann &amp; Pat,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: Noah Derksen – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-26c2afc9b9dba7b149e3-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">9576543c95217aa4e088:1</guid>
       <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
       <description>2026-10-07 · Last,  Linz · Oberösterreich · Line-up: LEYA · GbClifford → LEYA · GbClifford · WITCHDROWNER, INC.</description>
-    </item>
-    <item>
-      <title>Neu: AR KER – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-541cff84ac96bb2be644-1</link>
-      <guid isPermaLink="false">541cff84ac96bb2be644:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-08 · Raumschiff,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: TODESSTERN, PULVERIN – Weyer</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1f3045491f0e8c041216-1</link>
-      <guid isPermaLink="false">1f3045491f0e8c041216:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-09 · Bertholdsaal,  Weyer · Oberösterreich</description>
     </item>
   </channel>
 </rss>

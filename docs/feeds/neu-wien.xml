@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:01 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: CLAPTRAP – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4e62335998d86af2dd4d-1</link>
+      <guid isPermaLink="false">4e62335998d86af2dd4d:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2026-11-20 · Vekks,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LOW LIFE RICH KIDS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3881df5801430d44cda0-1</link>
+      <guid isPermaLink="false">3881df5801430d44cda0:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2027-01-29 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PALINSTAR – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9d4e0480dada9332fec8-1</link>
+      <guid isPermaLink="false">9d4e0480dada9332fec8:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2027-03-20 · rhiz,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ANTIMATTER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-568394711fae8c0244ca-1</link>
+      <guid isPermaLink="false">568394711fae8c0244ca:1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
+      <description>2027-04-15 · Escape,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: SHAKI TAVI, TRAUMA GLOW – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8b250cc26a146caf662b-2</link>
@@ -671,41 +706,6 @@
       <guid isPermaLink="false">cdc16d2770b0a0b6998a:1</guid>
       <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
       <description>2027-04-23 · Arena (kl. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: John Bush – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-18ddec1cb84d0100ab29-1</link>
-      <guid isPermaLink="false">18ddec1cb84d0100ab29:1</guid>
-      <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
-      <description>2027-08-04 · Szene,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The CHATS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1434b1359fff8ba498c7-1</link>
-      <guid isPermaLink="false">1434b1359fff8ba498c7:1</guid>
-      <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
-      <description>2027-09-21 · Flex,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: TITLE ZWEIGHT, The SMITHERS, MY NAME JONAS, LIZTEGRITY – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b17df2a8662569c3d4f4-2</link>
-      <guid isPermaLink="false">b17df2a8662569c3d4f4:2</guid>
-      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
-      <description>2026-10-31 · Venster,  Wien · Wien · Line-up: MY NAME JONAS · BEIDL FIGHT → TITLE ZWEIGHT · The SMITHERS · MY NAME JONAS · LIZTEGRITY</description>
-    </item>
-    <item>
-      <title>Neu: FNGR FUIA, Roger &amp; The PACEMAKER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f17cbc9478c6e892e9c5-1</link>
-      <guid isPermaLink="false">f17cbc9478c6e892e9c5:1</guid>
-      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
-      <description>2026-10-31 · kv.r,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: REONA, FRUGUM – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3d103084e0c7d80b9c01-1</link>
-      <guid isPermaLink="false">3d103084e0c7d80b9c01:1</guid>
-      <pubDate>Wed, 28 Oct 2026 08:34:19 +0000</pubDate>
-      <description>2026-10-31 · Einbaumöbel,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
