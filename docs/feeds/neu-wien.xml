@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:48:52 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: NICKELCRACK, HARSH RESPONSE, LHUMA, STRAGE DI STATO, STÄB – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e8a72d8e20ca421e82b0-3</link>
+      <guid isPermaLink="false">e8a72d8e20ca421e82b0:3</guid>
+      <pubDate>Mon, 09 Nov 2026 09:48:52 +0000</pubDate>
+      <description>2026-12-12 · SchloR,  Wien · Wien · Titel: – → A Punk Market</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 09 Nov 2026 09:48:52 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: CLAPTRAP – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4e62335998d86af2dd4d-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">634855a5f6b92c6267db:1</guid>
       <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
       <description>2027-04-11 · Weberknecht,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BLACK MARBLE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6cf7fd937c116a636c79-1</link>
-      <guid isPermaLink="false">6cf7fd937c116a636c79:1</guid>
-      <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
-      <description>2027-04-19 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: JACK POTT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cdc16d2770b0a0b6998a-1</link>
-      <guid isPermaLink="false">cdc16d2770b0a0b6998a:1</guid>
-      <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
-      <description>2027-04-23 · Arena (kl. Halle),  Wien · Wien</description>
     </item>
   </channel>
 </rss>
