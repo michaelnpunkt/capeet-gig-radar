@@ -1,6 +1,1541 @@
 {
-  "generated_at": "2026-11-09T09:48:52.481003+00:00",
+  "generated_at": "2026-11-10T09:51:40.260974+00:00",
   "revisions": [
+    {
+      "anchor": "change-261142440be17650c78b-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "IROKÄSE"
+            },
+            {
+              "name": "LEBERZERROZE"
+            }
+          ],
+          "to": [
+            {
+              "name": "IROKÄSE"
+            },
+            {
+              "name": "LEBERZERROZE"
+            },
+            {
+              "name": "GODLESS GOOSE"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://irokaese.bandcamp.com/",
+            "name": "IROKÄSE"
+          },
+          {
+            "country": null,
+            "link": "https://leberzerroze.bandcamp.com/",
+            "name": "LEBERZERROZE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/godlessgoose",
+            "name": "GODLESS GOOSE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "261142440be17650c78b",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "IROKÄSE",
+            "url": "https://irokaese.bandcamp.com/"
+          },
+          {
+            "label": "LEBERZERROZE",
+            "url": "https://leberzerroze.bandcamp.com/"
+          },
+          {
+            "label": "GODLESS GOOSE",
+            "url": "https://www.instagram.com/godlessgoose"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1325270286444517"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "28.11.: IROKÄSE / LEBERZERROZE / GODLESS GOOSE @ Venster, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "261142440be17650c78b",
+      "guid": "261142440be17650c78b:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-dd667e9f8b5f9b7d4d2e-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "LEBER"
+            }
+          ],
+          "to": [
+            {
+              "name": "LEBER"
+            },
+            {
+              "name": "FLIRREN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://leberpunk.bandcamp.com/",
+            "name": "LEBER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/flirren_fetzt/",
+            "name": "FLIRREN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-05",
+        "first_seen_at": "2026-09-16T07:42:17.993766+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "dd667e9f8b5f9b7d4d2e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "LEBER",
+            "url": "https://leberpunk.bandcamp.com/"
+          },
+          {
+            "label": "FLIRREN",
+            "url": "https://www.instagram.com/flirren_fetzt/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2902551646791538/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "05.12.: LEBER / FLIRREN @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "dd667e9f8b5f9b7d4d2e",
+      "guid": "dd667e9f8b5f9b7d4d2e:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-d00ec851595b68d98aae-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "NICHTSEATTLE"
+            }
+          ],
+          "to": [
+            {
+              "name": "NICHTSEATTLE"
+            },
+            {
+              "name": "HAN HAN HUHMAN MAN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://nichtseattle.bandcamp.com/",
+            "name": "NICHTSEATTLE"
+          },
+          {
+            "country": "D",
+            "link": "https://www.hanhanhuh.de/",
+            "name": "HAN HAN HUHMAN MAN"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-10",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d00ec851595b68d98aae",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "NICHTSEATTLE",
+            "url": "https://nichtseattle.bandcamp.com/"
+          },
+          {
+            "label": "HAN HAN HUHMAN MAN",
+            "url": "https://www.hanhanhuh.de/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2869598603391651/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.11.: NICHTSEATTLE (d) / HAN HAN HUHMAN MAN (d) @ Lucia, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "d00ec851595b68d98aae",
+      "guid": "d00ec851595b68d98aae:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-17542f654ead2dee538a-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": null,
+            "name": "PLACEBO"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-10",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "17542f654ead2dee538a",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.11.: PLACEBO (uk) @ Stadthalle, Wien [cancelled.] [neu: tba]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Stadthalle"
+      },
+      "event_id": "17542f654ead2dee538a",
+      "guid": "17542f654ead2dee538a:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-961d5c3274b89e4d355e-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "IKAN HYU"
+            }
+          ],
+          "to": [
+            {
+              "name": "IKAN HYU"
+            },
+            {
+              "name": "CUTE AGGRESSION"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://ikanhyu.bandcamp.com/",
+            "name": "IKAN HYU"
+          },
+          {
+            "country": null,
+            "link": "https://cuteaggressionmusic.bandcamp.com/",
+            "name": "CUTE AGGRESSION"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-12",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "961d5c3274b89e4d355e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "IKAN HYU",
+            "url": "https://ikanhyu.bandcamp.com/"
+          },
+          {
+            "label": "CUTE AGGRESSION",
+            "url": "https://cuteaggressionmusic.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.11.: IKAN HYU (ch) / CUTE AGGRESSION @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "961d5c3274b89e4d355e",
+      "guid": "961d5c3274b89e4d355e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-792b040544d2f9300da3-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The VEILS"
+            }
+          ],
+          "to": [
+            {
+              "name": "The VEILS"
+            },
+            {
+              "name": "Anthonie Tonnon"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "NZL",
+            "link": "https://www.theveils.com/",
+            "name": "The VEILS"
+          },
+          {
+            "country": "NZL",
+            "link": "https://anthonietonnon.bandcamp.com/music",
+            "name": "Anthonie Tonnon"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "792b040544d2f9300da3",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "The VEILS",
+            "url": "https://www.theveils.com/"
+          },
+          {
+            "label": "Anthonie Tonnon",
+            "url": "https://anthonietonnon.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/952056500483653/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: The VEILS (nzl) / Anthonie Tonnon (nzl) @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "792b040544d2f9300da3",
+      "guid": "792b040544d2f9300da3:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ac9676bad510006dda61-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/displeaser.mp3/",
+            "name": "DISPLEASER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/rustyrailgun/",
+            "name": "RUSTY RAILGUN"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/the.coufs/",
+            "name": "The COUFS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/onlychild.music/",
+            "name": "ONLY CHILD"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/deintagebuchofficial/",
+            "name": "DEIN TAGEBUCH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-23",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ac9676bad510006dda61",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "DISPLEASER",
+            "url": "https://www.instagram.com/displeaser.mp3/"
+          },
+          {
+            "label": "RUSTY RAILGUN",
+            "url": "https://www.instagram.com/rustyrailgun/"
+          },
+          {
+            "label": "The COUFS",
+            "url": "https://www.instagram.com/the.coufs/"
+          },
+          {
+            "label": "ONLY CHILD",
+            "url": "https://www.instagram.com/onlychild.music/"
+          },
+          {
+            "label": "DEIN TAGEBUCH",
+            "url": "https://www.instagram.com/deintagebuchofficial/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://flucc.at/events/P6r2yX-wienxtra-mainstage/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "23.11.: DISPLEASER / RUSTY RAILGUN / The COUFS / ONLY CHILD / DEIN TAGEBUCH @ Flucc Wanne, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc Wanne"
+      },
+      "event_id": "ac9676bad510006dda61",
+      "guid": "ac9676bad510006dda61:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1eb60ca090957e20756e-1",
+      "changes": {
+        "venue": {
+          "from": "Ottakringer Brauerei",
+          "to": "Stadthalle (Hl. E)"
+        }
+      },
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/spikeandthegimmegimmes/",
+            "name": "Spike & The GIMME GIMES"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/Zebrahead/",
+            "name": "ZEBRAHEAD"
+          },
+          {
+            "country": "UK",
+            "link": "https://www.instagram.com/slackrr_/",
+            "name": "SLACKRR"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/ykhmo/",
+            "name": "YOKOHOMO"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1eb60ca090957e20756e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "Spike & The GIMME GIMES",
+            "url": "https://www.facebook.com/spikeandthegimmegimmes/"
+          },
+          {
+            "label": "ZEBRAHEAD",
+            "url": "https://www.facebook.com/Zebrahead/"
+          },
+          {
+            "label": "SLACKRR",
+            "url": "https://www.instagram.com/slackrr_/"
+          },
+          {
+            "label": "YOKOHOMO",
+            "url": "https://www.facebook.com/ykhmo/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1667882651169813"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: Spike & The GIMME GIMES (usa) / ZEBRAHEAD (usa) / SLACKRR (uk) / YOKOHOMO u.a. @ Stadthalle (Hl. E), Wien [sold out!] [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadthalle (Hl. E)"
+      },
+      "event_id": "1eb60ca090957e20756e",
+      "guid": "1eb60ca090957e20756e:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-000785cbe9c3c0f76c0c-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SPA",
+            "link": "https://www.instagram.com/killingpizarro/",
+            "name": "KILLING PIZARRO"
+          },
+          {
+            "country": "CZE",
+            "link": "https://www.instagram.com/cumbiacooperativa/",
+            "name": "CUMBIA COOPERATIVA"
+          },
+          {
+            "country": null,
+            "link": "https://tuttidilemma.bandcamp.com/",
+            "name": "TUTTI DILEMMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "000785cbe9c3c0f76c0c",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "KILLING PIZARRO",
+            "url": "https://www.instagram.com/killingpizarro/"
+          },
+          {
+            "label": "CUMBIA COOPERATIVA",
+            "url": "https://www.instagram.com/cumbiacooperativa/"
+          },
+          {
+            "label": "TUTTI DILEMMA",
+            "url": "https://tuttidilemma.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: KILLING PIZARRO (spa) / CUMBIA COOPERATIVA (cze) / TUTTI DILEMMA @ Fanialive, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Fanialive"
+      },
+      "event_id": "000785cbe9c3c0f76c0c",
+      "guid": "000785cbe9c3c0f76c0c:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bf6227ebd33963478cb9-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/thepisshands/",
+            "name": "The PISSHANDS"
+          },
+          {
+            "country": null,
+            "link": "https://leberzerroze.bandcamp.com/",
+            "name": "LEBERZERROZE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-08",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "bf6227ebd33963478cb9",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "The PISSHANDS",
+            "url": "https://www.instagram.com/thepisshands/"
+          },
+          {
+            "label": "LEBERZERROZE",
+            "url": "https://leberzerroze.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/the-pisshands-leberzerroze/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.12.: The PISSHANDS / LEBERZERROZE @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "bf6227ebd33963478cb9",
+      "guid": "bf6227ebd33963478cb9:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-e588458b3237d96a8f13-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://eerah.bandcamp.com/",
+            "name": "EERAH"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/softorbitband/",
+            "name": "SOFT ORBIT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "e588458b3237d96a8f13",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "EERAH",
+            "url": "https://eerah.bandcamp.com/"
+          },
+          {
+            "label": "SOFT ORBIT",
+            "url": "https://www.instagram.com/softorbitband/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.clublucia.at/event/eerah-soft-orbit/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: EERAH / SOFT ORBIT @ Lucia, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Lucia"
+      },
+      "event_id": "e588458b3237d96a8f13",
+      "guid": "e588458b3237d96a8f13:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a230816d96c74067c42e-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://thefabulousdanes.bandcamp.com/",
+            "name": "The Fabulous DANES"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61590791567621",
+            "name": "The RAZORBLADE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "a230816d96c74067c42e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "The Fabulous DANES",
+            "url": "https://thefabulousdanes.bandcamp.com/"
+          },
+          {
+            "label": "The RAZORBLADE",
+            "url": "https://www.facebook.com/profile.php?id=61590791567621"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1063609203374384"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: The Fabulous DANES / The RAZORBLADE @ Coco Bar, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Coco Bar"
+      },
+      "event_id": "a230816d96c74067c42e",
+      "guid": "a230816d96c74067c42e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c375003de017e00d7159-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://glazedcurtains.com/",
+            "name": "GLAZED CURTAINS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-19",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "c375003de017e00d7159",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "GLAZED CURTAINS",
+            "url": "https://glazedcurtains.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.12.: GLAZED CURTAINS @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "c375003de017e00d7159",
+      "guid": "c375003de017e00d7159:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6505992e14a42f0c945e-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/HeroesnGhosts/",
+            "name": "HEROES'N GHOSTS"
+          },
+          {
+            "country": null,
+            "link": "https://stumbling-politely.bandcamp.com/",
+            "name": "STUMBLING POLITELY"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/Kalliota/",
+            "name": "KALLIOTA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Graz",
+        "event_date": "2027-01-05",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "6505992e14a42f0c945e",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "HEROES'N GHOSTS",
+            "url": "https://www.facebook.com/HeroesnGhosts/"
+          },
+          {
+            "label": "STUMBLING POLITELY",
+            "url": "https://stumbling-politely.bandcamp.com/"
+          },
+          {
+            "label": "KALLIOTA",
+            "url": "https://www.facebook.com/Kalliota/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.01.: HEROES'N GHOSTS / STUMBLING POLITELY / KALLIOTA @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "6505992e14a42f0c945e",
+      "guid": "6505992e14a42f0c945e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b26496d748f6420aed85-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.transmission-live.com/",
+            "name": "TRANSMISSION"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-20",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "b26496d748f6420aed85",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "TRANSMISSION",
+            "url": "https://www.transmission-live.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1547553430444443"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.01.: TRANSMISSION (uk) @ Viper Room, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "b26496d748f6420aed85",
+      "guid": "b26496d748f6420aed85:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-148a23c44e609ecc18c8-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/belt_band/",
+            "name": "BELT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Linz",
+        "event_date": "2027-01-30",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "148a23c44e609ecc18c8",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "BELT",
+            "url": "https://www.instagram.com/belt_band/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://club.stwst.at/events/belt/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.01.: BELT @ Stadtwerkstatt, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtwerkstatt"
+      },
+      "event_id": "148a23c44e609ecc18c8",
+      "guid": "148a23c44e609ecc18c8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3ca635d24492ddb17dde-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE/UK",
+            "link": "https://albertacrossmusic.bandcamp.com/music",
+            "name": "ALBERTA CROSS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-08",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "3ca635d24492ddb17dde",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "ALBERTA CROSS",
+            "url": "https://albertacrossmusic.bandcamp.com/music"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=08-04-2027_alberta-cross-the-thief-und-the-heartbreaker"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "08.04.: ALBERTA CROSS (swe/uk) @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "3ca635d24492ddb17dde",
+      "guid": "3ca635d24492ddb17dde:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c68ade26d7ce90651891-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://miralukovacs.com/",
+            "name": "Mira Lu Kovacs"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Imst",
+        "event_date": "2027-04-09",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "c68ade26d7ce90651891",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "Mira Lu Kovacs",
+            "url": "https://miralukovacs.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.stadtbuehne.at/programm/veranstaltung/mira-lu-kovacs/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.04.: Mira Lu Kovacs @ Stadtbühne, Imst [web]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtbühne"
+      },
+      "event_id": "c68ade26d7ce90651891",
+      "guid": "c68ade26d7ce90651891:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-04a3fe641959dd057728-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SWE",
+            "link": "https://www.shoutoutlouds.com/",
+            "name": "SHOUT OUT LOUDS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-24",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "04a3fe641959dd057728",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "SHOUT OUT LOUDS",
+            "url": "https://www.shoutoutlouds.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/29196761423295932/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.04.: SHOUT OUT LOUDS (swe) @ Flucc, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flucc"
+      },
+      "event_id": "04a3fe641959dd057728",
+      "guid": "04a3fe641959dd057728:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-dbc08658bc546973808d-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/leftovers_unofficial",
+            "name": "LEFTOVERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-09",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "dbc08658bc546973808d",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.instagram.com/leftovers_unofficial"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.05.: LEFTOVERS @ Ottakringer Brauerei, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Ottakringer Brauerei"
+      },
+      "event_id": "dbc08658bc546973808d",
+      "guid": "dbc08658bc546973808d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-528219464f07737de68f-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.platzgumer.com/hpzinker",
+            "name": "H.P. ZINKER"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/7sioux",
+            "name": "7 SIOUX"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Linz",
+        "event_date": "2027-05-13",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "528219464f07737de68f",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "H.P. ZINKER",
+            "url": "https://www.platzgumer.com/hpzinker"
+          },
+          {
+            "label": "7 SIOUX",
+            "url": "https://www.facebook.com/7sioux"
+          },
+          {
+            "label": "[web]",
+            "url": "https://club.stwst.at/events/hp-zinker/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.05.: H.P. ZINKER / 7 SIOUX @ Stadtwerkstatt, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtwerkstatt"
+      },
+      "event_id": "528219464f07737de68f",
+      "guid": "528219464f07737de68f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f1e5ef14a09907864119-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/leftovers_unofficial",
+            "name": "LEFTOVERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2027-05-14",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f1e5ef14a09907864119",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.instagram.com/leftovers_unofficial"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.05.: LEFTOVERS @ Fritz Club, Klagenfurt",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Fritz Club"
+      },
+      "event_id": "f1e5ef14a09907864119",
+      "guid": "f1e5ef14a09907864119:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f16025594618654d69af-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/leftovers_unofficial",
+            "name": "LEFTOVERS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Imst",
+        "event_date": "2027-05-15",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f16025594618654d69af",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "LEFTOVERS",
+            "url": "https://www.instagram.com/leftovers_unofficial"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.stadtbuehne.at/programm/veranstaltung/leftovers-schau-nicht-so-tour/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.05.: LEFTOVERS @ Stadtbühne, Imst [web]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtbühne"
+      },
+      "event_id": "f16025594618654d69af",
+      "guid": "f16025594618654d69af:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-aa9ad5241fa714a51918-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://caricari.bandcamp.com/",
+            "name": "CARI CARI"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Imst",
+        "event_date": "2027-05-21",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "aa9ad5241fa714a51918",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "CARI CARI",
+            "url": "https://caricari.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.stadtbuehne.at/programm/veranstaltung/cari-cari-one-more-trip-around-the-sun/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.05.: CARI CARI @ Stadtbühne, Imst [web]",
+        "state": "Tirol",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Stadtbühne"
+      },
+      "event_id": "aa9ad5241fa714a51918",
+      "guid": "aa9ad5241fa714a51918:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-48cebcd394d2be299785-1",
+      "changes": {},
+      "detected_at": "2026-11-10T09:51:40.260974+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://avralize.com/",
+            "name": "AVRALIZE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-10T09:51:40.260974+00:00",
+        "city": "Wien",
+        "event_date": "2027-12-05",
+        "first_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "48cebcd394d2be299785",
+        "last_seen_at": "2026-11-10T09:51:40.260974+00:00",
+        "links": [
+          {
+            "label": "AVRALIZE",
+            "url": "https://avralize.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1157826307239093/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.12.: AVRALIZE (d) @ Szene, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene"
+      },
+      "event_id": "48cebcd394d2be299785",
+      "guid": "48cebcd394d2be299785:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-e8a72d8e20ca421e82b0-3",
       "changes": {

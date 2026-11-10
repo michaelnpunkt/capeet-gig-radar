@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Mira Lu Kovacs – Imst</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c68ade26d7ce90651891-1</link>
+      <guid isPermaLink="false">c68ade26d7ce90651891:1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
+      <description>2027-04-09 · Stadtbühne,  Imst · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: LEFTOVERS – Imst</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f16025594618654d69af-1</link>
+      <guid isPermaLink="false">f16025594618654d69af:1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
+      <description>2027-05-15 · Stadtbühne,  Imst · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: CARI CARI – Imst</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aa9ad5241fa714a51918-1</link>
+      <guid isPermaLink="false">aa9ad5241fa714a51918:1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
+      <description>2027-05-21 · Stadtbühne,  Imst · Tirol</description>
+    </item>
     <item>
       <title>Neu: LOS PIRAÑAS – Innsbruck</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a99e52a8f566d871e6fc-1</link>

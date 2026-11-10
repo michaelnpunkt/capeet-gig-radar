@@ -395,6 +395,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "alberta cross": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "albinobrothers": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -673,6 +679,12 @@
   "ansa sauermann": {
     "classifier_version": 2,
     "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "anthonie tonnon": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -1313,6 +1325,14 @@
     "source": "lastfm",
     "subgenres": [
       "Deathcore"
+    ]
+  },
+  "belt": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
     ]
   },
   "belzebong": {
@@ -2802,6 +2822,12 @@
       "Post-Punk"
     ]
   },
+  "cumbia cooperativa": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "cupiditas": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2840,6 +2866,12 @@
   "cut manners": {
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "cute aggression": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "cutthroat": {
@@ -3253,6 +3285,12 @@
   "deftones": {
     "family": "Metal",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "dein tagebuch": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "deine familie": {
@@ -4024,6 +4062,12 @@
     "classifier_version": 2,
     "family": "Alternative/Indie",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "eerah": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "eerie horizon": {
@@ -5332,6 +5376,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "godless goose": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "good cop": {
     "classifier_version": 2,
     "family": "Metal",
@@ -5698,6 +5748,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "han han huhman man": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "handgemeng": {
     "classifier_version": 2,
     "family": "Metal",
@@ -5942,6 +5998,12 @@
     "subgenres": []
   },
   "heroes and heroine": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "heroes n ghosts": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -6973,6 +7035,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "kalliota": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "kanine": {
     "classifier_version": 2,
     "family": "Metal",
@@ -7103,6 +7171,12 @@
     "subgenres": []
   },
   "killer whales": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "killing pizarro": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -9796,6 +9870,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "only child": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "onslaught": {
     "family": "Metal",
     "source": "lastfm",
@@ -11633,6 +11713,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "shout out louds": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "show me the body": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -11996,6 +12082,12 @@
     "subgenres": [
       "Shoegaze"
     ]
+  },
+  "soft orbit": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "softcult": {
     "classifier_version": 2,
@@ -12493,6 +12585,12 @@
     "classifier_version": 2,
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "stumbling politely": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "stygian": {
@@ -13050,6 +13148,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the coufs": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the cover fiends": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -13462,6 +13566,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the pisshands": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the prodigy": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -13486,6 +13596,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "the razorblade": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
     "subgenres": []
   },
   "the refrigerators": {
@@ -14088,6 +14204,12 @@
   "tranen": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "transmission": {
+    "classifier_version": 2,
+    "family": "Rock",
     "source": "lastfm",
     "subgenres": []
   },

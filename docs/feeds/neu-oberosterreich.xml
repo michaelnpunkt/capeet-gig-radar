@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: BELT – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-148a23c44e609ecc18c8-1</link>
+      <guid isPermaLink="false">148a23c44e609ecc18c8:1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
+      <description>2027-01-30 · Stadtwerkstatt,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: H.P. ZINKER, 7 SIOUX – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-528219464f07737de68f-1</link>
+      <guid isPermaLink="false">528219464f07737de68f:1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
+      <description>2027-05-13 · Stadtwerkstatt,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: BIRDSTONE, SWANASUS, FAST LOVE – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-48966b7ab1962f312c57-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">bc5b48ccc80aaf453038:1</guid>
       <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
       <description>2026-11-21 · Kapu,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PONY PRACHT – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4348680bb4bdf740e37e-1</link>
-      <guid isPermaLink="false">4348680bb4bdf740e37e:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-09-28 · Raumschiff,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: LEYA, GbClifford, WITCHDROWNER, INC. – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9576543c95217aa4e088-1</link>
-      <guid isPermaLink="false">9576543c95217aa4e088:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-07 · Last,  Linz · Oberösterreich · Line-up: LEYA · GbClifford → LEYA · GbClifford · WITCHDROWNER, INC.</description>
     </item>
   </channel>
 </rss>
