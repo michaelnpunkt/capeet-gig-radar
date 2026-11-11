@@ -66410,5 +66410,1823 @@
     "guid": "48cebcd394d2be299785:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "rhiz",
+        "to": "rhiz Weberknecht"
+      }
+    },
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://littlebarrie.bandcamp.com/",
+          "name": "LITTLE BARRIE"
+        },
+        {
+          "country": "FRA/ITA",
+          "link": "https://250cc.bandcamp.com/",
+          "name": "250CC"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-12",
+      "first_seen_at": "2026-11-06T09:25:31.523216+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "8ac045acd680096a40fc",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "LITTLE BARRIE",
+          "url": "https://littlebarrie.bandcamp.com/"
+        },
+        {
+          "label": "250CC",
+          "url": "https://250cc.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "12.11.: LITTLE BARRIE (uk) / 250CC (fra/ita) @ rhiz Weberknecht, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz Weberknecht"
+    },
+    "event_id": "8ac045acd680096a40fc",
+    "guid": "8ac045acd680096a40fc:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/morituri.band.3",
+          "name": "MORITURI"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Psych.Metal",
+          "name": "PSYCH"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/glitterpilots/",
+          "name": "GLITTER PILOTS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/BackToParadiseRock/",
+          "name": "BACK TO PARADISE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "4f95ce8592b27a3e80a9",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "MORITURI",
+          "url": "https://www.facebook.com/morituri.band.3"
+        },
+        {
+          "label": "PSYCH",
+          "url": "https://www.facebook.com/Psych.Metal"
+        },
+        {
+          "label": "GLITTER PILOTS",
+          "url": "https://www.instagram.com/glitterpilots/"
+        },
+        {
+          "label": "BACK TO PARADISE",
+          "url": "https://www.facebook.com/BackToParadiseRock/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2082744589784173"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: MORITURI / PSYCH / GLITTER PILOTS / BACK TO PARADISE @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "4f95ce8592b27a3e80a9",
+    "guid": "4f95ce8592b27a3e80a9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.daltonz.com/",
+          "name": "DALTONZ"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/profile.php?id=100092696258083",
+          "name": "PUKE!"
+        },
+        {
+          "country": "D/AUT",
+          "link": "https://www.facebook.com/soapboxradiomusic/",
+          "name": "SOAPBOX RADIO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "8a7432bbac0a78cce7f2",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "DALTONZ",
+          "url": "https://www.daltonz.com/"
+        },
+        {
+          "label": "PUKE!",
+          "url": "https://www.facebook.com/profile.php?id=100092696258083"
+        },
+        {
+          "label": "SOAPBOX RADIO",
+          "url": "https://www.facebook.com/soapboxradiomusic/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: DALTONZ / PUKE! (d) / SOAPBOX RADIO (d/aut) @ Café Lotta, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Lotta"
+    },
+    "event_id": "8a7432bbac0a78cce7f2",
+    "guid": "8a7432bbac0a78cce7f2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.daltonz.com/",
+          "name": "DALTONZ"
+        },
+        {
+          "country": "D",
+          "link": "https://www.facebook.com/profile.php?id=100092696258083",
+          "name": "PUKE!"
+        },
+        {
+          "country": "D/AUT",
+          "link": "https://www.facebook.com/soapboxradiomusic/",
+          "name": "SOAPBOX RADIO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wörgl",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "4413a66ea2bf1551c629",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "DALTONZ",
+          "url": "https://www.daltonz.com/"
+        },
+        {
+          "label": "PUKE!",
+          "url": "https://www.facebook.com/profile.php?id=100092696258083"
+        },
+        {
+          "label": "SOAPBOX RADIO",
+          "url": "https://www.facebook.com/soapboxradiomusic/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2188861201976867"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: DALTONZ / PUKE! (d) / SOAPBOX RADIO (d/aut) @ Hotel Linde, Wörgl [fb]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Hotel Linde"
+    },
+    "event_id": "4413a66ea2bf1551c629",
+    "guid": "4413a66ea2bf1551c629:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Club Wakuum",
+        "to": "Wakuum B-Side"
+      }
+    },
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/shadowsofbeyond_metal",
+          "name": "SHADOWS OF BEYOND"
+        },
+        {
+          "country": null,
+          "link": "https://crowheartaustria.bandcamp.com/",
+          "name": "CROWHEART"
+        },
+        {
+          "country": null,
+          "link": "https://mephobia.bandcamp.com/",
+          "name": "MEPHOBIA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d117104323d7ee09d1ae",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "SHADOWS OF BEYOND",
+          "url": "https://www.instagram.com/shadowsofbeyond_metal"
+        },
+        {
+          "label": "CROWHEART",
+          "url": "https://crowheartaustria.bandcamp.com/"
+        },
+        {
+          "label": "MEPHOBIA",
+          "url": "https://mephobia.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2795948604197647/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "21.11.: SHADOWS OF BEYOND / CROWHEART / MEPHOBIA @ Wakuum B-Side, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Wakuum B-Side"
+    },
+    "event_id": "d117104323d7ee09d1ae",
+    "guid": "d117104323d7ee09d1ae:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/skalapenos/",
+          "name": "SKALAPEÑOS"
+        },
+        {
+          "country": null,
+          "link": "https://dabsunddiefuselcombo.bandcamp.com/",
+          "name": "Dabs & Die FUSEL COMBO"
+        },
+        {
+          "country": null,
+          "link": "https://spion.bandcamp.com/",
+          "name": "SPION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ee1bf42f96ba7091ed0a",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "SKALAPEÑOS",
+          "url": "https://www.instagram.com/skalapenos/"
+        },
+        {
+          "label": "Dabs & Die FUSEL COMBO",
+          "url": "https://dabsunddiefuselcombo.bandcamp.com/"
+        },
+        {
+          "label": "SPION",
+          "url": "https://spion.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1147592441059427"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: SKALAPEÑOS / Dabs & Die FUSEL COMBO / SPION @ Club Wakuum, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Club Wakuum"
+    },
+    "event_id": "ee1bf42f96ba7091ed0a",
+    "guid": "ee1bf42f96ba7091ed0a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://themelmacs.bandcamp.com/",
+          "name": "The MELMACS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/sweatpantsparty/",
+          "name": "SWEATPANTS PARTY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-25",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "65473c42db0cf8cbbcd5",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "The MELMACS",
+          "url": "https://themelmacs.bandcamp.com/"
+        },
+        {
+          "label": "SWEATPANTS PARTY",
+          "url": "https://www.facebook.com/sweatpantsparty/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.11.: The MELMACS (d) / SWEATPANTS PARTY @ Kult Bar, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kult Bar"
+    },
+    "event_id": "65473c42db0cf8cbbcd5",
+    "guid": "65473c42db0cf8cbbcd5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://marschland.bandcamp.com/",
+          "name": "MARSCHLAND"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "72ff08fba3a46ed5e14c",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "MARSCHLAND",
+          "url": "https://marschland.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: MARSCHLAND (d) @ Kult Bar, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kult Bar"
+    },
+    "event_id": "72ff08fba3a46ed5e14c",
+    "guid": "72ff08fba3a46ed5e14c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        },
+        {
+          "country": null,
+          "link": "https://peripherie.bandcamp.com/",
+          "name": "PERIPHERIE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wies",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2c0d9377a93ba3add42e",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "PERIPHERIE",
+          "url": "https://peripherie.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kuerbis.at/veranstaltungen/2026/paul-plut-amp-peripherie"
+        }
+      ],
+      "postal_code": "8551",
+      "revision": 1,
+      "source_text": "27.11.: Paul Plut / PERIPHERIE @ Atelier im Schwimmbad, 8551 Wies [web]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Atelier im Schwimmbad"
+    },
+    "event_id": "2c0d9377a93ba3add42e",
+    "guid": "2c0d9377a93ba3add42e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://poormansrevenge.bandcamp.com/music",
+          "name": "POOR MAN'S REVENGE"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Phil Daniel & The FREIGHTLINERS"
+        },
+        {
+          "country": null,
+          "link": "https://thevinealley.at/",
+          "name": "The VINE ALLEY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "bd5cebb173ba1ced01a6",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "POOR MAN'S REVENGE",
+          "url": "https://poormansrevenge.bandcamp.com/music"
+        },
+        {
+          "label": "The VINE ALLEY",
+          "url": "https://thevinealley.at/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1701622355085485/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: POOR MAN'S REVENGE / Phil Daniel & The FREIGHTLINERS / The VINE ALLEY @ Wakuum B-Side, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Wakuum B-Side"
+    },
+    "event_id": "bd5cebb173ba1ced01a6",
+    "guid": "bd5cebb173ba1ced01a6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/surfacetensiongraz",
+          "name": "SURFACETENSION"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/CircleCreekBand",
+          "name": "CIRCLE CREEK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-11-28",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "3eefeba2e16eb021b0b5",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "SURFACETENSION",
+          "url": "https://www.facebook.com/surfacetensiongraz"
+        },
+        {
+          "label": "CIRCLE CREEK",
+          "url": "https://www.facebook.com/CircleCreekBand"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2194224174859926"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.11.: SURFACETENSION / CIRCLE CREEK @ Music-House, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
+    },
+    "event_id": "3eefeba2e16eb021b0b5",
+    "guid": "3eefeba2e16eb021b0b5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://cursedandcalling.com/",
+          "name": "CURSED AND CALLING"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/emberscollide/",
+          "name": "EMBERS COLLIDE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "13a628858aa5e9caca33",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "CURSED AND CALLING",
+          "url": "https://cursedandcalling.com/"
+        },
+        {
+          "label": "EMBERS COLLIDE",
+          "url": "https://www.instagram.com/emberscollide/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2045133616198019/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: CURSED AND CALLING / EMBERS COLLIDE @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "13a628858aa5e9caca33",
+    "guid": "13a628858aa5e9caca33:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://miralukovacs.com/",
+          "name": "Mira Lu Kovacs & Clemens Wenger"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-12-16",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "d482dd5d784959774116",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Mira Lu Kovacs",
+          "url": "https://miralukovacs.com/"
+        },
+        {
+          "label": "Clemens Wenger",
+          "url": "https://www.facebook.com/clemens.wenger"
+        },
+        {
+          "label": "[web]",
+          "url": "https://treibhaus.at/programm/2026/12/16/15346-mira-lu-kovacs-clemens-wenger-sad-songs-to-cry-to-ein-weihnachtssingen"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.12.: Mira Lu Kovacs & Clemens Wenger @ Treibhaus, Innsbruck [web]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Treibhaus"
+    },
+    "event_id": "d482dd5d784959774116",
+    "guid": "d482dd5d784959774116:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Kalliota/",
+          "name": "KALLIOTA"
+        },
+        {
+          "country": null,
+          "link": "https://grazergrant.bandcamp.com/",
+          "name": "GRAZER GRANT"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/nothammer.band",
+          "name": "NOTHAMMER"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/lietoconfess/",
+          "name": "LIE TO CONFESS"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "Mirelía Luz"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2026-12-23",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "703248491780430983e7",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "KALLIOTA",
+          "url": "https://www.facebook.com/Kalliota/"
+        },
+        {
+          "label": "GRAZER GRANT",
+          "url": "https://grazergrant.bandcamp.com/"
+        },
+        {
+          "label": "NOTHAMMER",
+          "url": "https://www.facebook.com/nothammer.band"
+        },
+        {
+          "label": "LIE TO CONFESS",
+          "url": "https://www.instagram.com/lietoconfess/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1765352094749127/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.12.: KALLIOTA / GRAZER GRANT / NOTHAMMER / LIE TO CONFESS / Mirelía Luz @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "703248491780430983e7",
+    "guid": "703248491780430983e7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/triste_band/",
+          "name": "TRISTE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/arlingtonpark23/",
+          "name": "ARLINGTON PARK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Dornbirn",
+      "event_date": "2027-01-23",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "2afebdd2805085550e59",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "TRISTE",
+          "url": "https://www.instagram.com/triste_band/"
+        },
+        {
+          "label": "ARLINGTON PARK",
+          "url": "https://www.instagram.com/arlingtonpark23/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1649573906843555/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.01.: TRISTE / ARLINGTON PARK @ Spielboden, Dornbirn [fb]",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spielboden"
+    },
+    "event_id": "2afebdd2805085550e59",
+    "guid": "2afebdd2805085550e59:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/honeytriggerofficial/",
+          "name": "HONEY TRIGGER"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/somedaysyoulose",
+          "name": "SOME DAYS YOU LOSE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/_staybound/",
+          "name": "STAY BOUND"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-01",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "aa821cfc13f16eac0b2a",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "HONEY TRIGGER",
+          "url": "https://www.instagram.com/honeytriggerofficial/"
+        },
+        {
+          "label": "SOME DAYS YOU LOSE",
+          "url": "https://www.facebook.com/somedaysyoulose"
+        },
+        {
+          "label": "STAY BOUND",
+          "url": "https://www.instagram.com/_staybound/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.02.: HONEY TRIGGER / SOME DAYS YOU LOSE / STAY BOUND @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "aa821cfc13f16eac0b2a",
+    "guid": "aa821cfc13f16eac0b2a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/bitetobreak",
+          "name": "BITE TO BREAK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-04",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "71ac0123b265e2d3a3ab",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "BITE TO BREAK",
+          "url": "https://www.instagram.com/bitetobreak"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.02.: BITE TO BREAK @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "71ac0123b265e2d3a3ab",
+    "guid": "71ac0123b265e2d3a3ab:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D/USA",
+          "link": "https://hackedepicciotto.bandcamp.com/",
+          "name": "HACKEDEPICCIOTTO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Kufstein",
+      "event_date": "2027-02-06",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "050ae632fa430440f645",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "HACKEDEPICCIOTTO",
+          "url": "https://hackedepicciotto.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2225135858023928/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.02.: HACKEDEPICCIOTTO (d/usa) @ Kulturfabrik, Kufstein [fb]",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kulturfabrik"
+    },
+    "event_id": "050ae632fa430440f645",
+    "guid": "050ae632fa430440f645:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Öblarn",
+      "event_date": "2027-02-12",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "9a06a84cbc0c0f860ac4",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[web]",
+          "url": "https://kupfticket.com/events/paul-plut-etta"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.02.: Paul Plut @ ku:L, Öblarn [web]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "ku:L"
+    },
+    "event_id": "9a06a84cbc0c0f860ac4",
+    "guid": "9a06a84cbc0c0f860ac4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Graz",
+      "event_date": "2027-02-13",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "4cfbd852a290de4f726a",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1909626596670117"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.02.: Paul Plut @ Orpheum Extra, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Orpheum Extra"
+    },
+    "event_id": "4cfbd852a290de4f726a",
+    "guid": "4cfbd852a290de4f726a:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Innsbruck",
+      "event_date": "2027-02-18",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "5f9cb4141e283719fc56",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.02.: Paul Plut @ Treibhaus, Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Treibhaus"
+    },
+    "event_id": "5f9cb4141e283719fc56",
+    "guid": "5f9cb4141e283719fc56:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Dornbirn",
+      "event_date": "2027-02-19",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "1b843d5075f82e924040",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1020156661103775/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.02.: Paul Plut @ Spielboden, Dornbirn [fb]",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spielboden"
+    },
+    "event_id": "1b843d5075f82e924040",
+    "guid": "1b843d5075f82e924040:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Linz",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "fb91a255b816d6a1848c",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.posthof.at/event/paul-plut-7551"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: Paul Plut @ Posthof, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Posthof"
+    },
+    "event_id": "fb91a255b816d6a1848c",
+    "guid": "fb91a255b816d6a1848c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Salzburg",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e7dc92a4b97b816ae0a6",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.argekultur.at/Event/17486/paul-plut"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: Paul Plut @ ARGEkultur, Salzburg [web]",
+      "state": "Salzburg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "ARGEkultur"
+    },
+    "event_id": "e7dc92a4b97b816ae0a6",
+    "guid": "e7dc92a4b97b816ae0a6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-26",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2073fc7e41a49128d7d9",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/paul-plut-2027/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.02.: Paul Plut @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "2073fc7e41a49128d7d9",
+    "guid": "2073fc7e41a49128d7d9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://paulplut.com",
+          "name": "Paul Plut"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Klagenfurt",
+      "event_date": "2027-02-27",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "06aa05c334b5f8442853",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Paul Plut",
+          "url": "https://paulplut.com"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.02.: Paul Plut @ Kammerlichtspiele, Klagenfurt",
+      "state": "Kärnten",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kammerlichtspiele"
+    },
+    "event_id": "06aa05c334b5f8442853",
+    "guid": "06aa05c334b5f8442853:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://vlkn.bandcamp.com/",
+          "name": "VLKN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-05",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ff0449279fe7e4a761dc",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "VLKN",
+          "url": "https://vlkn.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "05.03.: VLKN (hun) @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "ff0449279fe7e4a761dc",
+    "guid": "ff0449279fe7e4a761dc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Velvetwasted/",
+          "name": "VELVET WASTED"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-19",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "fd8dd7dcc5265bdeba49",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "VELVET WASTED",
+          "url": "https://www.facebook.com/Velvetwasted/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1146964297805440/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.03.: VELVET WASTED @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "fd8dd7dcc5265bdeba49",
+    "guid": "fd8dd7dcc5265bdeba49:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://spiritpossession.bandcamp.com/",
+          "name": "SPIRIT POSSESSION"
+        },
+        {
+          "country": "USA",
+          "link": "https://funeralchant.bandcamp.com/",
+          "name": "FUNERAL CHANT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-27",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal",
+          "Thrash Metal"
+        ]
+      },
+      "id": "91ec01b682ddff0fa4e4",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "SPIRIT POSSESSION",
+          "url": "https://spiritpossession.bandcamp.com/"
+        },
+        {
+          "label": "FUNERAL CHANT",
+          "url": "https://funeralchant.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/919786831102810/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.03.: SPIRIT POSSESSION (usa) / FUNERAL CHANT (usa) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "91ec01b682ddff0fa4e4",
+    "guid": "91ec01b682ddff0fa4e4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "http://dieheiterkeit.de/",
+          "name": "Die HEITERKEIT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-14",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Shoegaze"
+        ]
+      },
+      "id": "8c81d224c9d6bba76c78",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "Die HEITERKEIT",
+          "url": "http://dieheiterkeit.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1140284858377760/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.04.: Die HEITERKEIT (d) @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "8c81d224c9d6bba76c78",
+    "guid": "8c81d224c9d6bba76c78:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.weareider.com/",
+          "name": "IDER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-17",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "752aa6bbd91dfc42e090",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "IDER",
+          "url": "https://www.weareider.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/ider/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.04.: IDER (uk) @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "752aa6bbd91dfc42e090",
+    "guid": "752aa6bbd91dfc42e090:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.tigerlillies.com/",
+          "name": "The TIGER LILLIES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Dornbirn",
+      "event_date": "2027-04-24",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c2fcaa767bb105481fae",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "The TIGER LILLIES",
+          "url": "https://www.tigerlillies.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2265504014008922/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "24.04.: The TIGER LILLIES (uk) @ Spielboden, Dornbirn [fb]",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spielboden"
+    },
+    "event_id": "c2fcaa767bb105481fae",
+    "guid": "c2fcaa767bb105481fae:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-11T09:27:10.087005+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FRA",
+          "link": "https://www.camelpower.club/",
+          "name": "CAMEL POWER CLUB"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-11T09:27:10.087005+00:00",
+      "city": "Wien",
+      "event_date": "2027-10-09",
+      "first_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "18bb01313d568e920007",
+      "last_seen_at": "2026-11-11T09:27:10.087005+00:00",
+      "links": [
+        {
+          "label": "CAMEL POWER CLUB",
+          "url": "https://www.camelpower.club/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.wuk.at/programm/camel-power-club/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.10.: CAMEL POWER CLUB (fra) @ WUK, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "18bb01313d568e920007",
+    "guid": "18bb01313d568e920007:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

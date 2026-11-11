@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: TRISTE, ARLINGTON PARK – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2afebdd2805085550e59-1</link>
+      <guid isPermaLink="false">2afebdd2805085550e59:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-01-23 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: Paul Plut – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b843d5075f82e924040-1</link>
+      <guid isPermaLink="false">1b843d5075f82e924040:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-02-19 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
+    <item>
+      <title>Neu: The TIGER LILLIES – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c2fcaa767bb105481fae-1</link>
+      <guid isPermaLink="false">c2fcaa767bb105481fae:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-04-24 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
     <item>
       <title>Neu: WONK UNIT, Heavy Kevy – Feldkirch</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bf85afb190abad5dd143-1</link>

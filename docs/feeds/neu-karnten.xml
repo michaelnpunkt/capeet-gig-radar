@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Paul Plut – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-06aa05c334b5f8442853-1</link>
+      <guid isPermaLink="false">06aa05c334b5f8442853:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-02-27 · Kammerlichtspiele,  Klagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Neu: LEFTOVERS – Klagenfurt</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f1e5ef14a09907864119-1</link>

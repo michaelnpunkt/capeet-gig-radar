@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Paul Plut – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fb91a255b816d6a1848c-1</link>
+      <guid isPermaLink="false">fb91a255b816d6a1848c:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-02-20 · Posthof,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: BELT – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-148a23c44e609ecc18c8-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">c9cea8d6b4d0f60f72aa:1</guid>
       <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
       <description>2026-10-09 · Alter Schl8hof,  Wels · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PHAL:ANGST – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc5b48ccc80aaf453038-1</link>
-      <guid isPermaLink="false">bc5b48ccc80aaf453038:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-11-21 · Kapu,  Linz · Oberösterreich</description>
     </item>
   </channel>
 </rss>

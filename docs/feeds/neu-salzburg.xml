@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Paul Plut – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7dc92a4b97b816ae0a6-1</link>
+      <guid isPermaLink="false">e7dc92a4b97b816ae0a6:1</guid>
+      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
+      <description>2027-02-25 · ARGEkultur,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Neu: AUSZAAT, HARROWIST, SATURNISTS, GODDESS LIMAX BLACK – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b88cf8e72c03e35e59b-1</link>
