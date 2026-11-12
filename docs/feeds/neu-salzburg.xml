@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: BACKWARDS CHARM, ALEATOR – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae816b66f68324f4440e-2</link>
+      <guid isPermaLink="false">ae816b66f68324f4440e:2</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-11-12 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: BACKWARDS CHARM · MANIC YOUTH → BACKWARDS CHARM · ALEATOR</description>
+    </item>
     <item>
       <title>Neu: Paul Plut – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e7dc92a4b97b816ae0a6-1</link>

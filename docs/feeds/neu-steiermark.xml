@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: HONEYFACE, SCAMPI BUMP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b8b48f8e9bfc4d9fe7a8-1</link>
+      <guid isPermaLink="false">b8b48f8e9bfc4d9fe7a8:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-11-27 · Die Scherbe,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: RUGGED, MY OWN ENEMY – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15510841f60f94a7d709-1</link>
+      <guid isPermaLink="false">15510841f60f94a7d709:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-11-29 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: SAVANAH, OPIUM MASALA, KRPL – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8c7008570eba35b2d3bd-1</link>
+      <guid isPermaLink="false">8c7008570eba35b2d3bd:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-12-05 · SUb,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Geändert: SHADOWS OF BEYOND, CROWHEART, MEPHOBIA – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d117104323d7ee09d1ae-2</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">d931bf87ede3b4e5c284:1</guid>
       <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
       <description>2026-12-12 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: BETWEEN THE BEASTS, BOY IN A PLASTIC BAG, I CAN'T – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-dbf9cab6dbdbc2c4c7de-1</link>
-      <guid isPermaLink="false">dbf9cab6dbdbc2c4c7de:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-03 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: HIRAES, DRAGONY, COVENDEATH, NOPREACHERS – Deutschlandsberg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f817f967080604b9da3-1</link>
-      <guid isPermaLink="false">5f817f967080604b9da3:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-10-24 · Lassnitzhaus,  Deutschlandsberg · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: The DARTS – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-cb66634223e93d6f28b0-1</link>
-      <guid isPermaLink="false">cb66634223e93d6f28b0:1</guid>
-      <pubDate>Tue, 08 Sep 2026 07:15:33 +0000</pubDate>
-      <description>2026-11-11 · Music-House,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

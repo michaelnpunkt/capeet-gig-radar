@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: NAKED LUNCH – Weyer</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aaa23f338387c57085c0-1</link>
+      <guid isPermaLink="false">aaa23f338387c57085c0:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-12-05 · Bertholdsaal,  Weyer · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: BULL NAKANO, NOTHING IN RETURN, TRUUDE HERR – Weyer</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7dd8b39cec8dc7cae1bd-1</link>
+      <guid isPermaLink="false">7dd8b39cec8dc7cae1bd:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2026-12-27 · Bertholdsaal,  Weyer · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SPIRIT POSSESSION, FUNERAL CHANT, LUDGAR, YOSSARIAN – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee9c4a6b1f96691bd2d8-1</link>
+      <guid isPermaLink="false">ee9c4a6b1f96691bd2d8:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2027-03-26 · Kapu,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: Paul Plut – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-fb91a255b816d6a1848c-1</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">5d2cbde4251951c8a432:1</guid>
       <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
       <description>2026-09-12 · Alter Schl8hof,  Wels · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: STONE SOBER, MYMYZEL – Ebensee</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-361d4d53074a2daafcba-1</link>
-      <guid isPermaLink="false">361d4d53074a2daafcba:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-09-12 · Kino,  Ebensee · Oberösterreich · Line-up: STONE SOBER → STONE SOBER · MYMYZEL</description>
-    </item>
-    <item>
-      <title>Neu: LEETA – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f310c552ed0f7197fbd3-1</link>
-      <guid isPermaLink="false">f310c552ed0f7197fbd3:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-09-18 · Alter Schl8hof,  Wels · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: STREAMBLEED, AEONS OF ASHES, COLD DECEMBER, TREMBLING EARTH – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c9cea8d6b4d0f60f72aa-1</link>
-      <guid isPermaLink="false">c9cea8d6b4d0f60f72aa:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-10-09 · Alter Schl8hof,  Wels · Oberösterreich</description>
     </item>
   </channel>
 </rss>

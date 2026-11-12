@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-tirol.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: WAVING THE GUNS – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c7663e848925e3c4508d-1</link>
+      <guid isPermaLink="false">c7663e848925e3c4508d:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2027-03-14 · p.m.k.,  Innsbruck · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: PLEASE MADAME – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-426519980f57cd991135-1</link>
+      <guid isPermaLink="false">426519980f57cd991135:1</guid>
+      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
+      <description>2027-04-22 · p.m.k.,  Innsbruck · Tirol</description>
+    </item>
     <item>
       <title>Neu: DALTONZ, PUKE!, SOAPBOX RADIO – Innsbruck</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8a7432bbac0a78cce7f2-1</link>
