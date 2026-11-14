@@ -1583,6 +1583,14 @@
       "Post-Punk"
     ]
   },
+  "black revelation": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "black sabbitch": {
     "family": "Metal",
     "source": "lastfm",
@@ -3024,6 +3032,12 @@
       "Street Punk"
     ]
   },
+  "damage recall": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "daniel b": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -3113,6 +3127,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "das trojanische pferd": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
     "subgenres": []
   },
   "dave hause the mermaid": {
@@ -4003,6 +4023,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "drunken pumpkins": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
     "subgenres": []
   },
   "drunken swallows": {
@@ -6664,6 +6690,14 @@
       "Metalcore"
     ]
   },
+  "in aevum agere": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
+    ]
+  },
   "in flames": {
     "classifier_version": 2,
     "family": "Metal",
@@ -6703,6 +6737,12 @@
       "Melodic Hardcore",
       "Hardcore Punk"
     ]
+  },
+  "indirekt grell": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "induction": {
     "family": "Metal",
@@ -7097,6 +7137,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "johnny delaware": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "jon mckiel": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -7202,6 +7248,12 @@
     "subgenres": []
   },
   "kalliota": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "kalter nasser stein": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -8585,6 +8637,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "mara may": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "marbelite": {
     "classifier_version": 2,
@@ -11149,6 +11207,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "raubertochter": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "ravenous": {
     "classifier_version": 2,
     "family": "Metal",
@@ -13615,6 +13679,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the generation": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the ghost and the machine": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -13663,6 +13733,12 @@
     "subgenres": [
       "Black Metal"
     ]
+  },
+  "the hackles": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
   },
   "the halo effect": {
     "classifier_version": 2,
@@ -13817,6 +13893,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the messthetics james brandon lewis": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "the mission": {
     "classifier_version": 2,
     "family": "Goth/Post-Punk",
@@ -13896,6 +13980,12 @@
     ]
   },
   "the pau": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "the pigeon boys": {
     "classifier_version": 2,
     "family": "Punk",
     "source": "lastfm",
@@ -14250,6 +14340,12 @@
     "subgenres": []
   },
   "the zew": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "the zew maiija": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

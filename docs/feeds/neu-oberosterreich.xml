@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:58:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The MESSTHETICS &amp; James Brandon Lewis – Gallneukirchen</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-412c67905cc796892e4e-1</link>
+      <guid isPermaLink="false">412c67905cc796892e4e:1</guid>
+      <pubDate>Sat, 14 Nov 2026 08:58:55 +0000</pubDate>
+      <description>2026-11-14 · Altes Hallenbad,  Gallneukirchen · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: RÄUBERTOCHTER – Wels</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8f0ec69e5a0846103829-1</link>
+      <guid isPermaLink="false">8f0ec69e5a0846103829:1</guid>
+      <pubDate>Sat, 14 Nov 2026 08:58:55 +0000</pubDate>
+      <description>2026-11-20 · Alter Schl8hof,  Wels · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: NAKED LUNCH – Weyer</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aaa23f338387c57085c0-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">5f095afc127291e576cb:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-12-18 · Bertholdsaal,  Weyer · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: MASTER, TULSADOOM, INFEST, AMONG RATS – Mehrnbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42b97c84f68ac1424c5b-2</link>
-      <guid isPermaLink="false">42b97c84f68ac1424c5b:2</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2027-05-16 · Rohbau,  Mehrnbach · Oberösterreich · Line-up: MASTER · TULSADOOM · AMONG RATS → MASTER · TULSADOOM · INFEST · AMONG RATS</description>
-    </item>
-    <item>
-      <title>Neu: KILLED BY YOUTH, SPLITROOT, SHEEPFIELD – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5d2cbde4251951c8a432-1</link>
-      <guid isPermaLink="false">5d2cbde4251951c8a432:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-09-12 · Alter Schl8hof,  Wels · Oberösterreich</description>
     </item>
   </channel>
 </rss>

@@ -70005,5 +70005,1113 @@
     "guid": "244fc30ec46941a0a9ac:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://euroteuro.bandcamp.com/",
+          "name": "EUROTEURO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Neunkirchen",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "2571a7e772e91c367e6e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "EUROTEURO",
+          "url": "https://euroteuro.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: EUROTEURO @ Exil Records, Neunkirchen",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Exil Records"
+    },
+    "event_id": "2571a7e772e91c367e6e",
+    "guid": "2571a7e772e91c367e6e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "BULLETPROOF"
+          },
+          {
+            "name": "GENERATOR"
+          },
+          {
+            "name": "CALUMET CULT"
+          }
+        ],
+        "to": [
+          {
+            "name": "GENERATOR"
+          },
+          {
+            "name": "CALUMET CULT"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/generator.austria",
+          "name": "GENERATOR"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/calumetcult/",
+          "name": "CALUMET CULT"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-09-27T08:11:59.108398+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "656a5bc5b68e7ccb1335",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "GENERATOR",
+          "url": "https://www.facebook.com/generator.austria"
+        },
+        {
+          "label": "CALUMET CULT",
+          "url": "https://www.instagram.com/calumetcult/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/922992533604995/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "13.11.: GENERATOR / CALUMET CULT @ Tunnel, Wien [BULLETPROOF cancelled.] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Tunnel"
+    },
+    "event_id": "656a5bc5b68e7ccb1335",
+    "guid": "656a5bc5b68e7ccb1335:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "The DARTS"
+          },
+          {
+            "name": "TOPSY TURVY"
+          }
+        ],
+        "to": [
+          {
+            "name": "The DARTS"
+          },
+          {
+            "name": "STEREO DEATHRAY"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://thedartsus.bandcamp.com/music",
+          "name": "The DARTS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/stereodeathray",
+          "name": "STEREO DEATHRAY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-09-08T07:15:33.919002+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ce6ff0f7430b3a9b9d9a",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "The DARTS",
+          "url": "https://thedartsus.bandcamp.com/music"
+        },
+        {
+          "label": "STEREO DEATHRAY",
+          "url": "https://www.instagram.com/stereodeathray"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1363855902176244/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 3,
+      "source_text": "13.11.: Voodoo Hop feat. The DARTS (usa) / STEREO DEATHRAY @ B72, Wien [TOPSY TURVY cancelled.] [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "Voodoo Hop",
+      "venue": "B72"
+    },
+    "event_id": "ce6ff0f7430b3a9b9d9a",
+    "guid": "ce6ff0f7430b3a9b9d9a:3",
+    "kind": "changed",
+    "revision": 3
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://themessthetics.bandcamp.com/music",
+          "name": "The MESSTHETICS & James Brandon Lewis"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "a302e8af49990346548b",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "The MESSTHETICS",
+          "url": "https://themessthetics.bandcamp.com/music"
+        },
+        {
+          "label": "James Brandon Lewis",
+          "url": "https://jamesbrandonlewis.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://porgy.at/events/13018/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: The MESSTHETICS & James Brandon Lewis (usa) @ Porgy & Bess, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Porgy & Bess"
+    },
+    "event_id": "a302e8af49990346548b",
+    "guid": "a302e8af49990346548b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://zew-music.bandcamp.com/",
+          "name": "The ZEW & MAIIJA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wörgl",
+      "event_date": "2026-11-13",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "6746d22d9960cdfb2e4e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "The ZEW",
+          "url": "https://zew-music.bandcamp.com/"
+        },
+        {
+          "label": "MAIIJA",
+          "url": "https://www.maiija.net/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.11.: The ZEW & MAIIJA @ Zone, Wörgl",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Zone"
+    },
+    "event_id": "6746d22d9960cdfb2e4e",
+    "guid": "6746d22d9960cdfb2e4e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "GRAVE DANCE COMPANY"
+          },
+          {
+            "name": "The DEVASTATION"
+          }
+        ],
+        "to": [
+          {
+            "name": "GRAVE DANCE COMPANY"
+          },
+          {
+            "name": "IN AEVUM AGERE"
+          },
+          {
+            "name": "BLACK REVELATION"
+          },
+          {
+            "name": "The DEVASTATION"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://gravedancecompany.bandcamp.com/",
+          "name": "GRAVE DANCE COMPANY"
+        },
+        {
+          "country": "ITA",
+          "link": "https://inaevumagere.bandcamp.com/",
+          "name": "IN AEVUM AGERE"
+        },
+        {
+          "country": "D",
+          "link": "https://blackrevelation.bandcamp.com/",
+          "name": "BLACK REVELATION"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/devastation_band/",
+          "name": "The DEVASTATION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-09-23T07:46:24.279791+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0425fb9d5853b56c30e7",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "GRAVE DANCE COMPANY",
+          "url": "https://gravedancecompany.bandcamp.com/"
+        },
+        {
+          "label": "IN AEVUM AGERE",
+          "url": "https://inaevumagere.bandcamp.com/"
+        },
+        {
+          "label": "BLACK REVELATION",
+          "url": "https://blackrevelation.bandcamp.com/"
+        },
+        {
+          "label": "The DEVASTATION",
+          "url": "https://www.instagram.com/devastation_band/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/932458189534764/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "14.11.: GRAVE DANCE COMPANY / IN AEVUM AGERE (ita) / BLACK REVELATION (d) / The DEVASTATION u.a. @ Escape, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Escape"
+    },
+    "event_id": "0425fb9d5853b56c30e7",
+    "guid": "0425fb9d5853b56c30e7:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://themessthetics.bandcamp.com/music",
+          "name": "The MESSTHETICS & James Brandon Lewis"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Gallneukirchen",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "412c67905cc796892e4e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "The MESSTHETICS",
+          "url": "https://themessthetics.bandcamp.com/music"
+        },
+        {
+          "label": "James Brandon Lewis",
+          "url": "https://jamesbrandonlewis.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.waschaecht.at/programm/detail/the-messthetics-altes-hallenbad-gallneukirchen"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: The MESSTHETICS & James Brandon Lewis (usa) @ Altes Hallenbad, Gallneukirchen [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Altes Hallenbad"
+    },
+    "event_id": "412c67905cc796892e4e",
+    "guid": "412c67905cc796892e4e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://thepigeonboys.bandcamp.com/",
+          "name": "The PIGEON BOYS"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/drunkenpumpkinsofficial",
+          "name": "DRUNKEN PUMPKINS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Hohenems",
+      "event_date": "2026-11-14",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "77bbf86725fa2e43245e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "The PIGEON BOYS",
+          "url": "https://thepigeonboys.bandcamp.com/"
+        },
+        {
+          "label": "DRUNKEN PUMPKINS",
+          "url": "https://www.facebook.com/drunkenpumpkinsofficial"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.11.: The PIGEON BOYS / DRUNKEN PUMPKINS @ ProKonTra, Hohenems",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "ProKonTra"
+    },
+    "event_id": "77bbf86725fa2e43245e",
+    "guid": "77bbf86725fa2e43245e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "Alela Diane"
+          }
+        ],
+        "to": [
+          {
+            "name": "Alela Diane"
+          },
+          {
+            "name": "The HACKLES"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://aleladiane.bandcamp.com/",
+          "name": "Alela Diane"
+        },
+        {
+          "country": "USA",
+          "link": "https://thehackles.bandcamp.com/",
+          "name": "The HACKLES"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-16",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "5f47b021f87ff2482531",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "Alela Diane",
+          "url": "https://aleladiane.bandcamp.com/"
+        },
+        {
+          "label": "The HACKLES",
+          "url": "https://thehackles.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/774536948843193"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.11.: Alela Diane (usa) / The HACKLES (usa) @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "5f47b021f87ff2482531",
+    "guid": "5f47b021f87ff2482531:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.annagrob.at/",
+          "name": "Anna Grob"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/maraamayy/",
+          "name": "Mara May"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-19",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "a34e60ab5afb2bd5f9c8",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "Anna Grob",
+          "url": "https://www.annagrob.at/"
+        },
+        {
+          "label": "Mara May",
+          "url": "https://www.instagram.com/maraamayy/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.11.: Anna Grob / Mara May @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "a34e60ab5afb2bd5f9c8",
+    "guid": "a34e60ab5afb2bd5f9c8:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "T¨Wi",
+        "to": "TüWi"
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/_grantscherben_/",
+          "name": "GRANTSCHERBEN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/greenhorsevienna/",
+          "name": "GREEN HORSE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-03T09:33:55.265171+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "041a1d1d3c6790fbc32c",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "GRANTSCHERBEN",
+          "url": "https://www.instagram.com/_grantscherben_/"
+        },
+        {
+          "label": "GREEN HORSE",
+          "url": "https://www.instagram.com/greenhorsevienna/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://tüwi.at/event/600"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "20.11.: GRANTSCHERBEN / GREEN HORSE @ TüWi, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "TüWi"
+    },
+    "event_id": "041a1d1d3c6790fbc32c",
+    "guid": "041a1d1d3c6790fbc32c:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/raeubertochter.musik/",
+          "name": "RÄUBERTOCHTER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wels",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "8f0ec69e5a0846103829",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "RÄUBERTOCHTER",
+          "url": "https://www.instagram.com/raeubertochter.musik/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.waschaecht.at/programm/detail/youki-nightline-unerhoert-black-sunzet-raeubertochter-fetzfm"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: RÄUBERTOCHTER @ Alter Schl8hof, Wels [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Alter Schl8hof"
+    },
+    "event_id": "8f0ec69e5a0846103829",
+    "guid": "8f0ec69e5a0846103829:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/gehoersturz.official/",
+          "name": "GEHÖRSTURZ"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/indirekt_grell/",
+          "name": "INDIREKT GRELL"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "KALTER NASSER STEIN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "1e0d37a35dc05d9c49fc",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "GEHÖRSTURZ",
+          "url": "https://www.instagram.com/gehoersturz.official/"
+        },
+        {
+          "label": "INDIREKT GRELL",
+          "url": "https://www.instagram.com/indirekt_grell/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: GEHÖRSTURZ / INDIREKT GRELL / KALTER NASSER STEIN @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "1e0d37a35dc05d9c49fc",
+    "guid": "1e0d37a35dc05d9c49fc:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/baconpigletsofficial/",
+          "name": "BACON PIGLETS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/thegeneration_official",
+          "name": "The GENERATION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-28",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "bc75ac03f683262ab0a5",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "BACON PIGLETS",
+          "url": "https://www.instagram.com/baconpigletsofficial/"
+        },
+        {
+          "label": "The GENERATION",
+          "url": "https://www.instagram.com/thegeneration_official"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.01.: BACON PIGLETS / The GENERATION @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc75ac03f683262ab0a5",
+    "guid": "bc75ac03f683262ab0a5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/damagerecall",
+          "name": "DAMAGE RECALL"
+        },
+        {
+          "country": null,
+          "link": "https://one-erection.bandcamp.com/",
+          "name": "ONE ERECTION"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-30",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "5b461739a0af1052826e",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "DAMAGE RECALL",
+          "url": "https://www.facebook.com/damagerecall"
+        },
+        {
+          "label": "ONE ERECTION",
+          "url": "https://one-erection.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.01.: DAMAGE RECALL / ONE ERECTION @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "5b461739a0af1052826e",
+    "guid": "5b461739a0af1052826e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://dastrojanischepferd.org/",
+          "name": "DAS TROJANISCHE PFERD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-06",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c551c49bf4807240c9c6",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "DAS TROJANISCHE PFERD",
+          "url": "https://dastrojanischepferd.org/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.02.: DAS TROJANISCHE PFERD @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "c551c49bf4807240c9c6",
+    "guid": "c551c49bf4807240c9c6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "SADNESS"
+          }
+        ],
+        "to": [
+          {
+            "name": "SADNESS"
+          },
+          {
+            "name": "PHAL:ANGST"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://sadnessmusic.bandcamp.com/",
+          "name": "SADNESS"
+        },
+        {
+          "country": null,
+          "link": "https://phalangst.bandcamp.com/",
+          "name": "PHAL:ANGST"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-03",
+      "first_seen_at": "2026-09-26T07:43:17.500748+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal",
+          "Doom Metal"
+        ]
+      },
+      "id": "623cf6950bd78beced00",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "SADNESS",
+          "url": "https://sadnessmusic.bandcamp.com/"
+        },
+        {
+          "label": "PHAL:ANGST",
+          "url": "https://phalangst.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1397637398541497/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "03.05.: SADNESS (usa) / PHAL:ANGST @ Arena (kl. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
+    },
+    "event_id": "623cf6950bd78beced00",
+    "guid": "623cf6950bd78beced00:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-14T08:58:55.700092+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://johnnydelaware.bandcamp.com/",
+          "name": "Johnny Delaware"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-14T08:58:55.700092+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-11",
+      "first_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0df03fc92b040e5e699f",
+      "last_seen_at": "2026-11-14T08:58:55.700092+00:00",
+      "links": [
+        {
+          "label": "Johnny Delaware",
+          "url": "https://johnnydelaware.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://rhiz.wien/?copilot-slug=11-05-2027_johnny-delaware"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "11.05.: Johnny Delaware (usa) @ rhiz, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "rhiz"
+    },
+    "event_id": "0df03fc92b040e5e699f",
+    "guid": "0df03fc92b040e5e699f:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

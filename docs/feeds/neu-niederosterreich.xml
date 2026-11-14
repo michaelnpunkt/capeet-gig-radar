@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:58:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: EUROTEURO – Neunkirchen</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2571a7e772e91c367e6e-1</link>
+      <guid isPermaLink="false">2571a7e772e91c367e6e:1</guid>
+      <pubDate>Sat, 14 Nov 2026 08:58:55 +0000</pubDate>
+      <description>2026-11-13 · Exil Records,  Neunkirchen · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: PAIN IS, WOKE, GREY VALLEY, SIX – Langenlebarn</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-564db34ea359c87d032e-1</link>
