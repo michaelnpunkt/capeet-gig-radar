@@ -1,6 +1,376 @@
 {
-  "generated_at": "2026-11-14T08:58:55.700092+00:00",
+  "generated_at": "2026-11-15T09:27:40.276813+00:00",
   "revisions": [
+    {
+      "anchor": "change-15510841f60f94a7d709-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "RUGGED"
+            },
+            {
+              "name": "MY OWN ENEMY"
+            }
+          ],
+          "to": [
+            {
+              "name": "RUGGED"
+            },
+            {
+              "name": "MY OWN ENEMY"
+            },
+            {
+              "name": "REALITY SHIFT"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BUL",
+            "link": "https://ruggedhc.bandcamp.com/",
+            "name": "RUGGED"
+          },
+          {
+            "country": "CRO",
+            "link": "https://www.instagram.com/myownenemyhc/",
+            "name": "MY OWN ENEMY"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/realityshift.hc/",
+            "name": "REALITY SHIFT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-29",
+        "first_seen_at": "2026-11-12T09:51:17.282141+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "15510841f60f94a7d709",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [
+          {
+            "label": "RUGGED",
+            "url": "https://ruggedhc.bandcamp.com/"
+          },
+          {
+            "label": "MY OWN ENEMY",
+            "url": "https://www.instagram.com/myownenemyhc/"
+          },
+          {
+            "label": "REALITY SHIFT",
+            "url": "https://www.instagram.com/realityshift.hc/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "29.11.: RUGGED (bul) / MY OWN ENEMY (cro) / REALITY SHIFT @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "15510841f60f94a7d709",
+      "guid": "15510841f60f94a7d709:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0aa6d5faef97b8523c40-1",
+      "changes": {},
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://pulverin.bandcamp.com/",
+            "name": "PULVERIN"
+          },
+          {
+            "country": null,
+            "link": "https://noknok1.bandcamp.com/",
+            "name": "NOK NOK"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-05",
+        "first_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "0aa6d5faef97b8523c40",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [
+          {
+            "label": "PULVERIN",
+            "url": "https://pulverin.bandcamp.com/"
+          },
+          {
+            "label": "NOK NOK",
+            "url": "https://noknok1.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "05.12.: PULVERIN / NOK NOK @ Usus am Wasser, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Usus am Wasser"
+      },
+      "event_id": "0aa6d5faef97b8523c40",
+      "guid": "0aa6d5faef97b8523c40:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b218e0d033e801270b5a-1",
+      "changes": {},
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://doraflob.bandcamp.com/",
+            "name": "DORA FLOB"
+          },
+          {
+            "country": null,
+            "link": "https://soundcloud.com/jul_just",
+            "name": "Julia Just"
+          },
+          {
+            "country": null,
+            "link": "https://sundl.bandcamp.com/",
+            "name": "SUNDL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-19",
+        "first_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "b218e0d033e801270b5a",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [
+          {
+            "label": "DORA FLOB",
+            "url": "https://doraflob.bandcamp.com/"
+          },
+          {
+            "label": "Julia Just",
+            "url": "https://soundcloud.com/jul_just"
+          },
+          {
+            "label": "SUNDL",
+            "url": "https://sundl.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.12.: DORA FLOB / Julia Just / SUNDL @ Einbaumöbel, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Einbaumöbel"
+      },
+      "event_id": "b218e0d033e801270b5a",
+      "guid": "b218e0d033e801270b5a:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1b4a2cbb3d877d43995b-1",
+      "changes": {},
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/marmotomarmoto/",
+            "name": "MARMOTO"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/tscharlies_tschiens/",
+            "name": "TSCHARLIES TSCHIENS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-30",
+        "first_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1b4a2cbb3d877d43995b",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [
+          {
+            "label": "MARMOTO",
+            "url": "https://www.instagram.com/marmotomarmoto/"
+          },
+          {
+            "label": "TSCHARLIES TSCHIENS",
+            "url": "https://www.instagram.com/tscharlies_tschiens/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.01.: Voodoo Hop feat. MARMOTO / TSCHARLIES TSCHIENS (d) @ B72, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Voodoo Hop",
+        "venue": "B72"
+      },
+      "event_id": "1b4a2cbb3d877d43995b",
+      "guid": "1b4a2cbb3d877d43995b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-da92d475f03a8be4a805-1",
+      "changes": {},
+      "detected_at": "2026-11-15T09:27:40.276813+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://neptune-band.bandcamp.com/",
+            "name": "NEPTUNE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/meltdowner666/",
+            "name": "MELT DOWNER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-15T09:27:40.276813+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-20",
+        "first_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "da92d475f03a8be4a805",
+        "last_seen_at": "2026-11-15T09:27:40.276813+00:00",
+        "links": [
+          {
+            "label": "NEPTUNE",
+            "url": "https://neptune-band.bandcamp.com/"
+          },
+          {
+            "label": "MELT DOWNER",
+            "url": "https://www.facebook.com/meltdowner666/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1811183956805922/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.05.: NEPTUNE (usa) / MELT DOWNER @ rhiz, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "da92d475f03a8be4a805",
+      "guid": "da92d475f03a8be4a805:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-ce6ff0f7430b3a9b9d9a-3",
       "changes": {

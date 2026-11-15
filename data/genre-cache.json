@@ -3886,6 +3886,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dora flob": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "dorfterror": {
     "classifier_version": 2,
     "family": "Punk",
@@ -7197,6 +7203,12 @@
       "Post-Punk"
     ]
   },
+  "julia just": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "julia just joanna coleman": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -8856,6 +8868,12 @@
       "Metalcore"
     ]
   },
+  "melt downer": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "memoi": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9647,6 +9665,14 @@
       "Sludge Metal"
     ]
   },
+  "neptune": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "nero kane": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -9866,6 +9892,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "nok nok": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "nonsense": {
@@ -14749,6 +14781,12 @@
     ]
   },
   "truude herr": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "tscharlies tschiens": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",

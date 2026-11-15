@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:27:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PULVERIN, NOK NOK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0aa6d5faef97b8523c40-1</link>
+      <guid isPermaLink="false">0aa6d5faef97b8523c40:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-12-05 · Usus am Wasser,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: DORA FLOB, Julia Just, SUNDL – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b218e0d033e801270b5a-1</link>
+      <guid isPermaLink="false">b218e0d033e801270b5a:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-12-19 · Einbaumöbel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MARMOTO, TSCHARLIES TSCHIENS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b4a2cbb3d877d43995b-1</link>
+      <guid isPermaLink="false">1b4a2cbb3d877d43995b:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2027-01-30 · B72,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: NEPTUNE, MELT DOWNER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-da92d475f03a8be4a805-1</link>
+      <guid isPermaLink="false">da92d475f03a8be4a805:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2027-05-20 · rhiz,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: The DARTS, STEREO DEATHRAY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ce6ff0f7430b3a9b9d9a-3</link>
@@ -671,41 +706,6 @@
       <guid isPermaLink="false">be3fa2c7f51493cc83d5:1</guid>
       <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
       <description>2026-11-07 · Römergasse 38, 1160 Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The RES – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-89f73d74ba20fb782c53-1</link>
-      <guid isPermaLink="false">89f73d74ba20fb782c53:1</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
-      <description>2026-11-08 · Flucc,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: RED EYE TEMPLE, CHAOS INSIDE, DISSEMINATION, DEVILS SMOKE, HAVENAL – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b2c888298cba3ad4b0d-1</link>
-      <guid isPermaLink="false">0b2c888298cba3ad4b0d:1</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
-      <description>2026-11-20 · Szene,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PALOMA 004, DAZED PILOTS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-74fabcb85860fde957f3-1</link>
-      <guid isPermaLink="false">74fabcb85860fde957f3:1</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
-      <description>2026-11-21 · Café Carina,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The DRAGS, ODDLY ENOUGH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-23502df4130f53345231-1</link>
-      <guid isPermaLink="false">23502df4130f53345231:1</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:18 +0000</pubDate>
-      <description>2026-11-27 · Café Carina,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

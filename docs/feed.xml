@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:27:40 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: RUGGED, MY OWN ENEMY, REALITY SHIFT – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15510841f60f94a7d709-2</link>
+      <guid isPermaLink="false">15510841f60f94a7d709:2</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-11-29 · SUb,  Graz · Steiermark · Line-up: RUGGED · MY OWN ENEMY → RUGGED · MY OWN ENEMY · REALITY SHIFT</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PULVERIN, NOK NOK – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0aa6d5faef97b8523c40-1</link>
+      <guid isPermaLink="false">0aa6d5faef97b8523c40:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-12-05 · Usus am Wasser,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: DORA FLOB, Julia Just, SUNDL – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b218e0d033e801270b5a-1</link>
+      <guid isPermaLink="false">b218e0d033e801270b5a:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2026-12-19 · Einbaumöbel,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MARMOTO, TSCHARLIES TSCHIENS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b4a2cbb3d877d43995b-1</link>
+      <guid isPermaLink="false">1b4a2cbb3d877d43995b:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2027-01-30 · B72,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: NEPTUNE, MELT DOWNER – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-da92d475f03a8be4a805-1</link>
+      <guid isPermaLink="false">da92d475f03a8be4a805:1</guid>
+      <pubDate>Sun, 15 Nov 2026 09:27:40 +0000</pubDate>
+      <description>2027-05-20 · rhiz,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: The DARTS, STEREO DEATHRAY – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ce6ff0f7430b3a9b9d9a-3</link>
@@ -664,48 +706,6 @@
       <guid isPermaLink="false">1eb60ca090957e20756e:1</guid>
       <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
       <description>2026-11-27 · Stadthalle (Hl. E),  Wien · Wien · Venue: Ottakringer Brauerei → Stadthalle (Hl. E)</description>
-    </item>
-    <item>
-      <title>Neu: KILLING PIZARRO, CUMBIA COOPERATIVA, TUTTI DILEMMA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-000785cbe9c3c0f76c0c-1</link>
-      <guid isPermaLink="false">000785cbe9c3c0f76c0c:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-03 · Fanialive,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The PISSHANDS, LEBERZERROZE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bf6227ebd33963478cb9-1</link>
-      <guid isPermaLink="false">bf6227ebd33963478cb9:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-08 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: EERAH, SOFT ORBIT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e588458b3237d96a8f13-1</link>
-      <guid isPermaLink="false">e588458b3237d96a8f13:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-11 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The Fabulous DANES, The RAZORBLADE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a230816d96c74067c42e-1</link>
-      <guid isPermaLink="false">a230816d96c74067c42e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-11 · Coco Bar,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: GLAZED CURTAINS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c375003de017e00d7159-1</link>
-      <guid isPermaLink="false">c375003de017e00d7159:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-19 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: HEROES'N GHOSTS, STUMBLING POLITELY, KALLIOTA – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6505992e14a42f0c945e-1</link>
-      <guid isPermaLink="false">6505992e14a42f0c945e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2027-01-05 · Music-House,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>
