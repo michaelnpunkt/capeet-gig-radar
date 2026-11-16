@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:45:43 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Mon, 16 Nov 2026 09:45:43 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LÁZ, BIM, GRUBI – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1f874f9ca91acef7843c-1</link>
+      <guid isPermaLink="false">1f874f9ca91acef7843c:1</guid>
+      <pubDate>Mon, 16 Nov 2026 09:45:43 +0000</pubDate>
+      <description>2026-11-27 · Secret Location,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HOAKS, YATWA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ed6e46c4649d8e50c219-1</link>
+      <guid isPermaLink="false">ed6e46c4649d8e50c219:1</guid>
+      <pubDate>Mon, 16 Nov 2026 09:45:43 +0000</pubDate>
+      <description>2026-12-02 · Kramladen,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ZxUxA, CATASTROPHY, NOWITSCHOK-5 – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9b22f4fa5ba44c1b7608-1</link>
+      <guid isPermaLink="false">9b22f4fa5ba44c1b7608:1</guid>
+      <pubDate>Mon, 16 Nov 2026 09:45:43 +0000</pubDate>
+      <description>2026-12-18 · Secret Location,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: RUGGED, MY OWN ENEMY, REALITY SHIFT – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15510841f60f94a7d709-2</link>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">961d5c3274b89e4d355e:1</guid>
       <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
       <description>2026-11-12 · Chelsea,  Wien · Wien · Line-up: IKAN HYU → IKAN HYU · CUTE AGGRESSION</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: The VEILS, Anthonie Tonnon – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-792b040544d2f9300da3-1</link>
-      <guid isPermaLink="false">792b040544d2f9300da3:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-21 · Chelsea,  Wien · Wien · Line-up: The VEILS → The VEILS · Anthonie Tonnon</description>
-    </item>
-    <item>
-      <title>Neu: DISPLEASER, RUSTY RAILGUN, The COUFS, ONLY CHILD, DEIN TAGEBUCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ac9676bad510006dda61-1</link>
-      <guid isPermaLink="false">ac9676bad510006dda61:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-23 · Flucc Wanne,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: Spike &amp; The GIMME GIMES, ZEBRAHEAD, SLACKRR, YOKOHOMO – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1eb60ca090957e20756e-1</link>
-      <guid isPermaLink="false">1eb60ca090957e20756e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-27 · Stadthalle (Hl. E),  Wien · Wien · Venue: Ottakringer Brauerei → Stadthalle (Hl. E)</description>
     </item>
   </channel>
 </rss>

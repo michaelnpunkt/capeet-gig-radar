@@ -71471,5 +71471,229 @@
     "guid": "da92d475f03a8be4a805:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-16T09:45:43.245971+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-16T09:45:43.245971+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-16T09:45:43.245971+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "HUN",
+          "link": "https://lazlazlaz.bandcamp.com/",
+          "name": "LÁZ"
+        },
+        {
+          "country": null,
+          "link": "https://bim666.bandcamp.com/",
+          "name": "BIM"
+        },
+        {
+          "country": null,
+          "link": "https://grubi.bandcamp.com/",
+          "name": "GRUBI"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-16T09:45:43.245971+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "1f874f9ca91acef7843c",
+      "last_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "links": [
+        {
+          "label": "LÁZ",
+          "url": "https://lazlazlaz.bandcamp.com/"
+        },
+        {
+          "label": "BIM",
+          "url": "https://bim666.bandcamp.com/"
+        },
+        {
+          "label": "GRUBI",
+          "url": "https://grubi.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.11.: DIY Punk Beisl feat. LÁZ (hun) / BIM / GRUBI @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": "DIY Punk Beisl",
+      "venue": "Secret Location"
+    },
+    "event_id": "1f874f9ca91acef7843c",
+    "guid": "1f874f9ca91acef7843c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-16T09:45:43.245971+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/hoaks_official/",
+          "name": "HOAKS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/yatwa_official/",
+          "name": "YATWA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-16T09:45:43.245971+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-02",
+      "first_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ed6e46c4649d8e50c219",
+      "last_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "links": [
+        {
+          "label": "HOAKS",
+          "url": "https://www.instagram.com/hoaks_official/"
+        },
+        {
+          "label": "YATWA",
+          "url": "https://www.instagram.com/yatwa_official/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1108679941793896"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.12.: HOAKS / YATWA @ Kramladen, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "ed6e46c4649d8e50c219",
+    "guid": "ed6e46c4649d8e50c219:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-16T09:45:43.245971+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://zxuxa.bandcamp.com/",
+          "name": "ZxUxA"
+        },
+        {
+          "country": null,
+          "link": "https://catastrophypunx.bandcamp.com/",
+          "name": "CATASTROPHY"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "NOWITSCHOK-5"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-16T09:45:43.245971+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "9b22f4fa5ba44c1b7608",
+      "last_seen_at": "2026-11-16T09:45:43.245971+00:00",
+      "links": [
+        {
+          "label": "ZxUxA",
+          "url": "https://zxuxa.bandcamp.com/"
+        },
+        {
+          "label": "CATASTROPHY",
+          "url": "https://catastrophypunx.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: ZxUxA / CATASTROPHY / NOWITSCHOK-5 @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
+    },
+    "event_id": "9b22f4fa5ba44c1b7608",
+    "guid": "9b22f4fa5ba44c1b7608:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -6292,6 +6292,12 @@
       "Death Metal"
     ]
   },
+  "hoaks": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "hochwald": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
