@@ -1,6 +1,1046 @@
 {
-  "generated_at": "2026-11-16T09:45:43.245971+00:00",
+  "generated_at": "2026-11-17T10:44:35.411331+00:00",
   "revisions": [
+    {
+      "anchor": "change-f29070c8e092d1d7dc73-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "MIASMIC SERUM"
+            },
+            {
+              "name": "MISCREANCE"
+            }
+          ],
+          "to": [
+            {
+              "name": "MIASMIC SERUM"
+            },
+            {
+              "name": "MISCREANCE"
+            },
+            {
+              "name": "SUBCUTANEOUS EXSANGUINATION"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://miasmicserum.bandcamp.com/",
+            "name": "MIASMIC SERUM"
+          },
+          {
+            "country": "ITA",
+            "link": "https://miscreance.bandcamp.com/",
+            "name": "MISCREANCE"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61585090172042",
+            "name": "SUBCUTANEOUS EXSANGUINATION"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-07",
+        "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Death Metal"
+          ]
+        },
+        "id": "f29070c8e092d1d7dc73",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "MIASMIC SERUM",
+            "url": "https://miasmicserum.bandcamp.com/"
+          },
+          {
+            "label": "MISCREANCE",
+            "url": "https://miscreance.bandcamp.com/"
+          },
+          {
+            "label": "SUBCUTANEOUS EXSANGUINATION",
+            "url": "https://www.facebook.com/profile.php?id=61585090172042"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "07.12.: MIASMIC SERUM (ita) / MISCREANCE (ita) / SUBCUTANEOUS EXSANGUINATION @ Arena-Beisl, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "f29070c8e092d1d7dc73",
+      "guid": "f29070c8e092d1d7dc73:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-ebc6baa6451cdd33b7ae-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "XENO & OAKLANDER"
+            }
+          ],
+          "to": [
+            {
+              "name": "XENO & OAKLANDER"
+            },
+            {
+              "name": "ART FACT"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://xenoandoaklander.art/",
+            "name": "XENO & OAKLANDER"
+          },
+          {
+            "country": "SWE",
+            "link": "https://artfact.bandcamp.com/music",
+            "name": "ART FACT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-10-14T07:39:35.163385+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "ebc6baa6451cdd33b7ae",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "XENO & OAKLANDER",
+            "url": "https://xenoandoaklander.art/"
+          },
+          {
+            "label": "ART FACT",
+            "url": "https://artfact.bandcamp.com/music"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "11.12.: Sniffin' Glue feat. XENO & OAKLANDER (usa) / ART FACT (swe) @ Flucc, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": "Sniffin' Glue",
+        "venue": "Flucc"
+      },
+      "event_id": "ebc6baa6451cdd33b7ae",
+      "guid": "ebc6baa6451cdd33b7ae:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-8261ad1890063dabd46e-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "COMASTATIC"
+            }
+          ],
+          "to": [
+            {
+              "name": "COMASTATIC"
+            },
+            {
+              "name": "ALL TO GET HER"
+            },
+            {
+              "name": "DOWN AND OUT"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CH",
+            "link": "https://comastatic.bandcamp.com/",
+            "name": "COMASTATIC"
+          },
+          {
+            "country": "CH",
+            "link": "https://www.instagram.com/atghofficial/",
+            "name": "ALL TO GET HER"
+          },
+          {
+            "country": "AUS",
+            "link": "https://www.instagram.com/downandoutaus/",
+            "name": "DOWN AND OUT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-05",
+        "first_seen_at": "2026-10-01T08:57:47.231003+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "8261ad1890063dabd46e",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "COMASTATIC",
+            "url": "https://comastatic.bandcamp.com/"
+          },
+          {
+            "label": "ALL TO GET HER",
+            "url": "https://www.instagram.com/atghofficial/"
+          },
+          {
+            "label": "DOWN AND OUT",
+            "url": "https://www.instagram.com/downandoutaus/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1757668838776991/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "05.02.: COMASTATIC (ch) / ALL TO GET HER (ch) / DOWN AND OUT (aus) @ B72, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "B72"
+      },
+      "event_id": "8261ad1890063dabd46e",
+      "guid": "8261ad1890063dabd46e:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-4ffe4969591e1ede79bb-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "GENERATION BREAKDOWN"
+            }
+          ],
+          "to": [
+            {
+              "name": "GENERATION BREAKDOWN"
+            },
+            {
+              "name": "90"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/generationbreakdown.official",
+            "name": "GENERATION BREAKDOWN"
+          },
+          {
+            "country": null,
+            "link": "https://90music.bandcamp.com/",
+            "name": "90"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-18",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "4ffe4969591e1ede79bb",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "GENERATION BREAKDOWN",
+            "url": "https://www.facebook.com/generationbreakdown.official"
+          },
+          {
+            "label": "90",
+            "url": "https://90music.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.11.: GENERATION BREAKDOWN (d) / 90 @ Arena-Beisl, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "4ffe4969591e1ede79bb",
+      "guid": "4ffe4969591e1ede79bb:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-24f720f61043b4ff337c-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "The CHAMELEONS"
+            }
+          ],
+          "to": [
+            {
+              "name": "The CHAMELEONS"
+            },
+            {
+              "name": "AGONAL GASPS"
+            }
+          ]
+        },
+        "venue": {
+          "from": "Szene",
+          "to": "Szene Flex (Café)"
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://chameleonsband.com/",
+            "name": "The CHAMELEONS"
+          },
+          {
+            "country": "USA",
+            "link": "https://agonalgasps.bandcamp.com/",
+            "name": "AGONAL GASPS"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-19",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "24f720f61043b4ff337c",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "The CHAMELEONS",
+            "url": "https://chameleonsband.com/"
+          },
+          {
+            "label": "AGONAL GASPS",
+            "url": "https://agonalgasps.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1329310625927457"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.11.: The CHAMELEONS (uk) / AGONAL GASPS (usa) @ Szene Flex (Café), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Szene Flex (Café)"
+      },
+      "event_id": "24f720f61043b4ff337c",
+      "guid": "24f720f61043b4ff337c:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-bc24cf37e64d31c8307e-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BEL",
+            "link": null,
+            "name": "ULTRA SUNN"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "Sydney Valette"
+          },
+          {
+            "country": "FRA",
+            "link": null,
+            "name": "SAD MADONA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-20",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "bc24cf37e64d31c8307e",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "bc24cf37e64d31c8307e",
+      "guid": "bc24cf37e64d31c8307e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-2d8a209acdf01a4a95ec-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://stickymoloch161.bandcamp.com/",
+            "name": "STICKY MOLOCH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Salzburg",
+        "event_date": "2026-11-21",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "2d8a209acdf01a4a95ec",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "STICKY MOLOCH",
+            "url": "https://stickymoloch161.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.11.: STICKY MOLOCH @ Hubert-Sattler-Gasse 3, Salzburg",
+        "state": "Salzburg",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Hubert-Sattler-Gasse 3"
+      },
+      "event_id": "2d8a209acdf01a4a95ec",
+      "guid": "2d8a209acdf01a4a95ec:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-61fca317015298e82c9d-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "INT",
+            "link": "https://artieblack.bandcamp.com/",
+            "name": "Artie Black/Lucie Vítková/Yoram Rosilio/Anna Sophia Defant"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-24",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "61fca317015298e82c9d",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "Artie Black",
+            "url": "https://artieblack.bandcamp.com/"
+          },
+          {
+            "label": "Lucie Vítková",
+            "url": "https://soundcloud.com/lucie-v-tkov"
+          },
+          {
+            "label": "Yoram Rosilio",
+            "url": "https://yobabass.wixsite.com/monsite"
+          },
+          {
+            "label": "Anna Sophia Defant",
+            "url": "https://www.annasophiadefant.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1163847072835196"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.11.: Artie Black/Lucie Vítková/Yoram Rosilio/Anna Sophia Defant (int) @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "61fca317015298e82c9d",
+      "guid": "61fca317015298e82c9d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-29c7d25d01aea2da9971-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "INT",
+            "link": "https://artieblack.bandcamp.com/",
+            "name": "A. Black/H. Diamond/Y. Rosilio/V. Duit"
+          },
+          {
+            "country": "NOR",
+            "link": "https://nakamalabel.bandcamp.com/album/soon-means-now",
+            "name": "ÜKYA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-26",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "29c7d25d01aea2da9971",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "A. Black",
+            "url": "https://artieblack.bandcamp.com/"
+          },
+          {
+            "label": "H. Diamond",
+            "url": "https://hunterdiamond.bandcamp.com/"
+          },
+          {
+            "label": "Y. Rosilio",
+            "url": "https://yobabass.wixsite.com/monsite"
+          },
+          {
+            "label": "V. Duit",
+            "url": "https://www.roteweltrecords.com/valentin-duit/"
+          },
+          {
+            "label": "ÜKYA",
+            "url": "https://nakamalabel.bandcamp.com/album/soon-means-now"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/978848724771700/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.11.: A. Black/H. Diamond/Y. Rosilio/V. Duit (int) / ÜKYA (nor) @ Vekks, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Vekks"
+      },
+      "event_id": "29c7d25d01aea2da9971",
+      "guid": "29c7d25d01aea2da9971:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0b89a6451ac4b07f10b6-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.stesy-band.com/",
+            "name": "STESY"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/anewchapterat",
+            "name": "A NEW CHAPTER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "0b89a6451ac4b07f10b6",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "STESY",
+            "url": "https://www.stesy-band.com/"
+          },
+          {
+            "label": "A NEW CHAPTER",
+            "url": "https://www.facebook.com/anewchapterat"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1147309954442774"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: STESY / A NEW CHAPTER @ U4, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "U4"
+      },
+      "event_id": "0b89a6451ac4b07f10b6",
+      "guid": "0b89a6451ac4b07f10b6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-68f33ca7dfa80e70a7c3-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "HECHO MIERDA"
+            }
+          ],
+          "to": [
+            {
+              "name": "HECHO MIERDA"
+            },
+            {
+              "name": "BONEGRINDER"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://hechomierda.bandcamp.com/",
+            "name": "HECHO MIERDA"
+          },
+          {
+            "country": null,
+            "link": "https://bonegrinder666.bandcamp.com/",
+            "name": "BONEGRINDER"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "68f33ca7dfa80e70a7c3",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "HECHO MIERDA",
+            "url": "https://hechomierda.bandcamp.com/"
+          },
+          {
+            "label": "BONEGRINDER",
+            "url": "https://bonegrinder666.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.11.: HECHO MIERDA (ita) / BONEGRINDER @ Arena-Beisl, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena-Beisl"
+      },
+      "event_id": "68f33ca7dfa80e70a7c3",
+      "guid": "68f33ca7dfa80e70a7c3:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-837c44d069291e69fc06-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA/AUT",
+            "link": "https://www.instagram.com/mel_e_logan/",
+            "name": "Mel E. Logan & POWER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-10",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "837c44d069291e69fc06",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "Mel E. Logan",
+            "url": "https://www.instagram.com/mel_e_logan/"
+          },
+          {
+            "label": "POWER",
+            "url": "https://www.instagram.com/power_brii/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1690176236045196/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.12.: Mel E. Logan & POWER (usa/aut) @ Café Wolf, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Wolf"
+      },
+      "event_id": "837c44d069291e69fc06",
+      "guid": "837c44d069291e69fc06:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-70ead9c62c16155b8477-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://frachild.bandcamp.com/",
+            "name": "FRACHILD"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/le.la.official",
+            "name": "LE:LA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "70ead9c62c16155b8477",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "FRACHILD",
+            "url": "https://frachild.bandcamp.com/"
+          },
+          {
+            "label": "LE:LA",
+            "url": "https://www.facebook.com/le.la.official"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/3151539131719872/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: FRACHILD / LE:LA @ Kramladen, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kramladen"
+      },
+      "event_id": "70ead9c62c16155b8477",
+      "guid": "70ead9c62c16155b8477:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a31ed5654d7062d4a921-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.facebook.com/catchyourbreathTX",
+            "name": "CATCH YOUR BREATH"
+          },
+          {
+            "country": "AUS",
+            "link": "https://www.facebook.com/oceansleeper/",
+            "name": "OCEAN SLEEPER"
+          },
+          {
+            "country": "USA",
+            "link": "https://www.instagram.com/thexelijah/",
+            "name": "ELIJAH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2027-01-25",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "a31ed5654d7062d4a921",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "CATCH YOUR BREATH",
+            "url": "https://www.facebook.com/catchyourbreathTX"
+          },
+          {
+            "label": "OCEAN SLEEPER",
+            "url": "https://www.facebook.com/oceansleeper/"
+          },
+          {
+            "label": "ELIJAH",
+            "url": "https://www.instagram.com/thexelijah/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1552974216434203"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "25.01.: CATCH YOUR BREATH (usa) / OCEAN SLEEPER (aus) / ELIJAH (usa) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "a31ed5654d7062d4a921",
+      "guid": "a31ed5654d7062d4a921:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7ae3fa7713c7b7358f11-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/thenewmourning/",
+            "name": "The NEW MOURNING"
+          },
+          {
+            "country": "D",
+            "link": "https://thebvs.bandcamp.com/",
+            "name": "The BV's"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-12",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "7ae3fa7713c7b7358f11",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "The NEW MOURNING",
+            "url": "https://www.instagram.com/thenewmourning/"
+          },
+          {
+            "label": "The BV's",
+            "url": "https://thebvs.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2014577409211189/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.03.: The NEW MOURNING / The BV's (d) @ Chelsea, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "7ae3fa7713c7b7358f11",
+      "guid": "7ae3fa7713c7b7358f11:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-46262d1a9d842c420c26-1",
+      "changes": {},
+      "detected_at": "2026-11-17T10:44:35.411331+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://snailmate.bandcamp.com/",
+            "name": "SNAILMATE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-17T10:44:35.411331+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-17",
+        "first_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "46262d1a9d842c420c26",
+        "last_seen_at": "2026-11-17T10:44:35.411331+00:00",
+        "links": [
+          {
+            "label": "SNAILMATE",
+            "url": "https://snailmate.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1539192324724330"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.03.: SNAILMATE (usa) @ Café Carina, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "46262d1a9d842c420c26",
+      "guid": "46262d1a9d842c420c26:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-bc24cf37e64d31c8307e-1",
       "changes": {},

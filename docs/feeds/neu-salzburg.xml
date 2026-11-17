@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:44:35 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: STICKY MOLOCH – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2d8a209acdf01a4a95ec-1</link>
+      <guid isPermaLink="false">2d8a209acdf01a4a95ec:1</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:35 +0000</pubDate>
+      <description>2026-11-21 · Hubert-Sattler-Gasse 3,  Salzburg · Salzburg</description>
+    </item>
     <item>
       <title>Geändert: BACKWARDS CHARM, ALEATOR – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae816b66f68324f4440e-2</link>
@@ -405,13 +412,6 @@
       <guid isPermaLink="false">c0dd8be9f19e7f7d9acd:1</guid>
       <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
       <description>2026-09-22 · St. Virgil,  Salzburg · Salzburg</description>
-    </item>
-    <item>
-      <title>Geändert: INTERNAL BLEEDING, BEHIND THE MASK – Salzburg</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-43503b9acdc0d12a88fc-1</link>
-      <guid isPermaLink="false">43503b9acdc0d12a88fc:1</guid>
-      <pubDate>Wed, 19 Aug 2026 03:11:47 +0000</pubDate>
-      <description>2026-08-27 · Rockhouse Bar,  Salzburg · Salzburg · Line-up: INTERNAL BLEEDING → INTERNAL BLEEDING · BEHIND THE MASK</description>
     </item>
   </channel>
 </rss>

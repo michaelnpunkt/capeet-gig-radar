@@ -92,6 +92,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "a black h diamond y rosilio v duit": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "a fonds perdu": {
     "classifier_version": 2,
     "family": "Metal",
@@ -346,6 +352,12 @@
       "Hardcore Punk"
     ]
   },
+  "agonal gasps": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "agriculture": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -462,6 +474,12 @@
       "Deathcore",
       "Death Metal"
     ]
+  },
+  "all to get her": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "alles exhausted": {
     "classifier_version": 2,
@@ -871,7 +889,19 @@
       "Sludge Metal"
     ]
   },
+  "art fact": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "arthur the gang": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "artie black lucie vitkova yoram rosilio anna sophia defant": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -2209,6 +2239,14 @@
     "source": "lastfm",
     "subgenres": [
       "Black Metal"
+    ]
+  },
+  "catch your breath": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
     ]
   },
   "cave club": {
@@ -3904,6 +3942,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "down and out": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "downswing": {
     "family": "Metal",
     "source": "lastfm",
@@ -4264,6 +4310,12 @@
   "elepharmers": {
     "classifier_version": 2,
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "elijah": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
   },
@@ -7918,6 +7970,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "le la": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "le mol": {
     "classifier_version": 2,
     "family": "Rock",
@@ -8845,6 +8903,12 @@
     "subgenres": []
   },
   "mel e": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "mel e logan power": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -10101,6 +10165,14 @@
     ]
   },
   "ocean grove": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
+  "ocean sleeper": {
     "classifier_version": 2,
     "family": "Metal",
     "source": "lastfm",
@@ -12418,6 +12490,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "snailmate": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "snayx": {
     "classifier_version": 2,
     "family": "Goth/Post-Punk",
@@ -12911,6 +12989,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "stesy": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "steve n seagulls": {
     "family": "Metal",
@@ -13561,6 +13647,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "the bv s": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the chameleons": {
     "family": "Goth/Post-Punk",
     "source": "lastfm",
@@ -13980,6 +14072,12 @@
     "classifier_version": 2,
     "family": "Punk",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "the new mourning": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "the nocturnal affair": {
@@ -14893,6 +14991,12 @@
     ]
   },
   "uh batman": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "ukya": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
