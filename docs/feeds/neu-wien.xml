@@ -5,8 +5,43 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: James Harries – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6efd81c40e5679e85938-1</link>
+      <guid isPermaLink="false">6efd81c40e5679e85938:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-18 · Sargfabrik,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: AMBERAT, VETO, NICHT DIE ORCHIDEEN! – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0ebd59947ab2a5a8844f-1</link>
+      <guid isPermaLink="false">0ebd59947ab2a5a8844f:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-25 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HEROES'N GHOSTS, STUMBLING POLITELY, KALLIOTA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-03dfeb31fb0932ae04a7-1</link>
+      <guid isPermaLink="false">03dfeb31fb0932ae04a7:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2027-01-22 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: AU PAIRS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b92aedfcdfb74b74a95-1</link>
+      <guid isPermaLink="false">0b92aedfcdfb74b74a95:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2027-03-15 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: MIASMIC SERUM, MISCREANCE, SUBCUTANEOUS EXSANGUINATION – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f29070c8e092d1d7dc73-2</link>
@@ -671,41 +706,6 @@
       <guid isPermaLink="false">3881df5801430d44cda0:1</guid>
       <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
       <description>2027-01-29 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PALINSTAR – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9d4e0480dada9332fec8-1</link>
-      <guid isPermaLink="false">9d4e0480dada9332fec8:1</guid>
-      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
-      <description>2027-03-20 · rhiz,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ANTIMATTER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-568394711fae8c0244ca-1</link>
-      <guid isPermaLink="false">568394711fae8c0244ca:1</guid>
-      <pubDate>Sun, 08 Nov 2026 09:00:01 +0000</pubDate>
-      <description>2027-04-15 · Escape,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: SHAKI TAVI, TRAUMA GLOW – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8b250cc26a146caf662b-2</link>
-      <guid isPermaLink="false">8b250cc26a146caf662b:2</guid>
-      <pubDate>Sat, 07 Nov 2026 08:48:08 +0000</pubDate>
-      <description>2026-11-06 · Das Lot,  Wien · Wien · Line-up: SHAKI TAVI · TRAUMA GLOW · MANIC YOUTH → SHAKI TAVI · TRAUMA GLOW</description>
-    </item>
-    <item>
-      <title>Geändert: Lisa Obereder, FAJANC – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-74fabcb85860fde957f3-2</link>
-      <guid isPermaLink="false">74fabcb85860fde957f3:2</guid>
-      <pubDate>Sat, 07 Nov 2026 08:48:08 +0000</pubDate>
-      <description>2026-11-21 · Café Carina,  Wien · Wien · Line-up: PALOMA 004 · DAZED PILOTS → Lisa Obereder · FAJANC</description>
-    </item>
-    <item>
-      <title>Geändert: AKA RINDE, Moritz Molnar &amp; The NECESSARY EVIL – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0baf52b4a8e74ee3793e-1</link>
-      <guid isPermaLink="false">0baf52b4a8e74ee3793e:1</guid>
-      <pubDate>Sat, 07 Nov 2026 08:48:08 +0000</pubDate>
-      <description>2026-11-09 · rhiz,  Wien · Wien · Line-up: AKA RINDE → AKA RINDE · Moritz Molnar &amp; The NECESSARY EVIL</description>
     </item>
   </channel>
 </rss>

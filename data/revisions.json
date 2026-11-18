@@ -72703,5 +72703,370 @@
     "guid": "46262d1a9d842c420c26:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://jamesharriesmusic.com/",
+          "name": "James Harries"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-18",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "6efd81c40e5679e85938",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "James Harries",
+          "url": "https://jamesharriesmusic.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://sargfabrik.at/veranstaltungen/james-harries"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.11.: James Harries (uk) @ Sargfabrik, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Sargfabrik"
+    },
+    "event_id": "6efd81c40e5679e85938",
+    "guid": "6efd81c40e5679e85938:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://violetbloomhc.bandcamp.com/",
+          "name": "VIOLET BLOOM"
+        },
+        {
+          "country": null,
+          "link": "https://scruffy.bandcamp.com/",
+          "name": "SCRUFFY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Innsbruck",
+      "event_date": "2026-11-21",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "2e02f9ac4ac159c2f72c",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "VIOLET BLOOM",
+          "url": "https://violetbloomhc.bandcamp.com/"
+        },
+        {
+          "label": "SCRUFFY",
+          "url": "https://scruffy.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "21.11.: VIOLET BLOOM / SCRUFFY @ St. Bartlmä (Halle 5), Innsbruck",
+      "state": "Tirol",
+      "status": "scheduled",
+      "title": null,
+      "venue": "St. Bartlmä (Halle 5)"
+    },
+    "event_id": "2e02f9ac4ac159c2f72c",
+    "guid": "2e02f9ac4ac159c2f72c:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/amberat_band/",
+          "name": "AMBERAT"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/vetoband/",
+          "name": "VETO"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "NICHT DIE ORCHIDEEN!"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-25",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "0ebd59947ab2a5a8844f",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "AMBERAT",
+          "url": "https://www.instagram.com/amberat_band/"
+        },
+        {
+          "label": "VETO",
+          "url": "https://www.instagram.com/vetoband/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.11.: AMBERAT / VETO / NICHT DIE ORCHIDEEN! @ Venster, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Venster"
+    },
+    "event_id": "0ebd59947ab2a5a8844f",
+    "guid": "0ebd59947ab2a5a8844f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/kobrakasino/",
+          "name": "KOBRAKASINO"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Linz",
+      "event_date": "2026-12-02",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e993b7abaeb17da8124f",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "KOBRAKASINO",
+          "url": "https://www.instagram.com/kobrakasino/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.ccsmaragd.at/kobrakasino-2/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.12.: KOBRAKASINO @ CulturCafé Smaragd, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "CulturCafé Smaragd"
+    },
+    "event_id": "e993b7abaeb17da8124f",
+    "guid": "e993b7abaeb17da8124f:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/HeroesnGhosts/",
+          "name": "HEROES'N GHOSTS"
+        },
+        {
+          "country": null,
+          "link": "https://stumbling-politely.bandcamp.com/",
+          "name": "STUMBLING POLITELY"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/Kalliota/",
+          "name": "KALLIOTA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Wien",
+      "event_date": "2027-01-22",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "03dfeb31fb0932ae04a7",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "HEROES'N GHOSTS",
+          "url": "https://www.facebook.com/HeroesnGhosts/"
+        },
+        {
+          "label": "STUMBLING POLITELY",
+          "url": "https://stumbling-politely.bandcamp.com/"
+        },
+        {
+          "label": "KALLIOTA",
+          "url": "https://www.facebook.com/Kalliota/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.01.: HEROES'N GHOSTS / STUMBLING POLITELY / KALLIOTA @ Arena (DreiRaum), Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "03dfeb31fb0932ae04a7",
+    "guid": "03dfeb31fb0932ae04a7:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-18T10:11:17.857980+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/aupairsband/",
+          "name": "AU PAIRS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-18T10:11:17.857980+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-15",
+      "first_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "0b92aedfcdfb74b74a95",
+      "last_seen_at": "2026-11-18T10:11:17.857980+00:00",
+      "links": [
+        {
+          "label": "AU PAIRS",
+          "url": "https://www.instagram.com/aupairsband/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1150378080821212/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.03.: AU PAIRS (uk) @ Chelsea, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "0b92aedfcdfb74b74a95",
+    "guid": "0b92aedfcdfb74b74a95:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

@@ -539,6 +539,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "amberat": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "amble": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -999,6 +1005,14 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "au pairs": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "august burns red": {
     "classifier_version": 2,
@@ -7057,6 +7071,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "james harries": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "janis jobless": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9802,6 +9822,12 @@
     "subgenres": []
   },
   "nic smiesznego": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "nicht die orchideen": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -15362,6 +15388,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "veto": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "vezz iii": {

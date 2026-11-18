@@ -5,7 +5,7 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neu: EUROTEURO – Neunkirchen</title>
@@ -146,13 +146,6 @@
       <guid isPermaLink="false">4346a99a5630227cb2e8:1</guid>
       <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
       <description>2026-09-05 · Triebwerk,  Wr. Neustadt · Niederösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PORTIA, CAVE CLUB – Stetteldorf am Wagram</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4ab5a988b596024eceda-1</link>
-      <guid isPermaLink="false">4ab5a988b596024eceda:1</guid>
-      <pubDate>Thu, 20 Aug 2026 03:10:51 +0000</pubDate>
-      <description>2026-10-24 · Saal am Kirchenplatz 4,  Stetteldorf am Wagram · Niederösterreich</description>
     </item>
   </channel>
 </rss>

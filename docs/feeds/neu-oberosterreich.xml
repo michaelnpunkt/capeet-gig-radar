@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: KOBRAKASINO – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e993b7abaeb17da8124f-1</link>
+      <guid isPermaLink="false">e993b7abaeb17da8124f:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-12-02 · CulturCafé Smaragd,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Neu: The MESSTHETICS &amp; James Brandon Lewis – Gallneukirchen</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-412c67905cc796892e4e-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">82a90ee219af5fe70183:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-09-26 · Black Horse Inn,  Wels · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PALM BEACH DRIVE, BRASSKARAMBOLAGE – Weyer</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f095afc127291e576cb-1</link>
-      <guid isPermaLink="false">5f095afc127291e576cb:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-12-18 · Bertholdsaal,  Weyer · Oberösterreich</description>
     </item>
   </channel>
 </rss>

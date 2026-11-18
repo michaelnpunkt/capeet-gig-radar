@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: James Harries – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6efd81c40e5679e85938-1</link>
+      <guid isPermaLink="false">6efd81c40e5679e85938:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-18 · Sargfabrik,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
+      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: VIOLET BLOOM, SCRUFFY – Innsbruck</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2e02f9ac4ac159c2f72c-1</link>
+      <guid isPermaLink="false">2e02f9ac4ac159c2f72c:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-21 · St. Bartlmä (Halle 5),  Innsbruck · Tirol</description>
+    </item>
+    <item>
+      <title>Neu: AMBERAT, VETO, NICHT DIE ORCHIDEEN! – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0ebd59947ab2a5a8844f-1</link>
+      <guid isPermaLink="false">0ebd59947ab2a5a8844f:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-11-25 · Venster,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: KOBRAKASINO – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e993b7abaeb17da8124f-1</link>
+      <guid isPermaLink="false">e993b7abaeb17da8124f:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2026-12-02 · CulturCafé Smaragd,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: HEROES'N GHOSTS, STUMBLING POLITELY, KALLIOTA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-03dfeb31fb0932ae04a7-1</link>
+      <guid isPermaLink="false">03dfeb31fb0932ae04a7:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2027-01-22 · Arena (DreiRaum),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: AU PAIRS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b92aedfcdfb74b74a95-1</link>
+      <guid isPermaLink="false">0b92aedfcdfb74b74a95:1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:11:17 +0000</pubDate>
+      <description>2027-03-15 · Chelsea,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: MIASMIC SERUM, MISCREANCE, SUBCUTANEOUS EXSANGUINATION – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f29070c8e092d1d7dc73-2</link>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">2afebdd2805085550e59:1</guid>
       <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
       <description>2027-01-23 · Spielboden,  Dornbirn · Vorarlberg</description>
-    </item>
-    <item>
-      <title>Neu: HONEY TRIGGER, SOME DAYS YOU LOSE, STAY BOUND – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-aa821cfc13f16eac0b2a-1</link>
-      <guid isPermaLink="false">aa821cfc13f16eac0b2a:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-01 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BITE TO BREAK – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-71ac0123b265e2d3a3ab-1</link>
-      <guid isPermaLink="false">71ac0123b265e2d3a3ab:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-04 · Arena-Beisl,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: HACKEDEPICCIOTTO – Kufstein</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-050ae632fa430440f645-1</link>
-      <guid isPermaLink="false">050ae632fa430440f645:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-06 · Kulturfabrik,  Kufstein · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: Paul Plut – Öblarn</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9a06a84cbc0c0f860ac4-1</link>
-      <guid isPermaLink="false">9a06a84cbc0c0f860ac4:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-12 · ku:L,  Öblarn · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: Paul Plut – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4cfbd852a290de4f726a-1</link>
-      <guid isPermaLink="false">4cfbd852a290de4f726a:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-13 · Orpheum Extra,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: Paul Plut – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5f9cb4141e283719fc56-1</link>
-      <guid isPermaLink="false">5f9cb4141e283719fc56:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-18 · Treibhaus,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: Paul Plut – Dornbirn</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1b843d5075f82e924040-1</link>
-      <guid isPermaLink="false">1b843d5075f82e924040:1</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2027-02-19 · Spielboden,  Dornbirn · Vorarlberg</description>
     </item>
   </channel>
 </rss>
