@@ -943,6 +943,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "ashen": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "ashes of eternity": {
     "classifier_version": 2,
     "family": "Metal",
@@ -1230,6 +1238,12 @@
     "subgenres": [
       "Death Metal"
     ]
+  },
+  "bailey spinn": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
   },
   "baits": {
     "family": "Punk",
@@ -2561,6 +2575,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "cold culture": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
+  },
   "cold december": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -2629,6 +2651,14 @@
     "subgenres": [
       "Melodic Hardcore",
       "Hardcore Punk"
+    ]
+  },
+  "commoner": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal"
     ]
   },
   "compete": {
@@ -3132,6 +3162,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "dark venus": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "darkest hour": {
     "classifier_version": 2,
     "family": "Metal",
@@ -3555,6 +3591,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "descendents": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "desert lily": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -3662,6 +3706,12 @@
     "subgenres": []
   },
   "dezinformacije": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "dfl": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -4427,6 +4477,14 @@
     ]
   },
   "employed to serve": {
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "end it": {
+    "classifier_version": 2,
     "family": "Hardcore",
     "source": "lastfm",
     "subgenres": [
@@ -6677,6 +6735,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "if not for me": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "iffernet": {
     "classifier_version": 2,
     "family": "Metal",
@@ -6826,6 +6892,14 @@
     "family": "Metal",
     "source": "lastfm",
     "subgenres": []
+  },
+  "inertia": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
   },
   "infected rats": {
     "classifier_version": 2,
@@ -8091,6 +8165,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "leorra": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "less than jake": {
     "family": "Punk",
     "source": "lastfm",
@@ -9093,6 +9173,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "michael turnini": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "midnight tattoo": {
     "classifier_version": 2,
     "family": "Punk",
@@ -9603,6 +9689,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "nachtkinder": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "nadsat": {
     "classifier_version": 2,
@@ -10707,6 +10801,12 @@
   "pendulum": {
     "classifier_version": 2,
     "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "pennywise": {
+    "classifier_version": 2,
+    "family": "Punk",
     "source": "lastfm",
     "subgenres": []
   },
@@ -13480,6 +13580,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "taqbir": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "tara nome doyle": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -16071,6 +16179,12 @@
     "subgenres": []
   },
   "yokohomo": {
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "yonaka": {
+    "classifier_version": 2,
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []

@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:21:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: PORTRAYAL OF GUILT, SPIKE HELLIS, IRON OVERKILL – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b610b4a507adada1da1-2</link>
+      <guid isPermaLink="false">0b610b4a507adada1da1:2</guid>
+      <pubDate>Thu, 19 Nov 2026 10:21:47 +0000</pubDate>
+      <description>2026-11-27 · Kapu,  Linz · Oberösterreich · Line-up: PORTRAYAL OF GUILT · SPIKE HELLIS → PORTRAYAL OF GUILT · SPIKE HELLIS · IRON OVERKILL</description>
+    </item>
     <item>
       <title>Neu: KOBRAKASINO – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e993b7abaeb17da8124f-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">3999a4b5e0942fd0a28a:1</guid>
       <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
       <description>2026-12-04 · OKH,  Vöcklabruck · Oberösterreich · Line-up: CF98 → CF98 · KITTY CAT &amp; THE UGLY HEADS</description>
-    </item>
-    <item>
-      <title>Neu: SUNSTAIN, HEADRAWKERS – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-82a90ee219af5fe70183-1</link>
-      <guid isPermaLink="false">82a90ee219af5fe70183:1</guid>
-      <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
-      <description>2026-09-26 · Black Horse Inn,  Wels · Oberösterreich</description>
     </item>
   </channel>
 </rss>

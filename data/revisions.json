@@ -73068,5 +73068,958 @@
     "guid": "0b92aedfcdfb74b74a95:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "HAUNT ME"
+          }
+        ],
+        "to": [
+          {
+            "name": "HAUNT ME"
+          },
+          {
+            "name": "DARK VENUS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://hauntmeofficial.bandcamp.com/",
+          "name": "HAUNT ME"
+        },
+        {
+          "country": null,
+          "link": "https://darkvenus.bandcamp.com/",
+          "name": "DARK VENUS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-19",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "8950762c562468bb6e4e",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "HAUNT ME",
+          "url": "https://hauntmeofficial.bandcamp.com/"
+        },
+        {
+          "label": "DARK VENUS",
+          "url": "https://darkvenus.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1154552443921559"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.11.: HAUNT ME (usa) / DARK VENUS @ Weberknecht, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Weberknecht"
+    },
+    "event_id": "8950762c562468bb6e4e",
+    "guid": "8950762c562468bb6e4e:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://commonermusic.bandcamp.com/",
+          "name": "COMMONER"
+        },
+        {
+          "country": "USA",
+          "link": "https://michaelturnini.bandcamp.com/",
+          "name": "Michael Turnini"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Doom Metal"
+        ]
+      },
+      "id": "eae1e5109772149237ad",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "COMMONER",
+          "url": "https://commonermusic.bandcamp.com/"
+        },
+        {
+          "label": "Michael Turnini",
+          "url": "https://michaelturnini.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: COMMONER (uk) / Michael Turnini (usa) @ Kaleidoskop, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kaleidoskop"
+    },
+    "event_id": "eae1e5109772149237ad",
+    "guid": "eae1e5109772149237ad:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Arena",
+        "to": "Arena (DreiRaum)"
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "FRA",
+          "link": "https://rancoeurcoldoi.bandcamp.com/",
+          "name": "RANCŒUR"
+        },
+        {
+          "country": "CZE",
+          "link": "https://blauuu.bandcamp.com/",
+          "name": "BLAU"
+        },
+        {
+          "country": "CZE",
+          "link": null,
+          "name": "KIEN"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b33b4968b67d449fa7a8",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "RANCŒUR",
+          "url": "https://rancoeurcoldoi.bandcamp.com/"
+        },
+        {
+          "label": "BLAU",
+          "url": "https://blauuu.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1418299773109523/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: RANCŒUR (fra) / BLAU (cze) / KIEN (cze) @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "b33b4968b67d449fa7a8",
+    "guid": "b33b4968b67d449fa7a8:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "BEL",
+          "link": null,
+          "name": "ULTRA SUNN"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "Sydney Valette"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SAD MADONA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-20",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "bc24cf37e64d31c8307e",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.11.: ULTRA SUNN (bel) / Sydney Valette (fra) / SAD MADONA (fra) @ Chelsea, Wien [cancelled.] [neu: 22.11.]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "bc24cf37e64d31c8307e",
+    "guid": "bc24cf37e64d31c8307e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "venue": {
+        "from": "Arena (kl. Halle)",
+        "to": "Arena (DreiRaum)"
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://spyhc.bandcamp.com/",
+          "name": "SPY"
+        },
+        {
+          "country": "USA",
+          "link": "https://combustnyhc.bandcamp.com/",
+          "name": "COMBUST"
+        },
+        {
+          "country": "SWE",
+          "link": "https://sidestephardcore.bandcamp.com/",
+          "name": "SIDESTEP"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/influencehardcore/",
+          "name": "INFLUENCE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-25",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "de1de5e780d07d0bb6be",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "SPY",
+          "url": "https://spyhc.bandcamp.com/"
+        },
+        {
+          "label": "COMBUST",
+          "url": "https://combustnyhc.bandcamp.com/"
+        },
+        {
+          "label": "SIDESTEP",
+          "url": "https://sidestephardcore.bandcamp.com/"
+        },
+        {
+          "label": "INFLUENCE",
+          "url": "https://www.instagram.com/influencehardcore/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3790429487763528/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.11.: SPY (usa) / COMBUST (usa) / SIDESTEP (swe) / INFLUENCE @ Arena (DreiRaum), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (DreiRaum)"
+    },
+    "event_id": "de1de5e780d07d0bb6be",
+    "guid": "de1de5e780d07d0bb6be:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "PORTRAYAL OF GUILT"
+          },
+          {
+            "name": "SPIKE HELLIS"
+          }
+        ],
+        "to": [
+          {
+            "name": "PORTRAYAL OF GUILT"
+          },
+          {
+            "name": "SPIKE HELLIS"
+          },
+          {
+            "name": "IRON OVERKILL"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://portrayalofguilt.bandcamp.com/music",
+          "name": "PORTRAYAL OF GUILT"
+        },
+        {
+          "country": "USA",
+          "link": "https://spikehellis.bandcamp.com/",
+          "name": "SPIKE HELLIS"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/iron.overkill/",
+          "name": "IRON OVERKILL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Linz",
+      "event_date": "2026-11-27",
+      "first_seen_at": "2026-08-18T03:09:18.056724+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "0b610b4a507adada1da1",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "PORTRAYAL OF GUILT",
+          "url": "https://portrayalofguilt.bandcamp.com/music"
+        },
+        {
+          "label": "SPIKE HELLIS",
+          "url": "https://spikehellis.bandcamp.com/"
+        },
+        {
+          "label": "IRON OVERKILL",
+          "url": "https://www.instagram.com/iron.overkill/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/27718963491129315"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "27.11.: PORTRAYAL OF GUILT (usa) / SPIKE HELLIS (usa) / IRON OVERKILL @ Kapu, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kapu"
+    },
+    "event_id": "0b610b4a507adada1da1",
+    "guid": "0b610b4a507adada1da1:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "EMPLOYED TO SERVE"
+          },
+          {
+            "name": "CABAL"
+          }
+        ],
+        "to": [
+          {
+            "name": "EMPLOYED TO SERVE"
+          },
+          {
+            "name": "CABAL"
+          },
+          {
+            "name": "COLD CULTURE"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://employedtoserve.bandcamp.com/music",
+          "name": "EMPLOYED TO SERVE"
+        },
+        {
+          "country": "DEN",
+          "link": "https://cabalcph.bandcamp.com/",
+          "name": "CABAL"
+        },
+        {
+          "country": "DEN",
+          "link": "https://www.instagram.com/coldcultureband/",
+          "name": "COLD CULTURE"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-29",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "66b269f5a4d7a614b053",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "EMPLOYED TO SERVE",
+          "url": "https://employedtoserve.bandcamp.com/music"
+        },
+        {
+          "label": "CABAL",
+          "url": "https://cabalcph.bandcamp.com/"
+        },
+        {
+          "label": "COLD CULTURE",
+          "url": "https://www.instagram.com/coldcultureband/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1073304162028337"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.11.: EMPLOYED TO SERVE (uk) / CABAL (den) / COLD CULTURE (den) @ Viper Room, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Viper Room"
+    },
+    "event_id": "66b269f5a4d7a614b053",
+    "guid": "66b269f5a4d7a614b053:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.nachtkinder.eu/",
+          "name": "NACHTKINDER"
+        },
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/leorrasmusic/",
+          "name": "Leorra"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "793c5356794b53351b4d",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "NACHTKINDER",
+          "url": "https://www.nachtkinder.eu/"
+        },
+        {
+          "label": "Leorra",
+          "url": "https://www.instagram.com/leorrasmusic/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: NACHTKINDER (d) / Leorra (d) @ Kramladen, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kramladen"
+    },
+    "event_id": "793c5356794b53351b4d",
+    "guid": "793c5356794b53351b4d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "TX2"
+          }
+        ],
+        "to": [
+          {
+            "name": "TX2"
+          },
+          {
+            "name": "Bailey Spinn"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/tx2official/",
+          "name": "TX2"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.instagram.com/baileyspinn/",
+          "name": "Bailey Spinn"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-23",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ccf401c17ecc116c9c88",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "TX2",
+          "url": "https://www.instagram.com/tx2official/"
+        },
+        {
+          "label": "Bailey Spinn",
+          "url": "https://www.instagram.com/baileyspinn/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1320337636264595"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.02.: TX2 (usa) / Bailey Spinn (usa) @ WUK, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "WUK"
+    },
+    "event_id": "ccf401c17ecc116c9c88",
+    "guid": "ccf401c17ecc116c9c88:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://www.instagram.com/weareyonaka/",
+          "name": "YONAKA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-28",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "211894f8642bc264b36d",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "YONAKA",
+          "url": "https://www.instagram.com/weareyonaka/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1452597170328722/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.02.: YONAKA (uk) @ B72, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "B72"
+    },
+    "event_id": "211894f8642bc264b36d",
+    "guid": "211894f8642bc264b36d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/kingdomofgiants",
+          "name": "KINGDOM OF GIANTS"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.ifnotformeband.com/",
+          "name": "IF NOT FOR ME"
+        },
+        {
+          "country": "FRA",
+          "link": "https://ashenparis.bandcamp.com/",
+          "name": "ASHEN"
+        },
+        {
+          "country": "AUS",
+          "link": "https://www.instagram.com/inertiasydney",
+          "name": "INERTIA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-17",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "a59043875c1c4c84274e",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "KINGDOM OF GIANTS",
+          "url": "https://www.facebook.com/kingdomofgiants"
+        },
+        {
+          "label": "IF NOT FOR ME",
+          "url": "https://www.ifnotformeband.com/"
+        },
+        {
+          "label": "ASHEN",
+          "url": "https://ashenparis.bandcamp.com/"
+        },
+        {
+          "label": "INERTIA",
+          "url": "https://www.instagram.com/inertiasydney"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1141411495533865/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "17.04.: KINGDOM OF GIANTS (usa) / IF NOT FOR ME (usa) / ASHEN (fra) / INERTIA (aus) @ Szene, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Szene"
+    },
+    "event_id": "a59043875c1c4c84274e",
+    "guid": "a59043875c1c4c84274e:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://pennywisdom.com/",
+          "name": "PENNYWISE"
+        },
+        {
+          "country": "USA",
+          "link": "https://descendents.bandcamp.com/music",
+          "name": "DESCENDENTS"
+        },
+        {
+          "country": "USA",
+          "link": "https://enditbchc.com/",
+          "name": "END IT"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.facebook.com/proudtobedfl",
+          "name": "DFL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-13",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a455b22429466dfd2812",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "PENNYWISE",
+          "url": "https://pennywisdom.com/"
+        },
+        {
+          "label": "DESCENDENTS",
+          "url": "https://descendents.bandcamp.com/music"
+        },
+        {
+          "label": "END IT",
+          "url": "https://enditbchc.com/"
+        },
+        {
+          "label": "DFL",
+          "url": "https://www.facebook.com/proudtobedfl"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1664999498454855/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.05.: PENNYWISE (usa) / DESCENDENTS (usa) / END IT (usa) / DFL (usa) u.a. @ Arena (Open Air), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (Open Air)"
+    },
+    "event_id": "a455b22429466dfd2812",
+    "guid": "a455b22429466dfd2812:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "LAMBRINI GIRLS"
+          }
+        ],
+        "to": [
+          {
+            "name": "LAMBRINI GIRLS"
+          },
+          {
+            "name": "TAQBIR"
+          }
+        ]
+      },
+      "venue": {
+        "from": "Arena (gr. Halle)",
+        "to": "Arena (Open Air)"
+      }
+    },
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://lambrinigirlsband.bandcamp.com/",
+          "name": "LAMBRINI GIRLS"
+        },
+        {
+          "country": "MAR/SPA",
+          "link": "https://taqbir.bandcamp.com/",
+          "name": "TAQBIR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-18",
+      "first_seen_at": "2026-10-08T08:59:24.743515+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "9b5739b508baddf04e91",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "LAMBRINI GIRLS",
+          "url": "https://lambrinigirlsband.bandcamp.com/"
+        },
+        {
+          "label": "TAQBIR",
+          "url": "https://taqbir.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2473412769838064/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "18.05.: LAMBRINI GIRLS (uk) / TAQBIR (mar/spa) @ Arena (Open Air), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (Open Air)"
+    },
+    "event_id": "9b5739b508baddf04e91",
+    "guid": "9b5739b508baddf04e91:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-19T10:21:47.877098+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://exitvoid.bandcamp.com/",
+          "name": "EXIT VOID"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-19T10:21:47.877098+00:00",
+      "city": "Dornbirn",
+      "event_date": "2027-09-18",
+      "first_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "heuristic",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "1f6dcce65bf1200843cf",
+      "last_seen_at": "2026-11-19T10:21:47.877098+00:00",
+      "links": [
+        {
+          "label": "EXIT VOID",
+          "url": "https://exitvoid.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1132457112722561"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.09.: EXIT VOID @ Spielboden, Dornbirn [fb]",
+      "state": "Vorarlberg",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Spielboden"
+    },
+    "event_id": "1f6dcce65bf1200843cf",
+    "guid": "1f6dcce65bf1200843cf:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

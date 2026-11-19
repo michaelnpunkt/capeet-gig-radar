@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:21:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-vorarlberg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: EXIT VOID – Dornbirn</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1f6dcce65bf1200843cf-1</link>
+      <guid isPermaLink="false">1f6dcce65bf1200843cf:1</guid>
+      <pubDate>Thu, 19 Nov 2026 10:21:47 +0000</pubDate>
+      <description>2027-09-18 · Spielboden,  Dornbirn · Vorarlberg</description>
+    </item>
     <item>
       <title>Neu: The PIGEON BOYS, DRUNKEN PUMPKINS – Hohenems</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-77bbf86725fa2e43245e-1</link>
