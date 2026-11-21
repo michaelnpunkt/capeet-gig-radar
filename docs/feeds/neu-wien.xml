@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:50:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: POISONOUS FREQUENCIES – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a912faf7eac5aac830d8-1</link>
+      <guid isPermaLink="false">a912faf7eac5aac830d8:1</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:55 +0000</pubDate>
+      <description>2026-11-27 · Koje,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MILDE SORTE, PUKE PUDDLE, COUNT CATFISH – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c1fd44b4bcd81ab2b0e7-1</link>
+      <guid isPermaLink="false">c1fd44b4bcd81ab2b0e7:1</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:55 +0000</pubDate>
+      <description>2026-12-12 · Venster,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: LAMBRINI GIRLS, TAQBIR – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9b5739b508baddf04e91-2</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">000785cbe9c3c0f76c0c:1</guid>
       <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
       <description>2026-12-03 · Fanialive,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The PISSHANDS, LEBERZERROZE – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bf6227ebd33963478cb9-1</link>
-      <guid isPermaLink="false">bf6227ebd33963478cb9:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-08 · Lucia,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: EERAH, SOFT ORBIT – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e588458b3237d96a8f13-1</link>
-      <guid isPermaLink="false">e588458b3237d96a8f13:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-11 · Lucia,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

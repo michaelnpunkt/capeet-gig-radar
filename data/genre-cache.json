@@ -2817,6 +2817,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "count catfish": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "counterparts": {
     "family": "Hardcore",
     "source": "lastfm",
@@ -11034,6 +11040,12 @@
       "Metalcore"
     ]
   },
+  "poisonous frequencies": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "polaris": {
     "family": "Metal",
     "source": "lastfm",
@@ -11295,6 +11307,12 @@
     "subgenres": []
   },
   "puke": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "puke puddle": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -12468,6 +12486,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "siz": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "skalapenos": {
     "classifier_version": 2,

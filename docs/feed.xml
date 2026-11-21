@@ -5,8 +5,29 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:50:55 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SIZ, HEIMLICHE IDIOTEN – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-988e43745fa8c609fc06-1</link>
+      <guid isPermaLink="false">988e43745fa8c609fc06:1</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:55 +0000</pubDate>
+      <description>2026-11-26 · Theater am Lend,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: POISONOUS FREQUENCIES – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a912faf7eac5aac830d8-1</link>
+      <guid isPermaLink="false">a912faf7eac5aac830d8:1</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:55 +0000</pubDate>
+      <description>2026-11-27 · Koje,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MILDE SORTE, PUKE PUDDLE, COUNT CATFISH – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c1fd44b4bcd81ab2b0e7-1</link>
+      <guid isPermaLink="false">c1fd44b4bcd81ab2b0e7:1</guid>
+      <pubDate>Sat, 21 Nov 2026 09:50:55 +0000</pubDate>
+      <description>2026-12-12 · Venster,  Wien · Wien</description>
+    </item>
     <item>
       <title>Geändert: PORTRAYAL OF GUILT, SPIKE HELLIS, IRON OVERKILL – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0b610b4a507adada1da1-2</link>
@@ -685,27 +706,6 @@
       <guid isPermaLink="false">0afbb275769d42bc24bc:1</guid>
       <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
       <description>2027-07-20 · Flex,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: NEUROSIS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-244fc30ec46941a0a9ac-1</link>
-      <guid isPermaLink="false">244fc30ec46941a0a9ac:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-08-26 · Arena (Open Air),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: LITTLE BARRIE, 250CC – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8ac045acd680096a40fc-2</link>
-      <guid isPermaLink="false">8ac045acd680096a40fc:2</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2026-11-12 · rhiz Weberknecht,  Wien · Wien · Venue: rhiz → rhiz Weberknecht</description>
-    </item>
-    <item>
-      <title>Geändert: SHADOWS OF BEYOND, CROWHEART, MEPHOBIA – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d117104323d7ee09d1ae-2</link>
-      <guid isPermaLink="false">d117104323d7ee09d1ae:2</guid>
-      <pubDate>Wed, 11 Nov 2026 09:27:10 +0000</pubDate>
-      <description>2026-11-21 · Wakuum B-Side,  Graz · Steiermark · Venue: Club Wakuum → Wakuum B-Side</description>
     </item>
   </channel>
 </rss>

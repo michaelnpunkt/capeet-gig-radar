@@ -1,6 +1,180 @@
 {
-  "generated_at": "2026-11-19T10:21:47.877098+00:00",
+  "generated_at": "2026-11-21T09:50:55.193440+00:00",
   "revisions": [
+    {
+      "anchor": "change-988e43745fa8c609fc06-1",
+      "changes": {},
+      "detected_at": "2026-11-21T09:50:55.193440+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "MKD",
+            "link": "https://www.facebook.com/profile.php?id=100063723663047",
+            "name": "SIZ"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/heimliche_idioten",
+            "name": "HEIMLICHE IDIOTEN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-21T09:50:55.193440+00:00",
+        "city": "Graz",
+        "event_date": "2026-11-26",
+        "first_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "988e43745fa8c609fc06",
+        "last_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "links": [
+          {
+            "label": "SIZ",
+            "url": "https://www.facebook.com/profile.php?id=100063723663047"
+          },
+          {
+            "label": "HEIMLICHE IDIOTEN",
+            "url": "https://www.instagram.com/heimliche_idioten"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.theateramlend.at/jart/prj3/theater-am-lend/main.jart?rel=de&reserve-mode=active&content-id=1490815410254&veranstaltung_id=1789168983309"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "26.11.: SIZ (mkd) / HEIMLICHE IDIOTEN @ Theater am Lend, Graz [web]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Theater am Lend"
+      },
+      "event_id": "988e43745fa8c609fc06",
+      "guid": "988e43745fa8c609fc06:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a912faf7eac5aac830d8-1",
+      "changes": {},
+      "detected_at": "2026-11-21T09:50:55.193440+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CZE/AUT",
+            "link": "https://www.facebook.com/profile.php?id=100029146016913",
+            "name": "POISONOUS FREQUENCIES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-21T09:50:55.193440+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "heuristic",
+          "subgenres": [
+            "Street Punk"
+          ]
+        },
+        "id": "a912faf7eac5aac830d8",
+        "last_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "links": [
+          {
+            "label": "POISONOUS FREQUENCIES",
+            "url": "https://www.facebook.com/profile.php?id=100029146016913"
+          },
+          {
+            "label": "[web]",
+            "url": "https://koje.klingt.org/konzert/27-11-2026-poisonous-frequencies"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.11.: POISONOUS FREQUENCIES (cze/aut) @ Koje, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Koje"
+      },
+      "event_id": "a912faf7eac5aac830d8",
+      "guid": "a912faf7eac5aac830d8:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-c1fd44b4bcd81ab2b0e7-1",
+      "changes": {},
+      "detected_at": "2026-11-21T09:50:55.193440+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/mildesorte_extraforte/",
+            "name": "MILDE SORTE"
+          },
+          {
+            "country": null,
+            "link": "https://pukepuddle.bandcamp.com/",
+            "name": "PUKE PUDDLE"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/count.catfish.punk/",
+            "name": "COUNT CATFISH"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-21T09:50:55.193440+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-12",
+        "first_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "c1fd44b4bcd81ab2b0e7",
+        "last_seen_at": "2026-11-21T09:50:55.193440+00:00",
+        "links": [
+          {
+            "label": "MILDE SORTE",
+            "url": "https://www.instagram.com/mildesorte_extraforte/"
+          },
+          {
+            "label": "PUKE PUDDLE",
+            "url": "https://pukepuddle.bandcamp.com/"
+          },
+          {
+            "label": "COUNT CATFISH",
+            "url": "https://www.instagram.com/count.catfish.punk/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.12.: MILDE SORTE / PUKE PUDDLE / COUNT CATFISH @ Venster, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Venster"
+      },
+      "event_id": "c1fd44b4bcd81ab2b0e7",
+      "guid": "c1fd44b4bcd81ab2b0e7:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-0b610b4a507adada1da1-2",
       "changes": {
