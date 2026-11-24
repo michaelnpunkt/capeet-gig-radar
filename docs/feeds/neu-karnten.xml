@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-karnten.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: GUYOÐ, VxPxOxAxAxWxAxMxC KARDROZ – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f778472cc95adf4cdccf-1</link>
+      <guid isPermaLink="false">f778472cc95adf4cdccf:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-01-02 · Ventil,  Klagenfurt · Kärnten</description>
+    </item>
     <item>
       <title>Neu: Paul Plut – Klagenfurt</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-06aa05c334b5f8442853-1</link>
@@ -104,13 +111,6 @@
       <guid isPermaLink="false">5e22d86db0670f4e0fc4:1</guid>
       <pubDate>Sun, 06 Sep 2026 07:08:16 +0000</pubDate>
       <description>2026-10-17 · Mühle,  St. Veit an der Glan · Kärnten</description>
-    </item>
-    <item>
-      <title>Neu: DISHARMONIC ORCHESTRA, ALTAR OF I, CASTIEL, CORRUPTUM – KLagenfurt</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6150c5bcbfc79387cdaa-1</link>
-      <guid isPermaLink="false">6150c5bcbfc79387cdaa:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-12-18 · Fritz Club,  KLagenfurt · Kärnten</description>
     </item>
   </channel>
 </rss>

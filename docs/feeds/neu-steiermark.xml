@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: KRUST HUNY, PAŹDZIERNIKOWY GRAD, SCAMPI BUMP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1cb71f68b159c2aea518-1</link>
+      <guid isPermaLink="false">1cb71f68b159c2aea518:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-12-18 · Music-House,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: SIZ, HEIMLICHE IDIOTEN – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-988e43745fa8c609fc06-1</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">c4bef60064ac717f3c7d:1</guid>
       <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
       <description>2026-11-12 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: BIRDSTONE, WARANTEE – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c5cc93d300e6a82ce87c-1</link>
-      <guid isPermaLink="false">c5cc93d300e6a82ce87c:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-11-14 · Glam,  Feldbach · Steiermark</description>
     </item>
   </channel>
 </rss>

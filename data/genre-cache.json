@@ -513,6 +513,12 @@
       "Metalcore"
     ]
   },
+  "alt j": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "altar of i": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2102,6 +2108,14 @@
       "Deathcore",
       "Death Metal",
       "Thrash Metal"
+    ]
+  },
+  "caliban": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
     ]
   },
   "call me amour": {
@@ -6220,6 +6234,16 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "heaven shall burn": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore",
+      "Death Metal"
+    ]
+  },
   "heavensgate": {
     "family": "Metal",
     "source": "lastfm",
@@ -7986,6 +8010,14 @@
       "Hardcore Punk"
     ]
   },
+  "larsovitch": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "las medias nueves": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9619,6 +9651,12 @@
       "Grindcore"
     ]
   },
+  "muuske": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "mwita mataro": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9804,6 +9842,16 @@
     "source": "lastfm",
     "subgenres": [
       "Black Metal"
+    ]
+  },
+  "neaera": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore",
+      "Death Metal"
     ]
   },
   "neck deep": {
@@ -10374,6 +10422,14 @@
       "Black Metal"
     ]
   },
+  "olgha": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "omnium gatherum": {
     "classifier_version": 2,
     "family": "Metal",
@@ -10779,6 +10835,14 @@
       "Shoegaze"
     ]
   },
+  "pazdziernikowy grad": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "peace of mind": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -10961,6 +11025,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "piss": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "pixel grip": {
     "family": "Electronic/Industrial",
     "source": "lastfm",
@@ -11012,6 +11084,12 @@
   "please madame": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "plow": {
+    "classifier_version": 2,
+    "family": "Punk",
     "source": "lastfm",
     "subgenres": []
   },
@@ -11150,6 +11228,14 @@
     "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
+  },
+  "praeya": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore"
+    ]
   },
   "praying mantis": {
     "classifier_version": 2,
@@ -13849,6 +13935,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "the cradle": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the crescent s call": {
     "family": "Metal",
     "source": "lastfm",
@@ -14610,6 +14702,15 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "the well": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Doom Metal",
+      "Stoner Metal"
+    ]
   },
   "the westerwaves": {
     "classifier_version": 2,
@@ -15742,6 +15843,12 @@
     "subgenres": [
       "Doom Metal"
     ]
+  },
+  "vxpxoxaxaxwxaxmxc kardroz": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "walk off the earth": {
     "family": "Alternative/Indie",

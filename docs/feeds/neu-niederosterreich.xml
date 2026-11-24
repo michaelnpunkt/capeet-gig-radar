@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: MUUSKE, BAITS – Purgstall</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-77e7c39d79ee4599f9a2-1</link>
+      <guid isPermaLink="false">77e7c39d79ee4599f9a2:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-03-27 · Bunker,  Purgstall · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: EUROTEURO – Neunkirchen</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2571a7e772e91c367e6e-1</link>
@@ -125,27 +132,6 @@
       <guid isPermaLink="false">c849a03c94f7dbf21697:1</guid>
       <pubDate>Fri, 28 Aug 2026 14:21:48 +0000</pubDate>
       <description>2026-10-03 · Proberaum,  Scheibbs · Niederösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PORTRAIT OF TAO, Romeo Kaltenbrunner – Wr. Neustadt</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4fab97d8c38f1ac4144f-1</link>
-      <guid isPermaLink="false">4fab97d8c38f1ac4144f:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-09-03 · Triebwerk,  Wr. Neustadt · Niederösterreich</description>
-    </item>
-    <item>
-      <title>Neu: Sodl, BLACK SUNZET, FRACHILD, JÆSMINE, Luisa Schweig – Wr. Neustadt</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f4d401ab480accf3d264-1</link>
-      <guid isPermaLink="false">f4d401ab480accf3d264:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-09-04 · Triebwerk,  Wr. Neustadt · Niederösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PETROL GIRLS, JEANNY, CUPIDITAS, BASTA – Wr. Neustadt</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-4346a99a5630227cb2e8-1</link>
-      <guid isPermaLink="false">4346a99a5630227cb2e8:1</guid>
-      <pubDate>Wed, 26 Aug 2026 03:19:08 +0000</pubDate>
-      <description>2026-09-05 · Triebwerk,  Wr. Neustadt · Niederösterreich</description>
     </item>
   </channel>
 </rss>

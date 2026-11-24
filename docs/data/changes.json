@@ -1,6 +1,729 @@
 {
-  "generated_at": "2026-11-23T10:47:19.634663+00:00",
+  "generated_at": "2026-11-24T12:31:08.235771+00:00",
   "revisions": [
+    {
+      "anchor": "change-7bba91b0a224fe0db791-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "HECKSPOILER"
+            }
+          ],
+          "to": [
+            {
+              "name": "HECKSPOILER"
+            },
+            {
+              "name": "THOSAR"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://heckspoiler.org/",
+            "name": "HECKSPOILER"
+          },
+          {
+            "country": null,
+            "link": "https://thosar.bandcamp.com/",
+            "name": "THOSAR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-10",
+        "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Noise Rock"
+          ]
+        },
+        "id": "7bba91b0a224fe0db791",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "HECKSPOILER",
+            "url": "https://heckspoiler.org/"
+          },
+          {
+            "label": "THOSAR",
+            "url": "https://thosar.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/944936341958996/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "10.12.: HECKSPOILER / THOSAR @ Kapu, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "7bba91b0a224fe0db791",
+      "guid": "7bba91b0a224fe0db791:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-b9355b084e6c6f36ec7b-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://www.thecradlemusic.com/bio",
+            "name": "The CRADLE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-24",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "b9355b084e6c6f36ec7b",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "The CRADLE",
+            "url": "https://www.thecradlemusic.com/bio"
+          },
+          {
+            "label": "[web]",
+            "url": "https://artisticdynamicassociation.eu/ada-is-the-cradle-us-scoops-of-glory/"
+          }
+        ],
+        "postal_code": "1160",
+        "revision": 1,
+        "source_text": "24.11.: The CRADLE (usa) @ Galerie ADA, Wattgasse 16/6, 1160 Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Galerie ADA, Wattgasse 16/6"
+      },
+      "event_id": "b9355b084e6c6f36ec7b",
+      "guid": "b9355b084e6c6f36ec7b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3fb17cb7d599f508643d-1",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": null,
+            "name": "The PRODIGY"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-24",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": [
+            "Industrial"
+          ]
+        },
+        "id": "3fb17cb7d599f508643d",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "24.11.: The PRODIGY (uk) @ Stadthalle, Wien [cancelled.]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": null,
+        "venue": "Stadthalle"
+      },
+      "event_id": "3fb17cb7d599f508643d",
+      "guid": "3fb17cb7d599f508643d:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7e8f1b86ff4daaaf9de6-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "BUL",
+            "link": "https://ruggedhc.bandcamp.com/",
+            "name": "RUGGED"
+          },
+          {
+            "country": null,
+            "link": "https://harrowist.bandcamp.com/",
+            "name": "HARROWIST"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-30",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Metalcore"
+          ]
+        },
+        "id": "7e8f1b86ff4daaaf9de6",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "RUGGED",
+            "url": "https://ruggedhc.bandcamp.com/"
+          },
+          {
+            "label": "HARROWIST",
+            "url": "https://harrowist.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "30.11.: RUGGED (bul) / HARROWIST @ Secret Location, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Secret Location"
+      },
+      "event_id": "7e8f1b86ff4daaaf9de6",
+      "guid": "7e8f1b86ff4daaaf9de6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3a1e9e55ea05a9868a35-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "FRA",
+            "link": "https://larsovitch.bandcamp.com/",
+            "name": "LARSOVITCH"
+          },
+          {
+            "country": "ITA",
+            "link": "https://olgha.bandcamp.com/",
+            "name": "OLGHA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-10",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "3a1e9e55ea05a9868a35",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "LARSOVITCH",
+            "url": "https://larsovitch.bandcamp.com/"
+          },
+          {
+            "label": "OLGHA",
+            "url": "https://olgha.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.12.: LARSOVITCH (fra) / OLGHA (ita) @ Down Under, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Down Under"
+      },
+      "event_id": "3a1e9e55ea05a9868a35",
+      "guid": "3a1e9e55ea05a9868a35:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1cb71f68b159c2aea518-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/krust.huny/",
+            "name": "KRUST HUNY"
+          },
+          {
+            "country": "POL",
+            "link": "https://pazdziernikowygrad.bandcamp.com/",
+            "name": "PAŹDZIERNIKOWY GRAD"
+          },
+          {
+            "country": null,
+            "link": "https://scampibump.bandcamp.com/",
+            "name": "SCAMPI BUMP"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-18",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "1cb71f68b159c2aea518",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "KRUST HUNY",
+            "url": "https://www.instagram.com/krust.huny/"
+          },
+          {
+            "label": "PAŹDZIERNIKOWY GRAD",
+            "url": "https://pazdziernikowygrad.bandcamp.com/"
+          },
+          {
+            "label": "SCAMPI BUMP",
+            "url": "https://scampibump.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.12.: KRUST HUNY / PAŹDZIERNIKOWY GRAD (pol) / SCAMPI BUMP @ Music-House, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Music-House"
+      },
+      "event_id": "1cb71f68b159c2aea518",
+      "guid": "1cb71f68b159c2aea518:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-f778472cc95adf4cdccf-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/guyodofficial/",
+            "name": "GUYOÐ"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/VxPxOxAxAxWxAxMxCx/",
+            "name": "VxPxOxAxAxWxAxMxC KARDROZ"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Klagenfurt",
+        "event_date": "2027-01-02",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "f778472cc95adf4cdccf",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "GUYOÐ",
+            "url": "https://www.facebook.com/guyodofficial/"
+          },
+          {
+            "label": "VxPxOxAxAxWxAxMxC",
+            "url": "https://www.facebook.com/VxPxOxAxAxWxAxMxCx/"
+          },
+          {
+            "label": "KARDROZ",
+            "url": "https://kardroz.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.kaernten.live/vada/1194-metal"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "02.01.: GUYOÐ / VxPxOxAxAxWxAxMxC KARDROZ @ Ventil, Klagenfurt [web]",
+        "state": "Kärnten",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Ventil"
+      },
+      "event_id": "f778472cc95adf4cdccf",
+      "guid": "f778472cc95adf4cdccf:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-099a9ddd41743430a251-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "CAN",
+            "link": "https://pisstheband.bandcamp.com/",
+            "name": "PISS"
+          },
+          {
+            "country": null,
+            "link": "https://swelle.bandcamp.com/",
+            "name": "SWELLE"
+          },
+          {
+            "country": null,
+            "link": "https://plownoise.bandcamp.com/",
+            "name": "PLOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-04",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "099a9ddd41743430a251",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "PISS",
+            "url": "https://pisstheband.bandcamp.com/"
+          },
+          {
+            "label": "SWELLE",
+            "url": "https://swelle.bandcamp.com/"
+          },
+          {
+            "label": "PLOW",
+            "url": "https://plownoise.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://arena.wien/Home/Programm-Detail/concert-id/48707"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.03.: PISS (can) / SWELLE / PLOW @ Arena (kl. Halle), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "099a9ddd41743430a251",
+      "guid": "099a9ddd41743430a251:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-77e7c39d79ee4599f9a2-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/muuske.band/",
+            "name": "MUUSKE"
+          },
+          {
+            "country": null,
+            "link": "https://www.baitsmusic.com/",
+            "name": "BAITS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Purgstall",
+        "event_date": "2027-03-27",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "77e7c39d79ee4599f9a2",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "MUUSKE",
+            "url": "https://www.instagram.com/muuske.band/"
+          },
+          {
+            "label": "BAITS",
+            "url": "https://www.baitsmusic.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1795754241624332/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.03.: MUUSKE (d) / BAITS @ Bunker, Purgstall [fb]",
+        "state": "Niederösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Bunker"
+      },
+      "event_id": "77e7c39d79ee4599f9a2",
+      "guid": "77e7c39d79ee4599f9a2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6a3dd5049e764bf067bb-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "GRE",
+            "link": "https://1000mods.bandcamp.com/",
+            "name": "1000MODS"
+          },
+          {
+            "country": "USA",
+            "link": "https://thewellaustin.bandcamp.com/music",
+            "name": "The WELL"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-10",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "6a3dd5049e764bf067bb",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "1000MODS",
+            "url": "https://1000mods.bandcamp.com/"
+          },
+          {
+            "label": "The WELL",
+            "url": "https://thewellaustin.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2213438359574987/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "10.05.: 1000MODS (gre) / The WELL (usa) @ Arena (gr. Halle), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (gr. Halle)"
+      },
+      "event_id": "6a3dd5049e764bf067bb",
+      "guid": "6a3dd5049e764bf067bb:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ced5b4e43c4283dfbb20-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.instagram.com/unrealaltj/",
+            "name": "ALT-J"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2027-07-27",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "ced5b4e43c4283dfbb20",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "ALT-J",
+            "url": "https://www.instagram.com/unrealaltj/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://arena.wien/Home/Programm-Detail/concert-id/48710"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "27.07.: ALT-J (uk) @ Arena (Open Air), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (Open Air)"
+      },
+      "event_id": "ced5b4e43c4283dfbb20",
+      "guid": "ced5b4e43c4283dfbb20:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-907c81f2fcde11c9e547-1",
+      "changes": {},
+      "detected_at": "2026-11-24T12:31:08.235771+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.facebook.com/officialheavenshallburn/",
+            "name": "HEAVEN SHALL BURN"
+          },
+          {
+            "country": "D",
+            "link": "https://calibanmetal.com/",
+            "name": "CALIBAN"
+          },
+          {
+            "country": "D",
+            "link": "https://neaera.bandcamp.com/music",
+            "name": "NEAERA"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/praeyamusic",
+            "name": "PRAEYA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-24T12:31:08.235771+00:00",
+        "city": "Wien",
+        "event_date": "2027-08-14",
+        "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore",
+            "Metalcore",
+            "Death Metal"
+          ]
+        },
+        "id": "907c81f2fcde11c9e547",
+        "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+        "links": [
+          {
+            "label": "HEAVEN SHALL BURN",
+            "url": "https://www.facebook.com/officialheavenshallburn/"
+          },
+          {
+            "label": "CALIBAN",
+            "url": "https://calibanmetal.com/"
+          },
+          {
+            "label": "NEAERA",
+            "url": "https://neaera.bandcamp.com/music"
+          },
+          {
+            "label": "PRAEYA",
+            "url": "https://www.facebook.com/praeyamusic"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2062690657778366/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.08.: HEAVEN SHALL BURN (d) / CALIBAN (d) / NEAERA (d) / PRAEYA @ Arena (Open Air), Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (Open Air)"
+      },
+      "event_id": "907c81f2fcde11c9e547",
+      "guid": "907c81f2fcde11c9e547:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-988e43745fa8c609fc06-1",
       "changes": {},

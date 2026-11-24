@@ -5,8 +5,92 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: HECKSPOILER, THOSAR – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7bba91b0a224fe0db791-2</link>
+      <guid isPermaLink="false">7bba91b0a224fe0db791:2</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-12-10 · Kapu,  Linz · Oberösterreich · Line-up: HECKSPOILER → HECKSPOILER · THOSAR</description>
+    </item>
+    <item>
+      <title>Neu: The CRADLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b9355b084e6c6f36ec7b-1</link>
+      <guid isPermaLink="false">b9355b084e6c6f36ec7b:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-24 · Galerie ADA, Wattgasse 16/6, 1160 Wien · Wien</description>
+    </item>
+    <item>
+      <title>Abgesagt: The PRODIGY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3fb17cb7d599f508643d-1</link>
+      <guid isPermaLink="false">3fb17cb7d599f508643d:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-24 · Stadthalle,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: RUGGED, HARROWIST – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7e8f1b86ff4daaaf9de6-1</link>
+      <guid isPermaLink="false">7e8f1b86ff4daaaf9de6:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-30 · Secret Location,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LARSOVITCH, OLGHA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3a1e9e55ea05a9868a35-1</link>
+      <guid isPermaLink="false">3a1e9e55ea05a9868a35:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-12-10 · Down Under,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: KRUST HUNY, PAŹDZIERNIKOWY GRAD, SCAMPI BUMP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1cb71f68b159c2aea518-1</link>
+      <guid isPermaLink="false">1cb71f68b159c2aea518:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-12-18 · Music-House,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: GUYOÐ, VxPxOxAxAxWxAxMxC KARDROZ – Klagenfurt</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f778472cc95adf4cdccf-1</link>
+      <guid isPermaLink="false">f778472cc95adf4cdccf:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-01-02 · Ventil,  Klagenfurt · Kärnten</description>
+    </item>
+    <item>
+      <title>Neu: PISS, SWELLE, PLOW – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-099a9ddd41743430a251-1</link>
+      <guid isPermaLink="false">099a9ddd41743430a251:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-03-04 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: MUUSKE, BAITS – Purgstall</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-77e7c39d79ee4599f9a2-1</link>
+      <guid isPermaLink="false">77e7c39d79ee4599f9a2:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-03-27 · Bunker,  Purgstall · Niederösterreich</description>
+    </item>
+    <item>
+      <title>Neu: 1000MODS, The WELL – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6a3dd5049e764bf067bb-1</link>
+      <guid isPermaLink="false">6a3dd5049e764bf067bb:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-05-10 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ALT-J – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ced5b4e43c4283dfbb20-1</link>
+      <guid isPermaLink="false">ced5b4e43c4283dfbb20:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-07-27 · Arena (Open Air),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HEAVEN SHALL BURN, CALIBAN, NEAERA, PRAEYA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-907c81f2fcde11c9e547-1</link>
+      <guid isPermaLink="false">907c81f2fcde11c9e547:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-08-14 · Arena (Open Air),  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: SIZ, HEIMLICHE IDIOTEN – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-988e43745fa8c609fc06-1</link>
@@ -622,90 +706,6 @@
       <guid isPermaLink="false">7dd8b39cec8dc7cae1bd:1</guid>
       <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
       <description>2026-12-27 · Bertholdsaal,  Weyer · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: NIGHT TEACHER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d0fe6b3fb253520f3208-1</link>
-      <guid isPermaLink="false">d0fe6b3fb253520f3208:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-02-18 · Haus der Musik,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: Ora Cogan – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1c69281fca46b7ebd6a4-1</link>
-      <guid isPermaLink="false">1c69281fca46b7ebd6a4:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-03-04 · Haus der Musik,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BLACKOUT PROBLEMS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0f9fb2d62349457f3c73-1</link>
-      <guid isPermaLink="false">0f9fb2d62349457f3c73:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-03-11 · Szene,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: WAVING THE GUNS – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c7663e848925e3c4508d-1</link>
-      <guid isPermaLink="false">c7663e848925e3c4508d:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-03-14 · p.m.k.,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: SPIRIT POSSESSION, FUNERAL CHANT, LUDGAR, YOSSARIAN – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ee9c4a6b1f96691bd2d8-1</link>
-      <guid isPermaLink="false">ee9c4a6b1f96691bd2d8:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-03-26 · Kapu,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: FRIGHT YEARS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-e2f377936368569f3b90-1</link>
-      <guid isPermaLink="false">e2f377936368569f3b90:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-04 · Das Werk,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: DRESSED LIKE BOYS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1da19963b5b6bb3b0444-1</link>
-      <guid isPermaLink="false">1da19963b5b6bb3b0444:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-14 · B72,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PLEASE MADAME – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1f50d72c16a5ad574ffa-1</link>
-      <guid isPermaLink="false">1f50d72c16a5ad574ffa:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-14 · Flucc,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: 16 HORSEPOWER – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c030c4dd1c8c49ec40e8-1</link>
-      <guid isPermaLink="false">c030c4dd1c8c49ec40e8:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-19 · Flex,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: REVOCATION, DEFEATED SANITY, GOROD, CARNOSUS – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7df9fecd8e06ae93ae97-1</link>
-      <guid isPermaLink="false">7df9fecd8e06ae93ae97:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-20 · Arena (kl. Halle),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: PLEASE MADAME – Innsbruck</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-426519980f57cd991135-1</link>
-      <guid isPermaLink="false">426519980f57cd991135:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-04-22 · p.m.k.,  Innsbruck · Tirol</description>
-    </item>
-    <item>
-      <title>Neu: FLORENCE ROAD – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0afbb275769d42bc24bc-1</link>
-      <guid isPermaLink="false">0afbb275769d42bc24bc:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2027-07-20 · Flex,  Wien · Wien</description>
     </item>
   </channel>
 </rss>

@@ -60070,7 +60070,7 @@
         "subgenres": []
       },
       "id": "61fca317015298e82c9d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -60131,7 +60131,7 @@
         "subgenres": []
       },
       "id": "4f739db6fe8237da60e4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -60196,7 +60196,7 @@
         ]
       },
       "id": "f4a2ca3351007e615a13",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60232,13 +60232,57 @@
       "active": true,
       "artists": [
         {
+          "country": "USA",
+          "link": "https://www.thecradlemusic.com/bio",
+          "name": "The CRADLE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-24",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "b9355b084e6c6f36ec7b",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "The CRADLE",
+          "url": "https://www.thecradlemusic.com/bio"
+        },
+        {
+          "label": "[web]",
+          "url": "https://artisticdynamicassociation.eu/ada-is-the-cradle-us-scoops-of-glory/"
+        }
+      ],
+      "postal_code": "1160",
+      "revision": 1,
+      "source_text": "24.11.: The CRADLE (usa) @ Galerie ADA, Wattgasse 16/6, 1160 Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Galerie ADA, Wattgasse 16/6"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
           "country": "UK",
-          "link": "https://theprodigy.com/",
+          "link": null,
           "name": "The PRODIGY"
         }
       ],
       "baseline": true,
-      "changed_at": null,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
       "city": "Wien",
       "event_date": "2026-11-24",
       "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
@@ -60250,23 +60294,23 @@
         ]
       },
       "id": "3fb17cb7d599f508643d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
-      "latest_revision": null,
-      "links": [
-        {
-          "label": "The PRODIGY",
-          "url": "https://theprodigy.com/"
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {
+          "status": {
+            "from": "scheduled",
+            "to": "cancelled"
+          }
         },
-        {
-          "label": "[fb]",
-          "url": "https://www.facebook.com/events/34819687894313391/"
-        }
-      ],
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "changed"
+      },
+      "links": [],
       "postal_code": null,
-      "revision": 0,
-      "source_text": "24.11.: The PRODIGY (uk) @ Stadthalle, Wien [fb]",
+      "revision": 1,
+      "source_text": "24.11.: The PRODIGY (uk) @ Stadthalle, Wien [cancelled.]",
       "state": "Wien",
-      "status": "scheduled",
+      "status": "cancelled",
       "title": null,
       "venue": "Stadthalle"
     },
@@ -60295,7 +60339,7 @@
         "subgenres": []
       },
       "id": "26af0bcb17d8e9c52899",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60345,7 +60389,7 @@
         "subgenres": []
       },
       "id": "0ebd59947ab2a5a8844f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-18T10:11:17.857980+00:00",
@@ -60399,7 +60443,7 @@
         "subgenres": []
       },
       "id": "0eb09f58895854212161",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-07T08:48:08.542565+00:00",
@@ -60443,7 +60487,7 @@
         "subgenres": []
       },
       "id": "c73f53f60c7fab6f996f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60495,7 +60539,7 @@
         ]
       },
       "id": "f65ef356307c05fd6d23",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60560,7 +60604,7 @@
         ]
       },
       "id": "de1de5e780d07d0bb6be",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "venue": {
@@ -60621,7 +60665,7 @@
         "subgenres": []
       },
       "id": "4c80bbb17f3cce6b4144",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60666,7 +60710,7 @@
         "subgenres": []
       },
       "id": "65473c42db0cf8cbbcd5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -60715,7 +60759,7 @@
         "subgenres": []
       },
       "id": "b889e862a8de5af1c9d8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -60760,7 +60804,7 @@
         "subgenres": []
       },
       "id": "562a486e37c5cfb9789f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -60815,7 +60859,7 @@
         ]
       },
       "id": "44a1b39d91a92c22221b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -60884,7 +60928,7 @@
         "subgenres": []
       },
       "id": "29c7d25d01aea2da9971",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -60954,7 +60998,7 @@
         "subgenres": []
       },
       "id": "0b509ae9202b1f102dfc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -61007,7 +61051,7 @@
         "subgenres": []
       },
       "id": "921b08b677a7baa997e0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -61068,7 +61112,7 @@
         ]
       },
       "id": "3efbcd54461f02e16cb7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -61147,7 +61191,7 @@
         "subgenres": []
       },
       "id": "7ad67834d519599f10e4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -61212,7 +61256,7 @@
         ]
       },
       "id": "d23195d0a66ece09e0bd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-18T07:14:11.051551+00:00",
@@ -61264,7 +61308,7 @@
         "subgenres": []
       },
       "id": "b3cd9ef29b7e21932a03",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -61321,7 +61365,7 @@
         "subgenres": []
       },
       "id": "f2ecd8200d3e78681d4f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -61371,7 +61415,7 @@
         "subgenres": []
       },
       "id": "7c84ac32d38a9def85cf",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "venue": {
@@ -61433,7 +61477,7 @@
         "subgenres": []
       },
       "id": "7ee26bffe7639ab41181",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -61488,7 +61532,7 @@
         ]
       },
       "id": "988e43745fa8c609fc06",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-21T09:50:55.193440+00:00",
@@ -61541,7 +61585,7 @@
         "subgenres": []
       },
       "id": "394db848d7aa83237acb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -61592,7 +61636,7 @@
         ]
       },
       "id": "980ba73d592e9bcd797e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -61656,7 +61700,7 @@
         "subgenres": []
       },
       "id": "2883370082486eb2f889",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -61705,7 +61749,7 @@
         "subgenres": []
       },
       "id": "32dbd9e3bbb47d25c5e7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -61779,7 +61823,7 @@
         "subgenres": []
       },
       "id": "083dc2293096f0e1edf6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-26T07:43:17.500748+00:00",
@@ -61836,7 +61880,7 @@
         "subgenres": []
       },
       "id": "5416e287c5d30582b663",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-15T03:05:24.986489+00:00",
@@ -61880,7 +61924,7 @@
         "subgenres": []
       },
       "id": "76a5f56198ac75530353",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -61920,7 +61964,7 @@
         "subgenres": []
       },
       "id": "d69034c7423130e6e0c8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -61975,7 +62019,7 @@
         "subgenres": []
       },
       "id": "43d99bb3fd29101890cd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -62041,7 +62085,7 @@
         "subgenres": []
       },
       "id": "fd708426be982fb64570",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -62103,7 +62147,7 @@
         "subgenres": []
       },
       "id": "37a92a368f9dfe47e189",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-31T08:26:40.404094+00:00",
@@ -62168,7 +62212,7 @@
         ]
       },
       "id": "64da94a4c14e6cb9bef7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -62229,7 +62273,7 @@
         "subgenres": []
       },
       "id": "a0e6577a293d28538494",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-23T07:46:24.279791+00:00",
@@ -62282,7 +62326,7 @@
         "subgenres": []
       },
       "id": "b8b48f8e9bfc4d9fe7a8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -62331,7 +62375,7 @@
         "subgenres": []
       },
       "id": "1a709132d26aa266564f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -62389,7 +62433,7 @@
         "subgenres": []
       },
       "id": "1f874f9ca91acef7843c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-16T09:45:43.245971+00:00",
@@ -62437,7 +62481,7 @@
         "subgenres": []
       },
       "id": "72ff08fba3a46ed5e14c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -62477,7 +62521,7 @@
         "subgenres": []
       },
       "id": "31992ae9121396516430",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -62517,7 +62561,7 @@
         "subgenres": []
       },
       "id": "9db2f75429e542eca9ea",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -62562,7 +62606,7 @@
         "subgenres": []
       },
       "id": "2c0d9377a93ba3add42e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -62612,7 +62656,7 @@
         ]
       },
       "id": "a912faf7eac5aac830d8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-21T09:50:55.193440+00:00",
@@ -62666,7 +62710,7 @@
         "subgenres": []
       },
       "id": "bd5cebb173ba1ced01a6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -62726,7 +62770,7 @@
         ]
       },
       "id": "0b610b4a507adada1da1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -62805,7 +62849,7 @@
         "subgenres": []
       },
       "id": "8e20c17b7867107b7f0d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -62860,7 +62904,7 @@
         ]
       },
       "id": "8d35a52ebeeeb64a4209",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -62939,7 +62983,7 @@
         "subgenres": []
       },
       "id": "1eb60ca090957e20756e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "venue": {
@@ -63007,7 +63051,7 @@
         ]
       },
       "id": "0b89a6451ac4b07f10b6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -63060,7 +63104,7 @@
         "subgenres": []
       },
       "id": "23502df4130f53345231",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -63104,7 +63148,7 @@
         "subgenres": []
       },
       "id": "b8311d22736d1ed01dae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -63148,7 +63192,7 @@
         "subgenres": []
       },
       "id": "a8b53b5e31fda61c6330",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -63200,7 +63244,7 @@
         ]
       },
       "id": "b15d477dceb2e874ec1b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-12T07:10:17.739084+00:00",
@@ -63249,7 +63293,7 @@
         "subgenres": []
       },
       "id": "786f418a7227e4d92097",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -63317,7 +63361,7 @@
         "subgenres": []
       },
       "id": "d6c32bdc5b0f464cb829",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -63357,7 +63401,7 @@
         "subgenres": []
       },
       "id": "78cc96a9e2c6af895844",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -63393,7 +63437,7 @@
         "subgenres": []
       },
       "id": "17432c5f566129dcdae9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -63445,7 +63489,7 @@
         ]
       },
       "id": "183f5bf6b82b7f95cd48",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-29T08:32:15.627706+00:00",
@@ -63497,7 +63541,7 @@
         "subgenres": []
       },
       "id": "774c3af373fce4b910de",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -63549,7 +63593,7 @@
         ]
       },
       "id": "92620ddb0257571656a0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -63618,7 +63662,7 @@
         ]
       },
       "id": "4be97e33dcc619507534",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-26T07:43:17.500748+00:00",
@@ -63679,7 +63723,7 @@
         "subgenres": []
       },
       "id": "68f33ca7dfa80e70a7c3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -63749,7 +63793,7 @@
         "subgenres": []
       },
       "id": "261142440be17650c78b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -63828,7 +63872,7 @@
         "subgenres": []
       },
       "id": "e092db96e28b45a1801b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-30T08:35:18.772285+00:00",
@@ -63898,7 +63942,7 @@
         ]
       },
       "id": "8b12198dec0fe83e1e2b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -63959,7 +64003,7 @@
         "subgenres": []
       },
       "id": "38e50d665dc2dddd4ec8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -64007,7 +64051,7 @@
         "subgenres": []
       },
       "id": "8b757ee21756dc4670ec",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-07T08:40:22.145979+00:00",
@@ -64052,7 +64096,7 @@
         "subgenres": []
       },
       "id": "2d0332bad90ff1cad64c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -64108,7 +64152,7 @@
         ]
       },
       "id": "f0c49138419ce60f790c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-16T07:11:03.397138+00:00",
@@ -64167,7 +64211,7 @@
         ]
       },
       "id": "1aa80f202950f4e02dcb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -64220,7 +64264,7 @@
         "subgenres": []
       },
       "id": "3eefeba2e16eb021b0b5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -64270,7 +64314,7 @@
         ]
       },
       "id": "2dbeafd73475a97d83e1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-23T07:46:24.279791+00:00",
@@ -64324,7 +64368,7 @@
         "subgenres": []
       },
       "id": "2252fef5b7cf62ca3a16",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -64393,7 +64437,7 @@
         ]
       },
       "id": "ab9bd589a04cbff155f5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -64464,7 +64508,7 @@
         "subgenres": []
       },
       "id": "ac507922eda39dd06a64",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-29T08:32:15.627706+00:00",
@@ -64516,7 +64560,7 @@
         "subgenres": []
       },
       "id": "ad480266109ddea68992",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -64568,7 +64612,7 @@
         ]
       },
       "id": "66b269f5a4d7a614b053",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -64652,7 +64696,7 @@
         "subgenres": []
       },
       "id": "e7b40d33a945f84a82e3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-31T08:26:40.404094+00:00",
@@ -64712,7 +64756,7 @@
         ]
       },
       "id": "7581091ae74332c497c1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -64772,7 +64816,7 @@
         ]
       },
       "id": "15510841f60f94a7d709",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -64849,7 +64893,7 @@
         ]
       },
       "id": "cc00af247d9e153465b3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -64909,7 +64953,7 @@
         "subgenres": []
       },
       "id": "50c6a4fecb7a843a2718",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -64928,6 +64972,57 @@
       "status": "scheduled",
       "title": null,
       "venue": "Viper Room"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "country": "BUL",
+          "link": "https://ruggedhc.bandcamp.com/",
+          "name": "RUGGED"
+        },
+        {
+          "country": null,
+          "link": "https://harrowist.bandcamp.com/",
+          "name": "HARROWIST"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-30",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore"
+        ]
+      },
+      "id": "7e8f1b86ff4daaaf9de6",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "RUGGED",
+          "url": "https://ruggedhc.bandcamp.com/"
+        },
+        {
+          "label": "HARROWIST",
+          "url": "https://harrowist.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.11.: RUGGED (bul) / HARROWIST @ Secret Location, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Secret Location"
     },
     {
       "active": true,
@@ -64961,7 +65056,7 @@
         ]
       },
       "id": "9c4cf61cd1733dca71f5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65009,7 +65104,7 @@
         "subgenres": []
       },
       "id": "81db6d621f2a03305951",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65067,7 +65162,7 @@
         ]
       },
       "id": "c94d890cac144f312527",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65124,7 +65219,7 @@
         "subgenres": []
       },
       "id": "0acc96ce398af38d6d55",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65173,7 +65268,7 @@
         "subgenres": []
       },
       "id": "e35ed0670fc12c18f162",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65234,7 +65329,7 @@
         ]
       },
       "id": "272449097944512b1bce",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -65317,7 +65412,7 @@
         "subgenres": []
       },
       "id": "ed6e46c4649d8e50c219",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-16T09:45:43.245971+00:00",
@@ -65370,7 +65465,7 @@
         "subgenres": []
       },
       "id": "670dfee6ac0f3efb2432",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -65434,7 +65529,7 @@
         "subgenres": []
       },
       "id": "e993b7abaeb17da8124f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-18T10:11:17.857980+00:00",
@@ -65483,7 +65578,7 @@
         "subgenres": []
       },
       "id": "80a81501d5ed983e1e99",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -65544,7 +65639,7 @@
         ]
       },
       "id": "8bbe5e8cf6a8d83bd58e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-03T08:07:24.912047+00:00",
@@ -65596,7 +65691,7 @@
         "subgenres": []
       },
       "id": "1ae2e63e1c1f0c519c49",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65637,7 +65732,7 @@
         "subgenres": []
       },
       "id": "0616dce74515c254bc20",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -65702,7 +65797,7 @@
         ]
       },
       "id": "44861a123feba8c3a046",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -65789,7 +65884,7 @@
         "subgenres": []
       },
       "id": "f47047dcefb6c88d7464",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -65836,7 +65931,7 @@
         ]
       },
       "id": "a07bcd17c94694a340c7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -65886,7 +65981,7 @@
         ]
       },
       "id": "4636f07b386ced9a82e2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -65947,7 +66042,7 @@
         ]
       },
       "id": "06cd32cda1f4d36d8fb9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -66003,7 +66098,7 @@
         "subgenres": []
       },
       "id": "34f670ce28d4ce7b7967",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -66053,7 +66148,7 @@
         "subgenres": []
       },
       "id": "000785cbe9c3c0f76c0c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -66101,7 +66196,7 @@
         "subgenres": []
       },
       "id": "b945b1ae40ae67943778",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -66146,7 +66241,7 @@
         "subgenres": []
       },
       "id": "6c79c39908951d83c7af",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "status": {
@@ -66191,7 +66286,7 @@
         "subgenres": []
       },
       "id": "ee954bd767c513038a52",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -66245,7 +66340,7 @@
         "subgenres": []
       },
       "id": "feec7e3aa61ac9ed9152",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -66303,7 +66398,7 @@
         "subgenres": []
       },
       "id": "9e492af0724564a794a2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-04T07:14:46.282627+00:00",
@@ -66363,7 +66458,7 @@
         ]
       },
       "id": "e7c7b9362835a49ef98e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -66431,7 +66526,7 @@
         "subgenres": []
       },
       "id": "093e838ad7a43fb539e5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -66492,7 +66587,7 @@
         "subgenres": []
       },
       "id": "3999a4b5e0942fd0a28a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -66561,7 +66656,7 @@
         "subgenres": []
       },
       "id": "13a628858aa5e9caca33",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -66624,7 +66719,7 @@
         "subgenres": []
       },
       "id": "3f86763a2845d8173c37",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -66687,7 +66782,7 @@
         ]
       },
       "id": "586d026c65da8e73ac85",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-19T03:11:47.510618+00:00",
@@ -66745,7 +66840,7 @@
         "subgenres": []
       },
       "id": "c6b47fdea0a4735e801c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-26T07:48:52.027472+00:00",
@@ -66798,7 +66893,7 @@
         "subgenres": []
       },
       "id": "ed3352d9d1c44eb91a81",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-09T07:23:54.060566+00:00",
@@ -66842,7 +66937,7 @@
         "subgenres": []
       },
       "id": "53c642bad00fc7561e75",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -66895,7 +66990,7 @@
         ]
       },
       "id": "ee806b06e5166f21924b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -66966,7 +67061,7 @@
         "subgenres": []
       },
       "id": "7ec74da4262c0055fde8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -67010,7 +67105,7 @@
         "subgenres": []
       },
       "id": "390c39f68dd84d20b61b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -67054,7 +67149,7 @@
         "subgenres": []
       },
       "id": "c744ba2cc5585d047fea",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -67103,7 +67198,7 @@
         "subgenres": []
       },
       "id": "1ac4c9ad111645ad51f9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -67156,7 +67251,7 @@
         "subgenres": []
       },
       "id": "89227e4ff5ef27800b18",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -67238,7 +67333,7 @@
         ]
       },
       "id": "6a503f2dbafaeed9f9b1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -67294,7 +67389,7 @@
         "subgenres": []
       },
       "id": "2776c9b8d08c109b382d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -67350,7 +67445,7 @@
         ]
       },
       "id": "81e0c67d23dbe751d4d7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -67417,7 +67512,7 @@
         "subgenres": []
       },
       "id": "a45aa862bd7e173d43ec",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -67483,7 +67578,7 @@
         "subgenres": []
       },
       "id": "e8bc457ad93607071af1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-07T08:48:08.542565+00:00",
@@ -67536,7 +67631,7 @@
         "subgenres": []
       },
       "id": "821e786192eb3201a86d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -67590,7 +67685,7 @@
         "subgenres": []
       },
       "id": "7ee9429ac3e1d2a030d7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -67645,7 +67740,7 @@
         ]
       },
       "id": "a29f418028af6326c418",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-02T07:06:47.631919+00:00",
@@ -67693,7 +67788,7 @@
         "subgenres": []
       },
       "id": "ba3010c0c7432764705f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -67738,7 +67833,7 @@
         "subgenres": []
       },
       "id": "61b50f99a41ec1eed107",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -67791,7 +67886,7 @@
         "subgenres": []
       },
       "id": "dd667e9f8b5f9b7d4d2e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -67877,7 +67972,7 @@
         ]
       },
       "id": "9909306976be32d84a3f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-26T07:43:17.500748+00:00",
@@ -67937,7 +68032,7 @@
         "subgenres": []
       },
       "id": "aaa23f338387c57085c0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -67998,7 +68093,7 @@
         ]
       },
       "id": "c1e23424ce555035d88c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -68069,7 +68164,7 @@
         "subgenres": []
       },
       "id": "30aac7c915a585536164",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -68130,7 +68225,7 @@
         "subgenres": []
       },
       "id": "0aa6d5faef97b8523c40",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-15T09:27:40.276813+00:00",
@@ -68189,7 +68284,7 @@
         "subgenres": []
       },
       "id": "2753667a174ce5bd8cd2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -68245,7 +68340,7 @@
         "subgenres": []
       },
       "id": "ebb6bb3e71c789256192",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68291,7 +68386,7 @@
         ]
       },
       "id": "3ef2b92c596b4938d146",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68341,7 +68436,7 @@
         "subgenres": []
       },
       "id": "8c7008570eba35b2d3bd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -68394,7 +68489,7 @@
         "subgenres": []
       },
       "id": "5ccebb0bc39d91349af8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -68408,11 +68503,15 @@
         {
           "label": "BÜROKLAMMER",
           "url": "https://bueroklammer.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1128474253010944/"
         }
       ],
       "postal_code": null,
       "revision": 1,
-      "source_text": "05.12.: SPION / BÜROKLAMMER @ Arena-Beisl, Wien",
+      "source_text": "05.12.: SPION / BÜROKLAMMER @ Arena-Beisl, Wien [fb]",
       "state": "Wien",
       "status": "scheduled",
       "title": null,
@@ -68451,7 +68550,7 @@
         ]
       },
       "id": "45aff2f4fa4140870c03",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-22T03:08:00.198425+00:00",
@@ -68506,7 +68605,7 @@
         ]
       },
       "id": "72d5be6073e288be20eb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68546,7 +68645,7 @@
         "subgenres": []
       },
       "id": "3402d460624da614b28a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-09T07:23:54.060566+00:00",
@@ -68590,7 +68689,7 @@
         "subgenres": []
       },
       "id": "638fd7b90f763bb044a4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -68634,7 +68733,7 @@
         "subgenres": []
       },
       "id": "44871f7789287aacc640",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68674,7 +68773,7 @@
         "subgenres": []
       },
       "id": "e94a085be33613ad32f2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -68731,7 +68830,7 @@
         ]
       },
       "id": "46b8c558407ae7e4f5fe",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68784,7 +68883,7 @@
         "subgenres": []
       },
       "id": "5c95896e3e571e3470f4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -68839,7 +68938,7 @@
         ]
       },
       "id": "c9cfb333b46a21fbfd30",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -68895,7 +68994,7 @@
         ]
       },
       "id": "f29070c8e092d1d7dc73",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -68975,7 +69074,7 @@
         "subgenres": []
       },
       "id": "e3e8cbf32415c9f0fefd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69033,7 +69132,7 @@
         "subgenres": []
       },
       "id": "6461b05eb748fbc4e072",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -69103,7 +69202,7 @@
         "subgenres": []
       },
       "id": "cace8ac21bfe94806ec4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -69155,7 +69254,7 @@
         ]
       },
       "id": "21107e7a2b360dff6fa6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69199,7 +69298,7 @@
         "subgenres": []
       },
       "id": "3112ea6dad6c11e9e5f7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69244,7 +69343,7 @@
         "subgenres": []
       },
       "id": "bf6227ebd33963478cb9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -69300,7 +69399,7 @@
         ]
       },
       "id": "9c04ac5e1421f21fc8d3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69344,7 +69443,7 @@
         "subgenres": []
       },
       "id": "4595c5f4582d3106fd50",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69391,7 +69490,7 @@
         ]
       },
       "id": "ef68c8d0a828793d9773",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69450,7 +69549,7 @@
         "subgenres": []
       },
       "id": "a52330d7b8cb521d6683",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69502,7 +69601,7 @@
         "subgenres": []
       },
       "id": "05e78afd223c70f397d3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -69533,10 +69632,15 @@
           "country": null,
           "link": "https://heckspoiler.org/",
           "name": "HECKSPOILER"
+        },
+        {
+          "country": null,
+          "link": "https://thosar.bandcamp.com/",
+          "name": "THOSAR"
         }
       ],
       "baseline": false,
-      "changed_at": "2026-08-26T03:19:08.354737+00:00",
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
       "city": "Linz",
       "event_date": "2026-12-10",
       "first_seen_at": "2026-08-26T03:19:08.354737+00:00",
@@ -69548,11 +69652,27 @@
         ]
       },
       "id": "7bba91b0a224fe0db791",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
-        "changes": {},
-        "detected_at": "2026-08-26T03:19:08.354737+00:00",
-        "kind": "new"
+        "changes": {
+          "artists": {
+            "from": [
+              {
+                "name": "HECKSPOILER"
+              }
+            ],
+            "to": [
+              {
+                "name": "HECKSPOILER"
+              },
+              {
+                "name": "THOSAR"
+              }
+            ]
+          }
+        },
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "changed"
       },
       "links": [
         {
@@ -69560,13 +69680,17 @@
           "url": "https://heckspoiler.org/"
         },
         {
+          "label": "THOSAR",
+          "url": "https://thosar.bandcamp.com/"
+        },
+        {
           "label": "[fb]",
           "url": "https://www.facebook.com/events/944936341958996/"
         }
       ],
       "postal_code": null,
-      "revision": 1,
-      "source_text": "10.12.: HECKSPOILER @ Kapu, Linz [fb]",
+      "revision": 2,
+      "source_text": "10.12.: HECKSPOILER / THOSAR @ Kapu, Linz [fb]",
       "state": "Oberösterreich",
       "status": "scheduled",
       "title": null,
@@ -69592,7 +69716,7 @@
         "subgenres": []
       },
       "id": "a7a7ca654e6c9a262364",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -69620,6 +69744,57 @@
       "active": true,
       "artists": [
         {
+          "country": "FRA",
+          "link": "https://larsovitch.bandcamp.com/",
+          "name": "LARSOVITCH"
+        },
+        {
+          "country": "ITA",
+          "link": "https://olgha.bandcamp.com/",
+          "name": "OLGHA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-10",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Goth/Post-Punk",
+        "source": "lastfm",
+        "subgenres": [
+          "Post-Punk"
+        ]
+      },
+      "id": "3a1e9e55ea05a9868a35",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "LARSOVITCH",
+          "url": "https://larsovitch.bandcamp.com/"
+        },
+        {
+          "label": "OLGHA",
+          "url": "https://olgha.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.12.: LARSOVITCH (fra) / OLGHA (ita) @ Down Under, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Down Under"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
           "country": "USA/AUT",
           "link": "https://www.instagram.com/mel_e_logan/",
           "name": "Mel E. Logan & POWER"
@@ -69636,7 +69811,7 @@
         "subgenres": []
       },
       "id": "837c44d069291e69fc06",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -69696,7 +69871,7 @@
         ]
       },
       "id": "3f73fb59e3ed50a1c568",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-19T17:16:49.068342+00:00",
@@ -69748,7 +69923,7 @@
         "subgenres": []
       },
       "id": "85a59c3d2ec672431b8b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69788,7 +69963,7 @@
         "subgenres": []
       },
       "id": "c064e0bfef0458addd4c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -69835,7 +70010,7 @@
         ]
       },
       "id": "bfc7473d7e6af46d6049",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -69880,7 +70055,7 @@
         "subgenres": []
       },
       "id": "e588458b3237d96a8f13",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -69933,7 +70108,7 @@
         "subgenres": []
       },
       "id": "70ead9c62c16155b8477",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -69991,7 +70166,7 @@
         "subgenres": []
       },
       "id": "eaafaf8e7ef8e2047ef1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -70045,7 +70220,7 @@
         ]
       },
       "id": "0a89bcda2d92691c816a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70090,7 +70265,7 @@
         "subgenres": []
       },
       "id": "8b3d654ec439ffe7c2e5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -70161,7 +70336,7 @@
         ]
       },
       "id": "5f675c3d025bbee6c78f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70215,7 +70390,7 @@
         "subgenres": []
       },
       "id": "e7aaa942bd2973dcd176",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-29T08:32:15.627706+00:00",
@@ -70272,7 +70447,7 @@
         "subgenres": []
       },
       "id": "55b3ff375ede6962339c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -70320,7 +70495,7 @@
         "subgenres": []
       },
       "id": "db17a2e7dd71974b6fa5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70365,7 +70540,7 @@
         "subgenres": []
       },
       "id": "a230816d96c74067c42e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -70423,7 +70598,7 @@
         "subgenres": []
       },
       "id": "cfc86ce17e7037cd097f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70471,7 +70646,7 @@
         "subgenres": []
       },
       "id": "9b38c059397ef041d3f7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70518,7 +70693,7 @@
         ]
       },
       "id": "ebc6baa6451cdd33b7ae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -70590,7 +70765,7 @@
         ]
       },
       "id": "78174be9f1439a627a5a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -70644,7 +70819,7 @@
         ]
       },
       "id": "f06676ce517fb34053a6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -70696,7 +70871,7 @@
         ]
       },
       "id": "e454a5693a9f726299e7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -70749,7 +70924,7 @@
         "subgenres": []
       },
       "id": "938833aeefe3191eeed3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -70797,7 +70972,7 @@
         "subgenres": []
       },
       "id": "d931bf87ede3b4e5c284",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-09T07:23:54.060566+00:00",
@@ -70847,7 +71022,7 @@
         "subgenres": []
       },
       "id": "c1fd44b4bcd81ab2b0e7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-21T09:50:55.193440+00:00",
@@ -70917,7 +71092,7 @@
         ]
       },
       "id": "e8a72d8e20ca421e82b0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "title": {
@@ -70978,7 +71153,7 @@
         "subgenres": []
       },
       "id": "ede37108a2da9008859c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -71028,7 +71203,7 @@
         "subgenres": []
       },
       "id": "6f4011e05db1915cb67d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -71090,7 +71265,7 @@
         "subgenres": []
       },
       "id": "5230a2e616153ac2a616",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -71143,7 +71318,7 @@
         "subgenres": []
       },
       "id": "2183add210030a734285",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -71209,7 +71384,7 @@
         ]
       },
       "id": "ec65bf14fc07065c8a36",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -71249,7 +71424,7 @@
         "subgenres": []
       },
       "id": "da78ff869e5e1d866cff",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -71305,7 +71480,7 @@
         ]
       },
       "id": "78aa7a00bbf61def0a7e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -71357,7 +71532,7 @@
         "subgenres": []
       },
       "id": "a2e33503804b5f87ea08",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -71402,7 +71577,7 @@
         "subgenres": []
       },
       "id": "8223207396dcdf52a0dc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -71452,7 +71627,7 @@
         ]
       },
       "id": "fdd5342ecfc452b8cfd7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -71501,7 +71676,7 @@
         "subgenres": []
       },
       "id": "ad074eead522573bfc11",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -71552,7 +71727,7 @@
         ]
       },
       "id": "12691cc6a9d87a0ff694",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "title": {
@@ -71612,7 +71787,7 @@
         ]
       },
       "id": "af023f3ae45e77f47958",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -71660,7 +71835,7 @@
         "subgenres": []
       },
       "id": "0dc89a2980979de77616",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -71709,7 +71884,7 @@
         "subgenres": []
       },
       "id": "a4a10f63b4e22c9de1c3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -71753,7 +71928,7 @@
         "subgenres": []
       },
       "id": "027b97814db6e75e8fe8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -71797,7 +71972,7 @@
         "subgenres": []
       },
       "id": "ef2a0cb4331f97639ff3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -71837,7 +72012,7 @@
         "subgenres": []
       },
       "id": "d482dd5d784959774116",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -71885,7 +72060,7 @@
         "subgenres": []
       },
       "id": "89a5adea7d669f0dd285",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -71930,7 +72105,7 @@
         "subgenres": []
       },
       "id": "602c9011c38dc0269ac9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -71983,7 +72158,7 @@
         "subgenres": []
       },
       "id": "ba0ef7317c2967211e16",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -72049,7 +72224,7 @@
         ]
       },
       "id": "0b88cf8e72c03e35e59b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -72122,7 +72297,7 @@
         ]
       },
       "id": "f9e5465793bbec83b19d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -72180,7 +72355,7 @@
         ]
       },
       "id": "a74e0383cb91ef8fa1ab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -72220,7 +72395,7 @@
         "subgenres": []
       },
       "id": "79b254a7fb3b93f0ec7e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -72282,7 +72457,7 @@
         ]
       },
       "id": "6150c5bcbfc79387cdaa",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-26T03:19:08.354737+00:00",
@@ -72348,7 +72523,7 @@
         "subgenres": []
       },
       "id": "f6f3bb4854c4c25795d5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -72375,6 +72550,64 @@
       "status": "scheduled",
       "title": null,
       "venue": "Café Carina"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/krust.huny/",
+          "name": "KRUST HUNY"
+        },
+        {
+          "country": "POL",
+          "link": "https://pazdziernikowygrad.bandcamp.com/",
+          "name": "PAŹDZIERNIKOWY GRAD"
+        },
+        {
+          "country": null,
+          "link": "https://scampibump.bandcamp.com/",
+          "name": "SCAMPI BUMP"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Graz",
+      "event_date": "2026-12-18",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "1cb71f68b159c2aea518",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "KRUST HUNY",
+          "url": "https://www.instagram.com/krust.huny/"
+        },
+        {
+          "label": "PAŹDZIERNIKOWY GRAD",
+          "url": "https://pazdziernikowygrad.bandcamp.com/"
+        },
+        {
+          "label": "SCAMPI BUMP",
+          "url": "https://scampibump.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "18.12.: KRUST HUNY / PAŹDZIERNIKOWY GRAD (pol) / SCAMPI BUMP @ Music-House, Graz",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Music-House"
     },
     {
       "active": true,
@@ -72413,7 +72646,7 @@
         ]
       },
       "id": "1e14dbd229c23708ac52",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-04T08:27:40.019488+00:00",
@@ -72474,7 +72707,7 @@
         "subgenres": []
       },
       "id": "5f095afc127291e576cb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -72533,7 +72766,7 @@
         "subgenres": []
       },
       "id": "c0ced4f676fa55553115",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-20T03:10:51.343272+00:00",
@@ -72599,7 +72832,7 @@
         "subgenres": []
       },
       "id": "46d0132cb8efd5205ce6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -72661,7 +72894,7 @@
         "subgenres": []
       },
       "id": "9b22f4fa5ba44c1b7608",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-16T09:45:43.245971+00:00",
@@ -72723,7 +72956,7 @@
         ]
       },
       "id": "d2583a0fb27682c75bfc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -72863,7 +73096,7 @@
         "subgenres": []
       },
       "id": "b218e0d033e801270b5a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-15T09:27:40.276813+00:00",
@@ -72913,7 +73146,7 @@
         ]
       },
       "id": "c375003de017e00d7159",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -72963,7 +73196,7 @@
         "subgenres": []
       },
       "id": "5f8f18443f10a4742aa6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -73011,7 +73244,7 @@
         "subgenres": []
       },
       "id": "0ce09ee26f8bf86be3e4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -73060,7 +73293,7 @@
         "subgenres": []
       },
       "id": "c103e8da43ca0962a7da",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -73148,7 +73381,7 @@
         ]
       },
       "id": "2b7080391d5016888792",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -73208,7 +73441,7 @@
         "subgenres": []
       },
       "id": "2e73b0dbd9e578732c35",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -73253,7 +73486,7 @@
         "subgenres": []
       },
       "id": "e29a789107c106d9ecdb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -73317,7 +73550,7 @@
         "subgenres": []
       },
       "id": "703248491780430983e7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -73375,7 +73608,7 @@
         ]
       },
       "id": "8e052b87e55af8dde203",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-19T03:11:47.510618+00:00",
@@ -73425,7 +73658,7 @@
         "subgenres": []
       },
       "id": "38c3526a2ddee5183e8e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -73479,7 +73712,7 @@
         "subgenres": []
       },
       "id": "7dd8b39cec8dc7cae1bd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -73535,7 +73768,7 @@
         ]
       },
       "id": "a6233b35f9974f4eeafb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -73595,7 +73828,7 @@
         ]
       },
       "id": "cd207bc8639906a840e9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -73618,6 +73851,63 @@
       "status": "scheduled",
       "title": null,
       "venue": "Viper Room"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/guyodofficial/",
+          "name": "GUYOÐ"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/VxPxOxAxAxWxAxMxCx/",
+          "name": "VxPxOxAxAxWxAxMxC KARDROZ"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Klagenfurt",
+      "event_date": "2027-01-02",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "f778472cc95adf4cdccf",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "GUYOÐ",
+          "url": "https://www.facebook.com/guyodofficial/"
+        },
+        {
+          "label": "VxPxOxAxAxWxAxMxC",
+          "url": "https://www.facebook.com/VxPxOxAxAxWxAxMxCx/"
+        },
+        {
+          "label": "KARDROZ",
+          "url": "https://kardroz.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kaernten.live/vada/1194-metal"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.01.: GUYOÐ / VxPxOxAxAxWxAxMxC KARDROZ @ Ventil, Klagenfurt [web]",
+      "state": "Kärnten",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Ventil"
     },
     {
       "active": true,
@@ -73653,7 +73943,7 @@
         ]
       },
       "id": "27c565ac0182053a429a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-09T07:23:54.060566+00:00",
@@ -73711,7 +74001,7 @@
         "subgenres": []
       },
       "id": "6505992e14a42f0c945e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -73759,7 +74049,7 @@
         "subgenres": []
       },
       "id": "2e51402372d9f2aa0eab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -73811,7 +74101,7 @@
         ]
       },
       "id": "806eda9fb9a4085ea7fe",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-23T07:46:24.279791+00:00",
@@ -73870,7 +74160,7 @@
         ]
       },
       "id": "107d9d0bceec1f35354b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -73925,7 +74215,7 @@
         ]
       },
       "id": "0ceb99187b557e78c2b5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -73978,7 +74268,7 @@
         "subgenres": []
       },
       "id": "25973a41984035e0f601",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-09T07:23:54.060566+00:00",
@@ -74024,7 +74314,7 @@
         ]
       },
       "id": "04248742e08aa14b2a3a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -74069,7 +74359,7 @@
         "subgenres": []
       },
       "id": "94ee313e6528743afd7e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -74117,7 +74407,7 @@
         "subgenres": []
       },
       "id": "1d708a796102f9b56474",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -74166,7 +74456,7 @@
         "subgenres": []
       },
       "id": "4f06100ed386538a7628",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -74222,7 +74512,7 @@
         ]
       },
       "id": "323689db0282e9770a4d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -74274,7 +74564,7 @@
         "subgenres": []
       },
       "id": "b26496d748f6420aed85",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -74318,7 +74608,7 @@
         "subgenres": []
       },
       "id": "4e6ec19333a8c83c4ac8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -74378,7 +74668,7 @@
         "subgenres": []
       },
       "id": "3b3be4f3f74fe404af60",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -74473,7 +74763,7 @@
         "subgenres": []
       },
       "id": "03dfeb31fb0932ae04a7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-18T10:11:17.857980+00:00",
@@ -74530,7 +74820,7 @@
         "subgenres": []
       },
       "id": "3a20f6ae8d6fafa23d7a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -74574,7 +74864,7 @@
         "subgenres": []
       },
       "id": "22df66f7bbb2ddfd5c35",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-15T07:45:44.711286+00:00",
@@ -74630,7 +74920,7 @@
         ]
       },
       "id": "6a4f6799446371c706f9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -74683,7 +74973,7 @@
         "subgenres": []
       },
       "id": "0a32b6bf19fa9b29ac47",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -74731,7 +75021,7 @@
         "subgenres": []
       },
       "id": "20c61a3412e3e286854a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-01T07:49:53.893741+00:00",
@@ -74786,7 +75076,7 @@
         "subgenres": []
       },
       "id": "c37f31e929ce3901eeb2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -74871,7 +75161,7 @@
         ]
       },
       "id": "2afebdd2805085550e59",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -74924,7 +75214,7 @@
         "subgenres": []
       },
       "id": "da32c6ffa5f2ac84cc59",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -74972,7 +75262,7 @@
         "subgenres": []
       },
       "id": "1e99786435c43e88eb5b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-12T07:10:17.739084+00:00",
@@ -75023,7 +75313,7 @@
         ]
       },
       "id": "690205f02d1ee893a767",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75079,7 +75369,7 @@
         ]
       },
       "id": "a31ed5654d7062d4a921",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -75131,7 +75421,7 @@
         "subgenres": []
       },
       "id": "e08bde5cf26114326b9f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75189,7 +75479,7 @@
         ]
       },
       "id": "8d50a393d5fa7080294f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-31T08:26:40.404094+00:00",
@@ -75250,7 +75540,7 @@
         "subgenres": []
       },
       "id": "631b413c24552fc24365",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-28T14:21:48.772813+00:00",
@@ -75303,7 +75593,7 @@
         "subgenres": []
       },
       "id": "77c861065326307a08dc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75369,7 +75659,7 @@
         ]
       },
       "id": "3411efa0f21909f86a18",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75430,7 +75720,7 @@
         "subgenres": []
       },
       "id": "f7f3f707ce5ed3ecae73",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -75507,7 +75797,7 @@
         ]
       },
       "id": "5e4c45c2ba1362f50f32",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75560,7 +75850,7 @@
         "subgenres": []
       },
       "id": "bc75ac03f683262ab0a5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-14T08:58:55.700092+00:00",
@@ -75626,7 +75916,7 @@
         ]
       },
       "id": "fa05a988869d0bd6cf51",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75687,7 +75977,7 @@
         "subgenres": []
       },
       "id": "d2d3bebae93dcc076c15",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-06T07:08:16.634297+00:00",
@@ -75735,7 +76025,7 @@
         "subgenres": []
       },
       "id": "a7ca1170218a39df10ab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75785,7 +76075,7 @@
         "subgenres": []
       },
       "id": "3c7ade876fe8b7ba1df4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -75833,7 +76123,7 @@
         "subgenres": []
       },
       "id": "3881df5801430d44cda0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -75881,7 +76171,7 @@
         ]
       },
       "id": "e09a6e2c20140c67d94f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -75921,7 +76211,7 @@
         "subgenres": []
       },
       "id": "cee83fa15464071ded6a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -75977,7 +76267,7 @@
         ]
       },
       "id": "d770eccefc15f3f7b13c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -76027,7 +76317,7 @@
         ]
       },
       "id": "148a23c44e609ecc18c8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -76089,7 +76379,7 @@
         ]
       },
       "id": "89b126663eff36a82266",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-29T09:04:20.295710+00:00",
@@ -76150,7 +76440,7 @@
         "subgenres": []
       },
       "id": "5b461739a0af1052826e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-14T08:58:55.700092+00:00",
@@ -76194,7 +76484,7 @@
         "subgenres": []
       },
       "id": "cf9243c77d3e3fc6549f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -76239,7 +76529,7 @@
         "subgenres": []
       },
       "id": "1b4a2cbb3d877d43995b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-15T09:27:40.276813+00:00",
@@ -76287,7 +76577,7 @@
         ]
       },
       "id": "26802f06e535a081a884",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -76327,7 +76617,7 @@
         "subgenres": []
       },
       "id": "e3b9b7d3d11afef5bc83",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -76381,7 +76671,7 @@
         "subgenres": []
       },
       "id": "ef0fc770f78649a12701",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -76443,7 +76733,7 @@
         "subgenres": []
       },
       "id": "aa821cfc13f16eac0b2a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -76501,7 +76791,7 @@
         "subgenres": []
       },
       "id": "91af588f0328b673453c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -76575,7 +76865,7 @@
         "subgenres": []
       },
       "id": "fdd56cad8a17143ddc53",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -76617,7 +76907,7 @@
         ]
       },
       "id": "4d6dffce632c216ac8b0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "venue": {
@@ -76675,7 +76965,7 @@
         "subgenres": []
       },
       "id": "bb3e335969e8dae256ab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-16T07:11:03.397138+00:00",
@@ -76719,7 +77009,7 @@
         "subgenres": []
       },
       "id": "71ac0123b265e2d3a3ab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -76759,7 +77049,7 @@
         "subgenres": []
       },
       "id": "df3d0c70c6cc9b1e0359",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -76822,7 +77112,7 @@
         ]
       },
       "id": "bf221605560946148255",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-22T07:36:20.954236+00:00",
@@ -76882,7 +77172,7 @@
         "subgenres": []
       },
       "id": "04871fa22ebe88b2e57e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -76936,7 +77226,7 @@
         "subgenres": []
       },
       "id": "8261ad1890063dabd46e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -77012,7 +77302,7 @@
         "subgenres": []
       },
       "id": "680c274224955b8e1c6e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -77060,7 +77350,7 @@
         "subgenres": []
       },
       "id": "3b94110a5245295ac6c0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-22T03:08:00.198425+00:00",
@@ -77106,7 +77396,7 @@
         ]
       },
       "id": "a32388cb3412d505cadb",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -77150,7 +77440,7 @@
         "subgenres": []
       },
       "id": "20762d4558d4dc2f27f6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -77197,7 +77487,7 @@
         ]
       },
       "id": "47b667e34176ea4a171e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -77261,7 +77551,7 @@
         "subgenres": []
       },
       "id": "c551c49bf4807240c9c6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-14T08:58:55.700092+00:00",
@@ -77301,7 +77591,7 @@
         "subgenres": []
       },
       "id": "050ae632fa430440f645",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -77345,7 +77635,7 @@
         "subgenres": []
       },
       "id": "a69b2b896df4c16d78c7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -77389,7 +77679,7 @@
         "subgenres": []
       },
       "id": "23f71b5c482795450ed5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -77446,7 +77736,7 @@
         ]
       },
       "id": "923865d37affad562cae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -77498,7 +77788,7 @@
         "subgenres": []
       },
       "id": "562643e6573bbc726fde",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -77548,7 +77838,7 @@
         "subgenres": []
       },
       "id": "69d7de0b6c21eb48e53f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-17T07:41:07.972715+00:00",
@@ -77618,7 +77908,7 @@
         ]
       },
       "id": "cda61baef0d1ecc32a39",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -77672,7 +77962,7 @@
         ]
       },
       "id": "f7d99982ef03ecac37ed",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-22T07:36:20.954236+00:00",
@@ -77716,7 +78006,7 @@
         "subgenres": []
       },
       "id": "58fcf4ea6bc499aa0f0c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -77760,7 +78050,7 @@
         "subgenres": []
       },
       "id": "cd1e8c5653c070e7db60",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-23T07:46:24.279791+00:00",
@@ -77804,7 +78094,7 @@
         "subgenres": []
       },
       "id": "60fb4a3730d84567a83f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -77844,7 +78134,7 @@
         "subgenres": []
       },
       "id": "9a06a84cbc0c0f860ac4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -77888,7 +78178,7 @@
         "subgenres": []
       },
       "id": "f153341bfdca609b285e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-17T07:41:07.972715+00:00",
@@ -77946,7 +78236,7 @@
         ]
       },
       "id": "dcf3674f6d596d9068e3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -78010,7 +78300,7 @@
         ]
       },
       "id": "e86890acdf73be6248d6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-29T08:32:15.627706+00:00",
@@ -78072,7 +78362,7 @@
         "subgenres": []
       },
       "id": "ad54a67c76105c38a7b2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -78124,7 +78414,7 @@
         "subgenres": []
       },
       "id": "7e0fc11d120ee070bf75",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -78171,7 +78461,7 @@
         ]
       },
       "id": "8705bde4e81d99358962",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -78229,7 +78519,7 @@
         "subgenres": []
       },
       "id": "39e8e3cd77883d54c234",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-19T03:11:47.510618+00:00",
@@ -78281,7 +78571,7 @@
         "subgenres": []
       },
       "id": "4cfbd852a290de4f726a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -78338,7 +78628,7 @@
         ]
       },
       "id": "5ad53d0379ff9737e3e5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -78387,7 +78677,7 @@
         "subgenres": []
       },
       "id": "04644951dcb7acb44546",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -78431,7 +78721,7 @@
         "subgenres": []
       },
       "id": "32eac686c6122fdaed86",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "venue": {
@@ -78480,7 +78770,7 @@
         "subgenres": []
       },
       "id": "363187f19ba26ab95051",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -78537,7 +78827,7 @@
         ]
       },
       "id": "a61d519cc3fe69584d05",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-17T07:41:07.972715+00:00",
@@ -78593,7 +78883,7 @@
         "subgenres": []
       },
       "id": "8a7d3141f5fecbc53892",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -78633,7 +78923,7 @@
         "subgenres": []
       },
       "id": "75531fdc41248394122b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -78677,7 +78967,7 @@
         "subgenres": []
       },
       "id": "751fd8b52ad45a190af6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -78721,7 +79011,7 @@
         "subgenres": []
       },
       "id": "74efe1f2b2e12e295a99",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -78770,7 +79060,7 @@
         "subgenres": []
       },
       "id": "33f265d70ab5f0420bf5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -78826,7 +79116,7 @@
         ]
       },
       "id": "55cb02021a09fcaa7263",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -78878,7 +79168,7 @@
         ]
       },
       "id": "fa4573a2480965a2428d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -78945,7 +79235,7 @@
         ]
       },
       "id": "160a274257147c1be988",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -78997,7 +79287,7 @@
         "subgenres": []
       },
       "id": "721c29111f24bf7c4780",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -79039,7 +79329,7 @@
         ]
       },
       "id": "6ca047ac60fec99e0df6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -79083,7 +79373,7 @@
         "subgenres": []
       },
       "id": "d0fe6b3fb253520f3208",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -79127,7 +79417,7 @@
         "subgenres": []
       },
       "id": "5f9cb4141e283719fc56",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -79172,7 +79462,7 @@
         "subgenres": []
       },
       "id": "c887fedc89eb7503263d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -79238,7 +79528,7 @@
         ]
       },
       "id": "af1481c87f979fd368b1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -79294,7 +79584,7 @@
         "subgenres": []
       },
       "id": "40e1b9fa4f2149110f14",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-18T03:09:18.056724+00:00",
@@ -79334,7 +79624,7 @@
         "subgenres": []
       },
       "id": "339c40a26e3adab205be",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -79378,7 +79668,7 @@
         "subgenres": []
       },
       "id": "c6a6d5f56eede63796e0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -79418,7 +79708,7 @@
         "subgenres": []
       },
       "id": "1b843d5075f82e924040",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -79462,7 +79752,7 @@
         "subgenres": []
       },
       "id": "235656bf61057a78da0f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -79511,7 +79801,7 @@
         "subgenres": []
       },
       "id": "eaece1b4a009298dc32b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-30T08:35:18.772285+00:00",
@@ -79567,7 +79857,7 @@
         ]
       },
       "id": "a63c2443e6214372cda6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -79625,7 +79915,7 @@
         "subgenres": []
       },
       "id": "1c72b839ad0b4a666422",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -79684,7 +79974,7 @@
         ]
       },
       "id": "793c5356794b53351b4d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-19T10:21:47.877098+00:00",
@@ -79728,7 +80018,7 @@
         "subgenres": []
       },
       "id": "fb91a255b816d6a1848c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -79777,7 +80067,7 @@
         "subgenres": []
       },
       "id": "cb141fba690087165db2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-04T07:14:46.282627+00:00",
@@ -79833,7 +80123,7 @@
         ]
       },
       "id": "02ee2e86fdb45397eb94",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -79883,7 +80173,7 @@
         ]
       },
       "id": "51e4506c8744d422997c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -79923,7 +80213,7 @@
         "subgenres": []
       },
       "id": "383eef8d1147d60a0cf9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-15T07:45:44.711286+00:00",
@@ -80008,7 +80298,7 @@
         "subgenres": []
       },
       "id": "43f98487ed8c39507438",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -80050,7 +80340,7 @@
         ]
       },
       "id": "0f8e74816da46a86841a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -80094,7 +80384,7 @@
         "subgenres": []
       },
       "id": "6ffc6b94f4bb792a388e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-22T03:08:00.198425+00:00",
@@ -80145,7 +80435,7 @@
         ]
       },
       "id": "b7c2659d3055d8d933d8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -80198,7 +80488,7 @@
         "subgenres": []
       },
       "id": "ccf401c17ecc116c9c88",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -80262,7 +80552,7 @@
         "subgenres": []
       },
       "id": "53bacaa50ae088626ffa",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -80314,7 +80604,7 @@
         ]
       },
       "id": "cafc6e8a342470126e6f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -80367,7 +80657,7 @@
         "subgenres": []
       },
       "id": "3be147d55de37e4525ed",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -80413,7 +80703,7 @@
         ]
       },
       "id": "d92afa29a3370c104d9e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -80465,7 +80755,7 @@
         ]
       },
       "id": "051748bd5765b419c035",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-03T07:11:19.949339+00:00",
@@ -80517,7 +80807,7 @@
         "subgenres": []
       },
       "id": "e7dc92a4b97b816ae0a6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -80573,7 +80863,7 @@
         ]
       },
       "id": "f37ec215e47a68e34b05",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-26T07:43:17.500748+00:00",
@@ -80627,7 +80917,7 @@
         ]
       },
       "id": "3859c1021bf173b33fa6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -80678,7 +80968,7 @@
         ]
       },
       "id": "f51b9df40bcb01bff48d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-29T09:04:20.295710+00:00",
@@ -80726,7 +81016,7 @@
         "subgenres": []
       },
       "id": "74763c9fb53c9a1b818b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -80772,7 +81062,7 @@
         ]
       },
       "id": "ef3de2a79616ad15cfda",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -80812,7 +81102,7 @@
         "subgenres": []
       },
       "id": "2073fc7e41a49128d7d9",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -80863,7 +81153,7 @@
         ]
       },
       "id": "edcd4833e0c11101ca26",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-29T09:04:20.295710+00:00",
@@ -80923,7 +81213,7 @@
         ]
       },
       "id": "ffc831b3a0ecdb5b8a4f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-03T07:11:19.949339+00:00",
@@ -80977,7 +81267,7 @@
         ]
       },
       "id": "fdbb805df4151bb3ce15",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -81030,7 +81320,7 @@
         ]
       },
       "id": "1f39c1d070a8cdfe79e1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -81104,7 +81394,7 @@
         "subgenres": []
       },
       "id": "21109d566cdb604ab116",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -81148,7 +81438,7 @@
         "subgenres": []
       },
       "id": "06aa05c334b5f8442853",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -81195,7 +81485,7 @@
         ]
       },
       "id": "ab2e9010799009bbd011",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -81248,7 +81538,7 @@
         "subgenres": []
       },
       "id": "a8cd40db6ef36eba5c64",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-24T07:36:55.483465+00:00",
@@ -81296,7 +81586,7 @@
         "subgenres": []
       },
       "id": "48bcf226af4c1de3f148",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -81342,7 +81632,7 @@
         ]
       },
       "id": "23408f31924ed7f59264",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -81382,7 +81672,7 @@
         "subgenres": []
       },
       "id": "4705b041f20dc474e183",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-03T07:11:19.949339+00:00",
@@ -81426,7 +81716,7 @@
         "subgenres": []
       },
       "id": "211894f8642bc264b36d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-19T10:21:47.877098+00:00",
@@ -81470,7 +81760,7 @@
         "subgenres": []
       },
       "id": "2112e862423383627cd7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -81512,7 +81802,7 @@
         ]
       },
       "id": "64514c13825514d0e40a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-17T07:41:07.972715+00:00",
@@ -81556,7 +81846,7 @@
         "subgenres": []
       },
       "id": "4a22e59d2edadadce640",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -81600,7 +81890,7 @@
         "subgenres": []
       },
       "id": "745e58a9d207d80c2d04",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -81644,7 +81934,7 @@
         "subgenres": []
       },
       "id": "1c69281fca46b7ebd6a4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -81667,6 +81957,70 @@
       "status": "scheduled",
       "title": null,
       "venue": "Haus der Musik"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "country": "CAN",
+          "link": "https://pisstheband.bandcamp.com/",
+          "name": "PISS"
+        },
+        {
+          "country": null,
+          "link": "https://swelle.bandcamp.com/",
+          "name": "SWELLE"
+        },
+        {
+          "country": null,
+          "link": "https://plownoise.bandcamp.com/",
+          "name": "PLOW"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-04",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Hardcore",
+        "source": "lastfm",
+        "subgenres": [
+          "Hardcore Punk"
+        ]
+      },
+      "id": "099a9ddd41743430a251",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "PISS",
+          "url": "https://pisstheband.bandcamp.com/"
+        },
+        {
+          "label": "SWELLE",
+          "url": "https://swelle.bandcamp.com/"
+        },
+        {
+          "label": "PLOW",
+          "url": "https://plownoise.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48707"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.03.: PISS (can) / SWELLE / PLOW @ Arena (kl. Halle), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (kl. Halle)"
     },
     {
       "active": true,
@@ -81700,7 +82054,7 @@
         ]
       },
       "id": "022734f0068057938a84",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -81752,7 +82106,7 @@
         "subgenres": []
       },
       "id": "ff0449279fe7e4a761dc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -81809,7 +82163,7 @@
         ]
       },
       "id": "0411a8268af19a53be8b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -81865,7 +82219,7 @@
         "subgenres": []
       },
       "id": "de3f8cbad3acb0892b01",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -81909,7 +82263,7 @@
         "subgenres": []
       },
       "id": "4c26ceecb60f53095d24",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -81953,7 +82307,7 @@
         ]
       },
       "id": "66b045d5334ca9040175",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-31T08:26:40.404094+00:00",
@@ -82005,7 +82359,7 @@
         ]
       },
       "id": "613b3bb897bb9240a52d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -82058,7 +82412,7 @@
         ]
       },
       "id": "ea59d171296f2355e85c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -82118,7 +82472,7 @@
         ]
       },
       "id": "dbfab19d31a291d5f207",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -82166,7 +82520,7 @@
         "subgenres": []
       },
       "id": "0f9fb2d62349457f3c73",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -82210,7 +82564,7 @@
         "subgenres": []
       },
       "id": "866a97587d08f3d57384",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -82264,7 +82618,7 @@
         "subgenres": []
       },
       "id": "4ef8a59beadb775da84b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -82312,7 +82666,7 @@
         "subgenres": []
       },
       "id": "eea247df513dab90c373",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -82352,7 +82706,7 @@
         "subgenres": []
       },
       "id": "e7b9603f4973ab501bef",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -82399,7 +82753,7 @@
         ]
       },
       "id": "1d7360d808c34f8e37e6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -82443,7 +82797,7 @@
         "subgenres": []
       },
       "id": "ba61087dcb979467e251",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -82492,7 +82846,7 @@
         "subgenres": []
       },
       "id": "7ae3fa7713c7b7358f11",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -82540,7 +82894,7 @@
         "subgenres": []
       },
       "id": "12140cc2ebf265e5e1b6",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-29T09:04:20.295710+00:00",
@@ -82601,7 +82955,7 @@
         ]
       },
       "id": "19042b8f108842c655d3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -82669,7 +83023,7 @@
         ]
       },
       "id": "914c3577f6a924f0c5db",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -82721,7 +83075,7 @@
         "subgenres": []
       },
       "id": "edae032237f7d740bde8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -82761,7 +83115,7 @@
         "subgenres": []
       },
       "id": "7c694f2128a1ddae4c07",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -82818,7 +83172,7 @@
         ]
       },
       "id": "4605db7b7c38f877a69e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-03T08:07:24.912047+00:00",
@@ -82870,7 +83224,7 @@
         "subgenres": []
       },
       "id": "c7663e848925e3c4508d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -82916,7 +83270,7 @@
         ]
       },
       "id": "0b92aedfcdfb74b74a95",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-18T10:11:17.857980+00:00",
@@ -82960,7 +83314,7 @@
         "subgenres": []
       },
       "id": "b12c8d1b600c9ca509d2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -83004,7 +83358,7 @@
         "subgenres": []
       },
       "id": "f35645e24909eb934e67",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83044,7 +83398,7 @@
         "subgenres": []
       },
       "id": "df99b3b4b6601afb3a34",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-16T07:42:17.993766+00:00",
@@ -83096,7 +83450,7 @@
         ]
       },
       "id": "d9b96e7495c5fd292b2b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -83170,7 +83524,7 @@
         "subgenres": []
       },
       "id": "ee6923e80c05f4005ca4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -83222,7 +83576,7 @@
         "subgenres": []
       },
       "id": "46262d1a9d842c420c26",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-17T10:44:35.411331+00:00",
@@ -83283,7 +83637,7 @@
         ]
       },
       "id": "ad496a9b482dd739bd8b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -83341,7 +83695,7 @@
         ]
       },
       "id": "57eb3c27cf65b6823338",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83383,7 +83737,7 @@
         ]
       },
       "id": "e8a34a79e7a093758812",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -83427,7 +83781,7 @@
         "subgenres": []
       },
       "id": "837a62e37d4246763405",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -83488,7 +83842,7 @@
         ]
       },
       "id": "f8685d007b69efe11cb0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83540,7 +83894,7 @@
         "subgenres": []
       },
       "id": "fd8dd7dcc5265bdeba49",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -83608,7 +83962,7 @@
         ]
       },
       "id": "cc50b247f26aa300db43",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83666,7 +84020,7 @@
         ]
       },
       "id": "afcc469680ea9bb0ffda",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -83706,7 +84060,7 @@
         "subgenres": []
       },
       "id": "9d4e0480dada9332fec8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -83750,7 +84104,7 @@
         "subgenres": []
       },
       "id": "af27bf92089d42be5c0c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-06T09:25:31.523216+00:00",
@@ -83794,7 +84148,7 @@
         "subgenres": []
       },
       "id": "cd2d87052afbf499102b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -83838,7 +84192,7 @@
         "subgenres": []
       },
       "id": "a2111f48ac573255bcf5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83876,7 +84230,7 @@
         ]
       },
       "id": "3e1453b340aad30e9aab",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -83921,7 +84275,7 @@
         "subgenres": []
       },
       "id": "cf5fc7202e1a6d4133dd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -83969,7 +84323,7 @@
         "subgenres": []
       },
       "id": "3f3cea674cce1c23a87d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -84022,7 +84376,7 @@
         ]
       },
       "id": "37e418da03bd41c14869",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -84074,7 +84428,7 @@
         "subgenres": []
       },
       "id": "521e7064b3b7a5ea44d0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -84132,7 +84486,7 @@
         ]
       },
       "id": "ee9c4a6b1f96691bd2d8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -84188,7 +84542,7 @@
         "subgenres": []
       },
       "id": "d7b471b4176dde54bfc7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -84233,7 +84587,7 @@
         "subgenres": []
       },
       "id": "7e6934dcaf0f660bb1ac",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -84288,7 +84642,7 @@
         ]
       },
       "id": "d5344d4a6666e01a0c43",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -84358,7 +84712,7 @@
         ]
       },
       "id": "5584b1c3f74f30f18d4d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -84446,7 +84800,7 @@
         "subgenres": []
       },
       "id": "0a765f784082fafcd637",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -84469,6 +84823,59 @@
       "status": "scheduled",
       "title": null,
       "venue": "röda"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/muuske.band/",
+          "name": "MUUSKE"
+        },
+        {
+          "country": null,
+          "link": "https://www.baitsmusic.com/",
+          "name": "BAITS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Purgstall",
+      "event_date": "2027-03-27",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "77e7c39d79ee4599f9a2",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "MUUSKE",
+          "url": "https://www.instagram.com/muuske.band/"
+        },
+        {
+          "label": "BAITS",
+          "url": "https://www.baitsmusic.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1795754241624332/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.03.: MUUSKE (d) / BAITS @ Bunker, Purgstall [fb]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bunker"
     },
     {
       "active": true,
@@ -84498,7 +84905,7 @@
         ]
       },
       "id": "91ec01b682ddff0fa4e4",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -84546,7 +84953,7 @@
         "subgenres": []
       },
       "id": "100233e78d7a94900809",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -84595,7 +85002,7 @@
         "subgenres": []
       },
       "id": "ae8191a2f10bf99575a8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-06T07:08:16.634297+00:00",
@@ -84648,7 +85055,7 @@
         "subgenres": []
       },
       "id": "ee2fad8e7e89c8d0295c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -84692,7 +85099,7 @@
         "subgenres": []
       },
       "id": "96d17d78544a820ea4ae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -84739,7 +85146,7 @@
         ]
       },
       "id": "fc12ad1682e3daf75615",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -84789,7 +85196,7 @@
         ]
       },
       "id": "d2450b981c9942f05e41",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -84833,7 +85240,7 @@
         "subgenres": []
       },
       "id": "ed1a6b938d510031aff2",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -84873,7 +85280,7 @@
         "subgenres": []
       },
       "id": "6e160d627881e83cb167",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -84913,7 +85320,7 @@
         "subgenres": []
       },
       "id": "e2f377936368569f3b90",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -84957,7 +85364,7 @@
         "subgenres": []
       },
       "id": "3ca635d24492ddb17dde",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -85003,7 +85410,7 @@
         ]
       },
       "id": "61bef854f2f6c5f7a7f7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -85047,7 +85454,7 @@
         "subgenres": []
       },
       "id": "ce439ced00ec280a61ec",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -85102,7 +85509,7 @@
         "subgenres": []
       },
       "id": "ebd9566dbfb84471a0b8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-26T07:48:52.027472+00:00",
@@ -85158,7 +85565,7 @@
         "subgenres": []
       },
       "id": "9c69d1598db708b96758",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -85198,7 +85605,7 @@
         "subgenres": []
       },
       "id": "c68ade26d7ce90651891",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -85242,7 +85649,7 @@
         "subgenres": []
       },
       "id": "8295044b9eb47324174d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-27T12:48:12.218972+00:00",
@@ -85286,7 +85693,7 @@
         "subgenres": []
       },
       "id": "e2c3ba78c35b59a9d2ae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -85326,7 +85733,7 @@
         "subgenres": []
       },
       "id": "192c7797ffe3873c6558",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-31T08:26:40.404094+00:00",
@@ -85370,7 +85777,7 @@
         "subgenres": []
       },
       "id": "e66a72d68948b947ec13",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -85410,7 +85817,7 @@
         "subgenres": []
       },
       "id": "85690a33ba59ab03ee88",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -85450,7 +85857,7 @@
         "subgenres": []
       },
       "id": "634855a5f6b92c6267db",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -85494,7 +85901,7 @@
         "subgenres": []
       },
       "id": "790bd4ad4a4bbe2418a3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -85543,7 +85950,7 @@
         "subgenres": []
       },
       "id": "bf2728f42c1f13b6e3a3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -85591,7 +85998,7 @@
         "subgenres": []
       },
       "id": "dd20518188598359621a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -85637,7 +86044,7 @@
         ]
       },
       "id": "8c81d224c9d6bba76c78",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -85681,7 +86088,7 @@
         "subgenres": []
       },
       "id": "1da19963b5b6bb3b0444",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -85725,7 +86132,7 @@
         "subgenres": []
       },
       "id": "1f50d72c16a5ad574ffa",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -85769,7 +86176,7 @@
         "subgenres": []
       },
       "id": "568394711fae8c0244ca",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -85813,7 +86220,7 @@
         "subgenres": []
       },
       "id": "ac480f28424872a7a2b5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -85862,7 +86269,7 @@
         "subgenres": []
       },
       "id": "217c1b4c4211c0464357",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-26T03:19:08.354737+00:00",
@@ -85910,7 +86317,7 @@
         "subgenres": []
       },
       "id": "8f3789ec50f6b78e1ec0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -85954,7 +86361,7 @@
         "subgenres": []
       },
       "id": "752aa6bbd91dfc42e090",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -86015,7 +86422,7 @@
         ]
       },
       "id": "a59043875c1c4c84274e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-19T10:21:47.877098+00:00",
@@ -86071,7 +86478,7 @@
         "subgenres": []
       },
       "id": "9f8e99c3d324ecdfd813",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -86115,7 +86522,7 @@
         "subgenres": []
       },
       "id": "c030c4dd1c8c49ec40e8",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -86161,7 +86568,7 @@
         ]
       },
       "id": "6cf7fd937c116a636c79",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -86212,7 +86619,7 @@
         ]
       },
       "id": "e8770954daaad86780af",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-29T08:32:15.627706+00:00",
@@ -86263,7 +86670,7 @@
         ]
       },
       "id": "75459ec4eab0855d4c7a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -86314,7 +86721,7 @@
         ]
       },
       "id": "3348d44adb48096a08d3",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -86396,7 +86803,7 @@
         ]
       },
       "id": "7df9fecd8e06ae93ae97",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -86452,7 +86859,7 @@
         "subgenres": []
       },
       "id": "b290b742b4ab513b4e17",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-26T07:48:52.027472+00:00",
@@ -86496,7 +86903,7 @@
         "subgenres": []
       },
       "id": "bd35020f1791f1d6fab1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -86558,7 +86965,7 @@
         ]
       },
       "id": "8c80291d2f729ff8c96a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-28T14:21:48.772813+00:00",
@@ -86616,7 +87023,7 @@
         ]
       },
       "id": "cd1a8eb5fd6fbbccb936",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -86660,7 +87067,7 @@
         "subgenres": []
       },
       "id": "426519980f57cd991135",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -86704,7 +87111,7 @@
         "subgenres": []
       },
       "id": "cdc16d2770b0a0b6998a",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -86753,7 +87160,7 @@
         "subgenres": []
       },
       "id": "78c38964a3fec16fc734",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-19T03:11:47.510618+00:00",
@@ -86801,7 +87208,7 @@
         "subgenres": []
       },
       "id": "be79038c5a15abd7065d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -86845,7 +87252,7 @@
         "subgenres": []
       },
       "id": "04a3fe641959dd057728",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -86889,7 +87296,7 @@
         "subgenres": []
       },
       "id": "c2fcaa767bb105481fae",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -86936,7 +87343,7 @@
         ]
       },
       "id": "1048f36fdf2e5a2293ca",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -86982,7 +87389,7 @@
         ]
       },
       "id": "fe24d14e2f7860413e6b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -87036,7 +87443,7 @@
         "subgenres": []
       },
       "id": "2b91d6c2b7c12fb10a67",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -87084,7 +87491,7 @@
         "subgenres": []
       },
       "id": "e3e0df8d9b750b39d93f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-01T07:49:53.893741+00:00",
@@ -87146,7 +87553,7 @@
         ]
       },
       "id": "6b4a85a2e5b0db3bd192",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-10T08:30:36.395006+00:00",
@@ -87202,7 +87609,7 @@
         "subgenres": []
       },
       "id": "a8d8f93e8b1d08925d4b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -87246,7 +87653,7 @@
         "subgenres": []
       },
       "id": "37a9deb3eae9b159003e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-08-28T14:21:48.772813+00:00",
@@ -87298,7 +87705,7 @@
         ]
       },
       "id": "623cf6950bd78beced00",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -87376,7 +87783,7 @@
         ]
       },
       "id": "761ef1745104713ea52e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -87430,7 +87837,7 @@
         ]
       },
       "id": "a27ed427c733483e6291",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-03T07:11:19.949339+00:00",
@@ -87484,7 +87891,7 @@
         "subgenres": []
       },
       "id": "a16baee41b404b59843c",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -87550,7 +87957,7 @@
         ]
       },
       "id": "3b4e48ebdff031eb6193",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-08T09:00:01.729764+00:00",
@@ -87627,7 +88034,7 @@
         "subgenres": []
       },
       "id": "d157a37274044c40939e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -87716,7 +88123,7 @@
         "subgenres": []
       },
       "id": "eef67fef8ab7a0e28cb0",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-24T07:18:17.087401+00:00",
@@ -87792,7 +88199,7 @@
         ]
       },
       "id": "e015684ed8a028da797e",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-23T07:33:32.804904+00:00",
@@ -87844,7 +88251,7 @@
         "subgenres": []
       },
       "id": "b29ae5b4a5088a807840",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-18T07:14:11.051551+00:00",
@@ -87888,7 +88295,7 @@
         "subgenres": []
       },
       "id": "dbc08658bc546973808d",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -87940,7 +88347,7 @@
         ]
       },
       "id": "ba86a6b4901c16cc85cd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-14T07:39:35.163385+00:00",
@@ -87992,7 +88399,7 @@
         "subgenres": []
       },
       "id": "1ff91c3d04c6e610bf2b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -88020,6 +88427,59 @@
       "active": true,
       "artists": [
         {
+          "country": "GRE",
+          "link": "https://1000mods.bandcamp.com/",
+          "name": "1000MODS"
+        },
+        {
+          "country": "USA",
+          "link": "https://thewellaustin.bandcamp.com/music",
+          "name": "The WELL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2027-05-10",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "6a3dd5049e764bf067bb",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "1000MODS",
+          "url": "https://1000mods.bandcamp.com/"
+        },
+        {
+          "label": "The WELL",
+          "url": "https://thewellaustin.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2213438359574987/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.05.: 1000MODS (gre) / The WELL (usa) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
           "country": "UK",
           "link": "https://www.thegodfathersofficial.com/",
           "name": "The GODFATHERS"
@@ -88036,7 +88496,7 @@
         "subgenres": []
       },
       "id": "2b96e2b567f9d2f80e21",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -88080,7 +88540,7 @@
         "subgenres": []
       },
       "id": "0df03fc92b040e5e699f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-14T08:58:55.700092+00:00",
@@ -88124,7 +88584,7 @@
         "subgenres": []
       },
       "id": "d7a9686ad9f2d7a36db5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -88178,7 +88638,7 @@
         ]
       },
       "id": "be9f5efd6c82f62af3fc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -88230,7 +88690,7 @@
         "subgenres": []
       },
       "id": "207568e5f5c20eb30b78",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -88275,7 +88735,7 @@
         "subgenres": []
       },
       "id": "528219464f07737de68f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -88323,7 +88783,7 @@
         "subgenres": []
       },
       "id": "d2f8011763509b6293e5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -88382,7 +88842,7 @@
         "subgenres": []
       },
       "id": "a455b22429466dfd2812",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-19T10:21:47.877098+00:00",
@@ -88438,7 +88898,7 @@
         "subgenres": []
       },
       "id": "f1e5ef14a09907864119",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -88480,7 +88940,7 @@
         ]
       },
       "id": "fb62536869570c0c10c7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -88522,7 +88982,7 @@
         ]
       },
       "id": "639e609f83f854429409",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -88566,7 +89026,7 @@
         "subgenres": []
       },
       "id": "f16025594618654d69af",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -88620,7 +89080,7 @@
         "subgenres": []
       },
       "id": "bbdd3d03a50ce14f3645",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -88690,7 +89150,7 @@
         ]
       },
       "id": "42b97c84f68ac1424c5b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -88781,7 +89241,7 @@
         ]
       },
       "id": "9b5739b508baddf04e91",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {
           "artists": {
@@ -88856,7 +89316,7 @@
         ]
       },
       "id": "da92d475f03a8be4a805",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-15T09:27:40.276813+00:00",
@@ -88904,7 +89364,7 @@
         "subgenres": []
       },
       "id": "aa9ad5241fa714a51918",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -88948,7 +89408,7 @@
         "subgenres": []
       },
       "id": "63110dacf10412a7d796",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -89009,7 +89469,7 @@
         ]
       },
       "id": "5c6e131fb8e1c378f6ee",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -89116,7 +89576,7 @@
         "subgenres": []
       },
       "id": "e167d9626f4b1b396ae7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -89174,7 +89634,7 @@
         ]
       },
       "id": "ddb5271f24d5c164ef57",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-05T09:30:18.193382+00:00",
@@ -89235,7 +89695,7 @@
         "subgenres": []
       },
       "id": "1c5eb77461f21e7da39f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -89285,7 +89745,7 @@
         ]
       },
       "id": "eb6e213efc82529373fd",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -89329,7 +89789,7 @@
         "subgenres": []
       },
       "id": "c2a0d87288ce27768787",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-13T09:26:31.556827+00:00",
@@ -89373,7 +89833,7 @@
         "subgenres": []
       },
       "id": "2fff5245f827d200498b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -89417,7 +89877,7 @@
         "subgenres": []
       },
       "id": "039daf8f84250ad172e1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -89466,7 +89926,7 @@
         "subgenres": []
       },
       "id": "1ee049c9bff2b8fc318b",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -89510,7 +89970,7 @@
         "subgenres": []
       },
       "id": "0afbb275769d42bc24bc",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -89554,7 +90014,7 @@
         "subgenres": []
       },
       "id": "e3d98ecdb6160813c7c1",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-28T08:34:19.517870+00:00",
@@ -89582,6 +90042,50 @@
       "active": true,
       "artists": [
         {
+          "country": "UK",
+          "link": "https://www.instagram.com/unrealaltj/",
+          "name": "ALT-J"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2027-07-27",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ced5b4e43c4283dfbb20",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "ALT-J",
+          "url": "https://www.instagram.com/unrealaltj/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://arena.wien/Home/Programm-Detail/concert-id/48710"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.07.: ALT-J (uk) @ Arena (Open Air), Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (Open Air)"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
           "country": "USA",
           "link": "https://www.instagram.com/officialjohnbush/",
           "name": "John Bush"
@@ -89600,7 +90104,7 @@
         ]
       },
       "id": "18ddec1cb84d0100ab29",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -89628,6 +90132,81 @@
       "active": true,
       "artists": [
         {
+          "country": "D",
+          "link": "https://www.facebook.com/officialheavenshallburn/",
+          "name": "HEAVEN SHALL BURN"
+        },
+        {
+          "country": "D",
+          "link": "https://calibanmetal.com/",
+          "name": "CALIBAN"
+        },
+        {
+          "country": "D",
+          "link": "https://neaera.bandcamp.com/music",
+          "name": "NEAERA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/praeyamusic",
+          "name": "PRAEYA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-24T12:31:08.235771+00:00",
+      "city": "Wien",
+      "event_date": "2027-08-14",
+      "first_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore",
+          "Metalcore",
+          "Death Metal"
+        ]
+      },
+      "id": "907c81f2fcde11c9e547",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
+      "latest_revision": {
+        "changes": {},
+        "detected_at": "2026-11-24T12:31:08.235771+00:00",
+        "kind": "new"
+      },
+      "links": [
+        {
+          "label": "HEAVEN SHALL BURN",
+          "url": "https://www.facebook.com/officialheavenshallburn/"
+        },
+        {
+          "label": "CALIBAN",
+          "url": "https://calibanmetal.com/"
+        },
+        {
+          "label": "NEAERA",
+          "url": "https://neaera.bandcamp.com/music"
+        },
+        {
+          "label": "PRAEYA",
+          "url": "https://www.facebook.com/praeyamusic"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2062690657778366/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.08.: HEAVEN SHALL BURN (d) / CALIBAN (d) / NEAERA (d) / PRAEYA @ Arena (Open Air), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (Open Air)"
+    },
+    {
+      "active": true,
+      "artists": [
+        {
           "country": "USA",
           "link": "https://www.neurosis.com/",
           "name": "NEUROSIS"
@@ -89647,7 +90226,7 @@
         ]
       },
       "id": "244fc30ec46941a0a9ac",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-12T09:51:17.282141+00:00",
@@ -89696,7 +90275,7 @@
         "subgenres": []
       },
       "id": "401dabcf6a37fd483f6f",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -89742,7 +90321,7 @@
         ]
       },
       "id": "1f6dcce65bf1200843cf",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-19T10:21:47.877098+00:00",
@@ -89786,7 +90365,7 @@
         "subgenres": []
       },
       "id": "1434b1359fff8ba498c7",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-29T08:30:00.165440+00:00",
@@ -89832,7 +90411,7 @@
         ]
       },
       "id": "7528c51ce694043f8d33",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -89872,7 +90451,7 @@
         "subgenres": []
       },
       "id": "28a6cb69da1fd2b4ed33",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-08T08:59:24.743515+00:00",
@@ -89918,7 +90497,7 @@
         ]
       },
       "id": "1e3768d4a8eeef59ca61",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-21T07:40:54.326257+00:00",
@@ -89964,7 +90543,7 @@
         ]
       },
       "id": "1581605c9504072ce0d5",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-10T07:19:09.461284+00:00",
@@ -90008,7 +90587,7 @@
         "subgenres": []
       },
       "id": "18bb01313d568e920007",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-11T09:27:10.087005+00:00",
@@ -90054,7 +90633,7 @@
         ]
       },
       "id": "95b0fe5c5b6acd1d3a90",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-10-06T09:00:02.729229+00:00",
@@ -90110,7 +90689,7 @@
         ]
       },
       "id": "fe670594a8a2b1624746",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-04T09:14:26.217404+00:00",
@@ -90162,7 +90741,7 @@
         "subgenres": []
       },
       "id": "31d9f48827e3f6e18243",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-09-08T07:15:33.919002+00:00",
@@ -90208,7 +90787,7 @@
         ]
       },
       "id": "707f5ac8f5a5675e5735",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-03T09:33:55.265171+00:00",
@@ -90254,7 +90833,7 @@
         ]
       },
       "id": "ea203cf21834f98d0672",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": null,
       "links": [
         {
@@ -90296,7 +90875,7 @@
         ]
       },
       "id": "48cebcd394d2be299785",
-      "last_seen_at": "2026-11-23T10:47:19.634663+00:00",
+      "last_seen_at": "2026-11-24T12:31:08.235771+00:00",
       "latest_revision": {
         "changes": {},
         "detected_at": "2026-11-10T09:51:40.260974+00:00",
@@ -90321,7 +90900,7 @@
       "venue": "Szene"
     }
   ],
-  "generated_at": "2026-11-23T10:47:19.634663+00:00",
-  "source_checked_at": "2026-11-23T10:47:19.634663+00:00",
+  "generated_at": "2026-11-24T12:31:08.235771+00:00",
+  "source_checked_at": "2026-11-24T12:31:08.235771+00:00",
   "source_url": "https://www.capeet.com/gigs_list.html"
 }

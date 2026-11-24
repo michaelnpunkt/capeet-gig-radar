@@ -5,8 +5,64 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The CRADLE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b9355b084e6c6f36ec7b-1</link>
+      <guid isPermaLink="false">b9355b084e6c6f36ec7b:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-24 · Galerie ADA, Wattgasse 16/6, 1160 Wien · Wien</description>
+    </item>
+    <item>
+      <title>Abgesagt: The PRODIGY – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3fb17cb7d599f508643d-1</link>
+      <guid isPermaLink="false">3fb17cb7d599f508643d:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-24 · Stadthalle,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: RUGGED, HARROWIST – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7e8f1b86ff4daaaf9de6-1</link>
+      <guid isPermaLink="false">7e8f1b86ff4daaaf9de6:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-11-30 · Secret Location,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: LARSOVITCH, OLGHA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3a1e9e55ea05a9868a35-1</link>
+      <guid isPermaLink="false">3a1e9e55ea05a9868a35:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2026-12-10 · Down Under,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: PISS, SWELLE, PLOW – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-099a9ddd41743430a251-1</link>
+      <guid isPermaLink="false">099a9ddd41743430a251:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-03-04 · Arena (kl. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: 1000MODS, The WELL – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6a3dd5049e764bf067bb-1</link>
+      <guid isPermaLink="false">6a3dd5049e764bf067bb:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-05-10 · Arena (gr. Halle),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: ALT-J – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ced5b4e43c4283dfbb20-1</link>
+      <guid isPermaLink="false">ced5b4e43c4283dfbb20:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-07-27 · Arena (Open Air),  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: HEAVEN SHALL BURN, CALIBAN, NEAERA, PRAEYA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-907c81f2fcde11c9e547-1</link>
+      <guid isPermaLink="false">907c81f2fcde11c9e547:1</guid>
+      <pubDate>Tue, 24 Nov 2026 12:31:08 +0000</pubDate>
+      <description>2027-08-14 · Arena (Open Air),  Wien · Wien</description>
+    </item>
     <item>
       <title>Neu: POISONOUS FREQUENCIES – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a912faf7eac5aac830d8-1</link>
@@ -650,62 +706,6 @@
       <guid isPermaLink="false">dd667e9f8b5f9b7d4d2e:2</guid>
       <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
       <description>2026-12-05 · Chelsea,  Wien · Wien · Line-up: LEBER → LEBER · FLIRREN</description>
-    </item>
-    <item>
-      <title>Geändert: NICHTSEATTLE, HAN HAN HUHMAN MAN – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d00ec851595b68d98aae-1</link>
-      <guid isPermaLink="false">d00ec851595b68d98aae:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-10 · Lucia,  Wien · Wien · Line-up: NICHTSEATTLE → NICHTSEATTLE · HAN HAN HUHMAN MAN</description>
-    </item>
-    <item>
-      <title>Abgesagt: PLACEBO – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-17542f654ead2dee538a-1</link>
-      <guid isPermaLink="false">17542f654ead2dee538a:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-10 · Stadthalle,  Wien · Wien · Status: angekündigt → abgesagt</description>
-    </item>
-    <item>
-      <title>Geändert: IKAN HYU, CUTE AGGRESSION – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-961d5c3274b89e4d355e-1</link>
-      <guid isPermaLink="false">961d5c3274b89e4d355e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-12 · Chelsea,  Wien · Wien · Line-up: IKAN HYU → IKAN HYU · CUTE AGGRESSION</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: The VEILS, Anthonie Tonnon – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-792b040544d2f9300da3-1</link>
-      <guid isPermaLink="false">792b040544d2f9300da3:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-21 · Chelsea,  Wien · Wien · Line-up: The VEILS → The VEILS · Anthonie Tonnon</description>
-    </item>
-    <item>
-      <title>Neu: DISPLEASER, RUSTY RAILGUN, The COUFS, ONLY CHILD, DEIN TAGEBUCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ac9676bad510006dda61-1</link>
-      <guid isPermaLink="false">ac9676bad510006dda61:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-23 · Flucc Wanne,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Geändert: Spike &amp; The GIMME GIMES, ZEBRAHEAD, SLACKRR, YOKOHOMO – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1eb60ca090957e20756e-1</link>
-      <guid isPermaLink="false">1eb60ca090957e20756e:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-11-27 · Stadthalle (Hl. E),  Wien · Wien · Venue: Ottakringer Brauerei → Stadthalle (Hl. E)</description>
-    </item>
-    <item>
-      <title>Neu: KILLING PIZARRO, CUMBIA COOPERATIVA, TUTTI DILEMMA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-000785cbe9c3c0f76c0c-1</link>
-      <guid isPermaLink="false">000785cbe9c3c0f76c0c:1</guid>
-      <pubDate>Tue, 10 Nov 2026 09:51:40 +0000</pubDate>
-      <description>2026-12-03 · Fanialive,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
