@@ -1,6 +1,1300 @@
 {
-  "generated_at": "2026-11-24T12:31:08.235771+00:00",
+  "generated_at": "2026-11-25T11:18:47.280144+00:00",
   "revisions": [
+    {
+      "anchor": "change-1aa80f202950f4e02dcb-2",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "SCHLOIDAKOTZE"
+            },
+            {
+              "name": "HEIMWERKER"
+            }
+          ],
+          "to": [
+            {
+              "name": "SCHLOIDAKOTZE"
+            },
+            {
+              "name": "HEIMWERKER"
+            },
+            {
+              "name": "The ELEPHANT TRACKS"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/schloidakotze/",
+            "name": "SCHLOIDAKOTZE"
+          },
+          {
+            "country": null,
+            "link": "https://heimwerkerband.com/",
+            "name": "HEIMWERKER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/theelephanttracks/",
+            "name": "The ELEPHANT TRACKS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-28",
+        "first_seen_at": "2026-11-05T09:30:18.193382+00:00",
+        "genre": {
+          "family": "Punk",
+          "source": "heuristic",
+          "subgenres": [
+            "Street Punk"
+          ]
+        },
+        "id": "1aa80f202950f4e02dcb",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "SCHLOIDAKOTZE",
+            "url": "https://www.instagram.com/schloidakotze/"
+          },
+          {
+            "label": "HEIMWERKER",
+            "url": "https://heimwerkerband.com/"
+          },
+          {
+            "label": "The ELEPHANT TRACKS",
+            "url": "https://www.instagram.com/theelephanttracks/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/schloidakotze-heimwerker/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "28.11.: SCHLOIDAKOTZE / HEIMWERKER / The ELEPHANT TRACKS @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "1aa80f202950f4e02dcb",
+      "guid": "1aa80f202950f4e02dcb:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-f6c3afd11e3db07b5fe3-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://www.facebook.com/thejunctionrocks/",
+            "name": "The JUNCTION"
+          },
+          {
+            "country": null,
+            "link": "https://scampibump.bandcamp.com/",
+            "name": "SCAMPI BUMP"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-06",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "f6c3afd11e3db07b5fe3",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "The JUNCTION",
+            "url": "https://www.facebook.com/thejunctionrocks/"
+          },
+          {
+            "label": "SCAMPI BUMP",
+            "url": "https://scampibump.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.12.: The JUNCTION (ita) / SCAMPI BUMP @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "f6c3afd11e3db07b5fe3",
+      "guid": "f6c3afd11e3db07b5fe3:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-53c8bd2832c9a54e261e-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/tragicboymusik/",
+            "name": "TRAGIC BOY"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/janisjobless/",
+            "name": "JANIS JOBLESS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-07",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "53c8bd2832c9a54e261e",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "TRAGIC BOY",
+            "url": "https://www.instagram.com/tragicboymusik/"
+          },
+          {
+            "label": "JANIS JOBLESS",
+            "url": "https://www.instagram.com/janisjobless/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=07-12-2026_tragic-boy"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.12.: TRAGIC BOY / JANIS JOBLESS @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "53c8bd2832c9a54e261e",
+      "guid": "53c8bd2832c9a54e261e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9b38c059397ef041d3f7-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "Voodoo Jürgens"
+            }
+          ],
+          "to": [
+            {
+              "name": "Voodoo Jürgens"
+            },
+            {
+              "name": "The ZEW"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://voodoojuergens.com/",
+            "name": "Voodoo Jürgens"
+          },
+          {
+            "country": null,
+            "link": "https://zew-music.bandcamp.com/",
+            "name": "The ZEW"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Steyr",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "9b38c059397ef041d3f7",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "Voodoo Jürgens",
+            "url": "https://voodoojuergens.com/"
+          },
+          {
+            "label": "The ZEW",
+            "url": "https://zew-music.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1255598119524006/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: Voodoo Jürgens / The ZEW @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "9b38c059397ef041d3f7",
+      "guid": "9b38c059397ef041d3f7:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1dc10cc6fcec0c4c04cf-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ITA",
+            "link": "https://www.surferjoe.net/",
+            "name": "Surfer Joe"
+          },
+          {
+            "country": null,
+            "link": "https://www.surfgrammeln-san.org/",
+            "name": "Balu & Die SURFGRAMMELN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-12",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "1dc10cc6fcec0c4c04cf",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "Surfer Joe",
+            "url": "https://www.surferjoe.net/"
+          },
+          {
+            "label": "Balu & Die SURFGRAMMELN",
+            "url": "https://www.surfgrammeln-san.org/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/balu-die-surfgrammeln-947/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.12.: Surfer Joe (ita) / Balu & Die SURFGRAMMELN @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "1dc10cc6fcec0c4c04cf",
+      "guid": "1dc10cc6fcec0c4c04cf:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-b058ff4a38bc23276ed1-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "ROM",
+            "link": "https://frust161.bandcamp.com/",
+            "name": "FRUST"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/staeb_baend/",
+            "name": "STÄB"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "HUSH PUPPY"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-13",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "b058ff4a38bc23276ed1",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "FRUST",
+            "url": "https://frust161.bandcamp.com/"
+          },
+          {
+            "label": "STÄB",
+            "url": "https://www.instagram.com/staeb_baend/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.12.: FRUST (rom) / STÄB / HUSH PUPPY @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "b058ff4a38bc23276ed1",
+      "guid": "b058ff4a38bc23276ed1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-fb97de764195391103b2-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.the-base.at/",
+            "name": "The BASE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-16",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "fb97de764195391103b2",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "The BASE",
+            "url": "https://www.the-base.at/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.volkstheater.at/produktion/3641343/dont-trust-the-night/termine/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "16.12.: The BASE @ Rote Bar im Volkstheater, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Rote Bar im Volkstheater"
+      },
+      "event_id": "fb97de764195391103b2",
+      "guid": "fb97de764195391103b2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-7790a420f8e019878e04-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.facebook.com/profile.php?id=61567763247460",
+            "name": "INSOLAZE"
+          },
+          {
+            "country": "ITA",
+            "link": "https://www.instagram.com/miurahc/",
+            "name": "MIURA"
+          },
+          {
+            "country": null,
+            "link": "https://kohma-thall.bandcamp.com/",
+            "name": "KOHMA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Graz",
+        "event_date": "2026-12-18",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "7790a420f8e019878e04",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "INSOLAZE",
+            "url": "https://www.facebook.com/profile.php?id=61567763247460"
+          },
+          {
+            "label": "MIURA",
+            "url": "https://www.instagram.com/miurahc/"
+          },
+          {
+            "label": "KOHMA",
+            "url": "https://kohma-thall.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1660720088877080/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.12.: INSOLAZE / MIURA (ita) / KOHMA @ Club Wakuum, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Club Wakuum"
+      },
+      "event_id": "7790a420f8e019878e04",
+      "guid": "7790a420f8e019878e04:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9de7959b7edb3c26e246-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://mambokurt.de/",
+            "name": "Mambo Kurt"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Steyr",
+        "event_date": "2026-12-18",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Electronic/Industrial",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "9de7959b7edb3c26e246",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "Mambo Kurt",
+            "url": "https://mambokurt.de/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1105927745656815/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.12.: Mambo Kurt (d) @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "9de7959b7edb3c26e246",
+      "guid": "9de7959b7edb3c26e246:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-18bcd102497dfb3d6a8f-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://six-score-grindcore.bandcamp.com/music",
+            "name": "SIX-SCORE"
+          },
+          {
+            "country": "D",
+            "link": "https://six-score-grindcore.bandcamp.com/music",
+            "name": "VOR DIE HUNDE"
+          },
+          {
+            "country": null,
+            "link": "https://calorisimpact.bandcamp.com/music",
+            "name": "CALORIS IMPACT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Linz",
+        "event_date": "2027-01-15",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore"
+          ]
+        },
+        "id": "18bcd102497dfb3d6a8f",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "SIX-SCORE",
+            "url": "https://six-score-grindcore.bandcamp.com/music"
+          },
+          {
+            "label": "CALORIS IMPACT",
+            "url": "https://calorisimpact.bandcamp.com/music"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/2117191352268133/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.01.: SIX-SCORE / VOR DIE HUNDE (d) / CALORIS IMPACT @ Kapu, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "18bcd102497dfb3d6a8f",
+      "guid": "18bcd102497dfb3d6a8f:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-12a2ec0f144050603437-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://thesadomasoguitarclub.bandcamp.com/",
+            "name": "The SADO MASO GUITAR CLUB"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-02-13",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "12a2ec0f144050603437",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "The SADO MASO GUITAR CLUB",
+            "url": "https://thesadomasoguitarclub.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "13.02.: The SADO MASO GUITAR CLUB @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "12a2ec0f144050603437",
+      "guid": "12a2ec0f144050603437:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3399266d0475bb0b63b0-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "AUS",
+            "link": "https://buzzkull.bandcamp.com/",
+            "name": "BUZZ KULL"
+          },
+          {
+            "country": null,
+            "link": "https://1000amen.bandcamp.com/album/ora-et-labora-2",
+            "name": "ORA ET LABORA"
+          },
+          {
+            "country": "CH",
+            "link": "https://futurefacesnation.bandcamp.com/",
+            "name": "FUTURE FACES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Linz",
+        "event_date": "2027-02-20",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "3399266d0475bb0b63b0",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "BUZZ KULL",
+            "url": "https://buzzkull.bandcamp.com/"
+          },
+          {
+            "label": "ORA ET LABORA",
+            "url": "https://1000amen.bandcamp.com/album/ora-et-labora-2"
+          },
+          {
+            "label": "FUTURE FACES",
+            "url": "https://futurefacesnation.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "20.02.: BUZZ KULL (aus) / ORA ET LABORA / FUTURE FACES (ch) @ Last, Linz",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "3399266d0475bb0b63b0",
+      "guid": "3399266d0475bb0b63b0:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-42f337e3a1d709166c18-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.facebook.com/themeteorsofficial/",
+            "name": "The METEORS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Steyr",
+        "event_date": "2027-03-06",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "42f337e3a1d709166c18",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "The METEORS",
+            "url": "https://www.facebook.com/themeteorsofficial/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1157497880164454/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "06.03.: The METEORS (uk) @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "42f337e3a1d709166c18",
+      "guid": "42f337e3a1d709166c18:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-8a5fc74525d49b4e7780-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://sylmar.bandcamp.com/",
+            "name": "SYLMAR"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Steyr",
+        "event_date": "2027-03-12",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "8a5fc74525d49b4e7780",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "SYLMAR",
+            "url": "https://sylmar.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/900526286386579/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "12.03.: SYLMAR (usa) @ röda, Steyr [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "röda"
+      },
+      "event_id": "8a5fc74525d49b4e7780",
+      "guid": "8a5fc74525d49b4e7780:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-3519c306b8369b0e71b6-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/darling_everyone",
+            "name": "EVERYONE'S DARLING"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-18",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "3519c306b8369b0e71b6",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "EVERYONE'S DARLING",
+            "url": "https://www.instagram.com/darling_everyone"
+          },
+          {
+            "label": "[web]",
+            "url": "https://arena.wien/Home/Programm-Detail/concert-id/48708"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "18.03.: EVERYONE'S DARLING @ Arena (kl. Halle), Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Arena (kl. Halle)"
+      },
+      "event_id": "3519c306b8369b0e71b6",
+      "guid": "3519c306b8369b0e71b6:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a2706541a15dda9baaf2-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://sinizter.bandcamp.com/",
+            "name": "SINIZTER"
+          },
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/zombiezgang/",
+            "name": "ZOMBIEZ"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-03-31",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Deathcore"
+          ]
+        },
+        "id": "a2706541a15dda9baaf2",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "SINIZTER",
+            "url": "https://sinizter.bandcamp.com/"
+          },
+          {
+            "label": "ZOMBIEZ",
+            "url": "https://www.instagram.com/zombiezgang/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1495559236051259/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "31.03.: SINIZTER (usa) / ZOMBIEZ (d) @ Viper Room, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Viper Room"
+      },
+      "event_id": "a2706541a15dda9baaf2",
+      "guid": "a2706541a15dda9baaf2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-74a5defb7268ff0bbec5-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://www.theslowshow.co.uk/",
+            "name": "The SLOW SHOW"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-07",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "74a5defb7268ff0bbec5",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "The SLOW SHOW",
+            "url": "https://www.theslowshow.co.uk/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "07.04.: The SLOW SHOW (uk) @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "74a5defb7268ff0bbec5",
+      "guid": "74a5defb7268ff0bbec5:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d2d808b00e22f606439d-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://www.instagram.com/temmissss/",
+            "name": "TEMMIS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-09",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "d2d808b00e22f606439d",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "TEMMIS",
+            "url": "https://www.instagram.com/temmissss/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.04.: TEMMIS (d) @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "d2d808b00e22f606439d",
+      "guid": "d2d808b00e22f606439d:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-78526807e605dde5dbec-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://muckandthemires.com/",
+            "name": "Muck & The MIRES"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Linz",
+        "event_date": "2027-04-14",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "78526807e605dde5dbec",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "Muck & The MIRES",
+            "url": "https://muckandthemires.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1827761158348150/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "14.04.: Muck & The MIRES (usa) @ Last, Linz [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Last"
+      },
+      "event_id": "78526807e605dde5dbec",
+      "guid": "78526807e605dde5dbec:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a02a095c624264b8eb7b-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://quicksandnyc.com/",
+            "name": "QUICKSAND"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-04-28",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": [
+            "Hardcore Punk"
+          ]
+        },
+        "id": "a02a095c624264b8eb7b",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "QUICKSAND",
+            "url": "https://quicksandnyc.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1274890428187185/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "28.04.: QUICKSAND (usa) @ Flex, Wien [fb]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Flex"
+      },
+      "event_id": "a02a095c624264b8eb7b",
+      "guid": "a02a095c624264b8eb7b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-34e5f93e2e51dd446cd2-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UK",
+            "link": "https://birdpen.bandcamp.com/",
+            "name": "BIRDPEN"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-17",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "34e5f93e2e51dd446cd2",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "BIRDPEN",
+            "url": "https://birdpen.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "17.05.: BIRDPEN (uk) @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "34e5f93e2e51dd446cd2",
+      "guid": "34e5f93e2e51dd446cd2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-d29deaacee4b9f9e0b0e-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.platzgumer.com/hpzinker",
+            "name": "H.P. ZINKER"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Wien",
+        "event_date": "2027-06-03",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "d29deaacee4b9f9e0b0e",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "H.P. ZINKER",
+            "url": "https://www.platzgumer.com/hpzinker"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.06.: H.P. ZINKER @ Chelsea, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Chelsea"
+      },
+      "event_id": "d29deaacee4b9f9e0b0e",
+      "guid": "d29deaacee4b9f9e0b0e:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-1d698cefc7bbf3efba5c-1",
+      "changes": {},
+      "detected_at": "2026-11-25T11:18:47.280144+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "USA",
+            "link": "https://happydaysofficial.bandcamp.com/",
+            "name": "HAPPY DAYS"
+          },
+          {
+            "country": null,
+            "link": "https://www.facebook.com/inofficialLichtblick",
+            "name": "LICHTBLICK"
+          },
+          {
+            "country": null,
+            "link": "https://dogheadking.bandcamp.com/",
+            "name": "DOG HEAD KING"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-25T11:18:47.280144+00:00",
+        "city": "Graz",
+        "event_date": "2027-06-19",
+        "first_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Black Metal"
+          ]
+        },
+        "id": "1d698cefc7bbf3efba5c",
+        "last_seen_at": "2026-11-25T11:18:47.280144+00:00",
+        "links": [
+          {
+            "label": "HAPPY DAYS",
+            "url": "https://happydaysofficial.bandcamp.com/"
+          },
+          {
+            "label": "LICHTBLICK",
+            "url": "https://www.facebook.com/inofficialLichtblick"
+          },
+          {
+            "label": "DOG HEAD KING",
+            "url": "https://dogheadking.bandcamp.com/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1163714726186709"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "19.06.: HAPPY DAYS (usa) / LICHTBLICK / DOG HEAD KING @ Wakuum B-Side, Graz [fb]",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Wakuum B-Side"
+      },
+      "event_id": "1d698cefc7bbf3efba5c",
+      "guid": "1d698cefc7bbf3efba5c:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-7bba91b0a224fe0db791-2",
       "changes": {

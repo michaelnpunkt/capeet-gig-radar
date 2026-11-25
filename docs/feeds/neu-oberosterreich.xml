@@ -5,8 +5,57 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:18:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geändert: Voodoo Jürgens, The ZEW – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9b38c059397ef041d3f7-1</link>
+      <guid isPermaLink="false">9b38c059397ef041d3f7:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2026-12-11 · röda,  Steyr · Oberösterreich · Line-up: Voodoo Jürgens → Voodoo Jürgens · The ZEW</description>
+    </item>
+    <item>
+      <title>Neu: Mambo Kurt – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9de7959b7edb3c26e246-1</link>
+      <guid isPermaLink="false">9de7959b7edb3c26e246:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2026-12-18 · röda,  Steyr · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SIX-SCORE, VOR DIE HUNDE, CALORIS IMPACT – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-18bcd102497dfb3d6a8f-1</link>
+      <guid isPermaLink="false">18bcd102497dfb3d6a8f:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-01-15 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: BUZZ KULL, ORA ET LABORA, FUTURE FACES – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-3399266d0475bb0b63b0-1</link>
+      <guid isPermaLink="false">3399266d0475bb0b63b0:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-02-20 · Last,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: The METEORS – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-42f337e3a1d709166c18-1</link>
+      <guid isPermaLink="false">42f337e3a1d709166c18:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-03-06 · röda,  Steyr · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: SYLMAR – Steyr</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8a5fc74525d49b4e7780-1</link>
+      <guid isPermaLink="false">8a5fc74525d49b4e7780:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-03-12 · röda,  Steyr · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Neu: Muck &amp; The MIRES – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-78526807e605dde5dbec-1</link>
+      <guid isPermaLink="false">78526807e605dde5dbec:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-04-14 · Last,  Linz · Oberösterreich</description>
+    </item>
     <item>
       <title>Geändert: HECKSPOILER, THOSAR – Linz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7bba91b0a224fe0db791-2</link>
@@ -657,55 +706,6 @@
       <guid isPermaLink="false">4be97e33dcc619507534:1</guid>
       <pubDate>Sat, 26 Sep 2026 07:43:17 +0000</pubDate>
       <description>2026-11-28 · Schlot,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: FRONTAL – Kirchdorf an der Krems</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-41b8c6e3b11d7fb46da4-1</link>
-      <guid isPermaLink="false">41b8c6e3b11d7fb46da4:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-10-16 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PURPLE – Kirchdorf an der Krems</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-15107142823aec45a515-1</link>
-      <guid isPermaLink="false">15107142823aec45a515:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-06 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: JANKA – Kirchdorf an der Krems</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1df0deae08d89abc55ef-1</link>
-      <guid isPermaLink="false">1df0deae08d89abc55ef:1</guid>
-      <pubDate>Thu, 24 Sep 2026 07:36:55 +0000</pubDate>
-      <description>2026-11-21 · Bar-Café Hildegard,  Kirchdorf an der Krems · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PAPER CROWN – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-23b4ce6dbe96eca0cee0-1</link>
-      <guid isPermaLink="false">23b4ce6dbe96eca0cee0:1</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-09-28 · CulturCafé Smaragd,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: PRETTY AVERAGE, GARLANDS – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f79001a9b00a64ba3a44-1</link>
-      <guid isPermaLink="false">f79001a9b00a64ba3a44:1</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-10-02 · Ann &amp; Pat,  Linz · Oberösterreich · Line-up: PRETTY AVERAGE → PRETTY AVERAGE · GARLANDS</description>
-    </item>
-    <item>
-      <title>Neu: GREAT RIFT, KITTY CAT &amp; THE UGLY HEADS – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d8553fe67431f3689538-1</link>
-      <guid isPermaLink="false">d8553fe67431f3689538:1</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-10-16 · Ann &amp; Pat,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Geändert: MOTHER'S CAKE, KITTY CAT &amp; THE UGLY HEADS – Wels</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-404c40133ab002d4438b-1</link>
-      <guid isPermaLink="false">404c40133ab002d4438b:1</guid>
-      <pubDate>Wed, 23 Sep 2026 07:46:24 +0000</pubDate>
-      <description>2026-11-19 · Alter Schlachthof,  Wels · Oberösterreich · Line-up: MOTHER'S CAKE → MOTHER'S CAKE · KITTY CAT &amp; THE UGLY HEADS</description>
     </item>
   </channel>
 </rss>

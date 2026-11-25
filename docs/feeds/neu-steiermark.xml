@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:18:47 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: The JUNCTION, SCAMPI BUMP – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f6c3afd11e3db07b5fe3-1</link>
+      <guid isPermaLink="false">f6c3afd11e3db07b5fe3:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2026-12-06 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: FRUST, STÄB, HUSH PUPPY – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b058ff4a38bc23276ed1-1</link>
+      <guid isPermaLink="false">b058ff4a38bc23276ed1:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2026-12-13 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: INSOLAZE, MIURA, KOHMA – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7790a420f8e019878e04-1</link>
+      <guid isPermaLink="false">7790a420f8e019878e04:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2026-12-18 · Club Wakuum,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: HAPPY DAYS, LICHTBLICK, DOG HEAD KING – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1d698cefc7bbf3efba5c-1</link>
+      <guid isPermaLink="false">1d698cefc7bbf3efba5c:1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:47 +0000</pubDate>
+      <description>2027-06-19 · Wakuum B-Side,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: KRUST HUNY, PAŹDZIERNIKOWY GRAD, SCAMPI BUMP – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1cb71f68b159c2aea518-1</link>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">1e382bd3d80adc8e9ecd:1</guid>
       <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
       <description>2026-10-16 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: Ricky Rat – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-d078d509b64d14163aee-1</link>
-      <guid isPermaLink="false">d078d509b64d14163aee:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-28 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: TÄGLICH FRISCHES OBST – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ecad9c8a72cefde34257-1</link>
-      <guid isPermaLink="false">ecad9c8a72cefde34257:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-31 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: COLOR THE NIGHT – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bb6950d78efbf2c4d438-1</link>
-      <guid isPermaLink="false">bb6950d78efbf2c4d438:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-11-06 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: REVENGIN – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c4bef60064ac717f3c7d-1</link>
-      <guid isPermaLink="false">c4bef60064ac717f3c7d:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-11-12 · Glam,  Feldbach · Steiermark</description>
     </item>
   </channel>
 </rss>

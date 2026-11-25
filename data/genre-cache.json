@@ -1592,6 +1592,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "birdpen": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "birdstone": {
     "classifier_version": 2,
     "family": "Rock",
@@ -2094,6 +2100,14 @@
     "family": "Sonstiges",
     "source": "lastfm",
     "subgenres": []
+  },
+  "buzz kull": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "c u n t s": {
     "classifier_version": 2,
@@ -5360,6 +5374,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "frust": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "fucking complex": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5393,6 +5415,14 @@
     "family": "Unklassifiziert",
     "source": "unclassified",
     "subgenres": []
+  },
+  "future faces": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
   },
   "future palace": {
     "family": "Hardcore",
@@ -6105,6 +6135,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "happy days": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "harlott": {
     "family": "Metal",
     "source": "lastfm",
@@ -6661,6 +6699,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "hush puppy": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
     "subgenres": []
   },
   "hyacinth": {
@@ -8242,6 +8286,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lichtblick": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Black Metal"
+    ]
+  },
   "lie to confess": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -9367,6 +9419,12 @@
   },
   "mittel alta": {
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "miura": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -11464,6 +11522,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "quicksand": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
   "r p c": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -12516,6 +12582,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "sinizter": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore"
+    ]
+  },
   "sinnthese": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -13515,6 +13589,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "surfer joe": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "svetlost": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -13578,6 +13658,12 @@
     "subgenres": [
       "Industrial"
     ]
+  },
+  "sylmar": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
   },
   "sylosis": {
     "classifier_version": 2,
@@ -13739,6 +13825,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "temmis": {
+    "classifier_version": 2,
+    "family": "Goth/Post-Punk",
+    "source": "lastfm",
+    "subgenres": [
+      "Post-Punk"
+    ]
+  },
   "temora": {
     "classifier_version": 2,
     "family": "Metal",
@@ -13844,6 +13938,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "the base": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
     "subgenres": []
   },
   "the black dahlia murder": {
@@ -14283,6 +14383,12 @@
       "Post-Punk"
     ]
   },
+  "the meteors": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the mission": {
     "classifier_version": 2,
     "family": "Goth/Post-Punk",
@@ -14481,6 +14587,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "the sado maso guitar club": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "the scratch": {
     "classifier_version": 2,
     "family": "Rock",
@@ -14520,6 +14632,12 @@
   },
   "the slackers": {
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "the slow show": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
@@ -15036,6 +15154,12 @@
     "subgenres": [
       "Crust Punk"
     ]
+  },
+  "tragic boy": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "traitrs": {
     "classifier_version": 2,
@@ -15807,6 +15931,15 @@
     "family": "Rock",
     "source": "lastfm",
     "subgenres": []
+  },
+  "vor die hunde": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
   },
   "vorga": {
     "classifier_version": 2,
