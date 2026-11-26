@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-salzburg.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: ARKONA, SETH, The GREAT OLD ONES – Salzburg</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-78aa7a00bbf61def0a7e-2</link>
+      <guid isPermaLink="false">78aa7a00bbf61def0a7e:2</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2026-12-13 · Rockhouse Bar,  Salzburg · Salzburg · Status: angekündigt → abgesagt</description>
+    </item>
     <item>
       <title>Neu: STICKY MOLOCH – Salzburg</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2d8a209acdf01a4a95ec-1</link>

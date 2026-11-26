@@ -76136,5 +76136,1697 @@
     "guid": "1d698cefc7bbf3efba5c:1",
     "kind": "new",
     "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": null,
+          "name": "NAKED LUNCH"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-09-12T07:10:17.739084+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b3cd9ef29b7e21932a03",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 3,
+      "source_text": "26.11.: NAKED LUNCH @ Chelsea, Wien [cancelled.] [neu: tba]",
+      "state": "Wien",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "b3cd9ef29b7e21932a03",
+    "guid": "b3cd9ef29b7e21932a03:3",
+    "kind": "changed",
+    "revision": 3
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "PORTUGAL. THE MAN"
+          }
+        ],
+        "to": [
+          {
+            "name": "PORTUGAL. THE MAN"
+          },
+          {
+            "name": "LIKE ELEPHANTS"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://portugaltheman.com/",
+          "name": "PORTUGAL. THE MAN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/likeelephants_music/",
+          "name": "LIKE ELEPHANTS"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2026-11-26",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f2ecd8200d3e78681d4f",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "PORTUGAL. THE MAN",
+          "url": "https://portugaltheman.com/"
+        },
+        {
+          "label": "LIKE ELEPHANTS",
+          "url": "https://www.instagram.com/likeelephants_music/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1163517462332527/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "26.11.: PORTUGAL. THE MAN (usa) / LIKE ELEPHANTS @ Gasometer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Gasometer"
+    },
+    "event_id": "f2ecd8200d3e78681d4f",
+    "guid": "f2ecd8200d3e78681d4f:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://sinuswelle.at/",
+          "name": "SINUSWELLE"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/texasrocker37/",
+          "name": "Craig Milam"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Feldbach",
+      "event_date": "2026-11-28",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "ef8e48d9f6154c0c8ce5",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "SINUSWELLE",
+          "url": "https://sinuswelle.at/"
+        },
+        {
+          "label": "Craig Milam",
+          "url": "https://www.instagram.com/texasrocker37/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1809131033660710"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "28.11.: SINUSWELLE / Craig Milam @ Glam, Feldbach [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Glam"
+    },
+    "event_id": "ef8e48d9f6154c0c8ce5",
+    "guid": "ef8e48d9f6154c0c8ce5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lukaslauermann.bandcamp.com/",
+          "name": "Lukas Lauermann"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-03",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "9cbd0e1bd47e285cca04",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Lukas Lauermann",
+          "url": "https://lukaslauermann.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1698273938546865/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "03.12.: Lukas Lauermann @ Substance, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Substance"
+    },
+    "event_id": "9cbd0e1bd47e285cca04",
+    "guid": "9cbd0e1bd47e285cca04:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/thesickpackratattack",
+          "name": "The SICK PACK RAT ATTACK"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/psychamoremusik/",
+          "name": "PSYCHAMORE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-04",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "20703d20c86d894f8f72",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "The SICK PACK RAT ATTACK",
+          "url": "https://www.facebook.com/thesickpackratattack"
+        },
+        {
+          "label": "PSYCHAMORE",
+          "url": "https://www.instagram.com/psychamoremusik/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/3242036742654064"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "04.12.: The SICK PACK RAT ATTACK / PSYCHAMORE @ Arena-Beisl, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "20703d20c86d894f8f72",
+    "guid": "20703d20c86d894f8f72:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lukaslauermann.bandcamp.com/",
+          "name": "Lukas Lauermann"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Graz",
+      "event_date": "2026-12-09",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "712eb533f221a2150ae2",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Lukas Lauermann",
+          "url": "https://lukaslauermann.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1418997253447658/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.12.: Lukas Lauermann @ Café Wolf, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Café Wolf"
+    },
+    "event_id": "712eb533f221a2150ae2",
+    "guid": "712eb533f221a2150ae2:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/metak.official/",
+          "name": "METAK"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/perfumedgardenvienna/",
+          "name": "PERFUMED GARDEN"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/steambreather.band/",
+          "name": "STEAMBREATHER"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "*HEAVY"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2026-12-12",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "22d0d5f8de8f2cacb603",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "METAK",
+          "url": "https://www.instagram.com/metak.official/"
+        },
+        {
+          "label": "PERFUMED GARDEN",
+          "url": "https://www.facebook.com/perfumedgardenvienna/"
+        },
+        {
+          "label": "STEAMBREATHER",
+          "url": "https://www.instagram.com/steambreather.band/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/amphoria-pleasantly-heavy/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.12.: METAK / PERFUMED GARDEN / STEAMBREATHER / *HEAVY @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "22d0d5f8de8f2cacb603",
+    "guid": "22d0d5f8de8f2cacb603:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "status": {
+        "from": "scheduled",
+        "to": "cancelled"
+      }
+    },
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "RUS",
+          "link": null,
+          "name": "ARKONA"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "SETH"
+        },
+        {
+          "country": "FRA",
+          "link": null,
+          "name": "The GREAT OLD ONES"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Salzburg",
+      "event_date": "2026-12-13",
+      "first_seen_at": "2026-10-06T09:00:02.729229+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Black Metal"
+        ]
+      },
+      "id": "78aa7a00bbf61def0a7e",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [],
+      "postal_code": null,
+      "revision": 2,
+      "source_text": "13.12.: ARKONA (rus) / SETH (fra) / The GREAT OLD ONES (fra) @ Rockhouse Bar, Salzburg [cancelled.] [neu: tba]",
+      "state": "Salzburg",
+      "status": "cancelled",
+      "title": null,
+      "venue": "Rockhouse Bar"
+    },
+    "event_id": "78aa7a00bbf61def0a7e",
+    "guid": "78aa7a00bbf61def0a7e:2",
+    "kind": "changed",
+    "revision": 2
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lukaslauermann.bandcamp.com/",
+          "name": "Lukas Lauermann"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Klagenfurt",
+      "event_date": "2026-12-16",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "466227f876fe8c8394a5",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Lukas Lauermann",
+          "url": "https://lukaslauermann.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://innenhofkultur.at/konzerte/lukas-lauermann-villa-for-forest/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "16.12.: Lukas Lauermann @ Villa For Forest, Klagenfurt [web]",
+      "state": "Kärnten",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Villa For Forest"
+    },
+    "event_id": "466227f876fe8c8394a5",
+    "guid": "466227f876fe8c8394a5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lukaslauermann.bandcamp.com/",
+          "name": "Lukas Lauermann"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Kirchdorf an der Krems",
+      "event_date": "2026-12-20",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c41842c1fb1ed34a6029",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Lukas Lauermann",
+          "url": "https://lukaslauermann.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1161555566433206/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.12.: Lukas Lauermann @ Bar-Café Hildegard, Kirchdorf an der Krems [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Bar-Café Hildegard"
+    },
+    "event_id": "c41842c1fb1ed34a6029",
+    "guid": "c41842c1fb1ed34a6029:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://lukaslauermann.bandcamp.com/",
+          "name": "Lukas Lauermann"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Neunkirchen",
+      "event_date": "2027-01-15",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Electronic/Industrial",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b9d0a340140ec4916658",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Lukas Lauermann",
+          "url": "https://lukaslauermann.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1546796403871432/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.01.: Lukas Lauermann @ Exil Records, Neunkirchen [fb]",
+      "state": "Niederösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Exil Records"
+    },
+    "event_id": "b9d0a340140ec4916658",
+    "guid": "b9d0a340140ec4916658:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.facebook.com/CastielofficialBand",
+          "name": "CASTIEL"
+        },
+        {
+          "country": "NED",
+          "link": "https://changingtidesband.bandcamp.com/",
+          "name": "CHANGING TIDES"
+        },
+        {
+          "country": null,
+          "link": "https://covenofficial.bandcamp.com/",
+          "name": "COVENDEATH"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/colddecembermetal",
+          "name": "COLD DECEMBER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Graz",
+      "event_date": "2027-01-29",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Deathcore"
+        ]
+      },
+      "id": "9ca273e82d1df8411381",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "CASTIEL",
+          "url": "https://www.facebook.com/CastielofficialBand"
+        },
+        {
+          "label": "CHANGING TIDES",
+          "url": "https://changingtidesband.bandcamp.com/"
+        },
+        {
+          "label": "COVENDEATH",
+          "url": "https://covenofficial.bandcamp.com/"
+        },
+        {
+          "label": "COLD DECEMBER",
+          "url": "https://www.facebook.com/colddecembermetal"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1607774733996109/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.01.: CASTIEL / CHANGING TIDES (ned) / COVENDEATH / COLD DECEMBER u.a. @ Explosiv, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Explosiv"
+    },
+    "event_id": "9ca273e82d1df8411381",
+    "guid": "9ca273e82d1df8411381:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://hannahglavor.bandcamp.com/music",
+          "name": "Hannah Glavor"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-08",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "28fc1284df6c79304e85",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Hannah Glavor",
+          "url": "https://hannahglavor.bandcamp.com/music"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/hannah-glavor/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "08.02.: Hannah Glavor (usa) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "28fc1284df6c79304e85",
+    "guid": "28fc1284df6c79304e85:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://danabandohio.bandcamp.com/",
+          "name": "DANA"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-02-20",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Sonstiges",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "eacf84ef9585bc9f4d28",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "DANA",
+          "url": "https://danabandohio.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/dana-us-1277.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.02.: DANA (usa) @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "eacf84ef9585bc9f4d28",
+    "guid": "eacf84ef9585bc9f4d28:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.instagram.com/killedbyyouth_music/",
+          "name": "KILLED BY YOUTH"
+        },
+        {
+          "country": null,
+          "link": "https://www.instagram.com/therealpeakband",
+          "name": "PEAK"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Linz",
+      "event_date": "2027-02-25",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "e8716e3aed4ae343c8f5",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "KILLED BY YOUTH",
+          "url": "https://www.instagram.com/killedbyyouth_music/"
+        },
+        {
+          "label": "PEAK",
+          "url": "https://www.instagram.com/therealpeakband"
+        },
+        {
+          "label": "[web]",
+          "url": "https://club.stwst.at/events/killed-by-youth-peak/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "25.02.: KILLED BY YOUTH / PEAK @ Stadtwerkstatt, Linz [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Stadtwerkstatt"
+    },
+    "event_id": "e8716e3aed4ae343c8f5",
+    "guid": "e8716e3aed4ae343c8f5:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "CZE",
+          "link": "https://www.instagram.com/furiosahc/",
+          "name": "FURIOSA"
+        },
+        {
+          "country": null,
+          "link": "https://www.facebook.com/tomorrowfirsthardcore",
+          "name": "TOMORROW FIRST"
+        },
+        {
+          "country": null,
+          "link": "https://cursedandcalling.com/",
+          "name": "CURSED AND CALLING"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-02-27",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "a3bd8898eb134c7d162b",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "FURIOSA",
+          "url": "https://www.instagram.com/furiosahc/"
+        },
+        {
+          "label": "TOMORROW FIRST",
+          "url": "https://www.facebook.com/tomorrowfirsthardcore"
+        },
+        {
+          "label": "CURSED AND CALLING",
+          "url": "https://cursedandcalling.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "27.02.: FURIOSA (cze) / TOMORROW FIRST / CURSED AND CALLING @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "a3bd8898eb134c7d162b",
+    "guid": "a3bd8898eb134c7d162b:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://colourhaze.bandcamp.com/",
+          "name": "COLOUR HAZE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-03-06",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "f51c2b6e0da656a18d94",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "COLOUR HAZE",
+          "url": "https://colourhaze.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/colour-haze-d-1278.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "06.03.: COLOUR HAZE (d) @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "f51c2b6e0da656a18d94",
+    "guid": "f51c2b6e0da656a18d94:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://daisychainmusic.bandcamp.com/",
+          "name": "DAISYCHAIN"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-09",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "e8881ff4f658d97ff135",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "DAISYCHAIN",
+          "url": "https://daisychainmusic.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/daisychain-3/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "09.03.: DAISYCHAIN (usa) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "e8881ff4f658d97ff135",
+    "guid": "e8881ff4f658d97ff135:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.instagram.com/eyemasterdeathmetal/",
+          "name": "EYEMASTER"
+        },
+        {
+          "country": null,
+          "link": null,
+          "name": "SHA'AR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-13",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Death Metal",
+          "Sludge Metal"
+        ]
+      },
+      "id": "c54d5c4d527cd2835060",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "EYEMASTER",
+          "url": "https://www.instagram.com/eyemasterdeathmetal/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "13.03.: EYEMASTER (d) / SHA'AR @ Arena-Beisl, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena-Beisl"
+    },
+    "event_id": "c54d5c4d527cd2835060",
+    "guid": "c54d5c4d527cd2835060:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://sylmar.bandcamp.com/",
+          "name": "SYLMAR"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-03-14",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "2c6a5074712a5d40c9d6",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "SYLMAR",
+          "url": "https://sylmar.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/sylmar/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "14.03.: SYLMAR (usa) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "2c6a5074712a5d40c9d6",
+    "guid": "2c6a5074712a5d40c9d6:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {
+      "artists": {
+        "from": [
+          {
+            "name": "ACHT EIMER HÜHNERHERZEN"
+          }
+        ],
+        "to": [
+          {
+            "name": "ACHT EIMER HÜHNERHERZEN"
+          },
+          {
+            "name": "Lena Stoehrfaktor"
+          }
+        ]
+      }
+    },
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://achteimerhuehnerherzen.info/",
+          "name": "ACHT EIMER HÜHNERHERZEN"
+        },
+        {
+          "country": "D",
+          "link": "https://www.lenastoehrfaktor.de/",
+          "name": "Lena Stoehrfaktor"
+        }
+      ],
+      "baseline": true,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-02",
+      "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ed1a6b938d510031aff2",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "ACHT EIMER HÜHNERHERZEN",
+          "url": "https://achteimerhuehnerherzen.info/"
+        },
+        {
+          "label": "Lena Stoehrfaktor",
+          "url": "https://www.lenastoehrfaktor.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1557045806070753/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "02.04.: ACHT EIMER HÜHNERHERZEN (d) / Lena Stoehrfaktor (d) @ Arena (gr. Halle), Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Arena (gr. Halle)"
+    },
+    "event_id": "ed1a6b938d510031aff2",
+    "guid": "ed1a6b938d510031aff2:1",
+    "kind": "changed",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.mastodonrocks.com/",
+          "name": "MASTODON"
+        },
+        {
+          "country": "SWE",
+          "link": "https://monolord.bandcamp.com/music",
+          "name": "MONOLORD"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-10",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": [
+          "Metalcore",
+          "Sludge Metal"
+        ]
+      },
+      "id": "887f48e26913d4980a33",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "MASTODON",
+          "url": "https://www.mastodonrocks.com/"
+        },
+        {
+          "label": "MONOLORD",
+          "url": "https://monolord.bandcamp.com/music"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/29570242035945388/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "10.04.: MASTODON (usa) / MONOLORD (swe) @ Gasometer, Wien [fb]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Gasometer"
+    },
+    "event_id": "887f48e26913d4980a33",
+    "guid": "887f48e26913d4980a33:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://www.kingfalconofficial.com/",
+          "name": "KING FALCON"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-20",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Unklassifiziert",
+        "source": "unclassified",
+        "subgenres": []
+      },
+      "id": "79f0fd86964c0a3d4860",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "KING FALCON",
+          "url": "https://www.kingfalconofficial.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.clublucia.at/event/king-falcon/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "20.04.: KING FALCON (usa) @ Lucia, Wien [web]",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Lucia"
+    },
+    "event_id": "79f0fd86964c0a3d4860",
+    "guid": "79f0fd86964c0a3d4860:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://liveskull.bandcamp.com/",
+          "name": "LIVE SKULL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Wien",
+      "event_date": "2027-04-22",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Noise Rock"
+        ]
+      },
+      "id": "322d54743e700b583c00",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "LIVE SKULL",
+          "url": "https://liveskull.bandcamp.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "22.04.: LIVE SKULL (usa) @ Chelsea, Wien",
+      "state": "Wien",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Chelsea"
+    },
+    "event_id": "322d54743e700b583c00",
+    "guid": "322d54743e700b583c00:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://www.platzgumer.com/hpzinker",
+          "name": "H.P. ZINKER"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-04-23",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "dc46fdc17156f297d727",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "H.P. ZINKER",
+          "url": "https://www.platzgumer.com/hpzinker"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/hp-zinker-a-1280.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.04.: H.P. ZINKER @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "dc46fdc17156f297d727",
+    "guid": "dc46fdc17156f297d727:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://liveskull.bandcamp.com/",
+          "name": "LIVE SKULL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-05-01",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": [
+          "Noise Rock"
+        ]
+      },
+      "id": "32fdd8363ea2e07e1079",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "LIVE SKULL",
+          "url": "https://liveskull.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/live-skull-usa-1285.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "01.05.: LIVE SKULL (usa) @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "32fdd8363ea2e07e1079",
+    "guid": "32fdd8363ea2e07e1079:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "UK",
+          "link": "https://jethrotull.com/",
+          "name": "JETHRO TULL"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Linz",
+      "event_date": "2027-05-15",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Rock",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "c627ec4943d4a48f8fa9",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "JETHRO TULL",
+          "url": "https://jethrotull.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1213156247345408/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "15.05.: JETHRO TULL (uk) @ Brucknerhaus, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Brucknerhaus"
+    },
+    "event_id": "c627ec4943d4a48f8fa9",
+    "guid": "c627ec4943d4a48f8fa9:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "AUS",
+          "link": "https://robertforster.bandcamp.com/",
+          "name": "Robert Forster"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Ebensee",
+      "event_date": "2027-06-12",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Alternative/Indie",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "bbb2314296353791a5a4",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "Robert Forster",
+          "url": "https://robertforster.bandcamp.com/"
+        },
+        {
+          "label": "[web]",
+          "url": "https://www.kino-ebensee.at/veranstaltungsprogramm/robert-forster-aus-1275.html"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "12.06.: Robert Forster (aus) @ Kino, Ebensee [web]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Kino"
+    },
+    "event_id": "bbb2314296353791a5a4",
+    "guid": "bbb2314296353791a5a4:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "USA",
+          "link": "https://limpbizkit.com/",
+          "name": "LIMP BIZKIT"
+        },
+        {
+          "country": "USA",
+          "link": "https://www.halestormrocks.com/",
+          "name": "HALESTORM"
+        },
+        {
+          "country": "UK",
+          "link": "https://cowboyhunters.bandcamp.com/",
+          "name": "COWBOY HUNTERS"
+        },
+        {
+          "country": "UK",
+          "link": "https://www.villanellemusic.com/",
+          "name": "VILLANELLE"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Bruck/L.",
+      "event_date": "2027-07-23",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Metal",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "b3499337ac2d5edbe6fa",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "LIMP BIZKIT",
+          "url": "https://limpbizkit.com/"
+        },
+        {
+          "label": "HALESTORM",
+          "url": "https://www.halestormrocks.com/"
+        },
+        {
+          "label": "COWBOY HUNTERS",
+          "url": "https://cowboyhunters.bandcamp.com/"
+        },
+        {
+          "label": "VILLANELLE",
+          "url": "https://www.villanellemusic.com/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "23.07.: LIMP BIZKIT (usa) / HALESTORM (usa) / COWBOY HUNTERS (uk) / VILLANELLE (uk) @ Schloss Prugg, Bruck/L.",
+      "state": "Unbekannt",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Schloss Prugg"
+    },
+    "event_id": "b3499337ac2d5edbe6fa",
+    "guid": "b3499337ac2d5edbe6fa:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.broilers.de/",
+          "name": "BROILERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Graz",
+      "event_date": "2027-07-29",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "7ddb132a50f0968bf81d",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "BROILERS",
+          "url": "https://www.broilers.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1698404501673508/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "29.07.: BROILERS (d) @ Schloßbergbühne Kasematten, Graz [fb]",
+      "state": "Steiermark",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Schloßbergbühne Kasematten"
+    },
+    "event_id": "7ddb132a50f0968bf81d",
+    "guid": "7ddb132a50f0968bf81d:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": "D",
+          "link": "https://www.broilers.de/",
+          "name": "BROILERS"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Linz",
+      "event_date": "2027-07-30",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "lastfm",
+        "subgenres": []
+      },
+      "id": "ec2be779d0e98c810c76",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "BROILERS",
+          "url": "https://www.broilers.de/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/2406773556728550/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "30.07.: BROILERS (d) @ Posthof (Open Air), Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Posthof (Open Air)"
+    },
+    "event_id": "ec2be779d0e98c810c76",
+    "guid": "ec2be779d0e98c810c76:1",
+    "kind": "new",
+    "revision": 1
+  },
+  {
+    "changes": {},
+    "detected_at": "2026-11-26T10:55:44.588943+00:00",
+    "event": {
+      "active": true,
+      "artists": [
+        {
+          "country": null,
+          "link": "https://exitvoid.bandcamp.com/",
+          "name": "EXIT VOID"
+        }
+      ],
+      "baseline": false,
+      "changed_at": "2026-11-26T10:55:44.588943+00:00",
+      "city": "Linz",
+      "event_date": "2027-09-19",
+      "first_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "genre": {
+        "family": "Punk",
+        "source": "heuristic",
+        "subgenres": [
+          "Street Punk"
+        ]
+      },
+      "id": "ad371ebcc041f9180e01",
+      "last_seen_at": "2026-11-26T10:55:44.588943+00:00",
+      "links": [
+        {
+          "label": "EXIT VOID",
+          "url": "https://exitvoid.bandcamp.com/"
+        },
+        {
+          "label": "[fb]",
+          "url": "https://www.facebook.com/events/1442907681311841/"
+        }
+      ],
+      "postal_code": null,
+      "revision": 1,
+      "source_text": "19.09.: EXIT VOID @ Posthof, Linz [fb]",
+      "state": "Oberösterreich",
+      "status": "scheduled",
+      "title": null,
+      "venue": "Posthof"
+    },
+    "event_id": "ad371ebcc041f9180e01",
+    "guid": "ad371ebcc041f9180e01:1",
+    "kind": "new",
+    "revision": 1
   }
 ]

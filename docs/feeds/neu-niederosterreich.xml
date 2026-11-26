@@ -5,8 +5,15 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-niederosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: Lukas Lauermann – Neunkirchen</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b9d0a340140ec4916658-1</link>
+      <guid isPermaLink="false">b9d0a340140ec4916658:1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2027-01-15 · Exil Records,  Neunkirchen · Niederösterreich</description>
+    </item>
     <item>
       <title>Neu: MUUSKE, BAITS – Purgstall</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-77e7c39d79ee4599f9a2-1</link>

@@ -5,8 +5,36 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: SINUSWELLE, Craig Milam – Feldbach</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ef8e48d9f6154c0c8ce5-1</link>
+      <guid isPermaLink="false">ef8e48d9f6154c0c8ce5:1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2026-11-28 · Glam,  Feldbach · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: Lukas Lauermann – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-712eb533f221a2150ae2-1</link>
+      <guid isPermaLink="false">712eb533f221a2150ae2:1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2026-12-09 · Café Wolf,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: CASTIEL, CHANGING TIDES, COVENDEATH, COLD DECEMBER – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9ca273e82d1df8411381-1</link>
+      <guid isPermaLink="false">9ca273e82d1df8411381:1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2027-01-29 · Explosiv,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: BROILERS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7ddb132a50f0968bf81d-1</link>
+      <guid isPermaLink="false">7ddb132a50f0968bf81d:1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:55:44 +0000</pubDate>
+      <description>2027-07-29 · Schloßbergbühne Kasematten,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: The JUNCTION, SCAMPI BUMP – Graz</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-f6c3afd11e3db07b5fe3-1</link>
@@ -678,34 +706,6 @@
       <guid isPermaLink="false">50a7e7c7eaf64f5b6ae3:1</guid>
       <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
       <description>2026-09-22 · SUb,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Geändert: MY FRIEND PETER, MARMOTO – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5ed8cde624cabe917e76-2</link>
-      <guid isPermaLink="false">5ed8cde624cabe917e76:2</guid>
-      <pubDate>Thu, 10 Sep 2026 07:19:09 +0000</pubDate>
-      <description>2026-09-26 · Music-House,  Graz · Steiermark · Line-up: MY FRIEND PETER → MY FRIEND PETER · MARMOTO</description>
-    </item>
-    <item>
-      <title>Geändert: ETJM, BÄD HAMMER – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ae763ad1dd7001f0ee96-1</link>
-      <guid isPermaLink="false">ae763ad1dd7001f0ee96:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-03 · Glam,  Feldbach · Steiermark · Line-up: ETJM → ETJM · BÄD HAMMER</description>
-    </item>
-    <item>
-      <title>Neu: FOREST RAY, Cordell Winter – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-7f1a8d4f74e549982f0d-1</link>
-      <guid isPermaLink="false">7f1a8d4f74e549982f0d:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-12 · Glam,  Feldbach · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: IROKÄSE, SKALAPEÑOS – Feldbach</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1e382bd3d80adc8e9ecd-1</link>
-      <guid isPermaLink="false">1e382bd3d80adc8e9ecd:1</guid>
-      <pubDate>Wed, 09 Sep 2026 07:23:54 +0000</pubDate>
-      <description>2026-10-16 · Glam,  Feldbach · Steiermark</description>
     </item>
   </channel>
 </rss>

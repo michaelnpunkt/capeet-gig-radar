@@ -1978,6 +1978,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "broilers": {
+    "classifier_version": 2,
+    "family": "Punk",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "broken b sides": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -2362,6 +2368,15 @@
       "Black Metal"
     ]
   },
+  "changing tides": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Deathcore",
+      "Metalcore"
+    ]
+  },
   "chaos inside": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2630,6 +2645,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "colour haze": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "coltaine": {
     "classifier_version": 2,
     "family": "Metal",
@@ -2876,6 +2897,20 @@
     "subgenres": []
   },
   "covid boys": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "cowboy hunters": {
+    "classifier_version": 2,
+    "family": "Hardcore",
+    "source": "lastfm",
+    "subgenres": [
+      "Hardcore Punk"
+    ]
+  },
+  "craig milam": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -3134,6 +3169,12 @@
       "Stoner Metal"
     ]
   },
+  "daisychain": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "dajneseri": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -3152,6 +3193,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "dana": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
     "subgenres": []
   },
   "daniel b": {
@@ -4841,6 +4888,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "eyemaster": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal",
+      "Sludge Metal"
+    ]
+  },
   "fabian lanzmaier jakob schauer": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -5414,6 +5470,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "furiosa": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
     "subgenres": []
   },
   "future faces": {
@@ -6096,6 +6158,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "halestorm": {
+    "classifier_version": 2,
+    "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "half me": {
     "family": "Metal",
     "source": "lastfm",
@@ -6122,6 +6190,12 @@
       "Doom Metal",
       "Stoner Metal"
     ]
+  },
+  "hannah glavor": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "hannelore": {
     "classifier_version": 2,
@@ -6288,6 +6362,12 @@
     "subgenres": [
       "Metalcore"
     ]
+  },
+  "heavy": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "heavy hitter": {
     "family": "Metal",
@@ -7656,6 +7736,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "king falcon": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "king no one": {
     "family": "Alternative/Indie",
     "source": "lastfm",
@@ -8241,6 +8327,12 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "lena stoehrfaktor": {
+    "classifier_version": 2,
+    "family": "Sonstiges",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "leoniden": {
     "classifier_version": 2,
     "family": "Alternative/Indie",
@@ -8364,6 +8456,12 @@
       "Hardcore Punk"
     ]
   },
+  "limp bizkit": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "linnea hjerten": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -8428,6 +8526,14 @@
     "family": "Hardcore",
     "source": "lastfm",
     "subgenres": []
+  },
+  "live skull": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Noise Rock"
+    ]
   },
   "living lache": {
     "classifier_version": 2,
@@ -8627,6 +8733,12 @@
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
+    "subgenres": []
+  },
+  "lukas lauermann": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
     "subgenres": []
   },
   "luminati suns": {
@@ -9033,6 +9145,15 @@
     "subgenres": [
       "Grindcore",
       "Death Metal"
+    ]
+  },
+  "mastodon": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Metalcore",
+      "Sludge Metal"
     ]
   },
   "mauled": {
@@ -10912,6 +11033,14 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "peak": {
+    "classifier_version": 2,
+    "family": "Electronic/Industrial",
+    "source": "lastfm",
+    "subgenres": [
+      "Industrial"
+    ]
+  },
   "pencil cherries": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -11834,6 +11963,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "robert forster": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": []
+  },
   "robert j revell": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -12596,6 +12731,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "sinuswelle": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "sis": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -13262,6 +13403,12 @@
     "subgenres": []
   },
   "stay bound": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "steambreather": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -14617,6 +14764,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "the sick pack rat attack": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "the silos": {
     "classifier_version": 2,
     "family": "Sonstiges",
@@ -15067,6 +15220,12 @@
     "subgenres": [
       "Doom Metal"
     ]
+  },
+  "tomorrow first": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
   },
   "tonal shift": {
     "classifier_version": 2,
@@ -15798,6 +15957,12 @@
   },
   "vildhjarta": {
     "family": "Metal",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "villanelle": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
     "source": "lastfm",
     "subgenres": []
   },
