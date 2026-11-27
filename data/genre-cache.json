@@ -1363,6 +1363,14 @@
       "Metalcore"
     ]
   },
+  "beauties of the night": {
+    "classifier_version": 2,
+    "family": "Alternative/Indie",
+    "source": "lastfm",
+    "subgenres": [
+      "Shoegaze"
+    ]
+  },
   "bedsore": {
     "family": "Metal",
     "source": "lastfm",
@@ -3854,6 +3862,12 @@
     ]
   },
   "die leiter": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
+  "die mittagspausenband": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
     "source": "unclassified",
@@ -12034,6 +12048,15 @@
     "source": "lastfm",
     "subgenres": []
   },
+  "rottenness": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "rottweil": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -13218,6 +13241,12 @@
   "spiders": {
     "classifier_version": 2,
     "family": "Rock",
+    "source": "lastfm",
+    "subgenres": []
+  },
+  "spielzeug": {
+    "classifier_version": 2,
+    "family": "Metal",
     "source": "lastfm",
     "subgenres": []
   },
@@ -15657,6 +15686,14 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "unmerciful": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Death Metal"
+    ]
+  },
   "unmuted": {
     "classifier_version": 2,
     "family": "Unklassifiziert",
@@ -16263,6 +16300,12 @@
     "source": "unclassified",
     "subgenres": []
   },
+  "wellfareculling": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
+    "subgenres": []
+  },
   "weltenasche": {
     "family": "Metal",
     "source": "lastfm",
@@ -16515,6 +16558,15 @@
       "Doom Metal"
     ]
   },
+  "wormed": {
+    "classifier_version": 2,
+    "family": "Metal",
+    "source": "lastfm",
+    "subgenres": [
+      "Grindcore",
+      "Death Metal"
+    ]
+  },
   "worst": {
     "classifier_version": 2,
     "family": "Hardcore",
@@ -16700,6 +16752,12 @@
   "zeronic": {
     "family": "Rock",
     "source": "lastfm",
+    "subgenres": []
+  },
+  "zombiefied": {
+    "classifier_version": 2,
+    "family": "Unklassifiziert",
+    "source": "unclassified",
     "subgenres": []
   },
   "zombiez": {

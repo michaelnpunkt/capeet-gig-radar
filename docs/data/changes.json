@@ -1,6 +1,608 @@
 {
-  "generated_at": "2026-11-26T10:55:44.588943+00:00",
+  "generated_at": "2026-11-27T10:52:38.028952+00:00",
   "revisions": [
+    {
+      "anchor": "change-5416e287c5d30582b663-2",
+      "changes": {
+        "status": {
+          "from": "scheduled",
+          "to": "cancelled"
+        }
+      },
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "cancelled",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": null,
+            "name": "Christiane Rösinger"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "Die REVUE"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2026-11-27",
+        "first_seen_at": "2026-08-15T03:05:24.986489+00:00",
+        "genre": {
+          "family": "Sonstiges",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "5416e287c5d30582b663",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [],
+        "postal_code": null,
+        "revision": 2,
+        "source_text": "27.11.: Siluh Soirée #15 feat. Christiane Rösinger (d) / Die REVUE @ Kaorle OWA, Wien [cancelled.] [neu: tba]",
+        "state": "Wien",
+        "status": "cancelled",
+        "title": "Siluh Soirée #15",
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "5416e287c5d30582b663",
+      "guid": "5416e287c5d30582b663:2",
+      "kind": "changed",
+      "revision": 2
+    },
+    {
+      "anchor": "change-1c04e4357af3eaf567b2-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://myspace.com/therealbeautiesofthenight/music/songs",
+            "name": "BEAUTIES OF THE NIGHT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Shoegaze"
+          ]
+        },
+        "id": "1c04e4357af3eaf567b2",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "BEAUTIES OF THE NIGHT",
+            "url": "https://myspace.com/therealbeautiesofthenight/music/songs"
+          },
+          {
+            "label": "[web]",
+            "url": "https://rhiz.wien/?copilot-slug=03-12-2026_rats-right"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: BEAUTIES OF THE NIGHT u.a. @ rhiz, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "rhiz"
+      },
+      "event_id": "1c04e4357af3eaf567b2",
+      "guid": "1c04e4357af3eaf567b2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-6bcc70daa7581bb7a249-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://www.instagram.com/takeshiscashew/",
+            "name": "TAKESHI'S CASHEW"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/portia.trips/",
+            "name": "PORTIA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-03",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Rock",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "6bcc70daa7581bb7a249",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "TAKESHI'S CASHEW",
+            "url": "https://www.instagram.com/takeshiscashew/"
+          },
+          {
+            "label": "PORTIA",
+            "url": "https://www.instagram.com/portia.trips/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kollektiv-kaorle.at/de/events/takeshis-cashew-03-12-2026"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "03.12.: TAKESHI'S CASHEW / PORTIA @ Kaorle OWA, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kaorle OWA"
+      },
+      "event_id": "6bcc70daa7581bb7a249",
+      "guid": "6bcc70daa7581bb7a249:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-ac6b46b4eb772ee16103-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://sra.at/band/39917",
+            "name": "ZOMBIEFIED"
+          },
+          {
+            "country": null,
+            "link": "https://diemittagspausenband.bandcamp.com/",
+            "name": "Die MITTAGSPAUSENBAND"
+          },
+          {
+            "country": null,
+            "link": "https://zxuxa.bandcamp.com/",
+            "name": "ZxUxA"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-04",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "ac6b46b4eb772ee16103",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "ZOMBIEFIED",
+            "url": "https://sra.at/band/39917"
+          },
+          {
+            "label": "Die MITTAGSPAUSENBAND",
+            "url": "https://diemittagspausenband.bandcamp.com/"
+          },
+          {
+            "label": "ZxUxA",
+            "url": "https://zxuxa.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://kapu.at/event/2026/12/04/zombiefied-mittagspausenband-zua"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "04.12.: ZOMBIEFIED / Die MITTAGSPAUSENBAND / ZxUxA @ Kapu, Linz [web]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "ac6b46b4eb772ee16103",
+      "guid": "ac6b46b4eb772ee16103:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-9ca46f48c44c02a663c1-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "UKR/D",
+            "link": "https://aircraftband.bandcamp.com/",
+            "name": "AIRCRAFT"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-09",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Goth/Post-Punk",
+          "source": "lastfm",
+          "subgenres": [
+            "Post-Punk"
+          ]
+        },
+        "id": "9ca46f48c44c02a663c1",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "AIRCRAFT",
+            "url": "https://aircraftband.bandcamp.com/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/aircraft-live/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "09.12.: AIRCRAFT (ukr/d) @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "9ca46f48c44c02a663c1",
+      "guid": "9ca46f48c44c02a663c1:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-0a89bcda2d92691c816a-1",
+      "changes": {
+        "artists": {
+          "from": [
+            {
+              "name": "HECKSPOILER"
+            }
+          ],
+          "to": [
+            {
+              "name": "HECKSPOILER"
+            },
+            {
+              "name": "DAS NEUE LEBEN"
+            }
+          ]
+        }
+      },
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "changed",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://heckspoiler.org/",
+            "name": "HECKSPOILER"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/noise_leben/",
+            "name": "DAS NEUE LEBEN"
+          }
+        ],
+        "baseline": true,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Linz",
+        "event_date": "2026-12-11",
+        "first_seen_at": "2026-08-07T10:30:08.597781+00:00",
+        "genre": {
+          "family": "Alternative/Indie",
+          "source": "lastfm",
+          "subgenres": [
+            "Noise Rock"
+          ]
+        },
+        "id": "0a89bcda2d92691c816a",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "HECKSPOILER",
+            "url": "https://heckspoiler.org/"
+          },
+          {
+            "label": "DAS NEUE LEBEN",
+            "url": "https://www.instagram.com/noise_leben/"
+          },
+          {
+            "label": "[fb]",
+            "url": "https://www.facebook.com/events/1683288342863797/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "11.12.: HECKSPOILER / DAS NEUE LEBEN @ Kapu, Linz [sold out!] [fb]",
+        "state": "Oberösterreich",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Kapu"
+      },
+      "event_id": "0a89bcda2d92691c816a",
+      "guid": "0a89bcda2d92691c816a:1",
+      "kind": "changed",
+      "revision": 1
+    },
+    {
+      "anchor": "change-a24567ecaf84c7e75c19-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": null,
+            "link": "https://bipolarpenguins.bandcamp.com/",
+            "name": "BIPOLAR PENGUINS"
+          },
+          {
+            "country": null,
+            "link": "https://www.instagram.com/spielzeugband/",
+            "name": "SPIELZEUG"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2026-12-21",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Unklassifiziert",
+          "source": "unclassified",
+          "subgenres": []
+        },
+        "id": "a24567ecaf84c7e75c19",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "BIPOLAR PENGUINS",
+            "url": "https://bipolarpenguins.bandcamp.com/"
+          },
+          {
+            "label": "SPIELZEUG",
+            "url": "https://www.instagram.com/spielzeugband/"
+          },
+          {
+            "label": "[web]",
+            "url": "https://www.cafe-carina.at/2020/events/temporaere-objekte-bipolar-penguins-799/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.12.: BIPOLAR PENGUINS / SPIELZEUG @ Café Carina, Wien [web]",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Café Carina"
+      },
+      "event_id": "a24567ecaf84c7e75c19",
+      "guid": "a24567ecaf84c7e75c19:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-86ebbeb1d540845b6a2b-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "D",
+            "link": "https://teethout.bandcamp.com/",
+            "name": "TEETH OUT"
+          },
+          {
+            "country": "BUL",
+            "link": "https://nohalfmeasureshc.bandcamp.com/",
+            "name": "NO HALF MEASURES"
+          },
+          {
+            "country": null,
+            "link": null,
+            "name": "WELLFARECULLING"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Graz",
+        "event_date": "2027-01-21",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Hardcore",
+          "source": "lastfm",
+          "subgenres": []
+        },
+        "id": "86ebbeb1d540845b6a2b",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "TEETH OUT",
+            "url": "https://teethout.bandcamp.com/"
+          },
+          {
+            "label": "NO HALF MEASURES",
+            "url": "https://nohalfmeasureshc.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.01.: TEETH OUT (d) / NO HALF MEASURES (bul) / WELLFARECULLING @ SUb, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "SUb"
+      },
+      "event_id": "86ebbeb1d540845b6a2b",
+      "guid": "86ebbeb1d540845b6a2b:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-20884feae56265cdb3e2-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SPA",
+            "link": "https://wormed.bandcamp.com/music",
+            "name": "WORMED"
+          },
+          {
+            "country": "USA",
+            "link": "https://unmerciful.bandcamp.com/",
+            "name": "UNMERCIFUL"
+          },
+          {
+            "country": "MEX",
+            "link": "https://rottenness.bandcamp.com/",
+            "name": "ROTTENNESS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Wien",
+        "event_date": "2027-05-15",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "20884feae56265cdb3e2",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "WORMED",
+            "url": "https://wormed.bandcamp.com/music"
+          },
+          {
+            "label": "UNMERCIFUL",
+            "url": "https://unmerciful.bandcamp.com/"
+          },
+          {
+            "label": "ROTTENNESS",
+            "url": "https://rottenness.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "15.05.: WORMED (spa) / UNMERCIFUL (usa) / ROTTENNESS (mex) @ Replugged, Wien",
+        "state": "Wien",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Replugged"
+      },
+      "event_id": "20884feae56265cdb3e2",
+      "guid": "20884feae56265cdb3e2:1",
+      "kind": "new",
+      "revision": 1
+    },
+    {
+      "anchor": "change-945fa3d7915e9c95aef8-1",
+      "changes": {},
+      "detected_at": "2026-11-27T10:52:38.028952+00:00",
+      "display_type": "new",
+      "event": {
+        "active": true,
+        "artists": [
+          {
+            "country": "SPA",
+            "link": "https://wormed.bandcamp.com/music",
+            "name": "WORMED"
+          },
+          {
+            "country": "USA",
+            "link": "https://unmerciful.bandcamp.com/",
+            "name": "UNMERCIFUL"
+          },
+          {
+            "country": "MEX",
+            "link": "https://rottenness.bandcamp.com/",
+            "name": "ROTTENNESS"
+          }
+        ],
+        "baseline": false,
+        "changed_at": "2026-11-27T10:52:38.028952+00:00",
+        "city": "Graz",
+        "event_date": "2027-05-21",
+        "first_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "genre": {
+          "family": "Metal",
+          "source": "lastfm",
+          "subgenres": [
+            "Grindcore",
+            "Death Metal"
+          ]
+        },
+        "id": "945fa3d7915e9c95aef8",
+        "last_seen_at": "2026-11-27T10:52:38.028952+00:00",
+        "links": [
+          {
+            "label": "WORMED",
+            "url": "https://wormed.bandcamp.com/music"
+          },
+          {
+            "label": "UNMERCIFUL",
+            "url": "https://unmerciful.bandcamp.com/"
+          },
+          {
+            "label": "ROTTENNESS",
+            "url": "https://rottenness.bandcamp.com/"
+          }
+        ],
+        "postal_code": null,
+        "revision": 1,
+        "source_text": "21.05.: WORMED (spa) / UNMERCIFUL (usa) / ROTTENNESS (mex) @ Explosiv, Graz",
+        "state": "Steiermark",
+        "status": "scheduled",
+        "title": null,
+        "venue": "Explosiv"
+      },
+      "event_id": "945fa3d7915e9c95aef8",
+      "guid": "945fa3d7915e9c95aef8:1",
+      "kind": "new",
+      "revision": 1
+    },
     {
       "anchor": "change-b3cd9ef29b7e21932a03-3",
       "changes": {

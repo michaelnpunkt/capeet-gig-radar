@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:52:38 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-steiermark.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: TEETH OUT, NO HALF MEASURES, WELLFARECULLING – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-86ebbeb1d540845b6a2b-1</link>
+      <guid isPermaLink="false">86ebbeb1d540845b6a2b:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2027-01-21 · SUb,  Graz · Steiermark</description>
+    </item>
+    <item>
+      <title>Neu: WORMED, UNMERCIFUL, ROTTENNESS – Graz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-945fa3d7915e9c95aef8-1</link>
+      <guid isPermaLink="false">945fa3d7915e9c95aef8:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2027-05-21 · Explosiv,  Graz · Steiermark</description>
+    </item>
     <item>
       <title>Neu: SINUSWELLE, Craig Milam – Feldbach</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ef8e48d9f6154c0c8ce5-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">97a438164b4ab8dc6b27:1</guid>
       <pubDate>Wed, 16 Sep 2026 07:42:17 +0000</pubDate>
       <description>2026-11-05 · Club Wakuum,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: VELVET TWO STRIPES – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-22df66f7bbb2ddfd5c35-1</link>
-      <guid isPermaLink="false">22df66f7bbb2ddfd5c35:1</guid>
-      <pubDate>Tue, 15 Sep 2026 07:45:44 +0000</pubDate>
-      <description>2027-01-22 · Music-House,  Graz · Steiermark</description>
-    </item>
-    <item>
-      <title>Neu: Giz Medium, BEEPKI – Graz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-50a7e7c7eaf64f5b6ae3-1</link>
-      <guid isPermaLink="false">50a7e7c7eaf64f5b6ae3:1</guid>
-      <pubDate>Sat, 12 Sep 2026 07:10:17 +0000</pubDate>
-      <description>2026-09-22 · SUb,  Graz · Steiermark</description>
     </item>
   </channel>
 </rss>

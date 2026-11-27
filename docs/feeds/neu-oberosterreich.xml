@@ -5,8 +5,22 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:52:38 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-oberosterreich.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neu: ZOMBIEFIED, Die MITTAGSPAUSENBAND, ZxUxA – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-ac6b46b4eb772ee16103-1</link>
+      <guid isPermaLink="false">ac6b46b4eb772ee16103:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-04 · Kapu,  Linz · Oberösterreich</description>
+    </item>
+    <item>
+      <title>Geändert: HECKSPOILER, DAS NEUE LEBEN – Linz</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-0a89bcda2d92691c816a-1</link>
+      <guid isPermaLink="false">0a89bcda2d92691c816a:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-11 · Kapu,  Linz · Oberösterreich · Line-up: HECKSPOILER → HECKSPOILER · DAS NEUE LEBEN</description>
+    </item>
     <item>
       <title>Neu: Lukas Lauermann – Kirchdorf an der Krems</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c41842c1fb1ed34a6029-1</link>
@@ -692,20 +706,6 @@
       <guid isPermaLink="false">b8311d22736d1ed01dae:1</guid>
       <pubDate>Tue, 06 Oct 2026 09:00:02 +0000</pubDate>
       <description>2026-11-27 · Kino,  Ebensee · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: PALOMA 004, BAD WEED – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-8f514550695b2cf28e16-1</link>
-      <guid isPermaLink="false">8f514550695b2cf28e16:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-10-03 · Last,  Linz · Oberösterreich</description>
-    </item>
-    <item>
-      <title>Neu: SYSTEM EXCLUSIVE, TOPSY TURVY – Linz</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-c7232b2e275f667bc9cc-1</link>
-      <guid isPermaLink="false">c7232b2e275f667bc9cc:1</guid>
-      <pubDate>Sat, 03 Oct 2026 08:07:24 +0000</pubDate>
-      <description>2026-11-07 · Last,  Linz · Oberösterreich</description>
     </item>
   </channel>
 </rss>

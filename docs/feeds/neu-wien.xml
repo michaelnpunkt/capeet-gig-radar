@@ -5,8 +5,50 @@
     <link>https://michaelnpunkt.github.io/capeet-gig-radar</link>
     <description>Neue, geänderte und nicht mehr gelistete Capeet-Konzerte in Österreich</description>
     <language>de-AT</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:52:38 +0000</lastBuildDate>
     <atom:link href="https://michaelnpunkt.github.io/capeet-gig-radar/feeds/neu-wien.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abgesagt: Christiane Rösinger, Die REVUE – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-5416e287c5d30582b663-2</link>
+      <guid isPermaLink="false">5416e287c5d30582b663:2</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-11-27 · Kaorle OWA,  Wien · Wien · Status: angekündigt → abgesagt</description>
+    </item>
+    <item>
+      <title>Neu: BEAUTIES OF THE NIGHT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-1c04e4357af3eaf567b2-1</link>
+      <guid isPermaLink="false">1c04e4357af3eaf567b2:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-03 · rhiz,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: TAKESHI'S CASHEW, PORTIA – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-6bcc70daa7581bb7a249-1</link>
+      <guid isPermaLink="false">6bcc70daa7581bb7a249:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-03 · Kaorle OWA,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: AIRCRAFT – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-9ca46f48c44c02a663c1-1</link>
+      <guid isPermaLink="false">9ca46f48c44c02a663c1:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-09 · Café Carina,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: BIPOLAR PENGUINS, SPIELZEUG – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a24567ecaf84c7e75c19-1</link>
+      <guid isPermaLink="false">a24567ecaf84c7e75c19:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2026-12-21 · Café Carina,  Wien · Wien</description>
+    </item>
+    <item>
+      <title>Neu: WORMED, UNMERCIFUL, ROTTENNESS – Wien</title>
+      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-20884feae56265cdb3e2-1</link>
+      <guid isPermaLink="false">20884feae56265cdb3e2:1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:52:38 +0000</pubDate>
+      <description>2027-05-15 · Replugged,  Wien · Wien</description>
+    </item>
     <item>
       <title>Abgesagt: NAKED LUNCH – Wien</title>
       <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-b3cd9ef29b7e21932a03-3</link>
@@ -664,48 +706,6 @@
       <guid isPermaLink="false">657ccf4ea53d7a9befa3:1</guid>
       <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
       <description>2026-11-15 · Haus der Musik,  Wien · Wien · Line-up: HUGO RACE FATALISTS → HUGO RACE FATALISTS · Esther Olivia</description>
-    </item>
-    <item>
-      <title>Neu: SO SOON – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-408791ef6ebfb8e1aa67-1</link>
-      <guid isPermaLink="false">408791ef6ebfb8e1aa67:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-15 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: VANDALISBIN, POPSCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-445999c9d47fcfa74a02-1</link>
-      <guid isPermaLink="false">445999c9d47fcfa74a02:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-15 · Das Werk,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ULTRA SUNN, Sydney Valette, SAD MADONA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-bc24cf37e64d31c8307e-1</link>
-      <guid isPermaLink="false">bc24cf37e64d31c8307e:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-20 · Chelsea,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: BIPOLAR PENGUINS, Minki – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-89c4c164745b985a4014-1</link>
-      <guid isPermaLink="false">89c4c164745b985a4014:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-22 · Flucc,  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: The SCRATCH – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-a8b53b5e31fda61c6330-1</link>
-      <guid isPermaLink="false">a8b53b5e31fda61c6330:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-27 · Flex (Café),  Wien · Wien</description>
-    </item>
-    <item>
-      <title>Neu: ROSA NEBEL, MITRA – Wien</title>
-      <link>https://michaelnpunkt.github.io/capeet-gig-radar/changes.html#change-2d0332bad90ff1cad64c-1</link>
-      <guid isPermaLink="false">2d0332bad90ff1cad64c:1</guid>
-      <pubDate>Thu, 12 Nov 2026 09:51:17 +0000</pubDate>
-      <description>2026-11-28 · Celeste,  Wien · Wien</description>
     </item>
   </channel>
 </rss>
